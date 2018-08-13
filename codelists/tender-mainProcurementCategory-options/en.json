@@ -1,0 +1,17 @@
+[
+  {
+    "id": "goods",
+    "title": "Goods",
+    "description": "The primary object of this tender involves physical or electronic goods or supplies."
+  },
+  {
+    "id": "services",
+    "title": "Services",
+    "description": "The primary object of this tender involves professional services of some form, generally contracted for on the basis of measurable outputs or deliverables."
+  },
+  {
+    "id": "works",
+    "title": "Works",
+    "description": "The primary object of this tender involves construction, repair, rehabilitation, demolition, restoration or maintenance of some asset or infrastructure."
+  }
+]
