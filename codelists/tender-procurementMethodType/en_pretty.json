@@ -82,5 +82,12 @@
         "name": "Open procurement of energy services", 
         "procurementMethod": "open", 
         "procurementMethodType": "esco"
+    },
+    {
+        "autoInitiated": false,
+        "description": "Closed framework agreement is executed in comformity with Open procedure in the manner stipulated by Article 13 of the Law of Ukraine on Public Procurement and MEDT Decree \"On entrance and execution of framework agreements\". The procedure results in framework agreement with the Sellers listed. ",
+        "name": "Framework agreement",
+        "procurementMethod": "open",
+        "procurementMethodType": "closeFrameworkAgreementUA"
     }
 ]
