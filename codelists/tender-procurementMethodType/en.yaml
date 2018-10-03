@@ -64,3 +64,8 @@
   name: Framework agreement
   procurementMethod: open
   procurementMethodType: closeFrameworkAgreementUA
+- autoInitiated: true
+  description: Mini-competition under framework agreement is executed only for the parties to framework agreement.The benefit of using this type of procedure is that when the Buyer and the Seller are under a framework agreement, time from the call to contract signed is dramatically shortened since the Sellers have been previuosly qualified.
+  name: Mini-competition under framework agreement
+  procurementMethod: selective
+  procurementMethodType: closeFrameworkAgreementSelectionUA
