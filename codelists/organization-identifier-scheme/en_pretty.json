@@ -630,6 +630,14 @@
             "url": "No url for the ministry (as at 2/10/2013)"
         },
         {
+            "category": "MT",
+            "code": "MT-MFSA",
+            "description": "The Malta Financial Services Authority, established by the Malta Financial Services Act, being a body corporate with distinct legal personality responsible for the regulation and supervision of the financial services sector and houses the Company Registry.",
+            "name": "Malta Financial Service Authority",
+            "public-database": false,
+            "url": "https://www.mfsa.com.mt/"
+        },
+        {
             "category": "MW",
             "code": "MW-CNM",
             "description": null,
