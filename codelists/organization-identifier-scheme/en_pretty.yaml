@@ -207,6 +207,12 @@ data:
     name: Centre of Registers and Information Systems (RIK)
     public-database: true
     url: http://www.rik.ee/en/e-business-register
+-   category: EG
+    code: EG-MOSS
+    description: The Ministry of Social Solidarity and Justice is the main registration body for associations and foundations in Egypt.
+    name: Ministry of Social Solidarity and Justice (Egypt)
+    public-database: false
+    url: http://www.moss.gov.eg/
 -   category: ES
     code: ES-DIR3
     description: 'EXCEL Tables: http://administracionelectronica.gob.es/ctt/resources/Soluciones/238/Area%20descargas/Listado%20Oficinas%20AGE.xlsx?idIniciativa=238&idElemento=2745'
