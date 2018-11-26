@@ -278,12 +278,12 @@
             "url": "http://www.rik.ee/en/e-business-register"
         },
         {
-           "category": "EG",
-           "code": "EG-MOSS",
-           "description": "The Ministry of Social Solidarity and Justice is the main registration body for associations and foundations in Egypt.",
-           "name": "Ministry of Social Solidarity and Justice (Egypt)",
-           "public-database": false,
-           "url": "http://www.moss.gov.eg/"
+            "category": "EG",
+            "code": "EG-MOSS",
+            "description": "The Ministry of Social Solidarity and Justice is the main registration body for associations and foundations in Egypt.",
+            "name": "Ministry of Social Solidarity and Justice (Egypt)",
+            "public-database": false,
+            "url": "http://www.moss.gov.eg/"
         },
         {
             "category": "ES",
@@ -406,12 +406,12 @@
             "url": "https://www.ukrlp.co.uk/"
         },
         {
-           "category": "GE",
-           "code": "GE-NAPR",
-           "description": "he National Agency of Public Registry (NAPR) of Georgia registers all legal entities in Georgia. This includes government and non-government bodies (including the private sector). The Identification Code assigned by NAPR is the same as the VAT number in Georgia. NAPR assigns codes for government bodies in addition to all non-governmental organisations (private and non-profit).",
-           "name": "Register of Entrepreneurial and Non-Entrepreneurial Legal Entities, Georgia",
-           "public-database": false,
-           "url": "https://enreg.reestri.gov.ge/main.php?m=new_index"
+            "category": "GE",
+            "code": "GE-NAPR",
+            "description": "he National Agency of Public Registry (NAPR) of Georgia registers all legal entities in Georgia. This includes government and non-government bodies (including the private sector). The Identification Code assigned by NAPR is the same as the VAT number in Georgia. NAPR assigns codes for government bodies in addition to all non-governmental organisations (private and non-profit).",
+            "name": "Register of Entrepreneurial and Non-Entrepreneurial Legal Entities, Georgia",
+            "public-database": false,
+            "url": "https://enreg.reestri.gov.ge/main.php?m=new_index"
         },
         {
             "category": "GG",
