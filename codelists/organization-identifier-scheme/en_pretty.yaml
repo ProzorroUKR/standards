@@ -207,6 +207,12 @@ data:
     name: Centre of Registers and Information Systems (RIK)
     public-database: true
     url: http://www.rik.ee/en/e-business-register
+-   category: EG
+    code: EG-MOSS
+    description: The Ministry of Social Solidarity and Justice is the main registration body for associations and foundations in Egypt.
+    name: Ministry of Social Solidarity and Justice (Egypt)
+    public-database: false
+    url: http://www.moss.gov.eg/
 -   category: ES
     code: ES-DIR3
     description: 'EXCEL Tables: http://administracionelectronica.gob.es/ctt/resources/Soluciones/238/Area%20descargas/Listado%20Oficinas%20AGE.xlsx?idIniciativa=238&idElemento=2745'
@@ -297,6 +303,12 @@ data:
     name: UK Register of Learning Providers
     public-database: true
     url: https://www.ukrlp.co.uk/
+-   category: GE
+    code: GE-NAPR
+    description: he National Agency of Public Registry (NAPR) of Georgia registers all legal entities in Georgia. This includes government and non-government bodies (including the private sector). The Identification Code assigned by NAPR is the same as the VAT number in Georgia. NAPR assigns codes for government bodies in addition to all non-governmental organisations (private and non-profit).
+    name: Register of Entrepreneurial and Non-Entrepreneurial Legal Entities, Georgia
+    public-database: false
+    url: https://enreg.reestri.gov.ge/main.php?m=new_index
 -   category: GG
     code: GG-RCE
     description: null
@@ -471,6 +483,12 @@ data:
     name: Ministry of Home Affairs - Central Committee for the Registration and Supervision of Organisations
     public-database: false
     url: No url for the ministry (as at 2/10/2013)
+-   category: MT
+    code: MT-MFSA
+    description: The Malta Financial Services Authority, established by the Malta Financial Services Act, being a body corporate with distinct legal personality responsible for the regulation and supervision of the financial services sector and houses the Company Registry.
+    name: Malta Financial Service Authority
+    public-database: false
+    url: https://www.mfsa.com.mt/
 -   category: MW
     code: MW-CNM
     description: null
@@ -633,6 +651,12 @@ data:
     name: MERSIS - central trade registry system / Merkezi Sicil Kayıt Sistemi
     public-database: false
     url: http://mersis.gumrukticaret.gov.tr/Login/tabid/110/Default.aspx?returnurl=%2fMersis%2f%C5%9EirketSorgulama.aspx
+-   category: TR
+    code: TR-MOI
+    description: All non-profit associations operating in Turkey should register with the Department of Associations. During registration, they will be given a registration number.
+    name: Department of Associations (Ministry of Interior, Turkey)
+    public-database: false
+    url: https://www.dernekler.gov.tr/
 -   category: TR
     code: TR-VAT
     description: "All resident legal entities obtain a TIN (Vergi Kimlik Numarasi) automatically since they are subject to tax. Although legal\narrangements like ordinary partnerships are not subject to corporate income tax, TIN is issued to\nthem while registering to local tax offices. Consists of 10 digits. Information can be found at http://mersis.gumrukticaret.gov.tr/Login/tabid/110/Default.aspx?returnurl=%2fMersis%2f%C5%9EirketSorgulama.aspx. Only in Turkish, not available to the broad audience."
