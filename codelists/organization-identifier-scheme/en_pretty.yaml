@@ -334,6 +334,12 @@ data:
     public-database: false
     url: null
 -   category: HR
+    code: HR-MBS
+    description: "Business Register The court business register is maintained by the Croatian Ministry of Justice (Ministarstvo Pravosuda Republike Hrvatske). Registered corporations each have a court-assigned company registration number (mati\u010Dni broj poslovnog subjekta - MBS)"
+    name: Croatian Court Business Register
+    public-database: true
+    url: https://sudreg.pravosudje.hr/registar
+-   category: HR
     code: HR-OIB
     description: The registry is maintained by the Ministry of Justice of the Republic of Croatia. Company can be searched by MBS, OIB number or legal name. Search results provide MBS and OIB numbers, registration court, company name, status, company name current status, and address. There is no English interface, search is free-of-charge.
     name: Personal Identification Number
