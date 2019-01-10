@@ -16,3 +16,21 @@
     legalName: "\u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0439 \u0431\u0430\u043D\u043A \u0440\u0435\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u0438 \u0438 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044F (\u041C\u0411\u0420\u0420)"
     scheme: XM-DAC
   name: "\u0412\u0441\u0435\u043C\u0438\u0440\u043D\u044B\u0439 \u0411\u0430\u043D\u043A"
+- additionalIdentifiers: []
+  address:
+    countryName: Switzerland
+    locality: Geneva
+    postalCode: '1218'
+    region: Grand-Saconnex
+    streetAddress: Global Health Campus, Chemin du Pommier 40
+  contactPoint:
+    email: ccm@theglobalfund.org
+    faxNumber: +41 44 580 6820
+    name:
+    telephone: +41 58 791 1700
+    url: https://www.theglobalfund.org/en/
+  identifier:
+    id: '47045'
+    legalName: Global Fund to Fight AIDS, Tuberculosis and Malaria
+    scheme: XM-DAC
+  name: "\u0413\u043b\u043e\u0431\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u043e\u043d\u0434"
