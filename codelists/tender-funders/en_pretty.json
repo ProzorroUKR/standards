@@ -18,7 +18,7 @@
         "identifier": {
             "id": "44000",
             "legalName": "International Bank for Reconstruction and Development (IBRD)",
-            "scheme": "XM-DAC",
+            "scheme": "XM-DAC"
         },
         "name": "World Bank"
     },
