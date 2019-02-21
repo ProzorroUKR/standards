@@ -1,0 +1,34 @@
+{
+    "micro": {
+        "title_en": "micro", 
+        "description_en": "Individuals registered as private entrepreneurs, whose average number of employees for the reporting period does not exceed 10 persons and the annual income does not exceed the equivalent of 2 million euros; legal entities, whose average number of employees for the reporting period does not exceed 10 persons and the annual income does not exceed the equivalent of 2 million euros.", 
+        "title_uk": "Суб'єкт мікропідприємництва", 
+        "description_uk": "Фізичні особи, зареєстровані як фізичні особи - підприємці, у яких середня кількість працівників за звітний період не перевищує 10 осіб та річний дохід не перевищує суму, еквівалентну 2 мільйонам євро; юридичні особи - суб’єкти господарювання , у яких середня кількість працівників за звітний період не перевищує 10 осіб та річний дохід не перевищує суму, еквівалентну 2 мільйонам євро.", 
+        "title_ru": "Субъект микропредпринимательства", 
+        "description_ru": "Физические лица, зарегистрированные как физические лица - предприниматели, у которых средняя численность работников за отчетный период не превышает 10 человек и годовой доход не превышает сумму, эквивалентную 2 миллионам евро; юридические лица - субъекты хозяйствования, у которых средняя численность работников за отчетный период не превышает 10 человек и годовой доход не превышает сумму, эквивалентную 2 миллионам евро."
+    }, 
+    "sme": {
+        "title_en": "sme", 
+        "description_en": "Individuals registered as private entrepreneurs, whose average number of employees for the reporting period does not exceed 50 persons and the annual income does not exceed the equivalent of 10 million euros; legal entities, whose average number of employees for the reporting period does not exceed 50 persons and the annual income does not exceed the equivalent of 10 million euros.", 
+        "title_uk": "Суб'єкт малого підприємництва", 
+        "description_uk": "Фізичні особи, зареєстровані як фізичні особи - підприємці, у яких середня кількість працівників за звітний період не перевищує 50 осіб та річний дохід не перевищує суму, еквівалентну 10 мільйонам євро; юридичні особи - суб’єкти господарювання , у яких середня кількість працівників за звітний період не перевищує 50 осіб та річний не перевищує суму, еквівалентну 10 мільйонам євро.", 
+        "title_ru": "sme", 
+        "description_ru": "Физические лица, зарегистрированные как физические лица - предприниматели, у которых средняя численность работников за отчетный период не превышает 50 человек и годовой доход не превышает сумму, эквивалентную 10 миллионам евро; юридические лица - субъекты хозяйствования, у которых средняя численность работников за отчетный период не превышает 50 человек и годовой составляет сумму, эквивалентную 10 миллионам евро."
+    }, 
+    "large": {
+        "title_en": "large", 
+        "description_en": "Legal entities, whose average number of employees for the reporting period (calendar year) exceeds 250 persons and an annual income exceeds the equivalent of 50 million euros.", 
+        "title_uk": "Суб'єкт великого підприємництва", 
+        "description_uk": "Юридичні особи - суб’єкти господарювання, у яких середня кількість працівників за звітний період (календарний рік) перевищує 250 осіб та річний дохід перевищує суму, еквівалентну 50 мільйонам євро.", 
+        "title_ru": "Субъект крупного предпринимательства", 
+        "description_ru": "Юридические лица - субъекты хозяйствования, у которых средняя численность работников за отчетный период (календарный год) превышает 250 человек и годовой доход превышает сумму, эквивалентную 50 миллионам евро."
+    }, 
+    "mid": {
+        "title_en": "mid", 
+        "description_en": "Other entities belong to the medium-sized enterprises.", 
+        "title_uk": "Суб'єкт середнього підприємництва", 
+        "description_uk": "Інші суб’єкти господарювання належать до суб’єктів середнього підприємництва.", 
+        "title_ru": "Субъект среднего предпринимательства.", 
+        "description_ru": "Другие субъекты хозяйствования относятся к субъектам среднего предпринимательства."
+    }
+}
