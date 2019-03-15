@@ -1,0 +1,22 @@
+{
+    "defense": {
+        "title_en": "Procuring entity that conducts procurement for the defense needs", 
+        "title_uk": "Замовник, що здійснює закупівлі для потреб оборони", 
+        "title_ru": "Заказчик, который осуществляет закупки для нужд обороны"
+    }, 
+    "general": {
+        "title_en": "Procuring entity (general)", 
+        "title_uk": "Замовник (загальний)", 
+        "title_ru": "Заказчик (общий)"
+    }, 
+    "other": {
+        "title_en": "State and utility companies that are not regarded as procuring entities in the sense of the Law", 
+        "title_uk": "Державні та комунальні підприємства, які не є замовниками в розумінні Закону", 
+        "title_ru": "Государственные и коммунальные предприятия, которые не являются заказчиками в понимании Закона"
+    }, 
+    "special": {
+        "title_en": "Procuring entity that operates in certain spheres of economic activity", 
+        "title_uk": "Замовник, що здійснює діяльність в окремих сферах господарювання", 
+        "title_ru": "Заказчик, который осуществляет деятельность в отдельных сферах хозяйствования"
+    }
+}
