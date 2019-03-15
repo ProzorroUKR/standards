@@ -1,0 +1,50 @@
+{
+    "evaluationCriteria": {
+        "title_en": "Evaluation Criteria", 
+        "description_en": "Information about how bids will be evaluated.", 
+        "title_uk": "Критерії оцінки", 
+        "description_uk": "Інформація про те, як будуть оцінюватись пропозиції.", 
+        "title_ru": "Критерии оценки", 
+        "description_ru": "Информация о том, как будут оцениваться предложения."
+    }, 
+    "clarifications": {
+        "title_en": "Clarifications to bidders questions", 
+        "description_en": "Including replies to issues raised in pre-bid conferences.", 
+        "title_uk": "Пояснення до питань заданих учасниками", 
+        "description_uk": "Включає відповіді на питання, підняті на передтендерних конференціях.", 
+        "title_ru": "Пояснения к вопросам от участников", 
+        "description_ru": "Включает ответы на вопросы, поднятые на предтендерных конференциях."
+    }, 
+    "technicalSpecifications": {
+        "title_en": "Technical Specifications", 
+        "description_en": "Detailed technical information about goods or services to be provided.", 
+        "title_uk": "Технічні специфікації", 
+        "description_uk": "Детальна технічна інформація про товари або послуги, що повинні бути надані.", 
+        "title_ru": "Технические спецификации", 
+        "description_ru": "Подробная техническая информация о товарах или услугах, которые должны быть предоставлены."
+    }, 
+    "contractProforma": {
+        "title_en": "Draft contract", 
+        "description_en": "", 
+        "title_uk": "Проект договору", 
+        "description_uk": "", 
+        "title_ru": "Проект договора", 
+        "description_ru": ""
+    }, 
+    "biddingDocuments": {
+        "title_en": "Bidding Documents", 
+        "description_en": "Information for potential suppliers, describing the goals of the contract (e.g. goods and services to be procured), and the bidding process.", 
+        "title_uk": "Тендерна документація", 
+        "description_uk": "Інформація для потенційних постачальників, що описує цілі договору (наприклад, товари та послуги, які будуть закуплені) і процес торгів.", 
+        "title_ru": "Документы закупки", 
+        "description_ru": "Информация для потенциальных поставщиков, описывает цели договора (например, товары и услуги, которые будут закуплены) и процесс торгов."
+    }, 
+    "billOfQuantity": {
+        "title_en": "Bill Of Quantity", 
+        "description_en": "", 
+        "title_uk": "Кошторис (розрахунок вартості)", 
+        "description_uk": "", 
+        "title_ru": "Смета", 
+        "description_ru": ""
+    }
+}

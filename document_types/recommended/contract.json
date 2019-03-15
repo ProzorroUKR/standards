@@ -1,0 +1,26 @@
+{
+    "contractSigned": {
+        "title_en": "Signed Contract", 
+        "description_en": "", 
+        "title_uk": "Підписаний договір", 
+        "description_uk": "", 
+        "title_ru": "Подписанный договор", 
+        "description_ru": ""
+    }, 
+    "contractSchedule": {
+        "title_en": "Schedules and milestones", 
+        "description_en": "", 
+        "title_uk": "Терміни виконання та етапи", 
+        "description_uk": "", 
+        "title_ru": "Расписание и этапы", 
+        "description_ru": ""
+    }, 
+    "contractAnnexe": {
+        "title_en": "Annexes to the Contract", 
+        "description_en": "", 
+        "title_uk": "Додатки до договору", 
+        "description_uk": "", 
+        "title_ru": "Приложения к договору", 
+        "description_ru": ""
+    }
+}
