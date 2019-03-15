@@ -1,0 +1,27 @@
+{
+    "indicator": {
+        "title_en": "Automatic risks indicators", 
+        "title_uk": "Дані автоматичних індикаторів ризиків", 
+        "title_ru": "Данные автоматических индикаторов риска"
+    }, 
+    "authorities": {
+        "title_en": "Information received from state authorities, bodies of local self-government, on the presence of signs of violation of legislation in the field of public procurement", 
+        "title_uk": "Інформація, отримана від органів державної влади, органів місцевого самоврядування, про наявність ознак порушення (порушень) законодавства у сфері публічних закупівель", 
+        "title_ru": "Информация, полученная от органов государственной власти, органов местного самоуправления, о наличии признаков нарушения (нарушений) законодательства в сфере государственных закупок"
+    }, 
+    "media": {
+        "title_en": "Messages in mass media containing information on the presence of signs of violation of legislation in the field of public procurement", 
+        "title_uk": "Повідомлення в засобах масової інформації, що містять відомості про наявність ознаки порушення (порушень) законодавства у сфері публічних закупівель", 
+        "title_ru": "Сообщения в средствах массовой информации, содержащие ведомости о наличие признаков нарушения (нарушений) законодательства в сфере государственных закупок"
+    }, 
+    "fiscal": {
+        "title_en": "A sign of violation of legislation in the field of public procurement detected by the body of state financial control in information disclosure in the electronic procurement system", 
+        "title_uk": "Виявлені органом державного фінансового контролю ознаки порушення (порушень) законодавства у сфері публічних закупівель в інформації, оприлюдненій в електронній системі закупівель", 
+        "title_ru": "Выявленные органом государственного финансового контроля признаки нарушения (нарушений) законодательства в сфере государственных закупок в информации, обнародованной в электронной система закупок"
+    }, 
+    "public": {
+        "title_en": "Information received from public associations about the presence of signs of violations of legislation in the field of public procurement revealed by the results of public control in the field of public procurement", 
+        "title_uk": "Інформація, отримана від громадських об'єднань, про наявність ознак порушення (порушень) законодавства у сфері публічних закупівель, виявлених за результатами громадського контролю у сфері публічних закупівель відповідно до статті 9 цього Закону", 
+        "title_ru": "Информация, полученная от общественных объединений, о наличие признаков нарушения (нарушений) законодательства в сфере государственных закупок, выявленных по результатам общественного контроля в сфере государственных закупок согласно ст. 9 этого Закона"
+    }
+}

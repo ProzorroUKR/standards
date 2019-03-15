@@ -1,0 +1,52 @@
+{
+    "corruptionDescription": {
+        "title_en": "Violations of the law in relation to the definition of the subject of procurement were established", 
+        "title_uk": "Встановлено порушення законодавства в частині визначення предмета закупівлі", 
+        "title_ru": "Установлены нарушения законодательства в части определения предмета закупки"
+    }, 
+    "corruptionProcurementMethodType": {
+        "title_en": "Violation of the legislation in relation to the wrongful election and application of the procurement procedure was established", 
+        "title_uk": "Встановлено порушення законодавства в частині неправомірного обрання та застосування процедури закупівлі", 
+        "title_ru": "Установлены нарушения законодательства в части неправомерного избрания и применения процедуры закупки"
+    }, 
+    "corruptionPublicDisclosure": {
+        "title_en": "Violation of the legislation in the part of non-disclosure, untimely disclosure of information on the web-portal of the Authorized Agency", 
+        "title_uk": "Встановлено порушення законодавства в частині неоприлюднення, несвоєчасного оприлюднення інформації на веб-порталі Уповноваженого органу", 
+        "title_ru": "Установлены нарушения законодательства в части необнародования, несвоевременного обнародования информации на веб-портале Уполномоченного органа"
+    }, 
+    "corruptionBiddingDocuments": {
+        "title_en": "Violations of the legislation in the part of drafting of tender documentation and / or amendments to it were established", 
+        "title_uk": "Встановлено порушення законодавства в частині складання тендерної документації та/або внесення змін до неї", 
+        "title_ru": "Установлены нарушения законодательства в части тендерной документации и/или внесения изменений в нее"
+    }, 
+    "documentsForm": {
+        "title_en": "The violation of the legislation in the part of drawing up of documents in the field of public procurement was established", 
+        "title_uk": "Встановлено порушення законодавства в частині складання форм документів у сфері публічних закупівель", 
+        "title_ru": "Установлены нарушения законодательства в части составления форм документов в сфере публичный закупок"
+    }, 
+    "corruptionAwarded": {
+        "title_en": "Violation of the legislation in the part of consideration and / or deviation (not deviation) by the customer of the tender (tender) proposal (proposals)", 
+        "title_uk": "Встановлено порушення законодавства в частині розгляду та/або відхилення (не відхилення) замовником тендерної (тендерних) пропозиції (пропозицій)", 
+        "title_ru": "Установлены нарушения законодательства в части рассмотрения и/или отклонения (не отклонения) заказчиком тендерного (тендерных) предложения (предложений)"
+    }, 
+    "corruptionCancelled": {
+        "title_en": "The part of non-cancellation by the customer of the purchase", 
+        "title_uk": "Встановлено порушення законодавства в частині не відміни замовником закупівлі", 
+        "title_ru": "Установлены нарушения законодательства в части не отмены заказчиком закупки"
+    }, 
+    "corruptionContracting": {
+        "title_en": "Violations of the law in the part of the conclusion of the procurement contract are established", 
+        "title_uk": "Встановлено порушення законодавства в частині укладання договору про закупівлю", 
+        "title_ru": "Установлены нарушения законодательства в части подписания договора о закупке"
+    }, 
+    "corruptionChanges": {
+        "title_en": "Violations of the legislation in the part of amendments to the procurement contract (conclusion of additional agreements)", 
+        "title_uk": "Встановлено порушення законодавства в частині внесення змін до договору про закупівлю (укладання додаткових угод)", 
+        "title_ru": "Установлены нарушения законодательства в части внесения изменений в договор (подписания дополнительных соглашений)"
+    }, 
+    "other": {
+        "title_en": "Other violations of the legislation in the field of procurement are established", 
+        "title_uk": "Встановлено інші порушення законодавства у сфері закупівель", 
+        "title_ru": "Установлены другие нарушения в сфере закупок"
+    }
+}
