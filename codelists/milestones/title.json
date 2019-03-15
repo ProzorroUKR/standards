@@ -1,50 +1,42 @@
-[
-  {
-    "id": "executionOfWorks",
-    "name_en": "execution of works",
-    "name_uk": "виконання робіт",
-    "name_ru": "выполнение работ"
-  },
-  {
-    "id": "deliveryOfGoods",
-    "name_en": "delivery of goods",
-    "name_uk": "поставка товару",
-    "name_ru": "поставка товара"
-  },
-  {
-    "id": "submittingServices",
-    "name_en": "submitting services",
-    "name_uk": "надання послуг",
-    "name_ru": "предоставление услуг"
-  },
-  {
-    "id": "signingTheContract",
-    "name_en": "signing the contract",
-    "name_uk": "підписання договору",
-    "name_ru": "подписание договора"
-  },
-  {
-    "id": "submissionDateOfApplications",
-    "name_en": "submission date of applications",
-    "name_uk": "дата подання заявки",
-    "name_ru": "дата подачи заявки"
-  },
-  {
-    "id": "dateOfInvoicing",
-    "name_en": "date of invoicing",
-    "name_uk": "дата виставлення рахунку",
-    "name_ru": "дата выставления счета"
-  },
-  {
-    "id": "endDateOfTheReportingPeriod",
-    "name_en": "end date of the reporting period",
-    "name_uk": "дата закінчення звітного періоду",
-    "name_ru": "дата окончания отчетного периода"
-  },
-  {
-    "id": "anotherEvent",
-    "name_en": "another event",
-    "name_uk": "інша подія",
-    "name_ru": "другое событие"
-  }
-]
+{
+    "executionOfWorks": {
+        "name_en": "execution of works", 
+        "name_uk": "виконання робіт", 
+        "name_ru": "выполнение работ"
+    }, 
+    "deliveryOfGoods": {
+        "name_en": "delivery of goods", 
+        "name_uk": "поставка товару", 
+        "name_ru": "поставка товара"
+    }, 
+    "submittingServices": {
+        "name_en": "submitting services", 
+        "name_uk": "надання послуг", 
+        "name_ru": "предоставление услуг"
+    }, 
+    "signingTheContract": {
+        "name_en": "signing the contract", 
+        "name_uk": "підписання договору", 
+        "name_ru": "подписание договора"
+    }, 
+    "submissionDateOfApplications": {
+        "name_en": "submission date of applications", 
+        "name_uk": "дата подання заявки", 
+        "name_ru": "дата подачи заявки"
+    }, 
+    "dateOfInvoicing": {
+        "name_en": "date of invoicing", 
+        "name_uk": "дата виставлення рахунку", 
+        "name_ru": "дата выставления счета"
+    }, 
+    "endDateOfTheReportingPeriod": {
+        "name_en": "end date of the reporting period", 
+        "name_uk": "дата закінчення звітного періоду", 
+        "name_ru": "дата окончания отчетного периода"
+    }, 
+    "anotherEvent": {
+        "name_en": "another event", 
+        "name_uk": "інша подія", 
+        "name_ru": "другое событие"
+    }
+}

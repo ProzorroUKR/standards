@@ -1,14 +1,12 @@
-[
-  {
-    "id": "prepayment",
-    "name_en": "Prepayments",
-    "name_uk": "Аванс",
-    "name_ru": "Аванс"
-  },
-  {
-    "id": "postpayment",
-    "name_en": "Postpayments",
-    "name_uk": "Пiсляоплата",
-    "name_ru": "Послеоплата"
-  }
-]
+{
+    "prepayment": {
+        "name_en": "Prepayments", 
+        "name_uk": "Аванс", 
+        "name_ru": "Аванс"
+    }, 
+    "postpayment": {
+        "name_en": "Postpayments", 
+        "name_uk": "Пiсляоплата", 
+        "name_ru": "Послеоплата"
+    }
+}
