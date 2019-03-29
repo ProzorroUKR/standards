@@ -1,20 +1,17 @@
-[
-  {
-    "id": "working",
-    "name_en": "working",
-    "name_uk": "робочі",
-    "name_ru": "рабочие"
-  },
-  {
-    "id": "banking",
-    "name_en": "banking",
-    "name_uk": "банківські",
-    "name_ru": "банковские"
-  },
-  {
-    "id": "calendar",
-    "name_en": "calendar",
-    "name_uk": "календарні",
-    "name_ru": "календарные"
-  }
-]
+{
+    "working": {
+        "name_en": "working", 
+        "name_uk": "робочі", 
+        "name_ru": "рабочие"
+    }, 
+    "banking": {
+        "name_en": "banking", 
+        "name_uk": "банківські", 
+        "name_ru": "банковские"
+    }, 
+    "calendar": {
+        "name_en": "calendar", 
+        "name_uk": "календарні", 
+        "name_ru": "календарные"
+    }
+}

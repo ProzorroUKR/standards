@@ -1,0 +1,42 @@
+{
+    "technicalSpecifications": {
+        "title_en": "Technical Specifications", 
+        "description_en": "Detailed technical information about goods or services to be provided.", 
+        "title_uk": "Технічні специфікації", 
+        "description_uk": "Детальна технічна інформація про товари або послуги, що повинні бути надані.", 
+        "title_ru": "Технические спецификации", 
+        "description_ru": "Подробная техническая информация о товарах или услугах, которые должны быть предоставлены."
+    }, 
+    "billOfQuantity": {
+        "title_en": "Bill Of Quantity", 
+        "description_en": "", 
+        "title_uk": "Кошторис (розрахунок вартості)", 
+        "description_uk": "", 
+        "title_ru": "Смета", 
+        "description_ru": ""
+    }, 
+    "commercialProposal": {
+        "title_en": "Commercial proposal", 
+        "description_en": "", 
+        "title_uk": "Цінова пропозиція", 
+        "description_uk": "", 
+        "title_ru": "Ценовое предложение", 
+        "description_ru": ""
+    }, 
+    "qualificationDocuments": {
+        "title_en": "Qualificatioin documents", 
+        "description_en": "", 
+        "title_uk": "Документи, що підтверджують кваліфікацію", 
+        "description_uk": "", 
+        "title_ru": "Документы, подтверждающие квалификацию", 
+        "description_ru": ""
+    }, 
+    "eligibilityDocuments": {
+        "title_en": "Eligibility documents", 
+        "description_en": "", 
+        "title_uk": "Документи, що підтверджують відповідність", 
+        "description_uk": "В тому числі, відповідність вимогам ст. 17", 
+        "title_ru": "Документы, подтверждающие соответствие", 
+        "description_ru": ""
+    }
+}

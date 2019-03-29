@@ -1,0 +1,60 @@
+[
+    {
+        "additionalIdentifiers": [], 
+        "address": {
+            "countryName": "USA", 
+            "locality": "Washington", 
+            "postalCode": "20433", 
+            "region": "DC", 
+            "streetAddress": "1818 H Street, NW"
+        }, 
+        "contactPoint": {
+            "email": "ukraine@worldbank.org", 
+            "faxNumber": "+38044 4906670", 
+            "telephone": "+38044 4906671", 
+            "url": "http://www.worldbank.org/uk/country/ukraine", 
+            "name_en": "Darya Gulei", 
+            "name_uk": "Дар’я Гулей", 
+            "name_ru": "Дарья Гулей"
+        }, 
+        "identifier": {
+            "id": "44000", 
+            "scheme": "XM-DAC", 
+            "legalName_en": "International Bank for Reconstruction and Development (IBRD)", 
+            "legalName_uk": "Міжнародний банк реконструкції та розвитку (МБРР)", 
+            "legalName_ru": "Международный банк реконструкции и развития (МБРР)"
+        }, 
+        "name_en": "World Bank", 
+        "name_uk": "Світовий Банк", 
+        "name_ru": "Всемирный Банк"
+    }, 
+    {
+        "additionalIdentifiers": [], 
+        "address": {
+            "countryName": "Switzerland", 
+            "locality": "Geneva", 
+            "postalCode": "1218", 
+            "region": "Grand-Saconnex", 
+            "streetAddress": "Global Health Campus, Chemin du Pommier 40"
+        }, 
+        "contactPoint": {
+            "email": "ccm@theglobalfund.org", 
+            "faxNumber": "+41 44 580 6820", 
+            "telephone": "+41 58 791 1700", 
+            "url": "https://www.theglobalfund.org/en/", 
+            "name_en": "", 
+            "name_uk": "", 
+            "name_ru": ""
+        }, 
+        "identifier": {
+            "id": "47045", 
+            "scheme": "XM-DAC", 
+            "legalName_en": "Global Fund to Fight AIDS, Tuberculosis and Malaria", 
+            "legalName_uk": "Глобальний Фонд для боротьби зі СНІДом, туберкульозом і малярією", 
+            "legalName_ru": "Глобальный Фонд по борьбе со СПИДом, туберкулезом и малярией"
+        }, 
+        "name_en": "Global Fund", 
+        "name_uk": "Глобальний фонд", 
+        "name_ru": "Глобальный фонд"
+    }
+]
