@@ -550,5 +550,13 @@
         "symbol_uk": "мм",
         "name_ru": "Милиметр",
         "symbol_ru": "мм"
+    },
+    "MWH": {
+        "name_en": "megawatt hour",
+        "symbol_en": "MW·h",
+        "name_uk": "Мегават-година",
+        "symbol_uk": "МВт·год",
+        "name_ru": "Мегаватт-час",
+        "symbol_ru": "МВт·час"
     }
 }
