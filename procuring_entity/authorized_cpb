@@ -1,0 +1,28 @@
+[
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Київ",
+      "postalCode": "01601",
+      "region": "Київ",
+      "streetAddress": "Бульварно-Кудрявська, 22"
+    },
+    "contactPoint": {
+      "email": "cpb.org.ua@gmail.com",
+      "faxNumber": "+380 63 578 0480",
+      "telephone": "+380 66 863 6347",
+      "url": "http://cpb.org.ua",
+      "name_en": "Kyvhylo Vladyslav",
+      "name_uk": "Кивгило Владислав Сергійович"
+    },
+    "identifier": {
+      "id": "40996564",
+      "scheme": "UA-EDR",
+      "legalName_en": "DERZhAVNA USTANOVA \"PROFESIINI ZAKUPIVLI\"",
+      "legalName_uk": "ДЕРЖАВНА УСТАНОВА \"ПРОФЕСІЙНІ ЗАКУПІВЛІ\""
+    },
+    "name_en": "DERZhAVNA USTANOVA \"PROFESIINI ZAKUPIVLI\"",
+    "name_uk": "ДЕРЖАВНА УСТАНОВА \"ПРОФЕСІЙНІ ЗАКУПІВЛІ\""
+  }
+]
