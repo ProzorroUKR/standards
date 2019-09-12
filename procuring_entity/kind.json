@@ -18,5 +18,10 @@
         "title_en": "Procuring entity that operates in certain spheres of economic activity", 
         "title_uk": "Замовник, що здійснює діяльність в окремих сферах господарювання", 
         "title_ru": "Заказчик, который осуществляет деятельность в отдельных сферах хозяйствования"
+    }, 
+    "central": {
+        "title_en": "Legal entity that conducts procurement in the interests of the сustomers", 
+        "title_uk": "Юридична особа, що здійснює закупівлі в інтересах замовників", 
+        "title_ru": "Юридическое лицо, которое осуществляет закупки в интересах заказчиков"
     }
 }
