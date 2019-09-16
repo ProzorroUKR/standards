@@ -1,0 +1,30 @@
+{
+  "crimea": {
+    "title_en": "Budget of the Autonomous Republic of Crimea",
+    "title_uk": "Бюджет Автономної Республіки Крим"
+  },
+  "fund": {
+    "title_en": "Trust Fund Budget",
+    "title_uk": "Бюджет цільових фондів"
+  },
+  "loan": {
+    "title_en": "Credits and loans of international monetary organizations",
+    "title_uk": "Кредити та позики міжнародних валютно-кредитних організацій"
+  },
+  "local": {
+    "title_en": "Local budget",
+    "title_uk": "Місцевий бюджет"
+  },
+  "other": {
+    "title_en": "Other",
+    "title_uk": "Інше"
+  },
+  "own": {
+    "title_en": "Own budget (funds from the economic activity of the enterprise)",
+    "title_uk": "Власний бюджет (кошти від господарської діяльності підприємства)"
+  },
+  "state": {
+    "title_en": "State budget of Ukraine",
+    "title_uk": "Державний бюджет України"
+  }
+}
