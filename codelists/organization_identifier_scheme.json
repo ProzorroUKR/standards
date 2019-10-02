@@ -206,6 +206,14 @@
             "url": "https://public.brra.bg/CheckUps/Verifications/VerificationPersonOrg.ra"
         },
         {
+            "category": "BR",
+            "code": "BR-CNPJ",
+            "description": "Brazilian registry of legal entities is called Cadastro Nacional de Pessoas Juridicas. Acronym CNPJ is often used for this register as well as for the identification numbers assigned to Brazilian companies and their branches by national taxation agency (Secretaria da Receita Federal) and stored in this centralized registry.",
+            "name": "Cadastro Nacional da Pessoa Jurídica",
+            "public-database": true,
+            "url": "http://cnpj.info/"
+        },
+        {
             "category": "BY",
             "code": "BY-UNP",
             "description": "Information is available only in Belarusian language, contains Registration number, Registration authority, Date of registration, etc.",
@@ -444,6 +452,14 @@
             "name": "Department of Social Welfare",
             "public-database": false,
             "url": null
+        },
+        {
+            "category": "GR",
+            "code": "GR-GECR",
+            "description": "In Greece, the business register is called the General Electronic Commercial Registry (Γενικό Εμπορικό Μητρώο, Γ.Ε.ΜΗ., GEMI). It is governed by Law No 3419/2005 (Government Gazette, Series I, No 297/06-12-2005). It records all disclosures of business documents and information.",
+            "name": "General Electronic Commercial Registry",
+            "public-database": true,
+            "url": "https://www.businessregistry.gr/Publicity.aspx"
         },
         {
             "category": "HR",
@@ -790,6 +806,14 @@
             "url": "http://www.swc.org.np/"
         },
         {
+            "category": "PA",
+            "code": "PA-RPP",
+            "description": "The Public Registry of Panama, was created by Law No.13 of January 27, 1913, published in (Official Gazette No.1, 865 of February 12, 1913), as a dependency of the Ministry of Government and Justice, during the first administration of Dr. Belisario Porras. MISSION Upgrade, collect, integrate and ensure the authenticity of the documents, certificates or acts to be recorded to provide legal security of private property to users.",
+            "name": "Registro Público de Panamá",
+            "public-database": false,
+            "url": "https://registro-publico.gob.pa/"
+        },
+        {
             "category": "PK",
             "code": "PK-PCP",
             "description": "The PCP Certification Programme seeks to bring transparency, accountability and good governance in the nonprofit sector in Pakistan. The first initiative of its kind in South Asia; it involves the evaluation of a nonprofit organisation on standardised parameters of internal governance, financial management and programme delivery.",
@@ -868,6 +892,14 @@
             "name": "Uniform State Register of Legal Entities of Russian Federation",
             "public-database": true,
             "url": "https://russianpartner.biz/"
+        },
+        {
+            "category": "SA",
+            "code": "SA-CRS",
+            "description": "Commercial Register for Saudi",
+            "name": "Ministry of Commerce and Industry",
+            "public-database": true,
+            "url": "https://mci.gov.sa/en/eservices/Pages/default.aspx"
         },
         {
             "category": "SE",
