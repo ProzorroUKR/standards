@@ -7748,11 +7748,13 @@
     "60161000-4": "Parcel transport services", 
     "60170000-0": "Hire of passenger transport vehicles with driver", 
     "60171000-7": "Hire of passenger cars with driver", 
-    "60172000-4": "Hire of buses and coaches with driver", 
+    "60172000-4": "Hire of buses and coaches with driver",
+    "60173000-1": "Hire of passenger transport vehicles without driver",
     "60180000-3": "Hire of goods-transport vehicles with driver", 
     "60181000-0": "Hire of trucks with driver", 
     "60182000-7": "Hire of industrial vehicles with driver", 
-    "60183000-4": "Hire of vans with driver", 
+    "60183000-4": "Hire of vans with driver",
+    "60184000-1": "Hire of goods-transport and industrial vehicles without driver",
     "60200000-0": "Railway transport services", 
     "60210000-3": "Public transport services by railways", 
     "60220000-6": "Mail transport by railway", 
@@ -8705,7 +8707,8 @@
     "77500000-5": "Animal husbandry services", 
     "77510000-8": "Game-propagation services", 
     "77600000-6": "Hunting services", 
-    "77610000-9": "Trapping services", 
+    "77610000-9": "Trapping services",
+    "77620000-2": "Animals temporary isolation services",
     "77700000-7": "Services incidental to fishing", 
     "77800000-8": "Aquaculture services", 
     "77810000-1": "Mariculture services", 
@@ -9452,5 +9455,6 @@
     "98513310-8": "Home-help services", 
     "98514000-9": "Domestic services", 
     "98900000-2": "Services provided by extra-territorial organisations and bodies", 
-    "98910000-5": "Services specific to international organisations and bodies"
+    "98910000-5": "Services specific to international organisations and bodies",
+    "99999999-9": "Not reflected in other sections"
 }
