@@ -24,5 +24,51 @@
     },
     "name_en": "DERZhAVNA USTANOVA \"PROFESIINI ZAKUPIVLI\"",
     "name_uk": "ДЕРЖАВНА УСТАНОВА \"ПРОФЕСІЙНІ ЗАКУПІВЛІ\""
-  }
+  },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Київ",
+      "postalCode": "01601",
+      "region": "Київ",
+      "streetAddress": "вул. Грушевського, 7"
+    },
+    "contactPoint": {
+      "email": "catalogue@medpro.health",
+      "telephone": "+3 8066 696 49 90",
+      "url": "http://fb.me/uamedpro",
+      "name_uk": "Віталій Овсянніков"
+    },
+    "identifier": {
+      "id": "42574629",
+      "scheme": "UA-EDR",
+      "legalName_uk": "ДЕРЖАВНЕ ПІДПРИЄМСТВО «МЕДИЧНІ ЗАКУПІВЛІ УКРАЇНИ"
+    },
+    "name_uk": "ДЕРЖАВНЕ ПІДПРИЄМСТВО «МЕДИЧНІ ЗАКУПІВЛІ УКРАЇНИ"
+  },
+  {
+    "active": false,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Київ",
+      "postalCode": "01601",
+      "region": "Київ",
+      "streetAddress": "Бульварно-Кудрявська, 22"
+    },
+    "contactPoint": {
+      "email": "j.baikova@gmail.com",
+      "faxNumber": "+380 63 578 55 55",
+      "telephone": "+380 96 689 66 66",
+      "name_uk": "Байкова Юлія"
+    },
+    "identifier": {
+      "id": "12345678",
+      "scheme": "UA-EDR",
+      "legalName_en": "DERZhAVNA USTANOVA \"TEST Baikova",
+      "legalName_uk": "ДЕРЖАВНА УСТАНОВА \"Тест Байкова"
+    },
+    "name_en": "DERZhAVNA USTANOVA \"TEST Baikova",
+    "name_uk": "ДЕРЖАВНА УСТАНОВА \"Тест Байкова"
+  } 
 ]
