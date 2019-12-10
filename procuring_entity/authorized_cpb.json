@@ -43,9 +43,9 @@
     "identifier": {
       "id": "42574629",
       "scheme": "UA-EDR",
-      "legalName_uk": "ДЕРЖАВНЕ ПІДПРИЄМСТВО «МЕДИЧНІ ЗАКУПІВЛІ УКРАЇНИ"
+      "legalName_uk": "ДЕРЖАВНЕ ПІДПРИЄМСТВО \"МЕДИЧНІ ЗАКУПІВЛІ УКРАЇНИ\""
     },
-    "name_uk": "ДЕРЖАВНЕ ПІДПРИЄМСТВО «МЕДИЧНІ ЗАКУПІВЛІ УКРАЇНИ"
+    "name_uk": "ДЕРЖАВНЕ ПІДПРИЄМСТВО \"МЕДИЧНІ ЗАКУПІВЛІ УКРАЇНИ\""
   },
   {
     "active": false,
@@ -65,10 +65,10 @@
     "identifier": {
       "id": "12345678",
       "scheme": "UA-EDR",
-      "legalName_en": "DERZhAVNA USTANOVA \"TEST Baikova",
-      "legalName_uk": "ДЕРЖАВНА УСТАНОВА \"Тест Байкова"
+      "legalName_en": "DERZhAVNA USTANOVA \"TEST Baikova\"",
+      "legalName_uk": "ДЕРЖАВНА УСТАНОВА \"Тест Байкова\""
     },
-    "name_en": "DERZhAVNA USTANOVA \"TEST Baikova",
-    "name_uk": "ДЕРЖАВНА УСТАНОВА \"Тест Байкова"
+    "name_en": "DERZhAVNA USTANOVA \"TEST Baikova\"",
+    "name_uk": "ДЕРЖАВНА УСТАНОВА \"Тест Байкова\""
   } 
 ]
