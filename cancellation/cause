@@ -1,0 +1,18 @@
+{
+    "noDemand": {
+        "title_uk": "відсутність подальшої потреби в закупівлі товарів, робіт і послуг",
+        "title_en": "no need in procurement of goods, works and services"
+    },
+    "unFixable": {
+        "title_uk": "неможливість усунення виявлених порушень законодавства у сфері публічних закупівель",
+        "title_en": "can not fix revealed violations of the law in the scope of public procurement"
+    },
+    "forceMajeure": {
+        "title_uk": "неможливість здійснення закупівлі унаслідок непереборної сили",
+        "title_en": "can not do a procurement due to force majeure conditions"
+    },
+    "expensesCut": {
+        "title_uk": "скорочення видатків на здійснення закупівлі товарів, робіт і послуг",
+        "title_en": "cut down the expenses of procurement of goods, works and services"
+    }
+}
