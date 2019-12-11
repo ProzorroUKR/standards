@@ -5,16 +5,16 @@
     },
     "noCompetition": {
         "title_uk": "cт. 35, п 2 Відсутність конкуренції (у тому числі з технічних причин) на відповідному ринку, внаслідок чого договір про закупівлю може бути укладено лише з одним постачальником, за відсутності при цьому альтернативи",
-        "title_en": "ar.35, section 2 Lack of competition (including technical reasons) on suited market because of which procurement contract can be established only with one supplier if there are no other alternatives"
-	  },
+        "title_en": "ar.35, section 2 Lack of competition (including technical reasons) on suited market because of which procurement contract can be established only with one supplier if there are no other alternatives"   
+    },
     "quick": {
         "title_uk": "cт. 35, п 3 нагальна потреба у здійсненні закупівлі у зв’язку з виникненням особливих економічних чи соціальних обставин, яка унеможливлює дотримання замовниками строків для проведення тендеру, а саме пов’язаних з негайною ліквідацією наслідків надзвичайних ситуацій, а також наданням у встановленому порядку Україною гуманітарної допомоги іншим державам. Застосування переговорної процедури закупівлі в таких випадках здійснюється за рішенням замовника щодо кожної процедури",
-        "title_en": "ar. 35, section 3 urgent need to do a procurement due to special economical or social reasons, which makes impossible to procuring entities to keep it up with procurement terms, specifically related to emergency elimination and providing humanitarian aid by Ukraine to another countries by established law. In these cases procuring entity decides to do a negotiation procedure to each procurement"
-	  },
+        "title_en": "ar. 35, section 3 urgent need to do a procurement due to special economical or social reasons, which makes impossible to procuring entities to keep it up with procurement terms, specifically related to emergency elimination and providing humanitarian aid by Ukraine to another countries by established law. In these cases procuring entity decides to do a negotiation procedure to each procurement" 
+    },
     "twiceUnsuccessful": {
         "title_uk": "cт. 35, п 4 Якщо замовником було двічі відмінено тендер через відсутність достатньої кількості учасників, при цьому предмет закупівлі, його технічні та якісні характеристики, а також вимоги до учасника не повинні відрізнятися від вимог, що були визначені замовником у тедерній документації,",
         "title_en": "ar.35, section 4 If procuring entity cancelled a tender due to lack of suppliers twicely and he didn't change the procurement item technical and quality characteristics, tender requirements to buyers shouldn't differ from the requirements specified by procuring enitity in tender documentation"
-	  },
+    },
     "additionalPurchase": {
         "title_uk": "cт. 35, п 5 потреба здійснити додаткову закупівлю в того самого постачальника з метою уніфікації, стандартизації або забезпечення сумісності з наявними товарами, технологіями, роботами чи послугами, якщо заміна попереднього постачальника (виконавця робіт, надавача послуг) може призвести до несумісності або виникнення проблем технічного характеру, пов’язаних з експлуатацією та обслуговуванням",
         "title_en": "ar.35, section 5 need to do an additional procurement with the same supplier to unify, standardize or to ensure the combination with existing items, technologies, works or services. If changing the previous supplier will lead to inconsistency or technical problems related to exploitation and maintenance"
