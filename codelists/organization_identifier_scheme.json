@@ -1141,10 +1141,11 @@
             "public-database": false,
             "url": null
         },
-        {   "category": "MK",
+        {   
+            "category": "MK",
             "code": "MK-CR",
             "description": "The Central Register was established and determined by Law for Central Register as central database for all relevant legal information in the business area in the country. It is as an independent, self-financed institution that manages the Trade register and register of other legal entities as well as several other registers.",
-            "name": "Централен Регистар на Република Северна Македонија ",
+            "name": "Централен Регистар на Република Северна Македонија",
             "public-database": false,
             "url": "crm.com.mk/DS/"
         }
