@@ -14,5 +14,13 @@
     "expensesCut": {
         "title_uk": "скорочення видатків на здійснення закупівлі товарів, робіт і послуг",
         "title_en": "cut down the expenses of procurement of goods, works and services"
+    },
+    "noObjectiveness": {
+        "title_uk": "замовником допущено порушення, що вплинуло на об’єктивність визначення переможця процедури закупівлі",
+        "title_en": "procuring entity has done violations that influenced objectivness of awarding process"
+    },
+    "dateViolation": {
+        "title_uk": "непідписання договору про закупівлю у строк 35 днів (20 днів - у разі застосування скороченної переговорної процедури закупівлі)",
+        "title_en": "didn't sign an agreement in 35 days(20 days if negotiation quick procedure is used)"
     }
 }
