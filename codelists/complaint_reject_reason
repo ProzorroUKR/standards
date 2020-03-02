@@ -1,0 +1,18 @@
+{
+    "lawNonСompliance": {
+        "title_uk": "скарга не відповідає вимогам частин другої-п’ятої та дев’ятої цієї статті;",
+        "title_en": "complaint does not meet the law requirement"
+    },
+    "alreadyExists": {
+        "title_uk": "суб’єкт оскарження подає скаргу щодо того самого порушення, що вже були предметом розгляду органу оскарження",
+        "title_en": "bidder complains about violation that has been already reviewed"
+    },
+    "buyerViolationsСorrected": {
+        "title_uk": "замовником відповідно до цього Закону усунено порушення, зазначені в скарзі;",
+        "title_en": "buyer has corrected the violations that was described in complaint"
+    },
+    "tenderCancelled": {
+        "title_uk": "до дня подання скарги замовником прийнято рішення про відміну тендеру",
+        "title_en": "tender has been cancelled before the complaint submitted date by the buyer"
+    }
+}
