@@ -12,7 +12,7 @@
         "title_en": "buyer has corrected the violations that was described in complaint"
     },
     "tenderCancelled": {
-        "title_uk": "до дня подання скарги замовником прийнято рішення про відміну тендеру чи визнання його таким, що не відбувся",
-        "title_en": "tender has been cancelled before the complaint submitted date by the buyer"
+        "title_uk": "до дня подання скарги замовником прийнято рішення про відміну тендеру чи визнання його таким, що не відбувся, крім випадку оскарження будь-якого з цих рішень.",
+        "title_en": "tender has been cancelled before the complaint submitted date by the buyer besides complaining about tender cancellation"
     }
 }
