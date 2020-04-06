@@ -1,0 +1,26 @@
+{
+    "pending": {
+        "title_uk": "Очікує розгляду"
+    },
+    "accepted": {
+        "title_uk": "Прийнята до розгляду"
+    },
+    "invalid": {
+        "title_uk": "Залишена без розгляду"
+    },
+    "stopped": {
+        "title_uk": "Розгляд припинено"
+    },
+    "declined": {
+        "title_uk": "Відхилена"
+    },
+    "satisfied": {
+        "title_uk": "Заводолена"
+    },
+    "stopping": {
+        "title_uk": "Відкликана"
+    },
+     "mistaken": {
+        "title_uk": "Помилково направлена"
+    }
+}
