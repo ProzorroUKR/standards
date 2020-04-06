@@ -14,5 +14,17 @@
     "tenderCancelled": {
         "title_uk": "До дня подання скарги замовником прийнято рішення про відміну тендеру чи визнання його таким, що не відбувся, крім випадку оскарження будь-якого з цих рішень",
         "title_en": "Tender has been cancelled before the complaint submitted date by the buyer besides complaining about tender cancellation"
+    },
+    "cancelledByComplainant": {  
+        "title_uk": "Скарга скасована суб'єктом оскарження",
+        "title_en": "The complaint was cancelled by the complainant"
+    },
+    "complaintPeriodEnded": { 
+            "title_uk": "Період оскарження закінчився",
+            "title_en": "The complaint period has ended"
+    },
+    "incorrectPayment": { 
+            "title_uk": "Отримана сума оплати не співпадає з розрахованою для даної скарги",
+            "title_en": "The payment received does not match the estimated amount for the complaint"
     }
 }
