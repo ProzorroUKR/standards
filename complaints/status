@@ -18,9 +18,12 @@
         "title_uk": "Задоволена"
     },
     "stopping": {
-        "title_uk": "Відкликана"
+        "title_uk": "Відкликана скаржником"
     },
-     "mistaken": {
+    "mistaken": {
         "title_uk": "Помилково направлена"
+    },
+    "resolved": {
+        "title_uk": "Виправлено замовником"
     }
 }
