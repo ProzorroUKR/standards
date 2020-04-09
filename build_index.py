@@ -100,4 +100,3 @@ if __name__ == "__main__":
 
     with open("index.html", "w") as f:
         f.write(LAYOUT.format(data))
-
