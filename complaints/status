@@ -1,0 +1,29 @@
+{
+    "pending": {
+        "title_uk": "Очікує розгляду"
+    },
+    "accepted": {
+        "title_uk": "Прийнято до розгляду"
+    },
+    "invalid": {
+        "title_uk": "Залишено без розгляду"
+    },
+    "stopped": {
+        "title_uk": "Розгляд припинено"
+    },
+    "declined": {
+        "title_uk": "Відмовлено в задоволенні"
+    },
+    "satisfied": {
+        "title_uk": "Задоволено"
+    },
+    "stopping": {
+        "title_uk": "Відкликано"
+    },
+    "mistaken": {
+        "title_uk": "Скасовано"
+    },
+    "resolved": {
+        "title_uk": "Порушення усунуто"
+    }
+}
