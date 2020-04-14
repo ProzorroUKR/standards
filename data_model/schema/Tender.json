@@ -1,0 +1,37 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{32}$"
+    },
+    "procurementMethod": {
+      "type": "string",
+      "enum": ["open", "limited"]
+    },
+    "mainProcurementCategory": {
+      "type": "string",
+      "enum": ["goods", "services", "works"]
+    },
+    "cause": {
+      "type": "string",
+      "enum": ["quick"]
+    },
+    "procurementMethodRationale": {
+      "type": "string"
+    },
+    "procuringEntity": {
+      "$ref": "ProcuringEntity.json"
+    }
+  },
+  "required": [
+    "id",
+    "procurementMethod",
+    "mainProcurementCategory",
+    "procuringEntity"
+  ],
+  "additionalProperties": false,
+  "dependencies": {
+    "cause": ["procurementMethodRationale"]
+  }
+}
