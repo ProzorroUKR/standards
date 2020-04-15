@@ -1,4 +1,5 @@
 from jsonschema import RefResolver, Draft7Validator, _utils as json_shema_utils
+from collections import defaultdict
 import json
 import os.path
 import os
@@ -7,6 +8,7 @@ CURRENT_PATH = os.path.dirname(os.path.realpath(__file__))
 SCHEMA_DIR = os.path.join(CURRENT_PATH, "schema")
 DATA_DIR = os.path.join(CURRENT_PATH, "data")
 errors = []
+counts = defaultdict(int)
 
 
 def get_json(file_name):
@@ -35,35 +37,36 @@ def check_errors(title):
         exit(1)
 
 
+def process_schema_files(validator, directory, count_name="schema"):
+    global counts
+    for file_name in os.listdir(directory):
+        full_name = os.path.join(directory, file_name)
+        if os.path.isdir(full_name):
+            process_schema_files(validator, full_name)
+        else:
+            schema_json = get_json(full_name)
+            for e in validator.iter_errors(schema_json):
+                errors.append(e)
+            counts[count_name] += 1
+
+
 def main():
-    schema_count = data_count = 0
-
+    # validate schema files
     meta_validator = Draft7Validator(json_shema_utils.load_schema("draft7"))
-    for schema_name in os.listdir(SCHEMA_DIR):
-        full_name = os.path.join(SCHEMA_DIR, schema_name)
-        schema_json = get_json(full_name)
-        for e in meta_validator.iter_errors(schema_json):
-            errors.append(e)
-        schema_count += 1
-
+    process_schema_files(meta_validator, SCHEMA_DIR)
     check_errors("Invalid schema")
 
-    # validate data
+    # validate data files
     for schema_name in os.listdir(DATA_DIR):
         schema = get_schema(schema_name)
         resolver = RefResolver(base_uri=f'file://{SCHEMA_DIR}/', referrer=schema)
         validator = Draft7Validator(schema, resolver=resolver)
         examples_dir = os.path.join(DATA_DIR, schema_name)
-        for file_name in os.listdir(examples_dir):
-            full_name = os.path.join(examples_dir, file_name)
-            for e in validator.iter_errors(instance=get_json(full_name)):
-                errors.append(e)
-            data_count += 1
-
+        process_schema_files(validator, examples_dir, count_name="data")
     check_errors("Invalid data")
-    print(f"Successfully checked {schema_count} schema and {data_count} data files")
+
+    print(f"Successfully checked {counts['schema']} schema and {counts['data']} data files")
 
 
 if __name__ == "__main__":
     main()
-

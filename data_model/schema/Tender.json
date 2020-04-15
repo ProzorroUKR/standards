@@ -2,8 +2,7 @@
   "type": "object",
   "properties": {
     "id": {
-      "type": "string",
-      "pattern": "^[a-f0-9]{32}$"
+      "$ref": "types/md5.json"
     },
     "procurementMethod": {
       "type": "string",
@@ -22,6 +21,18 @@
     },
     "procuringEntity": {
       "$ref": "ProcuringEntity.json"
+    },
+    "qualifications": {
+      "type": "array",
+      "items": {
+        "$ref": "Qualification.json"
+      }
+    },
+    "awards": {
+      "type": "array",
+      "items": {
+        "$ref": "Award.json"
+      }
     }
   },
   "required": [
