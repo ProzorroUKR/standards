@@ -2,11 +2,11 @@
     "belowThreshold": {
         "autoInitiated": false, 
         "procurementMethod": "open", 
-        "description_en": "This procedure is regulated by Law of Ukraine on Public Procuremen for Customers within the meaning of this Law and regulates purchases above the thresholds established by the Law (50,000 hryvnias for goods, works and services) and below the thresholds established by the Law (200,000 hryvnias for goods and services and 1,500,000 hryvnia for works), and for all Below threshold procurement.", 
+        "description_en": "This procedure is regulated by Law of Ukraine on Public Procuremen for Customers within the meaning of this Law and regulates purchases above the thresholds established by the Law (from 50,000 hryvnias for goods, works and services to 200,000 hryvnias for goods and services and 1,500,000 hryvnias for works), and for all Below threshold procurement.", 
         "name_en": "Simple/Below threshold procurement", 
-        "description_uk": "Ця процедура застосовується в рамках Закону України “Про публічні закупівлі\" для Замовників в розумінні даного Закону і регулює закупівлі вище граничних сум встановлених Законом (50,000 гривен для товарів, робіт і послуг) і нижче граничних сум встановлених Законом (200,000 гривень для товарів і послуг і 1,500,000 гривень для робіт), а також для всіх Допорогових закупівель.", 
+        "description_uk": "Ця процедура застосовується в рамках Закону України “Про публічні закупівлі\" для Замовників в розумінні даного Закону і регулює закупівлі в межах граничних сум встановлених Законом (від 50,000 гривен для товарів, робіт і послуг до 200,000 гривень для товарів і послуг і 1,500,000 гривень для робіт), а також для всіх Допорогових закупівель.", 
         "name_uk": "Спрощені/Допорогові закупівлі", 
-        "description_ru": "Эта процедура применяется в рамках Закона о публичных закупках для Заказчиков в понимании данного Закона и регулирует закупки выше предельных сумм установленных Законом (50,000 гривен для товаров, работ и услуг) и ниже предельных сумм установленных Законом (200,000 гривен для товаров и услуг и 1,500,000 гривен для работ), а также для всех Допороговых закупок", 
+        "description_ru": "Эта процедура применяется в рамках Закона о публичных закупках для Заказчиков в понимании данного Закона и регулирует закупки в пределах сумм установленных Законом (от 50,000 гривен для товаров, работ и услуг до 200,000 гривен для товаров и услуг и 1,500,000 гривен для работ), а также для всех Допороговых закупок", 
         "name_ru": "Упрощенные/Допороговые закупки"
     }, 
     "aboveThresholdUA": {
