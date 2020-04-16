@@ -5,9 +5,9 @@
         "description_en": "The procurement procedure is defined by Law of Ukraine on Public Procuremen for Customers in its understanding, regulates purchases within the limits established by the Law (from 50,000 hryvnias for goods, works and services to 200,000 hryvnias for goods and services, or 1,500,000 hryvnias for works), and also carried out as Below threshold procurement for all other cases.", 
         "name_en": "Simple/Below threshold procurement", 
         "description_uk": "Процедура закупівлі визначена Законом про публічні закупівлі для Замовників в його розумінні, яка регулює закупівлі в межах сум встановлених Законом (від 50,000 гривень для товарів, робіт і послуг до 200,000 гривень для товарів і послуг, або 1,500,000 гривень для робіт), а також здійснюється як Допрогова закупівля для всіх інших випадків.", 
-        "name_uk": "Спрощені/Допорогові закупівлі", 
+        "name_uk": "Спрощена/Допорогова закупівля", 
         "description_ru": "Процедура закупки определенная Законом о публичных закупках для Заказчиков в его понимании, которая регулирует закупки в пределах сумм установленних Законом (от 50,000 гривен для товаров, работ и услуг до 200,000 гривен для товаров и услуг, или 1,500,000 гривен для работ), а также осуществляемая как Допроговая закупка для всех остальних случаев.", 
-        "name_ru": "Упрощенные/Допороговые закупки"
+        "name_ru": "Упрощенная/Допороговая закупка"
     }, 
     "aboveThresholdUA": {
         "autoInitiated": false, 
