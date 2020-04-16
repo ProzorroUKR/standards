@@ -2,12 +2,12 @@
     "belowThreshold": {
         "autoInitiated": false, 
         "procurementMethod": "open", 
-        "description_en": "Purchases that are not regulated by the Law belong to this type of procedures. Procurement process consists of Enquiry period and Bid submission (duration is determined by the Procuring entity), Auction, Qualification, and Contract signing (not earlier than 3 days after Bidder is awarded).", 
-        "name_en": "Below threshold procurement", 
-        "description_uk": "За цією процедурою відбуваються закупівлі, які не регулюються Законом. Процес закупівлі: етап уточнень, подання пропозицій (тривалість визначається замовником), аукціон, кваліфікація, укладання угоди (не раніше, ніж через 3 дні після визначення переможця).", 
-        "name_uk": "Допорогові закупівлі", 
-        "description_ru": "По этой процедуре происходят закупки, которые не регулируются Законом. Процесс закупки: этап уточнений, представление предложений (продолжительность определяется заказчиком), аукцион, квалификация, заключение соглашения (не ранее, чем через 3 дня после определения победителя).", 
-        "name_ru": "Допороговые закупки"
+        "description_en": "The procurement procedure is defined by Law of Ukraine on Public Procuremen for Customers in its understanding, regulates purchases within the limits established by the Law (from 50,000 hryvnias for goods, works and services to 200,000 hryvnias for goods and services, or 1,500,000 hryvnias for works), and also carried out as Below threshold procurement for all other cases.", 
+        "name_en": "Simple/Below threshold procurement", 
+        "description_uk": "Процедура закупівлі визначена Законом про публічні закупівлі для Замовників в його розумінні, яка регулює закупівлі в межах сум встановлених Законом (від 50,000 гривень для товарів, робіт і послуг до 200,000 гривень для товарів і послуг, або 1,500,000 гривень для робіт), а також здійснюється як Допрогова закупівля для всіх інших випадків.", 
+        "name_uk": "Спрощена/Допорогова закупівля", 
+        "description_ru": "Процедура закупки определенная Законом о публичных закупках для Заказчиков в его понимании, которая регулирует закупки в пределах сумм установленних Законом (от 50,000 гривен для товаров, работ и услуг до 200,000 гривен для товаров и услуг, или 1,500,000 гривен для работ), а также осуществляемая как Допроговая закупка для всех остальних случаев.", 
+        "name_ru": "Упрощенная/Допороговая закупка"
     }, 
     "aboveThresholdUA": {
         "autoInitiated": false, 
