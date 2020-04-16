@@ -1,0 +1,14 @@
+{
+  "id": "f4af4ac73b584d68a31a85bf3cf458c5",
+  "procurementMethod": "limited",
+  "mainProcurementCategory": "goods",
+  "procuringEntity": {
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "00000000",
+      "legalName": "Державна установа"
+    },
+    "name": "ДУ",
+    "kind": "general"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "object",
+  "properties": {
+    "scheme": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string"
+    },
+    "legalName": {
+      "type": "string"
+    },
+    "uri": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "scheme",
+    "id"
+  ],
+  "additionalProperties": false
+}

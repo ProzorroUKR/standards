@@ -1,0 +1,19 @@
+{
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "identifier": {
+       "$ref": "Identifier.json"
+    },
+    "kind": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "name",
+    "identifier"
+  ],
+  "additionalProperties": false
+}

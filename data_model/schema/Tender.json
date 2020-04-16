@@ -1,0 +1,48 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "types/md5.json"
+    },
+    "procurementMethod": {
+      "type": "string",
+      "enum": ["open", "limited"]
+    },
+    "mainProcurementCategory": {
+      "type": "string",
+      "enum": ["goods", "services", "works"]
+    },
+    "cause": {
+      "type": "string",
+      "enum": ["quick"]
+    },
+    "procurementMethodRationale": {
+      "type": "string"
+    },
+    "procuringEntity": {
+      "$ref": "ProcuringEntity.json"
+    },
+    "qualifications": {
+      "type": "array",
+      "items": {
+        "$ref": "Qualification.json"
+      }
+    },
+    "awards": {
+      "type": "array",
+      "items": {
+        "$ref": "Award.json"
+      }
+    }
+  },
+  "required": [
+    "id",
+    "procurementMethod",
+    "mainProcurementCategory",
+    "procuringEntity"
+  ],
+  "additionalProperties": false,
+  "dependencies": {
+    "cause": ["procurementMethodRationale"]
+  }
+}

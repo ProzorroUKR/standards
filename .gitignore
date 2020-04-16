@@ -1,0 +1,10 @@
+.idea/
+/*.sqlite3
+/.ve
+.coverage
+*.pyc
+*.mo
+.coverage
+__pycache__
+/media
+docs/_build

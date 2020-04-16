@@ -1,0 +1,22 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "types/md5.json"
+    },
+    "bid_id": {
+      "$ref": "types/md5.json"
+    },
+    "milestones": {
+      "type": "array",
+      "items": {
+        "$ref": "QualificationMilestone.json"
+      }
+    }
+  },
+  "required": [
+    "bid_id",
+    "id"
+  ],
+  "additionalProperties": false
+}
