@@ -5,9 +5,9 @@
         "title_ru": "Заказчик, который осуществляет закупки для нужд обороны"
     }, 
     "general": {
-        "title_en": "Procuring entity (general)", 
-        "title_uk": "Замовник (загальний)", 
-        "title_ru": "Заказчик (общий)"
+        "title_en": "Legal entities that are enterprises, institutions, organizations and their associations provide for the needs of the state or territorial community if such activities are not carried out on an industrial or commercial basis", 
+        "title_uk": "Юридичні особи, які є підприємствами, установами, організаціями та їх об’єднання, які забезпечують потреби держави або територіальної громади, якщо така діяльність не здійснюється на промисловій чи комерційній основі", 
+        "title_ru": "Юридические лица, являющиеся предприятиями, учреждениями, организациями и их объединения, которые обеспечивают потребности государства или территориальной общины, если такая деятельность не осуществляется на промышленной или коммерческой основе"
     }, 
     "other": {
         "title_en": "State and utility companies that are not regarded as procuring entities in the sense of the Law", 
@@ -15,13 +15,23 @@
         "title_ru": "Государственные и коммунальные предприятия, которые не являются заказчиками в понимании Закона"
     }, 
     "special": {
-        "title_en": "Procuring entity that operates in certain spheres of economic activity", 
-        "title_uk": "Замовник, що здійснює діяльність в окремих сферах господарювання", 
-        "title_ru": "Заказчик, который осуществляет деятельность в отдельных сферах хозяйствования"
+        "title_en": "Legal entities and/or business entities that carry out activities in one or more separate business areas", 
+        "title_uk": "Юридичні особи та/або суб’єкти господарювання, які здійснюють діяльність в одній або декількох окремих сферах господарювання", 
+        "title_ru": "Юридические лица и/или субъекты хозяйствования, которые осуществляют деятельность в одной или нескольких отдельных сферах хозяйствования"
     }, 
     "central": {
-        "title_en": "Legal entity that conducts procurement in the interests of the сustomers", 
-        "title_uk": "Юридична особа, що здійснює закупівлі в інтересах замовників", 
-        "title_ru": "Юридическое лицо, которое осуществляет закупки в интересах заказчиков"
+        "title_en": "Legal entity that conducts procurement in the interests of the сustomers (CPB)", 
+        "title_uk": "Юридична особа, що здійснює закупівлі в інтересах замовників (ЦЗО)", 
+        "title_ru": "Юридическое лицо, которое осуществляет закупки в интересах заказчиков (ЦЗО)"
+    },
+    "authority": {
+        "title_en": "Public authorities (legislative, executive, judiciary) and law enforcement agencies, authorities of the Autonomous Republic of Crimea, local self-government bodies, associations of territorial communities", 
+        "title_uk": "Органи державної влади (орган законодавчої, органи виконавчої, судової влади), та правоохоронні органи держави, органи влади Автономної Республіки Крим, органи місцевого самоврядування, об’єднання територіальних громад", 
+        "title_ru": "Органы государственной власти (орган законодательной власти, органы исполнительной, судебной власти), и правоохранительные органы государства, органы власти Автономной Республики Крым, органы местного самоуправления, объединения территориальных общин"
+    },
+    "social": {
+        "title_en": "Pension Fund of Ukraine, special insurance funds for temporary disability, occupational diseases, health insurance and unemployment insurance", 
+        "title_uk": "Пенсійний фонд України, цільові страхові фонди зі страхування у зв’язку з тимчасовою втратою працездатності, від нещасних випадків на виробництві та професійних захворювань, медичного страхування та страхування на випадок безробіття", 
+        "title_ru": "Пенсионный фонд Украины, специальные страховые фонды временной потере трудоспособности, профессиональных заболеваний, медицинского страхования и страхования от безработицы"
     }
 }
