@@ -1,0 +1,25 @@
+{
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "identifier": {
+       "$ref": "Identifier.json"
+    },
+    "contactPoint": {
+      "$ref": "ContactPoint.json"
+    },
+    "address": {
+      "$ref": "Address.json"
+    },
+    "scale": {
+      "type": "string",
+      "enum": ["sme", "large", "mid", "micro", "not specified"]
+  },
+  "required": [
+    "name",
+    "identifier"
+  ],
+  "additionalProperties": false
+}
