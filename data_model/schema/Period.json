@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "properties": {
+    "startDate": {
+      "$ref": "Date.json"
+    },
+    "endDate": {
+      "$ref": "Date.json"
+    }
+  },
+  "additionalProperties": false
+}
