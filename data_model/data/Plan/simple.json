@@ -1,0 +1,79 @@
+{
+    "status": "complete",
+    "buyers": [
+      {
+        "identifier": {
+          "scheme": "UA-EDR",
+          "id": "33965532",
+          "legalName": "СПЕЦІАЛЬНИЙ АВІАЦІЙНИЙ ЗАГІН ОПЕРАТИВНО-РЯТУВАЛЬНОЇ СЛУЖБИ ЦИВІЛЬНОГО ЗАХИСТУ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З НАДЗВИЧАЙНИХ СИТУАЦІЙ"
+        },
+        "name": "СПЕЦІАЛЬНИЙ АВІАЦІЙНИЙ ЗАГІН ОПЕРАТИВНО-РЯТУВАЛЬНОЇ СЛУЖБИ ЦИВІЛЬНОГО ЗАХИСТУ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З НАДЗВИЧАЙНИХ СИТУАЦІЙ"
+      }
+    ],
+    "documents": [
+      {
+        "hash": "md5:516cc5a2a1e9d51ea36559fe0b3aad45",
+        "format": "application/pkcs7-signature",
+        "url": "https://public.docs.openprocurement.org/get/a00114537aec4e5881cf932351f350d9?KeyID=52462340&Signature=sC%2FtrsHG2%252BYXsUyK5ZxfdLMjnwne1Q9EI8ZGZQ73LsODd%252Bu13MOt4CdF0%252BUADe2UiN2PUsGSO4wE5XDtZXgJDw%253D%253D",
+        "title": "sign.p7s",
+        "datePublished": "2019-12-19T23:57:32.382548+02:00",
+        "dateModified": "2019-12-19T23:57:32.382568+02:00",
+        "id": "36d1c08923044667b0c7b470b3fa457e"
+      }
+    ],
+    "classification": {
+      "scheme": "ДК021",
+      "description": "Акумуляторні батареї",
+      "id": "31440000-2"
+    },
+    "id": "2bc0585d20ec4b78876b2b7b4afe459d",
+    "planID": "UA-P-2019-12-19-013663-b",
+    "budget": {
+      "breakdown": [
+        {
+          "description": "",
+          "id": "4fbb1694e54c40b19304c172d168eda7",
+          "value": {
+            "currency": "UAH",
+            "amount": 13800.0
+          },
+          "title": "state"
+        }
+      ],
+      "description": "Акумулятор",
+      "notes": "",
+      "period": {
+        "startDate": "2019-01-01T00:00:00+02:00",
+        "endDate": "2019-12-31T23:59:59.999999+02:00"
+      },
+      "currency": "UAH",
+      "amount": 13800.0,
+      "id": "31440000-2"
+    },
+    "datePublished": "2019-12-19T23:57:07.660407+02:00",
+    "owner": "prom.ua",
+    "additionalClassifications": [
+      {
+        "scheme": "КЕКВ",
+        "id": "2210",
+        "description": "Предмети, матеріали, обладнання та інвентар"
+      }
+    ],
+    "procuringEntity": {
+      "identifier": {
+        "scheme": "UA-EDR",
+        "id": "33965532",
+        "legalName": "СПЕЦІАЛЬНИЙ АВІАЦІЙНИЙ ЗАГІН ОПЕРАТИВНО-РЯТУВАЛЬНОЇ СЛУЖБИ ЦИВІЛЬНОГО ЗАХИСТУ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З НАДЗВИЧАЙНИХ СИТУАЦІЙ"
+      },
+      "name": "СПЕЦІАЛЬНИЙ АВІАЦІЙНИЙ ЗАГІН ОПЕРАТИВНО-РЯТУВАЛЬНОЇ СЛУЖБИ ЦИВІЛЬНОГО ЗАХИСТУ ДЕРЖАВНОЇ СЛУЖБИ УКРАЇНИ З НАДЗВИЧАЙНИХ СИТУАЦІЙ"
+    },
+    "tender": {
+      "procurementMethod": "limited",
+      "procurementMethodType": "reporting",
+      "tenderPeriod": {
+        "startDate": "2019-12-01T02:00:00+02:00"
+      }
+    },
+    "dateModified": "2019-12-20T00:00:20.414204+02:00",
+    "tender_id": "1d861cfa3b85438e831670445c86283a"
+  }

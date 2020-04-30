@@ -1,24 +1,21 @@
 {
   "type": "object",
   "properties": {
+    "telephone": {
+      "type": "string"
+    },
+    "faxNumber": {
+       "$ref": "Identifier.json"
+    },
     "name": {
       "type": "string"
     },
-    "identifier": {
-       "$ref": "Identifier.json"
-    },
-    "contactPoint": {
-      "$ref": "ContactPoint.json"
-    },
-    "address": {
-      "$ref": "Address.json"
-    },
-    "kind": {
+    "email": {
       "type": "string"
+    }
   },
   "required": [
-    "name",
-    "identifier"
+    "name"
   ],
   "additionalProperties": false
 }

@@ -1,0 +1,19 @@
+{
+  "type": "object",
+  "properties": {
+    "currency": {
+      "type": "string"
+    },
+    "amount": {
+      "type": "float"
+    },
+    "valueAddedTaxIncluded": {
+      "type": "boolen"
+    }
+  },
+  "required": [
+    "currency",
+    "amount"
+  ],
+  "additionalProperties": false
+}

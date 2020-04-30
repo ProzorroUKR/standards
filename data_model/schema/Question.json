@@ -1,0 +1,33 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "types/md5.json"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "date": {
+      "$ref": "Date.json"
+    },
+    "questionOf": {
+      "type": "string"
+    },
+    "answer": {
+      "type": "string"
+    },
+    "dateAnswered": {
+      "$ref": "Date.json"
+    }
+  },
+  "required": [
+    "classification",
+    "quantity",
+    "unit",
+    "id"
+  ],
+  "additionalProperties": false
+}

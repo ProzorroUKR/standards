@@ -1,0 +1,25 @@
+{
+  "type": "object",
+  "properties": {
+    "postalCode": {
+      "type": "string"
+    },
+    "countryName": {
+      "type": "string"
+    },
+    "streetAddress": {
+      "type": "string"
+    },
+    "region": {
+      "type": "string"
+    },
+    "locality": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "countryName",
+    "region"
+  ],
+  "additionalProperties": false
+}
