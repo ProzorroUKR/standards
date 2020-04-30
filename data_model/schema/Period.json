@@ -2,10 +2,12 @@
   "type": "object",
   "properties": {
     "startDate": {
-      "$ref": "Date.json"
+      "$ref": "Date.json",
+      "$comment": "початкова дата періоду"
     },
     "endDate": {
-      "$ref": "Date.json"
+      "$ref": "Date.json",
+      "$comment": "кінцева дата періоду"
     }
   },
   "additionalProperties": false

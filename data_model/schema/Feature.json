@@ -1,0 +1,29 @@
+{
+  "type": "object",
+  "properties": {
+    "code": {
+      "$ref": "types/md5.json"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "enum": {
+      "type": "array",
+      "items": {
+        "$ref": "Value.json"
+    },
+    "featureOf": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "classification",
+    "quantity",
+    "unit",
+    "id"
+  ],
+  "additionalProperties": false
+}

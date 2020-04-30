@@ -1,0 +1,61 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "types/md5.json"
+    },
+    "tender_id": {
+      "$ref": "types/md5.json"
+    },
+    "owner": {
+      "type": "string"
+    },
+    "procuringEntity": {
+      "$ref": "ProcuringEntity.json"
+    },
+    "agreementNumber": {
+      "type": "string"
+    },
+    "numberOfContracts": {
+      "type": "number"
+    },
+    "agreementID": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["active", "terminated"]
+    },
+    "dateSigned": {
+      "$ref": "Date.json"
+    },
+    "dateModified": {
+      "$ref": "Date.json"
+    },
+    "period": {
+      "$ref": "Period.json"
+    },
+    "documents": {
+      "type": "array",
+      "items": {
+        "$ref": "Document.json"
+      }
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "$ref": "Item.json"
+      }
+    },
+    "contracts": {
+      "type": "array",
+      "items": {
+        "$ref": "Contract.json"
+      }
+    }
+  },
+  "required": [
+    "id"
+  ],
+  "additionalProperties": false
+}
