@@ -1,30 +1,34 @@
 {   
     "twiceUnsuccessful": {
-        "title_uk": "cт. 40, ч. 2, п. 1 Двічі відмінено процедуру відкритих торгів, у тому числі частково (за лотом), через відсутність достатньої кількості тендерних пропозицій, визначеної цим Законом",
-        "title_en": "ar. 40, s. 2, p. 1 If procuring entity twicely cancelled a tender due to lack of suppliers"
+        "title_uk": "Двічі відмінено процедуру відкритих торгів, у тому числі частково (за лотом), через відсутність достатньої кількості тендерних пропозицій, визначеної цим Законом",
+        "title_en": "If procuring entity twicely cancelled a tender due to lack of suppliers"
     },
     "noCompetition": {
-        "title_uk": "cт. 40, ч. 2, п. 2 Роботи, товари чи послуги можуть бути виконані, поставлені чи надані виключно певним суб’єктом господарювання",
-        "title_en": "ar. 40, s. 2, p. 2 Lack of competition on suited market because of which procurement contract can be established only with one supplier"
+        "title_uk": "Роботи, товари чи послуги можуть бути виконані, поставлені чи надані виключно певним суб’єктом господарювання",
+        "title_en": "Lack of competition on suited market because of which procurement contract can be established only with one supplier"
     },
     "quick": {
-        "title_uk": "cт. 40, ч. 2, п. 3 Виникла нагальна потреба здійснити закупівлю у разі настання підстав, що перераховані в абзацах 2-6 пункту 3 частини 2 статті 40 Закон"
-        "title_en": "ar. 40, s. 2, p. 3 Urgent need to do a procurement due to reasons listed in ar.40, s.2, p.3, sp.2-6"
+        "title_uk": "Виникла нагальна потреба здійснити закупівлю у разі настання підстав, що перераховані в абзацах 2-6 пункту 3 частини 2 статті 40 Закон",
+        "title_en": "Urgent need to do a procurement due to reasons listed in ar.40, s.2, p.3, sp.2-6"
     },
     "additionalPurchase": {
-        "title_uk": "cт. 40, ч. 2, п. 4 Виникла необхідність у постачанні додаткового обсягу товару у того самого постачальника, що здійснюється протягом трьох років після укладення договору про закупівлю і загальна вартість такого постачання не перевищує 50 відсотків ціни договору про закупівлю",
-        "title_en": "ar. 40, s. 2, p. 4 Need to do an additional procurement with the same supplier. Additional purchase must be done with the same supplier in 3 years after signing a contract if it's value is not higher than 50% of original contract"
+        "title_uk": "Виникла необхідність у постачанні додаткового обсягу товару у того самого постачальника, що здійснюється протягом трьох років після укладення договору про закупівлю і загальна вартість такого постачання не перевищує 50 відсотків ціни договору про закупівлю",
+        "title_en": "Need to do an additional procurement with the same supplier. Additional purchase must be done with the same supplier in 3 years after signing a contract if it's value is not higher than 50% of original contract"
     },
     "additionalConstruction": {
-        "title_uk": "cт. 40, ч. 2, п. 5 Виникла необхідність у закупівлі додаткових аналогічних робіт чи послуг у того самого учасника, що передбачені в основному договорі про закупівлю, який укладений за результатами проведення тендера та/або здійснюється протягом трьох років після укладення договору про закупівлю і загальна вартість таких робіт чи послуг не перевищує 50 відсотків ціни основного договору про закупівлю",
-        "title_en": "ar. 40, s. 2, p. 5 Need to do an additional construction works which were not listed in the original project, but these one that due to unseen circumstances became necessary to finish the project. Requirements that need to be met: contract will be established with the same supplier, those works are related to the main (original) project; total costs of additional works are not higher than 50% of the original project"
+        "title_uk": "Виникла необхідність у закупівлі додаткових аналогічних робіт чи послуг у того самого учасника, що передбачені в основному договорі про закупівлю, який укладений за результатами проведення тендера та/або здійснюється протягом трьох років після укладення договору про закупівлю і загальна вартість таких робіт чи послуг не перевищує 50 відсотків ціни основного договору про закупівлю",
+        "title_en": "Need to do an additional construction works which were not listed in the original project, but these one that due to unseen circumstances became necessary to finish the project. Requirements that need to be met: contract will be established with the same supplier, those works are related to the main (original) project; total costs of additional works are not higher than 50% of the original project"
     },
     "resolvingInsolvency": {
-        "title_uk": "cт. 40, ч. 2, п. 6 Закупівля товарів за процедурою відновлення платоспроможності боржника згідно із законодавством",
-        "title_en": "ar. 40, s. 2, p. 6 Goods procurement related to resolving insolvency according to the law"
+        "title_uk": "Закупівля товарів за процедурою відновлення платоспроможності боржника згідно із законодавством",
+        "title_en": "Goods procurement related to resolving insolvency according to the law"
     },
     "stateLegalServices": {  
-        "title_uk": "cт. 40, ч. 2, п. 7 Закупівля юридичних послуг, пов’язаних із захистом прав та інтересів України, захисту національної безпеки і оборони, а також закупівлі товарів, робіт і послуг у разі участі замовника на підставі рішення Кабінету Міністрів України в міжнародних виставкових заходах",
-        "title_en": "ar. 40, s. 2, p. 7 Legal services procurement related to protection of right and interests of Ukraine and procurements related to international exhibitions that was based on Cabinet of Ministers of Ukraine decision"
-    }
+        "title_uk": "Закупівля юридичних послуг, пов’язаних із захистом прав та інтересів України, захисту національної безпеки і оборони, а також закупівлі товарів, робіт і послуг у разі участі замовника на підставі рішення Кабінету Міністрів України в міжнародних виставкових заходах",
+        "title_en": "Legal services procurement related to protection of right and interests of Ukraine and procurements related to international exhibitions that was based on Cabinet of Ministers of Ukraine decision"
+    },
+   "artContestIP": {
+        "title_uk": "Закупівля творів мистецтва або закупівля, пов’язана із захистом прав інтелектуальної власності, або укладення договору про закупівлю з переможцем архітектурного чи мистецького конкурсу",
+        "title_en": "Art procurement or procurement related to protection of rights of intellectual property or contract conclusion with the winner of architecture or art contest"
+   }
 }
