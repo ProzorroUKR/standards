@@ -44,6 +44,7 @@ def process_schema_files(validator, directory, count_name="schema"):
         if os.path.isdir(full_name):
             process_schema_files(validator, full_name)
         else:
+            print(f"Processing {full_name}")
             schema_json = get_json(full_name)
             for e in validator.iter_errors(schema_json):
                 errors.append(e)
