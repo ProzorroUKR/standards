@@ -1,0 +1,69 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "types/md5.json"
+    },
+    "monitoring_id": {
+      "type": "string"
+    },
+    "tender_id": {
+      "$ref": "types/md5.json"
+    },
+    "tender_owner": {
+      "type": "string"
+    },
+    "procuringStages": {
+      "type": "string",
+      "enum": ["planning", "awarding", "contracting"]
+    },
+    "reasons": {
+      "type": "string",
+      "enum": ["public", "risks", "media"]
+    },
+    "dateCreated": {
+      "$ref": "Date.json"
+    },
+    "endDate": {
+      "$ref": "Date.json"
+    },
+    "monitoring_id": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "active", "addressed", "complete"]
+    },
+    "dateModified": {
+      "$ref": "Date.json"
+    },
+    "parties": {
+      "type": "array",
+      "items": {
+        "$ref": "Organization.json"
+      }
+    },
+    "decision": {
+      "$ref": "Decision.json"
+    },
+    "conclusion": {
+      "$ref": "Conclusion.json"
+    },
+    "eliminationReport": {
+      "$ref": "Report.json"
+    },
+    "monitoringPeriod": {
+      "$ref": "Period.json"
+    },
+    "eliminationPeriod": {
+      "$ref": "Period.json"
+    }
+  },
+  "required": [
+    "classification",
+    "quantity",
+    "unit",
+    "id"
+  ],
+  "additionalProperties": false
+}

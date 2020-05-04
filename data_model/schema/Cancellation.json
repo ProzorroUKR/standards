@@ -1,0 +1,40 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "types/md5.json"
+    },
+    "cancellationOf": {
+      "type": "string"
+    },
+    "reasonType": {
+      "type": "string"
+    },
+    "reason": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "pending", "active", "unsuccessful"]
+    },
+    "date": {
+      "$ref": "Date.json"
+    },
+    "documents": {
+      "type": "array",
+      "items": {
+        "$ref": "Document.json"
+      }
+    },
+    "complaints": {
+      "type": "array",
+      "items": {
+        "$ref": "Complaint.json"
+      }
+    }
+  },
+  "required": [
+    "id"
+  ],
+  "additionalProperties": false
+}

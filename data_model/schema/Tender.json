@@ -139,6 +139,12 @@
         "$ref": "Award.json"
       }
     },
+    "complaints": {
+      "type": "array",
+      "items": {
+        "$ref": "Complaint.json"
+      }
+    },
     "contracts": {
       "type": "array",
       "items": {

@@ -4,26 +4,62 @@
     "id": {
       "$ref": "types/md5.json"
     },
-    "procurementMethod": {
-      "type": "string",
-      "enum": ["open", "limited"]
+    "planID": {
+      "type": "string"
     },
-    "mainProcurementCategory": {
-      "type": "string",
-      "enum": ["goods", "services", "works"]
+    "owner": {
+      "type": "string"
     },
     "procuringEntity": {
       "$ref": "ProcuringEntity.json"
+    },
+    "datePublished": {
+      "$ref": "Date.json"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "scheduled", "cancelled", "complete"]
+    },
+    "dateModified": {
+      "$ref": "Date.json"
+    },
+    "classification": {
+      "$ref": "Classification.json"
+    },
+    "additionalClassificaions": {
+      "type": "array",
+      "items": {
+        "$ref": "Classification.json"
+      }
+    },
+    "budget": {
+      "$ref": "Budget.json"
+    },
+    "tender": {
+      "$ref": "Tender.json"
+    },
+    "buyers": {
+      "type": "array",
+      "items": {
+        "$ref": "ProcuringEntity.json"
+      }
+    },
+    "documents": {
+      "type": "array",
+      "items": {
+        "$ref": "Document.json"
+      }
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "$ref": "Item.json"
+      }
     }
   },
   "required": [
     "id",
-    "procurementMethod",
-    "mainProcurementCategory",
     "procuringEntity"
   ],
   "additionalProperties": false,
-  "dependencies": {
-    "cause": ["procurementMethodRationale"]
-  }
 }
