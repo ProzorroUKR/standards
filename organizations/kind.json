@@ -5,23 +5,33 @@
         "title_ru": "Заказчик, который осуществляет закупки для нужд обороны"
     }, 
     "general": {
-        "title_en": "Procuring entity (general)", 
-        "title_uk": "Замовник (загальний)", 
-        "title_ru": "Заказчик (общий)"
+        "title_en": "Legal person providing the needs of the state or territorial community", 
+        "title_uk": "Юридична особа, яка забезпечує потреби держави або територіальної громади", 
+        "title_ru": "Юридическое лицо, обеспечивает потребности государства или территориальной общины"
     }, 
     "other": {
-        "title_en": "State and utility companies that are not regarded as procuring entities in the sense of the Law", 
-        "title_uk": "Державні та комунальні підприємства, які не є замовниками в розумінні Закону", 
-        "title_ru": "Государственные и коммунальные предприятия, которые не являются заказчиками в понимании Закона"
+        "title_en": "State or utility company that is not regarded as procuring entity", 
+        "title_uk": "Державне або комунальне підприємство, яке не належить до замовників", 
+        "title_ru": "Государственное или коммунальное предприятие, которое не относится к заказчикам"
     }, 
     "special": {
-        "title_en": "Procuring entity that operates in certain spheres of economic activity", 
-        "title_uk": "Замовник, що здійснює діяльність в окремих сферах господарювання", 
-        "title_ru": "Заказчик, который осуществляет деятельность в отдельных сферах хозяйствования"
+        "title_en": "A legal entity that operates in one or more specific business areas", 
+        "title_uk": "Юридична особа, яка здійснює діяльність в одній або декількох окремих сферах господарювання", 
+        "title_ru": "Юридическое лицо, осуществляющее деятельность в одной или нескольких отдельных сферах хозяйствования"
     }, 
     "central": {
-        "title_en": "Legal entity that conducts procurement in the interests of the сustomers", 
-        "title_uk": "Юридична особа, що здійснює закупівлі в інтересах замовників", 
-        "title_ru": "Юридическое лицо, которое осуществляет закупки в интересах заказчиков"
+        "title_en": "Legal entity that conducts procurement in the interests of the сustomers (CPB)", 
+        "title_uk": "Юридична особа, що здійснює закупівлі в інтересах замовників (ЦЗО)", 
+        "title_ru": "Юридическое лицо, которое осуществляет закупки в интересах заказчиков (ЦЗО)"
+    },
+    "authority": {
+        "title_en": "Public authority, local government or law enforcement agency", 
+        "title_uk": "Орган державної влади, місцевого самоврядування або правоохоронний орган", 
+        "title_ru": "Орган государственной власти, местного самоуправления или правоохранительный орган"
+    },
+    "social": {
+        "title_en": "Social insurance authority", 
+        "title_uk": "Орган соціального страхування", 
+        "title_ru": "Орган социального страхования"
     }
 }
