@@ -60,9 +60,6 @@
     }
   },
   "required": [
-    "classification",
-    "quantity",
-    "unit",
     "id"
   ],
   "additionalProperties": false

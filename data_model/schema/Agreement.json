@@ -2,7 +2,8 @@
   "type": "object",
   "properties": {
     "id": {
-      "$ref": "types/md5.json"
+      "$ref": "types/md5.json",
+      "$comment": ""
     },
     "tender_id": {
       "$ref": "types/md5.json"
@@ -14,26 +15,30 @@
       "$ref": "ProcuringEntity.json"
     },
     "agreementNumber": {
-      "type": "string"
+      "type": "string",
+      "$comment": ""
     },
     "numberOfContracts": {
       "type": "number"
     },
     "agreementID": {
-      "type": "string"
+      "type": "string",
+      "$comment": ""
     },
     "status": {
       "type": "string",
-      "enum": ["active", "terminated"]
+      "enum": ["pending", "cancelled", "unsuccessful", "active", "terminated"]
     },
     "dateSigned": {
-      "$ref": "Date.json"
+      "$ref": "Date.json",
+      "$comment": "дата підписання угоди"
     },
     "dateModified": {
       "$ref": "Date.json"
     },
     "period": {
-      "$ref": "Period.json"
+      "$ref": "Period.json",
+      "$comment": "період чинності угоди"
     },
     "documents": {
       "type": "array",

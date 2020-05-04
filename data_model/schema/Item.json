@@ -11,7 +11,7 @@
       "$ref": "Classification.json"
     },
     "quantity": {
-      "type": "float"
+      "type": "integer"
     },
     "unit": {
       "$ref": "Unit.json"

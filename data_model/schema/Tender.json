@@ -41,24 +41,18 @@
     },
     "procurementMethodType": {
       "type": "string",
-      "enum": {
-        "$ref": "procurement_method_type.json"
-      }
+      "enum": ["aboveThresholdUA", "aboveThresholdEU"]
     },
     "cause": {
       "type": "string",
-      "enum":  {
-        "$ref": "cause.json"
-      }
+      "enum":  ["", ""]
     },
     "causeDescription": {
       "type": "string"
     },
     "mainProcurementCategory": {
       "type": "string",
-      "enum": {
-        "$ref": "main_procurement_category.json"
-      }
+      "enum": ["services", "goods", "works"]
     },
     "value": {
       "$ref": "Value.json"

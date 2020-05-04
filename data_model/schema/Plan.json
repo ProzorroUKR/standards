@@ -54,12 +54,12 @@
       "type": "array",
       "items": {
         "$ref": "Item.json"
-      }
+        }
     }
   },
   "required": [
     "id",
     "procuringEntity"
   ],
-  "additionalProperties": false,
+  "additionalProperties": false
 }

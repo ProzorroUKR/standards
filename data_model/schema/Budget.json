@@ -17,7 +17,7 @@
       "type": "string"
     },
     "amount": {
-      "type": "float"
+      "type": "integer"
     },
     "breakdown": {
       "$ref": "Breakdown.json"

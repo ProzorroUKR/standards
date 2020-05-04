@@ -6,7 +6,7 @@
     },
     "status": {
       "type": "string",
-      "enum": ["active.tendering", "active.awarded", "cancelled", "unsuccessful"]
+      "enum": ["draft", "active", "invalid", "unsuccessful", "cancelled", "deleted"]
     },
     "date": {
       "$ref": "Date.json"
@@ -17,26 +17,32 @@
         "$ref": "Document.json"
       }
     },
-    "parameters": {
-      "type": "array",
-      "items": {
-        "$ref": "Parameter.json"
-      }
-    },
     "tenderers": {
       "type": "array",
       "items": {
         "$ref": "Organization.json"
       }
     },
+    "parameters": {
+      "type": "array",
+      "items": {
+        "$ref": "Parameter.json"
+      }
+    },
+    "lotValues": {
+      "type": "array",
+      "items": {
+        "$ref": "LotValue.json"
+      }
+    },
     "participationUrl": {
       "type": "string"
     },
     "selfEligible": {
-      "type": "boolen"
+      "type": "boolean"
     },
     "selfQualified": {
-      "type": "boolen"
+      "type": "boolean"
     },
     "value": {
       "$ref": "Value.json"

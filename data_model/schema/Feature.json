@@ -17,13 +17,11 @@
     },
     "featureOf": {
       "type": "string"
+      }
     }
   },
   "required": [
-    "classification",
-    "quantity",
-    "unit",
-    "id"
+    "code"
   ],
   "additionalProperties": false
 }
