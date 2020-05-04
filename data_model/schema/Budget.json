@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    },
+    "period": {
+      "$ref": "Period.json"
+    },
+    "currency": {
+      "type": "string"
+    },
+    "amount": {
+      "type": "float"
+    },
+    "breakdown": {
+      "$ref": "Breakdown.json"
+    }
+  },
+  "required": [
+    "id"
+  ],
+  "additionalProperties": false
+}

@@ -12,6 +12,12 @@
       "items": {
         "$ref": "QualificationMilestone.json"
       }
+    },
+    "complaints": {
+      "type": "array",
+      "items": {
+        "$ref": "Complaint.json"
+      }
     }
   },
   "required": [
