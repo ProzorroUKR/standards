@@ -15,6 +15,7 @@
     },
     "kind": {
       "type": "string"
+    }
   },
   "required": [
     "name",

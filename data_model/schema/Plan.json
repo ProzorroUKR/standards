@@ -61,5 +61,5 @@
     "id",
     "procuringEntity"
   ],
-  "additionalProperties": false,
+  "additionalProperties": false
 }

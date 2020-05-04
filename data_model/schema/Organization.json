@@ -16,6 +16,7 @@
     "scale": {
       "type": "string",
       "enum": ["sme", "large", "mid", "micro", "not specified"]
+    }
   },
   "required": [
     "name",
