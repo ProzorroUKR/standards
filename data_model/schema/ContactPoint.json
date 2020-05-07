@@ -5,7 +5,7 @@
       "type": "string"
     },
     "faxNumber": {
-       "$ref": "Identifier.json"
+       "type": "string"
     },
     "name": {
       "type": "string"

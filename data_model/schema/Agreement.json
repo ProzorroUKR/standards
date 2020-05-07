@@ -19,7 +19,7 @@
       "$comment": ""
     },
     "numberOfContracts": {
-      "type": "number"
+      "type": "integer"
     },
     "agreementID": {
       "type": "string",

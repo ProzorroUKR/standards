@@ -51,7 +51,9 @@
     }
   },
   "required": [
-    "id"
+    "id",
+    "author",
+    "title"
   ],
   "additionalProperties": false
 }
