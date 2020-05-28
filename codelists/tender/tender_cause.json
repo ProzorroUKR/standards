@@ -1,34 +1,110 @@
-{   
-    "twiceUnsuccessful": {
-        "title_uk": "Двічі відмінено процедуру відкритих торгів, у тому числі частково (за лотом), через відсутність достатньої кількості тендерних пропозицій, визначеної цим Законом",
-        "title_en": "If procuring entity twicely cancelled a tender due to lack of suppliers"
-    },
-    "noCompetition": {
-        "title_uk": "Роботи, товари чи послуги можуть бути виконані, поставлені чи надані виключно певним суб’єктом господарювання",
-        "title_en": "Lack of competition on suited market because of which procurement contract can be established only with one supplier"
-    },
-    "quick": {
-        "title_uk": "Виникла нагальна потреба здійснити закупівлю у разі настання підстав, що перераховані в абзацах 2-6 пункту 3 частини 2 статті 40 Закон",
-        "title_en": "Urgent need to do a procurement due to reasons listed in ar.40, s.2, p.3, sp.2-6"
-    },
-    "additionalPurchase": {
-        "title_uk": "Виникла необхідність у постачанні додаткового обсягу товару у того самого постачальника, що здійснюється протягом трьох років після укладення договору про закупівлю і загальна вартість такого постачання не перевищує 50 відсотків ціни договору про закупівлю",
-        "title_en": "Need to do an additional procurement with the same supplier. Additional purchase must be done with the same supplier in 3 years after signing a contract if it's value is not higher than 50% of original contract"
-    },
-    "additionalConstruction": {
-        "title_uk": "Виникла необхідність у закупівлі додаткових аналогічних робіт чи послуг у того самого учасника, що передбачені в основному договорі про закупівлю, який укладений за результатами проведення тендера та/або здійснюється протягом трьох років після укладення договору про закупівлю і загальна вартість таких робіт чи послуг не перевищує 50 відсотків ціни основного договору про закупівлю",
-        "title_en": "Need to do an additional construction works which were not listed in the original project, but these one that due to unseen circumstances became necessary to finish the project. Requirements that need to be met: contract will be established with the same supplier, those works are related to the main (original) project; total costs of additional works are not higher than 50% of the original project"
-    },
-    "resolvingInsolvency": {
-        "title_uk": "Закупівля товарів за процедурою відновлення платоспроможності боржника згідно із законодавством",
-        "title_en": "Goods procurement related to resolving insolvency according to the law"
-    },
-    "stateLegalServices": {  
-        "title_uk": "Закупівля юридичних послуг, пов’язаних із захистом прав та інтересів України, захисту національної безпеки і оборони, а також закупівлі товарів, робіт і послуг у разі участі замовника на підставі рішення Кабінету Міністрів України в міжнародних виставкових заходах",
-        "title_en": "Legal services procurement related to protection of right and interests of Ukraine and procurements related to international exhibitions that was based on Cabinet of Ministers of Ukraine decision"
-    },
-   "artContestIP": {
-        "title_uk": "Закупівля творів мистецтва або закупівля, пов’язана із захистом прав інтелектуальної власності, або укладення договору про закупівлю з переможцем архітектурного чи мистецького конкурсу",
-        "title_en": "Art procurement or procurement related to protection of rights of intellectual property or contract conclusion with the winner of architecture or art contest"
-   }
+{
+  "twiceUnsuccessful": {
+    "title_uk": "Двічі відмінено процедуру відкритих торгів, у тому числі частково (за лотом), через відсутність достатньої кількості тендерних пропозицій, визначеної цим Законом",
+    "title_en": "If procuring entity twicely cancelled a tender due to lack of suppliers",
+    "archive": false,
+    "parent": "None"
+  },
+  "noCompetition": {
+    "title_uk": "Роботи, товари чи послуги можуть бути виконані, поставлені чи надані виключно певним суб’єктом господарювання",
+    "title_en": "Lack of competition on suited market because of which procurement contract can be established only with one supplier",
+    "archive": true,
+    "parent": "None"
+  },
+  "quick": {
+    "title_uk": "У замовника виникла нагальна потреба здійснити закупівлю у разі настання підстав передбачених Законом",
+    "title_en": "Urgent need to do a procurement due to reasons listed in Law",
+    "archive": true,
+    "parent": "None"
+  },
+  "additionalPurchase": {
+    "title_uk": "Виникла необхідність у постачанні додаткового обсягу товару у того самого постачальника, що здійснюється протягом трьох років після укладення договору про закупівлю і загальна вартість такого постачання не перевищує 50 відсотків ціни договору про закупівлю",
+    "title_en": "Need to do an additional procurement with the same supplier. Additional purchase must be done with the same supplier in 3 years after signing a contract if it's value is not higher than 50% of original contract",
+    "archive": false,
+    "parent": "None"
+  },
+  "additionalConstruction": {
+    "title_uk": "Виникла необхідність у закупівлі додаткових аналогічних робіт чи послуг у того самого учасника, що передбачені в основному договорі про закупівлю, який укладений за результатами проведення тендера та/або здійснюється протягом трьох років після укладення договору про закупівлю і загальна вартість таких робіт чи послуг не перевищує 50 відсотків ціни основного договору про закупівлю",
+    "title_en": "Need to do an additional construction works which were not listed in the original project, but these one that due to unseen circumstances became necessary to finish the project. Requirements that need to be met: contract will be established with the same supplier, those works are related to the main (original) project; total costs of additional works are not higher than 50% of the original project",
+    "archive": false,
+    "parent": "None"
+  },
+  "resolvingInsolvency": {
+    "title_uk": "Закупівля товарів за процедурою відновлення платоспроможності боржника згідно із законодавством",
+    "title_en": "Goods procurement related to resolving insolvency according to the law",
+    "archive": false,
+    "parent": "None"
+  },
+  "stateLegalServices": {
+    "title_uk": "Закупівля юридичних послуг, пов’язаних із захистом прав та інтересів України, захисту національної безпеки і оборони, а також закупівлі товарів, робіт і послуг у разі участі замовника на підставі рішення Кабінету Міністрів України в міжнародних виставкових заходах",
+    "title_en": "Legal services procurement related to protection of right and interests of Ukraine and procurements related to international exhibitions that was based on Cabinet of Ministers of Ukraine decision",
+    "archive": false,
+    "parent": "None"
+  },
+  "artContestIP": {
+    "title_uk": "Закупівля творів мистецтва або закупівля, пов’язана із захистом прав інтелектуальної власності, або укладення договору про закупівлю з переможцем архітектурного чи мистецького конкурсу",
+    "title_en": "Art procurement or procurement related to protection of rights of intellectual property or contract conclusion with the winner of architecture or art contest",
+    "archive": true,
+    "parent": "None"
+  },
+  "artPurchase": {
+    "title_uk": "Предмет закупівлі полягає у створенні або придбанні витвору мистецтва",
+    "title_en": "Procurement related to creation or purchase of artwork",
+    "archive": false,
+    "parent": "noCompetition"
+  },
+  "contestWinner": {
+    "title_uk": "Укладення договору з переможцем архітектурного або мистецького конкурсу",
+    "title_en": "Conclusion of contract with the winner of architecture or art contest",
+    "archive": false,
+    "parent": "noCompetition"
+  },
+  "technicalReasons": {
+    "title_uk": "Відсутність конкуренції з технічних причин",
+    "title_en": "Lack of competition due to technical reasons",
+    "archive": false,
+    "parent": "noCompetition"
+  },
+  "intProperty": {
+    "title_uk": "Необхідність захисту прав інтелектуальної власності",
+    "title_en": "Necessity of protecting intellectual property rights",
+    "archive": false,
+    "parent": "noCompetition"
+  },
+  "lastHope": {
+    "title_uk": "Укладення договору з постачальником останньої надії",
+    "title_en": "Conclusion of contract with the last hope supplier",
+    "archive": false,
+    "parent": "noCompetition"
+  },
+  "emergency": {
+    "title_uk": "Виникнення особливих економічних обставин з негайною ліквідацією наслідків надзвичайних ситуацій",
+    "title_en": "Occurrence of special economical reasons related to emergency management",
+  "archive": false,
+  "parent": "quick"
+ },
+ "humanitarianAid": {
+  "title_uk": "Надання Україною гуманітарної допомоги іншим державам",
+  "title_en": "Occurrence of special economical reasons related to emergency management",
+  "archive": false,
+  "parent": "quick"
+ },
+ "contractCancelled": {
+  "title_uk": "Розірвання договору про закупівлю з вини учасника",
+  "title_en": "Termination of an agreement by the fault of supplier",
+  "archive": false,
+  "parent": "quick"
+ },
+ "activeComplaint": {
+  "title_uk": "Оскарження прийнятих рішень, дій чи бездіяльності замовника щодо триваючого тендера",
+  "title_en": "Unfinished complaining process in active procurement",
+  "archive": false,
+  "parent": "quick"
+ },
+ "defence": {
+  "title_uk": "Здійснення закупівлі товарів, робіт і послуг для забезпечення потреб оборони під час дії правового режиму воєнного стану",
+  "title_en": "Procurement related to needs of defence sector during active martial law",
+  "archive": false,
+  "parent": "quick"
+ }
 }
