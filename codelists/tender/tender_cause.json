@@ -12,7 +12,7 @@
     "parent": null
   },
   "quick": {
-    "title_uk": "У замовника виникла нагальна потреба здійснити закупівлю у разі настання підстав передбачених Законом",
+    "title_uk": "Виникла нагальна потреба здійснити закупівлю через настання підстав передбачених Законом",
     "title_en": "Urgent need to do a procurement due to reasons listed in Law",
     "archive": true,
     "parent": null
@@ -101,9 +101,9 @@
   "archive": false,
   "parent": "quick"
  },
- "defence": {
-  "title_uk": "Здійснення закупівлі товарів, робіт і послуг для забезпечення потреб оборони під час дії правового режиму воєнного стану",
-  "title_en": "Procurement related to needs of defence sector during active martial law",
+ "general": {
+  "title_uk": "Закупівля нафти, нафтопродуктів сирих, електричної енергії, послуг з її передання та розподілу, централізованого постачання теплової енергії, централізованого постачання гарячої води, послуг з централізованого опалення, телекомунікаційних послуг, у тому числі з трансляції радіо- та телесигналів, послуг з централізованого водопостачання та/або водовідведення та послуг з перевезення залізничним транспортом загального користування",
+  "title_en": "Purchase of oil, crude oil products, electrical energy, energy transfer and distribution services, thermal energy centralized delivery, hot water centralized delivery, centralized heating services, telecomunications services including radio and tv broadcast, centralized water supply and drainage services, railway transportation services",
   "archive": false,
   "parent": "quick"
  }
