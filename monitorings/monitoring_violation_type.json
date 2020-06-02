@@ -69,7 +69,7 @@
         "title_uk": "Порушення строків розгляду тендерної пропозиції",
         "title_ru": "Нарушение сроков рассмотрения тендерного предложения"
     },
-    "administrativePenalties": {
+    "administrativePenaltiesPart1": {
         "title_en": "The actions provided for in paragraph 1 of this Article are committed by a person who has been subject to administrative penalties for the same violations during the year",
         "title_uk": "Дії, передбачені частиною першою цієї статті, вчинені особою, яку протягом року було піддано адміністративному стягненню за такі ж порушення",
         "title_ru": "Действия, предусмотренные частью первой настоящей статьи, совершенные лицом, которое в течение года было подвергнуто административному взысканию за такие же нарушения"
@@ -99,7 +99,7 @@
         "title_uk": "Порушення строків оприлюднення тендерної документації",
         "title_ru": "Нарушение сроков обнародования тендерной документации"
     },
-    "administrativePenalties": {
+    "administrativePenaltiesPart3": {
         "title_en": "The actions provided for in Part Three of this Article are committed by a person who has been subject to administrative penalties for the same violations during the year",
         "title_uk": "Дії, передбачені частиною третьою цієї статті, вчинені особою, яку протягом року було піддано адміністративному стягненню за такі ж порушення",
         "title_ru": "Действия, предусмотренные частью третьей настоящей статьи, совершенные лицом, которое в течение года было подвергнуто административному взысканию за такие же нарушения"
