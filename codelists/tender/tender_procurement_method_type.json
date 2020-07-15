@@ -148,6 +148,26 @@
         "name_uk": "Закупівля через Централізовану закупівельну організацію",
         "description_ru": "Закупка применяется для приобретения товаров, работ и услуг в интересах заказчиков, которые обязаны осуществлять закупки через централизованную закупочную организацию и/или заказчиков, которые имеют право самостоятельно выбирать централизованную закупочную организацию, на основании заключенного с ней договора.",
         "name_ru": "Закупка через Централизованную закупочную организацию"
+    },      
+    "priceQuotation": {
+        "autoInitiated": false,
+        "procurementMethod": "selective",
+        "description_en": "The procurement approach that is used to purchase goods, works and services, the value of which between 50 and 200 thousand hryvnias.",
+        "name_en": "Price Quotation",
+        "description_uk": "Закупівля, що застосовується для придбання товарів, робіт і послуг, вартість яких перевищує 50 тисяч гривень, ане не бильше 200 тисяч гривень.",
+        "name_uk": "Запит цінових пропозицій",
+        "description_ru": "Закупка применяется для приобретения товаров, работ и услуг, стоимость которых больше 50 тысяч гривен, но не превышает 200 тысяч гривен.",
+        "name_ru": "Запрос ценовых предложений"
+    }, 
+    "priceQuotation": {
+        "autoInitiated": false,
+        "procurementMethod": "selective",
+        "description_en": "The procurement approach that is used to purchase goods, works and services, the value of which between 50 and 200 thousand hryvnias.",
+        "name_en": "Price Quotation",
+        "description_uk": "Закупівля, що застосовується для придбання товарів, робіт і послуг, вартість яких перевищує 50 тисяч гривень, ане не бильше 200 тисяч гривень.",
+        "name_uk": "Запит цінових пропозицій",
+        "description_ru": "Закупка применяется для приобретения товаров, работ и услуг, стоимость которых больше 50 тысяч гривен, но не превышает 200 тысяч гривен.",
+        "name_ru": "Запрос ценовых предложений"
     },
     "": {
         "autoInitiated": false,
