@@ -1,6 +1,7 @@
 {
   "active.enquiries": {
-    "title_uk": "Період уточнень"
+    "title_uk": "Період уточнень",
+    "title_cfa_uk": "Період запрошення"
   },
   "active.tendering": {
     "title_uk": "Подання пропозицій"
@@ -34,4 +35,8 @@
   },
   "draft.unsuccessful": {
     "title_uk": "Неуспішна закупівля"
+  },
+  "draft.pending": {
+   "title_uk": "Неактивоване запрошення"
   }
+}
