@@ -1,0 +1,54 @@
+{
+  "active.enquiries": {
+    "title_uk": "Період уточнень",
+    "title_cfa_uk": "Період запрошення"
+  },
+  "active.tendering": {
+    "title_uk": "Подання пропозицій"
+  },
+  "active.pre-qualification": {
+    "title_uk": "Прекваліфікація"
+  },
+  "active.pre-qualification.stand-still": {
+    "title_uk": "Прекваліфікація (період оскарження)"
+  },
+  "active.auction": {
+    "title_uk": "Аукціон"
+  },
+  "active.qualification": {
+    "title_uk": "Кваліфікація переможця"
+  },
+  "active.qualification.stand-still": {
+    "title_uk": "Кваліфікація переможця (період оскарження)"
+  },
+  "active.awarded": {
+    "title_uk": "Пропозиції розглянуті"
+  },
+  "unsuccessful": {
+    "title_uk": "Торги не відбулися"
+  },
+  "cancelled": {
+    "title_uk": "Торги відмінено"
+  },
+  "complete": {
+    "title_uk": "Завершена"
+  },
+  "draft.unsuccessful": {
+    "title_uk": "Неуспішна закупівля"
+  },
+  "draft.pending": {
+   "title_uk": "Неактивоване запрошення"
+  },
+  "active" : {
+   "title_uk": "Підготовка угоди"
+  },
+  "active.stage2.pending" : {
+   "title_uk": "Підготовка до 2-го етапу"
+  },
+  "active.stage2.waiting" : {
+   "title_uk": "Створення 2-го етапу"
+  },
+  "draft.stage2" : {
+   "title_uk": "Чернетка"
+  }
+}
