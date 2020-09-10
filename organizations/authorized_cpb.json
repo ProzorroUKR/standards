@@ -32,7 +32,7 @@
       "locality": "Київ",
       "postalCode": "01601",
       "region": "м. Київ",
-      "streetAddress": "вул. Грушевського, 7"
+      "streetAddress": "Грушевського, 7"
     },
     "contactPoint": {
       "email": "catalogue@medpro.health",
@@ -43,9 +43,37 @@
     "identifier": {
       "id": "42574629",
       "scheme": "UA-EDR",
+      "legalName_en": "DERZhAVNE PIDPRYEMSTVO \"MEDYChNI ZAKUPIVLI UKRRAINY\"",
       "legalName_uk": "ДЕРЖАВНЕ ПІДПРИЄМСТВО \"МЕДИЧНІ ЗАКУПІВЛІ УКРАЇНИ\""
     },
+    "name_en": "DERZhAVNE PIDPRYEMSTVO \"MEDYChNI ZAKUPIVLI UKRRAINY\"",
     "name_uk": "ДЕРЖАВНЕ ПІДПРИЄМСТВО \"МЕДИЧНІ ЗАКУПІВЛІ УКРАЇНИ\""
+  },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Івано-Франківськ",
+      "postalCode": "76018",
+      "region": "Івано-Франківська область",
+      "streetAddress": "Василянок, 62"
+    },
+    "contactPoint": {
+      "email": "",
+      "faxNumber": "+380 96 942 56 96",
+      "telephone": "+380 96 942 56 96",
+      "url": "",
+      "name_en": "Yurkevych Volodymyr Mykhailovych",
+      "name_uk": "Юркевич Володимир Михайлович"
+    },
+    "identifier": {
+      "id": "43749377",
+      "scheme": "UA-EDR",
+      "legalName_en": "KOMUNALNE PIDPRYEMSTVO \"CENTRALIZOVANA ZAKUPIVELNA ORGANIZACIYA IVANO-FRANKIVSKOI OBLASNOI RADY\"",
+      "legalName_uk": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ ІВАНО-ФРАНКІВСЬКОЇ ОБЛАСНОЇ РАДИ\""
+    },
+    "name_en": "KP \"CZO IVANO-FRANKIVSKOI OBLASNOI RADY\"",
+    "name_uk": "КП \"ЦЗО ІВАНО-ФРАНКІВСЬКОЇ ОБЛАСНОЇ РАДИ\""
   },
   {
     "active": false,
