@@ -19,10 +19,10 @@
     "identifier": {
       "id": "40996564",
       "scheme": "UA-EDR",
-      "legalName_en": "DERZhAVNA USTANOVA \"PROFESIINI ZAKUPIVLI\"",
+      "legalName_en": "STATE INSTITUTION \"PROFESSIONAL PROCUREMENT\"",
       "legalName_uk": "ДЕРЖАВНА УСТАНОВА \"ПРОФЕСІЙНІ ЗАКУПІВЛІ\""
     },
-    "name_en": "DERZhAVNA USTANOVA \"PROFESIINI ZAKUPIVLI\"",
+    "name_en": "STATE AGENCY \"PROFESSIONAL PROCUREMENT\"",
     "name_uk": "ДЕРЖАВНА УСТАНОВА \"ПРОФЕСІЙНІ ЗАКУПІВЛІ\""
   },
   {
@@ -43,10 +43,10 @@
     "identifier": {
       "id": "42574629",
       "scheme": "UA-EDR",
-      "legalName_en": "DERZhAVNE PIDPRYEMSTVO \"MEDYChNI ZAKUPIVLI UKRRAINY\"",
+      "legalName_en": "STATE ENTERPRISE \"MEDICAL PROCUREMENT OF UKRAINE\"",
       "legalName_uk": "ДЕРЖАВНЕ ПІДПРИЄМСТВО \"МЕДИЧНІ ЗАКУПІВЛІ УКРАЇНИ\""
     },
-    "name_en": "DERZhAVNE PIDPRYEMSTVO \"MEDYChNI ZAKUPIVLI UKRRAINY\"",
+    "name_en": "STATE ENTERPRISE \"MEDICAL PROCUREMENT OF UKRAINE\"",
     "name_uk": "ДЕРЖАВНЕ ПІДПРИЄМСТВО \"МЕДИЧНІ ЗАКУПІВЛІ УКРАЇНИ\""
   },
   {
@@ -69,10 +69,10 @@
     "identifier": {
       "id": "43749377",
       "scheme": "UA-EDR",
-      "legalName_en": "KOMUNALNE PIDPRYEMSTVO \"CENTRALIZOVANA ZAKUPIVELNA ORGANIZACIYA IVANO-FRANKIVSKOI OBLASNOI RADY\"",
+      "legalName_en": "MUNICIPAL ENTERPRISE \"CENTRALIZED PURCHASING ORGANIZATION IVANO-FRANKIVSK REGIONAL COUNCIL\"",
       "legalName_uk": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ ІВАНО-ФРАНКІВСЬКОЇ ОБЛАСНОЇ РАДИ\""
     },
-    "name_en": "KP \"CZO IVANO-FRANKIVSKOI OBLASNOI RADY\"",
+    "name_en": "ME \"CPO IVANO-FRANKIVSK REGIONAL COUNCIL\"",
     "name_uk": "КП \"ЦЗО ІВАНО-ФРАНКІВСЬКОЇ ОБЛАСНОЇ РАДИ\""
   },
   {
