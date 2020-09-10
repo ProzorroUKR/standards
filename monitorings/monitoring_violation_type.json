@@ -6,7 +6,7 @@
     }, 
     "corruptionProcurementMethodType": {
         "title_en": "Violation of the legislation in relation to the wrongful election and application of the procurement procedure was established", 
-        "title_uk": "Встановлено порушення законодавства в частині неправомірного обрання та застосування процедури закупівлі", 
+        "title_uk": "Порушення законодавства в частині неправомірного обрання та застосування процедури закупівлі", 
         "title_ru": "Установлены нарушения законодательства в части неправомерного избрания и применения процедуры закупки"
     }, 
     "corruptionPublicDisclosure": {
@@ -21,7 +21,7 @@
     }, 
     "documentsForm": {
         "title_en": "The violation of the legislation in the part of drawing up of documents in the field of public procurement was established", 
-        "title_uk": "Встановлено порушення законодавства в частині складання форм документів у сфері публічних закупівель", 
+        "title_uk": "Порушення законодавства в частині складання форм документів у сфері публічних закупівель", 
         "title_ru": "Установлены нарушения законодательства в части составления форм документов в сфере публичный закупок"
     }, 
     "corruptionAwarded": {
@@ -31,7 +31,7 @@
     }, 
     "corruptionCancelled": {
         "title_en": "The part of non-cancellation by the customer of the purchase", 
-        "title_uk": "Встановлено порушення законодавства в частині не відміни замовником закупівлі", 
+        "title_uk": "Порушення законодавства в частині не відміни замовником закупівлі", 
         "title_ru": "Установлены нарушения законодательства в части не отмены заказчиком закупки"
     }, 
     "corruptionContracting": {
@@ -69,11 +69,6 @@
         "title_uk": "Порушення строків розгляду тендерної пропозиції",
         "title_ru": "Нарушение сроков рассмотрения тендерного предложения"
     },
-    "administrativePenalties": {
-        "title_en": "The actions provided for in paragraph 1 of this Article are committed by a person who has been subject to administrative penalties for the same violations during the year",
-        "title_uk": "Дії, передбачені частиною першою цієї статті, вчинені особою, яку протягом року було піддано адміністративному стягненню за такі ж порушення",
-        "title_ru": "Действия, предусмотренные частью первой настоящей статьи, совершенные лицом, которое в течение года было подвергнуто административному взысканию за такие же нарушения"
-    },
     "servicesWithoutProcurementProcedure": {
         "title_en": "Purchase of goods, works and services before/without procurement/simplified procurement procedures in accordance with the requirements of the law",
         "title_uk": "Придбання товарів, робіт і послуг до/без проведення процедур закупівель/спрощених закупівель відповідно до вимог закону",
@@ -98,11 +93,6 @@
         "title_en": "Violation of the deadline for the publication of the tender documentation",
         "title_uk": "Порушення строків оприлюднення тендерної документації",
         "title_ru": "Нарушение сроков обнародования тендерной документации"
-    },
-    "administrativePenalties": {
-        "title_en": "The actions provided for in Part Three of this Article are committed by a person who has been subject to administrative penalties for the same violations during the year",
-        "title_uk": "Дії, передбачені частиною третьою цієї статті, вчинені особою, яку протягом року було піддано адміністративному стягненню за такі ж порушення",
-        "title_ru": "Действия, предусмотренные частью третьей настоящей статьи, совершенные лицом, которое в течение года было подвергнуто административному взысканию за такие же нарушения"
     },
     "notComplyDecisionACU": {
         "title_en": "Failure to comply with the decision of the Antimonopoly Committee of Ukraine as a body of appeal on the results of consideration of complaints of the subjects of appeal, the submission of which is provided by law",
