@@ -6,8 +6,8 @@
     }, 
     "corruptionProcurementMethodType": {
         "title_en": "Violation of the legislation in relation to the wrongful election and application of the procurement procedure was established", 
-        "title_uk": "Встановлено порушення законодавства в частині неправомірного обрання та застосування процедури закупівлі", 
-        "title_ru": "Установлены нарушения законодательства в части неправомерного избрания и применения процедуры закупки"
+        "title_uk": "Порушення законодавства в частині неправомірного обрання та застосування процедури закупівлі", 
+        "title_ru": "Нарушения законодательства в части неправомерного избрания и применения процедуры закупки"
     }, 
     "corruptionPublicDisclosure": {
         "title_en": "Failure to disclose or violate the timing of the procurement information", 
@@ -21,8 +21,8 @@
     }, 
     "documentsForm": {
         "title_en": "The violation of the legislation in the part of drawing up of documents in the field of public procurement was established", 
-        "title_uk": "Встановлено порушення законодавства в частині складання форм документів у сфері публічних закупівель", 
-        "title_ru": "Установлены нарушения законодательства в части составления форм документов в сфере публичный закупок"
+        "title_uk": "Порушення законодавства в частині складання форм документів у сфері публічних закупівель", 
+        "title_ru": "Нарушения законодательства в части составления форм документов в сфере публичных закупок"
     }, 
     "corruptionAwarded": {
         "title_en": "Rejection of bids that are subject to rejection in accordance with the law", 
@@ -31,8 +31,8 @@
     }, 
     "corruptionCancelled": {
         "title_en": "The part of non-cancellation by the customer of the purchase", 
-        "title_uk": "Встановлено порушення законодавства в частині не відміни замовником закупівлі", 
-        "title_ru": "Установлены нарушения законодательства в части не отмены заказчиком закупки"
+        "title_uk": "Порушення законодавства в частині не відміни замовником закупівлі", 
+        "title_ru": "Нарушения законодательства в части не отмены заказчиком закупки"
     }, 
     "corruptionContracting": {
         "title_en": "Сoncluding with the tenderer who has won the procurement procedure a procurement contract whose terms do not meet the requirements of the tender documentation and/or the tender offer of the winner of the procurement procedure", 
@@ -46,8 +46,8 @@
     }, 
     "other": {
         "title_en": "Other violations of the legislation in the field of procurement are established", 
-        "title_uk": "Встановлено інші порушення законодавства у сфері закупівель", 
-        "title_ru": "Установлены другие нарушения в сфере закупок"
+        "title_uk": "Інші порушення законодавства у сфері закупівель", 
+        "title_ru": "Другие нарушения в сфере закупок"
     },
     "corruptionUntimely": {
         "title_en": "Untimely provision or failure to provide the customer with clarification on the contents of the tender documentation",
@@ -62,32 +62,27 @@
     "corruptionFailureDocuments": {
         "title_en": "Failure to provide information and documents in cases provided for by law",
         "title_uk": "Ненадання інформації, документів у випадках, передбачених законом",
-        "title_ru": "Непредоставление информации, документов в случаях , предусмотренных законом"
+        "title_ru": "Непредоставление информации, документов в случаях, предусмотренных законом"
     },
     "corruptionConsideration": {
         "title_en": "Violation of terms of consideration of the tender offer",
         "title_uk": "Порушення строків розгляду тендерної пропозиції",
         "title_ru": "Нарушение сроков рассмотрения тендерного предложения"
     },
-    "administrativePenalties": {
-        "title_en": "The actions provided for in paragraph 1 of this Article are committed by a person who has been subject to administrative penalties for the same violations during the year",
-        "title_uk": "Дії, передбачені частиною першою цієї статті, вчинені особою, яку протягом року було піддано адміністративному стягненню за такі ж порушення",
-        "title_ru": "Действия, предусмотренные частью первой настоящей статьи, совершенные лицом, которое в течение года было подвергнуто административному взысканию за такие же нарушения"
-    },
     "servicesWithoutProcurementProcedure": {
         "title_en": "Purchase of goods, works and services before/without procurement/simplified procurement procedures in accordance with the requirements of the law",
         "title_uk": "Придбання товарів, робіт і послуг до/без проведення процедур закупівель/спрощених закупівель відповідно до вимог закону",
-        "title_ru": "Приобретение товаров, работ и услуг к/без проведения процедур закупок/упрощенных закупок в соответствии с требованиями закона"
+        "title_ru": "Приобретение товаров, работ и услуг до/без проведения процедур закупок/упрощенных закупок в соответствии с требованиями закона"
     },
     "useProceduresNotByLaw": {
         "title_en": "The use of competitive dialogue or restricted bidding or negotiated procurement procedures on terms not provided by law",
         "title_uk": "Застосування конкурентного діалогу або торгів з обмеженою участю, або переговорної процедури закупівлі на умовах, не передбачених законом",
-        "title_ru": "Применения конкурентного диалога или торгов с ограниченным участием, или переговорной процедуры закупки на условиях, не предусмотренных законом"
+        "title_ru": "Применение конкурентного диалога или торгов с ограниченным участием, или переговорной процедуры закупки на условиях, не предусмотренных законом"
     },
     "rejectionOfBidsNotByLaw": {
         "title_en": "Rejection of bids on grounds not provided for by law or not in accordance with the requirements of the law (groundless rejection)",
         "title_uk": "Відхилення тендерних пропозицій на підставах, не передбачених законом або не у відповідності до вимог закону (безпідставне відхилення)",
-        "title_ru": "Отклонения тендерных предложений на основаниях, не предусмотренных законом или не в соответствии с требованиями закона (безосновательное отклонения)"
+        "title_ru": "Отклонение тендерных предложений на основаниях, не предусмотренных законом или не в соответствии с требованиями закона (безосновательное отклонения)"
     },
     "inaccuratePersonalData": {
         "title_en": "Entering inaccurate personal data into the electronic procurement system and not updating if they are changed",
@@ -99,19 +94,14 @@
         "title_uk": "Порушення строків оприлюднення тендерної документації",
         "title_ru": "Нарушение сроков обнародования тендерной документации"
     },
-    "administrativePenalties": {
-        "title_en": "The actions provided for in Part Three of this Article are committed by a person who has been subject to administrative penalties for the same violations during the year",
-        "title_uk": "Дії, передбачені частиною третьою цієї статті, вчинені особою, яку протягом року було піддано адміністративному стягненню за такі ж порушення",
-        "title_ru": "Действия, предусмотренные частью третьей настоящей статьи, совершенные лицом, которое в течение года было подвергнуто административному взысканию за такие же нарушения"
-    },
     "notComplyDecisionACU": {
         "title_en": "Failure to comply with the decision of the Antimonopoly Committee of Ukraine as a body of appeal on the results of consideration of complaints of the subjects of appeal, the submission of which is provided by law",
         "title_uk": "Невиконання рішення Антимонопольного комітету України як органу оскарження за результатами розгляду скарг суб’єктів оскарження, подання яких передбачено законом",
-        "title_ru": "Невыполнение решения Антимонопольного комитета Украины как орган обжалования по результатам рассмотрения жалоб субъектов обжалования, представление которых предусмотрено законом"
+        "title_ru": "Невыполнение решения Антимонопольного комитета Украины как органа обжалования по результатам рассмотрения жалоб субъектов обжалования, подача которых предусмотрено законом"
     },
     "contractsWithoutProcurement": {
         "title_en": "Conclusion of contracts providing for the payment by the customer of goods, works and services before/without carrying out the procurement/simplified procurement procedures specified by law",
         "title_uk": "Укладення договорів, які передбачають оплату замовником товарів, робіт і послуг до/без проведення процедур закупівель/спрощених закупівель, визначених законом",
-        "title_ru": "Заключение договоров, предусматривающих оплату заказчиком товаров, работ и услуг к/без проведения процедур закупок/упрощенных закупок, определенных законом"
+        "title_ru": "Заключение договоров, предусматривающих оплату заказчиком товаров, работ и услуг до/без проведения процедур закупок/упрощенных закупок, определенных законом"
     }
 }
