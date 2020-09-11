@@ -7,7 +7,7 @@
     "corruptionProcurementMethodType": {
         "title_en": "Violation of the legislation in relation to the wrongful election and application of the procurement procedure was established", 
         "title_uk": "Порушення законодавства в частині неправомірного обрання та застосування процедури закупівлі", 
-        "title_ru": "Установлены нарушения законодательства в части неправомерного избрания и применения процедуры закупки"
+        "title_ru": "Нарушения законодательства в части неправомерного избрания и применения процедуры закупки"
     }, 
     "corruptionPublicDisclosure": {
         "title_en": "Failure to disclose or violate the timing of the procurement information", 
@@ -46,8 +46,8 @@
     }, 
     "other": {
         "title_en": "Other violations of the legislation in the field of procurement are established", 
-        "title_uk": "Встановлено інші порушення законодавства у сфері закупівель", 
-        "title_ru": "Установлены другие нарушения в сфере закупок"
+        "title_uk": "Інші порушення законодавства у сфері закупівель", 
+        "title_ru": "Другие нарушения в сфере закупок"
     },
     "corruptionUntimely": {
         "title_en": "Untimely provision or failure to provide the customer with clarification on the contents of the tender documentation",
