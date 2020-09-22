@@ -152,11 +152,11 @@
     "priceQuotation": {
         "autoInitiated": false,
         "procurementMethod": "selective",
-        "description_en": "The procurement approach that is used to purchase goods, works and services, the value of which between 50 and 200 thousand hryvnias.",
+        "description_en": "The procurement approach that is used to purchase goods, the value of which between 50 and 200 thousand hryvnias.",
         "name_en": "Price Quotation",
-        "description_uk": "Закупівля, що застосовується для придбання товарів, робіт і послуг, вартість яких перевищує 50 тисяч гривень, ане не бильше 200 тисяч гривень.",
+        "description_uk": "Закупівля, що застосовується для придбання товарів, вартість яких перевищує 50 тисяч гривень, ане не бильше 200 тисяч гривень.",
         "name_uk": "Запит цінових пропозицій",
-        "description_ru": "Закупка применяется для приобретения товаров, работ и услуг, стоимость которых больше 50 тысяч гривен, но не превышает 200 тысяч гривен.",
+        "description_ru": "Закупка применяется для приобретения товаров, стоимость которых больше 50 тысяч гривен, но не превышает 200 тысяч гривен.",
         "name_ru": "Запрос ценовых предложений"
     }, 
     "": {
