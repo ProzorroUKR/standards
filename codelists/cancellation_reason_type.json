@@ -20,7 +20,7 @@
         "title_en": "procuring entity has made violations that affected objectivness of awarding process"
     },
     "dateViolation": {
-    "title_uk": "непідписання договору про закупівлю у строк 35 днів (20 днів - у разі застосування скороченної переговорної процедури закупівлі, 10 днів - у разі застосування процедури запиту цінових пропозицій)",
-    "title_en": "agreement has not been signed in 35 days (20 days if negotiation quick procedure is used, 10 days if price quotation is used)"
+        "title_uk": "непідписання договору про закупівлю у строк 35 днів (20 днів - у разі застосування скороченної переговорної процедури закупівлі, 10 днів - у разі застосування процедури запиту цінових пропозицій)",
+        "title_en": "agreement has not been signed in 35 days (20 days if negotiation quick procedure is used, 10 days if price quotation is used)"
   }
 }
