@@ -102,7 +102,7 @@
     "reporting": {
         "autoInitiated": false,
         "procurementMethod": "limited",
-        "description_en": "he procurement approach that is used to purchase goods, works and services, the value of which does not exceed 50 thousand hryvnias and is carried out without using an electronic procurement system",
+        "description_en": "The procurement approach that is used to purchase goods, works and services, the value of which does not exceed 50 thousand hryvnias and is carried out without using an electronic procurement system",
         "name_en": "Procurement without using an electronic system",
         "description_uk": "Закупівля, що застосовується для придбання товарів, робіт і послуг, вартість яких не перевищує 50 тисяч гривень і здійснюється без використання електронної системи закупівель.",
         "name_uk": "Закупівля без використання електронної системи",
@@ -148,7 +148,17 @@
         "name_uk": "Закупівля через Централізовану закупівельну організацію",
         "description_ru": "Закупка применяется для приобретения товаров, работ и услуг в интересах заказчиков, которые обязаны осуществлять закупки через централизованную закупочную организацию и/или заказчиков, которые имеют право самостоятельно выбирать централизованную закупочную организацию, на основании заключенного с ней договора.",
         "name_ru": "Закупка через Централизованную закупочную организацию"
-    },
+    },      
+    "priceQuotation": {
+        "autoInitiated": false,
+        "procurementMethod": "selective",
+        "description_en": "The procurement is used to purchase goods, within the limits established by the Law (from 50,000 hryvnias to 200,000 hryvnias) applying digital catalogue.",
+        "name_en": "Price Quotation",
+        "description_uk": "Закупівля, що здійснюється для придбання товарів в межах сум, встановлених Законом (від 50,000 гривень до 200,000 гривень для товарів) з використанням електронного каталогу.",
+        "name_uk": "Запит ціни пропозицій",
+        "description_ru": "Закупка применяется для приобретения товаров в пределах сумм, установленних Законом (от 50,000 гривен до 200,000 гривен для товаров) с использованием электронного каталога.",
+        "name_ru": "Запрос цены предложений"
+    }, 
     "": {
         "autoInitiated": false,
         "procurementMethod": "",
