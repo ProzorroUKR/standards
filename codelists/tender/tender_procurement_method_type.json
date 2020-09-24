@@ -155,9 +155,9 @@
         "description_en": "The procurement is used to purchase goods, within the limits established by the Law (from 50,000 hryvnias to 200,000 hryvnias) applying digital catalogue.",
         "name_en": "Price Quotation",
         "description_uk": "Закупівля, що здійснюється для придбання товарів в межах сум, встановлених Законом (від 50,000 гривень до 200,000 гривень для товарів) з використанням електронного каталогу.",
-        "name_uk": "Запит цінових пропозицій",
+        "name_uk": "Запит ціни пропозицій",
         "description_ru": "Закупка применяется для приобретения товаров в пределах сумм, установленних Законом (от 50,000 гривен до 200,000 гривен для товаров) с использованием электронного каталога.",
-        "name_ru": "Запрос ценовых предложений"
+        "name_ru": "Запрос цены предложений"
     }, 
     "": {
         "autoInitiated": false,
