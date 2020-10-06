@@ -5,7 +5,7 @@
         "source": "tenderer",
         "classification": {
             "scheme": "LCC",
-            "id": "-"
+            "id": "CRITERION.LCC.RUNNING_COSTS"
         },
         "relatesTo": "item",
         "legislation": [
@@ -38,7 +38,7 @@
         "source": "tenderer",
         "classification": {
             "scheme": "LCC",
-            "id": "-"
+            "id": "CRITERION.LCC.MAINTENANCE_COSTS"
         },
         "relatesTo": "item",
         "legislation": [
@@ -71,7 +71,7 @@
         "source": "tenderer",
         "classification": {
             "scheme": "LCC",
-            "id": "-"
+            "id": "CRITERION.LCC.DISPOSAL_COSTS"
         },
         "relatesTo": "item",
         "legislation": [
@@ -104,7 +104,7 @@
         "source": "tenderer",
         "classification": {
             "scheme": "LCC",
-            "id": "-"
+            "id": "CRITERION.LCC.ECOLOGICAL_COSTS"
         },
         "relatesTo": "item",
         "legislation": [
