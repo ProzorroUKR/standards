@@ -3,8 +3,8 @@
         "title": "Мова (мови), якою (якими) повинні готуватися тендерні пропозиції",
         "source": "tenderer",
         "classification": {
-            "scheme": "LANGUAGE",
-            "id": "CRITERION.LANGUAGE"
+            "scheme": "GENERAL",
+            "id": "CRITERION.GENERAL.LANGUAGE"
         },
         "relatesTo": "tender",
         "legislation": [
