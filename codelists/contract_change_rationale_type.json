@@ -1,66 +1,66 @@
 {
     "durationExtension": {
-        "description_en": "extension of the period of the contract duration and obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the contract;", 
+        "description_en": "extension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract", 
         "title_en": "Extension of the period of the contract duration (due to documented objective circumstances)", 
-        "description_uk": "продовження строку дії договору та виконання зобов’язань щодо передання товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі непереборної сили, затримки фінансування витрат замовника, за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі;", 
+        "description_uk": "продовження строку дії договору про закупівлю та строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю", 
         "title_uk": "Продовження строку дії договору (через документально підтверджені об’єктивні обставини)", 
-        "description_ru": "продление срока действия договора и выполнения обязательств по передаче товара, выполнению работ, оказанию услуг в случае возникновения документально подтвержденных объективных обстоятельств, повлекших такое продление, в том числе непреодолимой силы, задержки финансирования расходов заказчика, при условии, что такие изменения не приведут к увеличению суммы, обозначенной в договоре;", 
+        "description_ru": "продление срока действия договора о закупке и срока выполнения обязательств по передаче товара, выполнению работ, оказанию услуг в случае возникновения документально подтвержденных объективных обстоятельств, повлекших такое продление, в том числе обстоятельств непреодолимой силы, задержки финансирования расходов заказчика, при условии что такие изменения не приведут к увеличению суммы, обозначенной в договоре о закупке", 
         "title_ru": "Продление срока действия договора (в случае возникновения документально подтвержденных объективных обстоятельств)"
     }, 
     "fiscalYearExtension": {
-        "description_en": "changes in contract terms according to the provisions of part 5 of this article: 5. Effect of the procurement contract may be continued for a period sufficient for conduction of the procurement procedure at the beginning of the next year in volume that does not exceed 20% of the sum specified in the contract concluded in the previous year, if expenditures for this purpose are approved in the prescribed manner.", 
+        "description_en": "effect of the procurement contract may be extended for a period sufficient for conduction of the procurement procedure/simplified procurement at the beginning of the next year in volume that does not exceed 20% of the sum specified in the initial procurement contract concluded in the previous year, if expenditures for achieving this goal are approved in the prescribed manner", 
         "title_en": "Extension of the period of the contract duration to the next year", 
-        "description_uk": "зміна умов у зв’язку із застосуванням положень частини п'ятої цієї статті: 5. Дія договору про закупівлю може продовжуватися на строк, достатній для проведення процедури закупівлі на початку наступного року, в обсязі, що не перевищує 20 відсотків суми, визначеної в договорі, укладеному в попередньому році, якщо видатки на цю мету затверджено в установленому порядку.", 
+        "description_uk": "дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку", 
         "title_uk": "Продовження строку дії договору на наступний рік", 
-        "description_ru": "изменение условий в связи с применением положений части пятой этой статьи: 5. Действие договора о закупке может продлеваться на срок, достаточный для проведения процедуры закупки в начале следующего года, в объеме, не превышающем 20 процентов суммы, обозначенной в договоре, заключенном в предыдущем году, если расходы на эти цели утверждены в установленном порядке.", 
+        "description_ru": "действие договора о закупке может быть продлено на срок, достаточный для проведения процедуры закупки/упрощенной закупки в начале следующего года в объеме, не превышающем 20 процентов суммы, обозначенной в начальном договоре о закупке, заключенном в предыдущем году, если расходы на достижение этой цели утверждены в установленном порядке", 
         "title_ru": "Продление срока действия договора на следующий год"
     }, 
     "itemPriceVariation": {
-        "description_en": "change in the unit's price (no more than 10%) due to product's price fluctuations on the market, provided that the said change will not increase the sum of money specified in the contract;", 
+        "description_en": "an increase in the unit's price of goods to 10% in proportion to the increase in the price of such goods on the market in the event of fluctuations in the price of such goods on the market, provided that such change does not increase the amount specified in the procurement contract, - not more than once every 90 days from the moment of signing the procurement contract. Restrictions on the terms of price change per unit of goods do not apply in cases of changes in the terms of the contract for the purchase of gasoline and diesel fuel, gas and electricity", 
         "title_en": "Change in the unit's price", 
-        "description_uk": "зміна ціни за одиницю товару не більше ніж на 10 відсотків у разі коливання ціни такого товару на ринку, за умови, що зазначена зміна не призведе до збільшення суми, визначеної в договорі;", 
+        "description_uk": "збільшення ціни за одиницю товару до 10 відсотків пропорційно збільшенню ціни такого товару на ринку у разі коливання ціни такого товару на ринку за умови, що така зміна не призведе до збільшення суми, визначеної в договорі про закупівлю, - не частіше ніж один раз на 90 днів з моменту підписання договору про закупівлю. Обмеження щодо строків зміни ціни за одиницю товару не застосовується у випадках зміни умов договору про закупівлю бензину та дизельного пального, газу та електричної енергії", 
         "title_uk": "Зміна ціни за одиницю товару", 
-        "description_ru": "изменение цены за единицу товара не более чем на 10 процентов в случае колебания цены такого товара на рынке, при условии, что указанное изменение не приведет к увеличению суммы, обозначенной в договоре;", 
+        "description_ru": "увеличение цены за единицу товара до 10 процентов пропорционально увеличению цены такого товара на рынке в случае колебания цены такого товара на рынке при условии, что такое изменение не приведет к увеличению суммы, обозначенной в договоре о закупке, - не чаще одного раза в 90 дней с момента подписания договора о закупке. Ограничения по срокам изменения цены за единицу товара не применяется в случаях изменения условий договора о закупке бензина и дизельного топлива, газа и электрической энергии", 
         "title_ru": "Изменение цены за единицу товара"
     }, 
     "priceReduction": {
-        "description_en": "coordinated downward price change (without changing the quantity (volume) and quality of goods, works, and services);", 
+        "description_en": "approval of price changes in the procurement contract in the direction of reduction (without changing the quantity (volume) and quality of goods, works and services), including in case of fluctuations in the price of goods on the market", 
         "title_en": "Coordinated price reduction", 
-        "description_uk": "узгоджена зміна ціни в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг);", 
+        "description_uk": "погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку", 
         "title_uk": "Узгоджене зменшення ціни", 
-        "description_ru": "согласованное изменение цены в сторону уменьшения (без изменения количества (объема) и качества товаров, работ и услуг);", 
+        "description_ru": "согласование изменения цены в договоре о закупке в сторону уменьшения (без изменения количества (объема) и качества товаров, работ и услуг), в том числе в случае колебания цены товара на рынке", 
         "title_ru": "Согласованное уменьшение цены"
     }, 
     "qualityImprovement": {
-        "description_en": "improvement of the item's quality, provided that such improvement will not increase the sum of money specified in the contract;", 
+        "description_en": "improvement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract", 
         "title_en": "Improvement of the procurement item's quality", 
-        "description_uk": "покращення якості предмета закупівлі за умови, що таке покращення не призведе до збільшення суми, визначеної в договорі;", 
+        "description_uk": "покращення якості предмета закупівлі, за умови що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю", 
         "title_uk": "Покращення якості предмета закупівлі", 
-        "description_ru": "улучшение качества предмета закупки при условии, что такое улучшение не приведет к увеличению суммы, обозначенной в договоре;", 
+        "description_ru": "улучшение качества предмета закупки при условии, что такое улучшение не приведет к увеличению суммы, обозначенной в договоре о закупке", 
         "title_ru": "Улучшение качества предмета закупки"
     }, 
     "taxRate": {
-        "description_en": "price changes due to changes in tax rates and fees in proportion to changes of those rates;", 
+        "description_en": "price changes in the procurement contract due to changes in tax rates and fees and/or changes in the conditions for granting tax benefits - in proportion to changes of such rates and/or tax benefits", 
         "title_en": "Price changes due to changes in tax rates and fees", 
-        "description_uk": "зміна ціни у зв’язку із зміною ставок податків і зборів пропорційно до змін таких ставок;", 
+        "description_uk": "зміна ціни в договорі про закупівлю у зв’язку зі зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до змін таких ставок та/або пільг з оподаткування", 
         "title_uk": "Зміна ціни у зв’язку із зміною ставок податків і зборів", 
-        "description_ru": "изменение цены в связи с изменением ставок налогов и сборов пропорционально изменениям таких ставок;", 
+        "description_ru": "изменение цены в договоре о закупке в связи с изменением ставок налогов и сборов и/или изменением условий о предоставлении льгот по налогообложению - пропорционально изменениям таких ставок и/или льгот по налогообложению", 
         "title_ru": "Изменение цены в связи с изменением ставок налогов и сборов"
     }, 
     "thirdParty": {
-        "description_en": "changes of the established under the law by the State Statistics Service consumer price index, changes in foreign currency rate, changes in stock prices or Platts indices, regulated prices (rates) and standards that are used in the procurement contract if the price change order is specified in the procurement contract;", 
+        "description_en": "changes of the established under the law by the State Statistics Service consumer price index, changes in foreign currency rate, changes in stock prices or Platts indices, ARGUS regulated prices (rates) and standards that are used in the procurement contract if the price change order is specified in the procurement contract", 
         "title_en": "Change of the third-party indicators (rate, indices...)", 
-        "description_uk": "зміна встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, регульованих цін (тарифів) і нормативів, які застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни;", 
+        "description_uk": "зміна встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS регульованих цін (тарифів) і нормативів, що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни", 
         "title_uk": "Зміна сторонніх показників (курсу, тарифів...)", 
-        "description_ru": "изменение установленного в соответствии с законодательством органами государственной статистики индекса потребительских цен, изменения курса иностранной валюты, изменения биржевых котировок или показателей Platts, регулируемых цен (тарифов) и нормативов, которые применяются в договоре о закупке, в случае установления в договоре о закупке порядка изменения цены;", 
+        "description_ru": "изменение установленного в соответствии с законодательством органами государственной статистики индекса потребительских цен, изменения курса иностранной валюты, изменения биржевых котировок или показателей Platts, ARGUS регулируемых цен (тарифов) и нормативов, которые применяются в договоре о закупке, в случае установления в договоре о закупке порядка изменения цены", 
         "title_ru": "Изменение посторонних показателей (курса, тарифов ...)"
     }, 
     "volumeCuts": {
-        "description_en": "reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity;", 
+        "description_en": "reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity", 
         "title_en": "Reduction of the procurement's volume", 
-        "description_uk": "зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника;", 
+        "description_uk": "зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника", 
         "title_uk": "Зменшення обсягів закупівлі", 
-        "description_ru": "уменьшение объемов закупки, в частности с учетом фактического объема расходов заказчика;", 
+        "description_ru": "уменьшение объемов закупки, в частности с учетом фактического объема расходов заказчика", 
         "title_ru": "Уменьшение объемов закупки"
     }
 }
