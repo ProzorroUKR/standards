@@ -3,8 +3,8 @@
         "title": "Мова (мови), якою (якими) повинні готуватися тендерні пропозиції",
         "source": "tenderer",
         "classification": {
-            "scheme": "GENERAL",
-            "id": "CRITERION.GENERAL.LANGUAGE"
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.BID.LANGUAGE"
         },
         "relatesTo": "tender",
         "legislation": [
