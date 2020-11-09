@@ -20,7 +20,15 @@
     ],
            "requirementGroups": [
             {
-                "description": "Учасник підтверджує, що"
+                "description": "Учасник підтверджує, що",
+                "requirements": [
+                  {
+                        "title": "Мова тендерної пропозиції українська",
+                        "dataType": "boolean",
+                        "expectedValue": "true"
+                    }
+                    ]
+                
             }
         ]
     }
