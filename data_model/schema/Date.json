@@ -1,0 +1,5 @@
+{
+  "type": "string",
+  "format": "date-time",
+  "$comment": "дата/час у форматі ISO 8601"
+}

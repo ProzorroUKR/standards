@@ -1,0 +1,58 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "types/md5.json"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "active", "invalid", "unsuccessful", "cancelled", "deleted"]
+    },
+    "date": {
+      "$ref": "Date.json"
+    },
+    "documents": {
+      "type": "array",
+      "items": {
+        "$ref": "Document.json"
+      }
+    },
+    "tenderers": {
+      "type": "array",
+      "items": {
+        "$ref": "Organization.json"
+      }
+    },
+    "parameters": {
+      "type": "array",
+      "items": {
+        "$ref": "Parameter.json"
+      }
+    },
+    "lotValues": {
+      "type": "array",
+      "items": {
+        "$ref": "LotValue.json"
+      }
+    },
+    "participationUrl": {
+      "type": "string"
+    },
+    "selfEligible": {
+      "type": "boolean"
+    },
+    "selfQualified": {
+      "type": "boolean"
+    },
+    "value": {
+      "$ref": "Value.json"
+    },
+    "subcontractingDetails": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id"
+  ],
+  "additionalProperties": false
+}

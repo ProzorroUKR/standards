@@ -1,0 +1,59 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "types/md5.json"
+    },
+    "complaintID": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["claim", "complaint"]
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "pending", "accepted", "resolved"]
+    },
+    "date": {
+      "$ref": "Date.json"
+    },
+    "dateSubmitted": {
+      "$ref": "Date.json"
+    },
+    "dateAnswered": {
+      "$ref": "Date.json"
+    },
+    "author": {
+      "$ref": "Organization.json"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "resolution": {
+      "type": "string"
+    },
+    "resolutionType": {
+      "type": "string",
+      "enum": ["invalid", "resolved"]
+    },
+    "documents": {
+      "type": "array",
+      "items": {
+        "$ref": "Document.json"
+      }
+    },
+    "bid_id": {
+      "$ref": "types/md5.json"
+    }
+  },
+  "required": [
+    "id",
+    "author",
+    "title"
+  ],
+  "additionalProperties": false
+}

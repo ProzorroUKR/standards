@@ -1,0 +1,36 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "types/md5.json"
+    },
+    "hash": {
+      "type": "string"
+    },
+    "documentType": {
+      "type": "string"
+    },
+    "format": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "datePublished": {
+      "$ref": "Date.json"
+    },
+    "dateModified": {
+      "$ref": "Date.json"
+    },
+    "documentOf": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id"
+  ],
+  "additionalProperties": false
+}

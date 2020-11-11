@@ -1,0 +1,48 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "types/md5.json"
+    },
+    "cancellationOf": {
+      "type": "string",
+      "enum": ["tender", "lot"]
+    },
+    "reasonType": {
+      "type": "string",
+      "enum": ["noDemand", "unFixable", "noObjectiveness", "expensesCut", "dateViolation"]
+    },
+    "reason": {
+      "type": "string",
+      "$comment": "причина скасування закупівлі"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "pending", "active", "unsuccessful"]
+    },
+    "date": {
+      "$ref": "Date.json"
+    },
+    "complaintPeriod": {
+      "$ref": "Period.json"
+    },
+    "documents": {
+      "type": "array",
+      "items": {
+        "$ref": "Document.json"
+      }
+    },
+    "complaints": {
+      "type": "array",
+      "items": {
+        "$ref": "Complaint.json"
+      }
+    }
+  },
+  "required": [
+    "id",
+    "reason",
+    "cancellationOf"
+  ],
+  "additionalProperties": false
+}

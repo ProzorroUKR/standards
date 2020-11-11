@@ -1,0 +1,21 @@
+{
+  "type": "object",
+  "properties": {
+    "telephone": {
+      "type": "string"
+    },
+    "faxNumber": {
+       "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "name"
+  ],
+  "additionalProperties": false
+}

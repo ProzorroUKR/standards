@@ -1,0 +1,66 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "types/md5.json",
+      "$comment": ""
+    },
+    "tender_id": {
+      "$ref": "types/md5.json"
+    },
+    "owner": {
+      "type": "string"
+    },
+    "procuringEntity": {
+      "$ref": "ProcuringEntity.json"
+    },
+    "agreementNumber": {
+      "type": "string",
+      "$comment": ""
+    },
+    "numberOfContracts": {
+      "type": "integer"
+    },
+    "agreementID": {
+      "type": "string",
+      "$comment": ""
+    },
+    "status": {
+      "type": "string",
+      "enum": ["pending", "cancelled", "unsuccessful", "active", "terminated"]
+    },
+    "dateSigned": {
+      "$ref": "Date.json",
+      "$comment": "дата підписання угоди"
+    },
+    "dateModified": {
+      "$ref": "Date.json"
+    },
+    "period": {
+      "$ref": "Period.json",
+      "$comment": "період чинності угоди"
+    },
+    "documents": {
+      "type": "array",
+      "items": {
+        "$ref": "Document.json"
+      }
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "$ref": "Item.json"
+      }
+    },
+    "contracts": {
+      "type": "array",
+      "items": {
+        "$ref": "Contract.json"
+      }
+    }
+  },
+  "required": [
+    "id"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,28 @@
+{
+  "type": "object",
+  "properties": {
+    "value": {
+      "$ref": "Value.json",
+      "$comment": "цінова пропозиція"
+    },
+    "date": {
+      "$ref": "Date.json"
+    },
+    "participationUrl": {
+      "type": "string",
+      "$comment": "посилання для участі в аукціоні"
+    },
+    "relatedLot": {
+      "$ref": "types/md5.json",
+      "$comment": "ідентифікатор Lot до якого відноситься цінова пропозиція"
+    },
+    "subcontractingDetails": {
+      "type": "string",
+      "$comment": "інформація про субпідрядника"
+    }
+  },
+  "required": [
+    "value"    
+  ],
+  "additionalProperties": false
+}

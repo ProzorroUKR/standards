@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "properties": {
+    "code": {
+      "type": "string",
+      "$comment": "код критерію"
+    },
+    "value": {
+      "type": "string",
+      "$comment": "значення критерію"
+    }
+  },
+  "required": [
+    "code",
+    "value"
+  ],
+  "additionalProperties": false
+}

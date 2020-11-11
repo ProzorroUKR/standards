@@ -1,0 +1,33 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "types/md5.json"
+    },
+    "description": {
+      "type": "string"
+    },
+    "classification": {
+      "$ref": "Classification.json"
+    },
+    "quantity": {
+      "type": "integer"
+    },
+    "unit": {
+      "$ref": "Unit.json"
+    },
+    "deliveryAddress": {
+      "$ref": "Address.json"
+    },
+    "deliveryDate": {
+      "$ref": "Period.json"
+    }
+  },
+  "required": [
+    "classification",
+    "quantity",
+    "unit",
+    "id"
+  ],
+  "additionalProperties": false
+}

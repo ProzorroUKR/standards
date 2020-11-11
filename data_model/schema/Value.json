@@ -1,0 +1,27 @@
+{
+  "type": "object",
+  "properties": {
+    "amount": {
+      "type": "integer",
+      "$comment": "кількість як число"
+    },
+    "currency": {
+      "type": "string",
+      "$comment": "валюта у форматі ISO 4217"
+    },
+    "valueAddedTaxIncluded": {
+      "type": "boolean",
+      "$comment": "наявність/відсутність ПДВ"
+    }
+  },
+  "required": [
+      "amount",
+      "currency"
+  ],
+  "additionalProperties": {
+    "annualCostsReduction": {
+      "type": "integer",
+      "$comment": ""
+    }
+  }
+}
