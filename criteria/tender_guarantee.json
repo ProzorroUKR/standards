@@ -20,14 +20,7 @@
     ],
            "requirementGroups": [
             {
-                "description": "Учасник підтверджує, що",
-                "requirements": [
-                  {
-                        "dataType": "boolean",
-                        "expectedValue": "true"
-                    }
-                    ]
-                
+                "description": "Учасник підтверджує, що"               
             }
         ]
     }
