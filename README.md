@@ -5,7 +5,7 @@
 ## Install
 
 ```shell script
-pip install https://github.com/ProzorroUKR/standards.git
+pip install git+git://github.com/ProzorroUKR/standards.git
 ```
 
 ## Usage
