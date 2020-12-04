@@ -6,7 +6,6 @@
             "scheme": "ESPD211",
             "id": "CRITERION.OTHER.BID.GUARANTEE"
         },
-        "relatesTo": "tender",
         "legislation": [
             {
                 "version": "2020-04-19",
@@ -20,7 +19,15 @@
     ],
            "requirementGroups": [
             {
-                "description": "Учасник підтверджує, що"               
+                "description": "Учасник підтверджує, що",
+                "requirements": [
+                  {
+                        "title": "вид та умови надання забезпечення тендерних пропозицій",
+                        "dataType": "boolean",
+                        "expectedValue": "true"
+                    }
+                    ]
+                
             }
         ]
     }
