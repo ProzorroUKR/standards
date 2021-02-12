@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Наявність документально підтвердженого досвіду учасника у виконанні аналогічних за предметом договорів",
+        "source": "tenderer",
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.ADVISERS.xxx"
+        },
+        "relatesTo": "tender",
+        "legislation": [
+            {
+                "version": "2020-10-09",
+                "identifier": {
+                    "id": "950-2020-п",
+                    "legalName": "Закон України \"Про публічні закупівлі\"",
+                    "uri": "https://zakon.rada.gov.ua/laws/show/950-2020-%D0%BF"
+                },
+                "type": "NATIONAL_LEGISLATION"
+            }
+    ],
+           "requirementGroups": [
+            {
+                "description": "Учасник зазначає",
+                "requirements": [
+                  {
+                        "title": "Кількість реалізованих договорів виключно в Україні",
+                        "dataType": "integer"
+                    },
+                  {
+                        "title": "Кількість реалізованих договорів загалом",
+                        "dataType": "integer"
+                    }
+                    ]
+                
+            }
+        ]
+    }
+    ]
