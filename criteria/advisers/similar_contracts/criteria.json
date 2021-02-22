@@ -4,7 +4,7 @@
         "source": "tenderer",
         "classification": {
             "scheme": "ESPD211",
-            "id": "CRITERION.OTHER.ADVISERS.xxx"
+            "id": "CRITERION.OTHER.ADVISERS.SIMILAR_CONTRACTS"
         },
         "relatesTo": "tender",
         "legislation": [
