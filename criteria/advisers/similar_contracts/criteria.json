@@ -28,7 +28,8 @@
                     },
                   {
                         "title": "Кількість реалізованих договорів загалом",
-                        "dataType": "integer"
+                        "dataType": "integer",
+                        "minValue": "1"
                     }
                     ]
                 
