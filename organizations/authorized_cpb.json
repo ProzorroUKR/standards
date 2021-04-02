@@ -98,5 +98,31 @@
     },
     "name_en": "DERZhAVNA USTANOVA \"TEST Baikova\"",
     "name_uk": "ДЕРЖАВНА УСТАНОВА \"Тест Байкова\""
-  } 
+  },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Київ",
+      "postalCode": "04119",
+      "region": "м. Київ",
+      "streetAddress": "вул. Юрія Іллєнка, 83Б"
+    },
+    "contactPoint": {
+      "email": "info@uss.gov.ua",
+      "faxNumber": "+38 044 481-49-53",
+      "telephone": "+38 044 481-49-56",
+      "url": "http://www.uss.gov.ua",
+      "name_en": "Mykola Sokyrko",
+      "name_uk": "Сокирко Микола Степанович"
+    },
+    "identifier": {
+      "id": "32348248",
+      "scheme": "UA-EDR",
+      "legalName_en": "State Enterprise \"Ukrainian Special Systems\"",
+      "legalName_uk": "Державне підприємство \"Українські спеціальні системи\""
+    },
+    "name_en": "State Enterprise \"Ukrainian Special Systems\"",
+    "name_uk": "Державне підприємство \"Українські спеціальні системи\""
+  }
 ]
