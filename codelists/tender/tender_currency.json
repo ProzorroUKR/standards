@@ -1,3 +1,53 @@
 {
-  "valid_currency": ["UAH", "USD", "EUR", "GBP", "RUB"]
+  "UAH":  {
+    "num": "980",
+    "code": "UAH",
+    "currency": "Ukrainian hryvnia",
+    "title": "Hryvnia",
+    "name_en": "Hryvnia",
+    "name_uk": "Гривня",
+    "name_ru": "Гривна",
+    "abbr_uk": "грн",
+    "sign": "₴"
+  },
+  "USD":  {
+    "num": "840",
+    "code": "USD",
+    "currency": "United States dollar",
+    "title": "US Dollar",
+    "name_en": "Dollar",
+    "name_uk": "Долар",
+    "name_ru": "Доллар",
+    "sign": "$"
+  },
+  "EUR":  {
+    "num": "978",
+    "code": "EUR",
+    "currency": "Euro",
+    "title": "Euro",
+    "name_en": "Euro",
+    "name_uk": "Євро",
+    "name_ru": "Евро",
+    "sign": "€"
+  },
+  "GBP":  {
+    "num": "826",
+    "code": "GBP",
+    "currency": "Pound sterling",
+    "title": "Pound sterling",
+    "name_en": "Pound sterling",
+    "name_uk": "Фунт стерлінгів",
+    "name_ru": "Фунт стерлингов",
+    "sign": "£"
+  },
+  "RUB":  {
+    "num": "643",
+    "code": "RUB",
+    "currency": "Russian ruble",
+    "title": "Russian Ruble",
+    "name_en": "Russian Ruble",
+    "name_uk": "Російський рубль",
+    "name_ru": "Российский рубль",
+    "sign": "₽"
+  }
 }
