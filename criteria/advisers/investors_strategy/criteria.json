@@ -2,6 +2,8 @@
     {
         "title": "Підходи до підготовки проекту та стратегії роботи з потенційними інвесторами",
         "source": "tenderer",
+        "weightingTypeCode": "PERCENTAGE",
+        "evaluationMethodType": "WEIGHTED",
         "classification": {
             "scheme": "ESPD211",
             "id": "CRITERION.OTHER.ADVISERS.INVESTORS_STRATEGY"
