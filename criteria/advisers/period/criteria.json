@@ -2,6 +2,8 @@
     {
         "title": "Строки підготовки проекту",
         "source": "tenderer",
+        "weightingTypeCode": "PERCENTAGE",
+        "evaluationMethodType": "WEIGHTED",
         "classification": {
             "scheme": "ESPD211",
             "id": "CRITERION.OTHER.ADVISERS.INVESTORS_STRATEGY"
