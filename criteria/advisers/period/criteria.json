@@ -26,7 +26,8 @@
                 "requirements": [
                   {
                         "title": "Строки підготовки проекту(у днях)",
-                        "dataType": "integer"
+                        "dataType": "integer",
+                        "minValue": "0"
                     }
                     ]
 
