@@ -26,7 +26,8 @@
                 "requirements": [
                   {
                         "title": "Кваліфікація персоналу, людиноднів з урахуванням ваги експерта",
-                        "dataType": "integer"
+                        "dataType": "integer",
+                        "minValue": "0"
                     },
                     ]
                 
