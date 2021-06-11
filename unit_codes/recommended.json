@@ -14,7 +14,15 @@
         "symbol_uk": "ящ.", 
         "name_ru": "ящик", 
         "symbol_ru": "ящ."
-    }, 
+    },
+    "CY": {
+        "name_en": "cylinder", 
+        "symbol_en": ""
+        "name_uk": "балон", 
+        "symbol_uk": "балон", 
+        "name_ru": "балон", 
+        "symbol_ru": "балон"
+    },
     "D44": {
         "name_en": "var", 
         "symbol_en": "var", 
