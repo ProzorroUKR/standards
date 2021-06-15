@@ -124,5 +124,31 @@
     },
     "name_en": "State Enterprise \"Ukrainian Special Systems\"",
     "name_uk": "Державне підприємство \"Українські спеціальні системи\""
+  },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Херсон",
+      "postalCode": "73000",
+      "region": "Херсонська область",
+      "streetAddress": "вул. Залаегерсег, 5"
+    },
+    "contactPoint": {
+      "email": "baza.smp.kherson@meta.ua",
+      "faxNumber": "+38 0552 31-30-34",
+      "telephone": "+38 099 213-08-20",
+      "url": "-",
+      "name_en": "-",
+      "name_uk": "Журавленко Олексій Андрійович"
+    },
+    "identifier": {
+      "id": "00182136",
+      "scheme": "UA-EDR",
+      "legalName_en": "KOMUNALʹNE NEKOMERTSIYNE PIDPRYYEMSTVO \"OBLASNA BAZA SPECIALNOGO MEDICHNOGO POSTACHANNY\" KHERSONSKOY OBLASNOY RADI",
+      "legalName_uk": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ОБЛАСНА БАЗА СПЕЦІАЛЬНОГО МЕДИЧНОГО ПОСТАЧАННЯ\" ХЕРСОНСЬКОЇ ОБЛАСНОЇ РАДИ"
+    },
+    "name_en": "KNP \"OBSMP\" KOR",
+    "name_uk": "КНП \"ОБСМП\" ХОР"
   }
 ]
