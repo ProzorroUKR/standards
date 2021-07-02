@@ -20,9 +20,9 @@
         "title_ru": "Юридическое лицо, осуществляющее деятельность в одной или нескольких отдельных сферах хозяйствования"
     }, 
     "central": {
-        "title_en": "Legal entity that conducts procurement in the interests of the сustomers (CPB)", 
-        "title_uk": "Юридична особа, що здійснює закупівлі в інтересах замовників (ЦЗО)", 
-        "title_ru": "Юридическое лицо, которое осуществляет закупки в интересах заказчиков (ЦЗО)"
+        "title_en": "Legal entity that meets the needs of the state or territorial community (CPB)", 
+        "title_uk": "Юридична особа, яка забезпечує потреби держави або територіальної громади (ЦЗО)", 
+        "title_ru": "Юридическое лицо, которое обеспечивает потребности государства или территориальной общины (ЦЗО)"
     },
     "authority": {
         "title_en": "Public authority, local government or law enforcement agency", 
