@@ -76,7 +76,7 @@
     "name_uk": "КП \"ЦЗО ІВАНО-ФРАНКІВСЬКОЇ ОБЛАСНОЇ РАДИ\""
   },
   {
-    "active": false,
+    "active": true,
     "address": {
       "countryName": "Україна",
       "locality": "Київ",
