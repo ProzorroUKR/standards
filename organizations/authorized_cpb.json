@@ -85,19 +85,19 @@
       "streetAddress": "Бульварно-Кудрявська, 22"
     },
     "contactPoint": {
-      "email": "j.baikova@gmail.com",
+      "email": "tt481345@gmail.com",
       "faxNumber": "+380635785555",
       "telephone": "+380966896666",
-      "name_uk": "Байкова Юлія"
+      "name_uk": "Прозорро Тест"
     },
     "identifier": {
       "id": "12345678",
       "scheme": "UA-EDR",
-      "legalName_en": "DERZhAVNA USTANOVA \"TEST Baikova\"",
-      "legalName_uk": "ДЕРЖАВНА УСТАНОВА \"Тест Байкова\""
+      "legalName_en": "DERZhAVNA USTANOVA \"TEST Prozorro\"",
+      "legalName_uk": "ДЕРЖАВНА УСТАНОВА \"Тест Прозорро\""
     },
-    "name_en": "DERZhAVNA USTANOVA \"TEST Baikova\"",
-    "name_uk": "ДЕРЖАВНА УСТАНОВА \"Тест Байкова\""
+    "name_en": "DERZhAVNA USTANOVA \"TEST Prozorro\"",
+    "name_uk": "ДЕРЖАВНА УСТАНОВА \"Тест Прозорро\""
   },
   {
     "active": true,
