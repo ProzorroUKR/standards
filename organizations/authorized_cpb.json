@@ -36,7 +36,7 @@
     },
     "contactPoint": {
       "email": "catalogue@medpro.health",
-      "telephone": "+3 8066 696 49 90",
+      "telephone": "+380666964990",
       "url": "http://fb.me/uamedpro",
       "name_uk": "Віталій Овсянніков"
     },
@@ -149,5 +149,29 @@
     },
     "name_en": "KNP \"OBSMP\" KOR",
     "name_uk": "КНП \"ОБСМП\" ХОР"
+  },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Дніпро",
+      "postalCode": "49000",
+      "region": "Дніпропетровська область",
+      "streetAddress": "пр.Яворницького Дмитра, будинок 75"
+    },
+    "contactPoint": {
+      "email": "czodmr@gmail.com",
+      "telephone": "+380960028132",
+      "name_en": "Saharova Nadiya",
+      "name_uk": "Сахарова Надія Сергіївна"
+    },
+    "identifier": {
+      "id": "32835966",
+      "scheme": "UA-EDR",
+      "legalName_en": "KOMUNALNE PIDPRYYEMSTVO \"TSENTRALIZOVANA ZAKUPIVELNA ORGANIZATSIYA\" DNIPROVSKOYI MISKOYI RADY",
+      "legalName_uk": ""
+    },
+    "name_en": "STATE INSTITUTION \"PROFESSIONAL PROCUREMENT\"",
+    "name_uk": "\"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ"
   }
 ]
