@@ -1,0 +1,1252 @@
+{
+  "AD": {
+    "code": "AD",
+    "countryName_en": "Andorra",
+    "countryName_uk": "Князівство Андорра"
+  },
+  "AE": {
+    "code": "AE",
+    "countryName_en": "United Arab Emirates",
+    "countryName_uk": "Обʼєднані Арабські Емірати"
+  },
+  "AF": {
+    "code": "AF",
+    "countryName_en": "Afghanistan",
+    "countryName_uk": "Ісламська Республіка Афганістан"
+  },
+  "AG": {
+    "code": "AG",
+    "countryName_en": "Antigua and Barbuda",
+    "countryName_uk": "Антигуа і Барбуда"
+  },
+  "AI": {
+    "code": "AI",
+    "countryName_en": "Anguilla",
+    "countryName_uk": "Ангілья"
+  },
+  "AL": {
+    "code": "AL",
+    "countryName_en": "Albania",
+    "countryName_uk": "Республіка Албанія"
+  },
+  "AM": {
+    "code": "AM",
+    "countryName_en": "Armenia",
+    "countryName_uk": "Республіка Вірменія"
+  },
+  "AO": {
+    "code": "AO",
+    "countryName_en": "Angola",
+    "countryName_uk": "Республіка Ангола"
+  },
+  "AQ": {
+    "code": "AQ",
+    "countryName_en": "Antarctica",
+    "countryName_uk": "Антарктика"
+  },
+  "AR": {
+    "code": "AR",
+    "countryName_en": "Argentina",
+    "countryName_uk": "Аргентинська Республіка"
+  },
+  "AS": {
+    "code": "AS",
+    "countryName_en": "American Samoa",
+    "countryName_uk": "Американське Самоа"
+  },
+  "AT": {
+    "code": "AT",
+    "countryName_en": "Austria",
+    "countryName_uk": "Австрійська Республіка"
+  },
+  "AU": {
+    "code": "AU",
+    "countryName_en": "Australia",
+    "countryName_uk": "Австралія"
+  },
+  "AW": {
+    "code": "AW",
+    "countryName_en": "Aruba",
+    "countryName_uk": "Аруба"
+  },
+  "AX": {
+    "code": "AX",
+    "countryName_en": "Аland Islands",
+    "countryName_uk": "Аландські Острови"
+  },
+  "AZ": {
+    "code": "AZ",
+    "countryName_en": "Azerbaijan",
+    "countryName_uk": "Азербайджанська Республіка"
+  },
+  "BA": {
+    "code": "BA",
+    "countryName_en": "Bosnia and Herzegovina",
+    "countryName_uk": "Боснія і Герцеговина"
+  },
+  "BB": {
+    "code": "BB",
+    "countryName_en": "Barbados",
+    "countryName_uk": "Барбадос"
+  },
+  "BD": {
+    "code": "BD",
+    "countryName_en": "Bangladesh",
+    "countryName_uk": "Народна Республіка Бангладеш"
+  },
+  "BE": {
+    "code": "BE",
+    "countryName_en": "Belgium",
+    "countryName_uk": "Королівство Бельгія"
+  },
+  "BF": {
+    "code": "BF",
+    "countryName_en": "Burkina Faso",
+    "countryName_uk": "Буркіна-фасо"
+  },
+  "BG": {
+    "code": "BG",
+    "countryName_en": "Bulgaria",
+    "countryName_uk": "Республіка Болгарія"
+  },
+  "BH": {
+    "code": "BH",
+    "countryName_en": "Bahrain",
+    "countryName_uk": "Королівство Бахрейн"
+  },
+  "BI": {
+    "code": "BI",
+    "countryName_en": "Burundi",
+    "countryName_uk": "Республіка Бурунді"
+  },
+  "BJ": {
+    "code": "BJ",
+    "countryName_en": "Benin",
+    "countryName_uk": "Республіка Бенін"
+  },
+  "BL": {
+    "code": "BL",
+    "countryName_en": "Saint Barthelemy",
+    "countryName_uk": "Сен-Бартелемі"
+  },
+  "BM": {
+    "code": "BM",
+    "countryName_en": "Bermuda",
+    "countryName_uk": "Бермудські Острови"
+  },
+  "BN": {
+    "code": "BN",
+    "countryName_en": "Brunei Darussalam",
+    "countryName_uk": "Бруней-Даруссалам"
+  },
+  "BO": {
+    "code": "BO",
+    "countryName_en": "Bolivia (Plurinational State of)",
+    "countryName_uk": "Багатонаціональна держава Болівія"
+  },
+  "BQ": {
+    "code": "BQ",
+    "countryName_en": "Bonaire, Sint Eustatius and Saba",
+    "countryName_uk": "Бонайре, Сінт-Естатіус і Саба"
+  },
+  "BR": {
+    "code": "BR",
+    "countryName_en": "Brazil",
+    "countryName_uk": "Федеративна Республіка Бразилія"
+  },
+  "BS": {
+    "code": "BS",
+    "countryName_en": "Bahamas",
+    "countryName_uk": "Співдружність Багамських Островів"
+  },
+  "BT": {
+    "code": "BT",
+    "countryName_en": "Bhutan",
+    "countryName_uk": "Королівство Бутан"
+  },
+  "BV": {
+    "code": "BV",
+    "countryName_en": "Bouvet Island",
+    "countryName_uk": "Острів Буве"
+  },
+  "BW": {
+    "code": "BW",
+    "countryName_en": "Botswana",
+    "countryName_uk": "Республіка Ботсвана"
+  },
+  "BY": {
+    "code": "BY",
+    "countryName_en": "Belarus",
+    "countryName_uk": "Республіка Білорусь"
+  },
+  "BZ": {
+    "code": "BZ",
+    "countryName_en": "Belize",
+    "countryName_uk": "Беліз"
+  },
+  "CA": {
+    "code": "CA",
+    "countryName_en": "Canada",
+    "countryName_uk": "Канада"
+  },
+  "CC": {
+    "code": "CC",
+    "countryName_en": "Cocos (Keeling) Islands",
+    "countryName_uk": "Кокосові (Кілінг) острови"
+  },
+  "CD": {
+    "code": "CD",
+    "countryName_en": "Congo (the Democratic Republic of the)",
+    "countryName_uk": "Демократична Республіка Конго"
+  },
+  "CF": {
+    "code": "CF",
+    "countryName_en": "Central African Republic",
+    "countryName_uk": "Центральноафриканська Республіка"
+  },
+  "CG": {
+    "code": "CG",
+    "countryName_en": "Congo",
+    "countryName_uk": "Республіка Конго"
+  },
+  "CH": {
+    "code": "CH",
+    "countryName_en": "Switzerland",
+    "countryName_uk": "Швейцарська Конфедерація"
+  },
+  "CI": {
+    "code": "CI",
+    "countryName_en": "Cote d'Ivoire",
+    "countryName_uk": "Республіка Кот-дʼІвуар"
+  },
+  "CK": {
+    "code": "CK",
+    "countryName_en": "Cook Islands",
+    "countryName_uk": "Острови Кука"
+  },
+  "CL": {
+    "code": "CL",
+    "countryName_en": "Chile",
+    "countryName_uk": "Республіка Чилі"
+  },
+  "CM": {
+    "code": "CM",
+    "countryName_en": "Cameroon",
+    "countryName_uk": "Республіка Камерун"
+  },
+  "CN": {
+    "code": "CN",
+    "countryName_en": "China",
+    "countryName_uk": "Китайська Народна Республіка"
+  },
+  "CO": {
+    "code": "CO",
+    "countryName_en": "Colombia",
+    "countryName_uk": "Республіка Колумбія"
+  },
+  "CR": {
+    "code": "CR",
+    "countryName_en": "Costa Rica",
+    "countryName_uk": "Республіка Коста-Рика"
+  },
+  "CU": {
+    "code": "CU",
+    "countryName_en": "Cuba",
+    "countryName_uk": "Республіка Куба"
+  },
+  "CV": {
+    "code": "CV",
+    "countryName_en": "Cabo Verde",
+    "countryName_uk": "Республіка Кабо-Верде"
+  },
+  "CW": {
+    "code": "CW",
+    "countryName_en": "Curacao",
+    "countryName_uk": "Кюрасао"
+  },
+  "CX": {
+    "code": "CX",
+    "countryName_en": "Christmas Island",
+    "countryName_uk": "Острів Різдва"
+  },
+  "CY": {
+    "code": "CY",
+    "countryName_en": "Cyprus",
+    "countryName_uk": "Республіка Кіпр"
+  },
+  "CZ": {
+    "code": "CZ",
+    "countryName_en": "Czechia",
+    "countryName_uk": "Чеська Республіка"
+  },
+  "DE": {
+    "code": "DE",
+    "countryName_en": "Germany",
+    "countryName_uk": "Федеративна Республіка Німеччина"
+  },
+  "DJ": {
+    "code": "DJ",
+    "countryName_en": "Djibouti",
+    "countryName_uk": "Республіка Джибуті"
+  },
+  "DK": {
+    "code": "DK",
+    "countryName_en": "Denmark",
+    "countryName_uk": "Королівство Данія"
+  },
+  "DM": {
+    "code": "DM",
+    "countryName_en": "Dominica",
+    "countryName_uk": "Співдружність Домініки"
+  },
+  "DO": {
+    "code": "DO",
+    "countryName_en": "Dominican Republic",
+    "countryName_uk": "Домініканська Республіка"
+  },
+  "DZ": {
+    "code": "DZ",
+    "countryName_en": "Algeria",
+    "countryName_uk": "Алжирська Народна Демократична Республіка"
+  },
+  "EC": {
+    "code": "EC",
+    "countryName_en": "Ecuador",
+    "countryName_uk": "Республіка Еквадор"
+  },
+  "EE": {
+    "code": "EE",
+    "countryName_en": "Estonia",
+    "countryName_uk": "Республіка Естонія"
+  },
+  "EG": {
+    "code": "EG",
+    "countryName_en": "Egypt",
+    "countryName_uk": "Арабська Республіка Єгипет"
+  },
+  "EH": {
+    "code": "EH",
+    "countryName_en": "Western Sahara",
+    "countryName_uk": "Західна Сахара"
+  },
+  "ER": {
+    "code": "ER",
+    "countryName_en": "Eritrea",
+    "countryName_uk": "Держава Еритрея"
+  },
+  "ES": {
+    "code": "ES",
+    "countryName_en": "Spain",
+    "countryName_uk": "Королівство Іспанія"
+  },
+  "ET": {
+    "code": "ET",
+    "countryName_en": "Ethiopia",
+    "countryName_uk": "Федеративна Демократична Республіка Ефіопія"
+  },
+  "FI": {
+    "code": "FI",
+    "countryName_en": "Finland",
+    "countryName_uk": "Республіка Фінляндія"
+  },
+  "FJ": {
+    "code": "FJ",
+    "countryName_en": "Fiji",
+    "countryName_uk": "Республіка Фіджі"
+  },
+  "FK": {
+    "code": "FK",
+    "countryName_en": "Falkland Islands [Malvinas]",
+    "countryName_uk": "Фолклендські (Мальвінські) Острови"
+  },
+  "FM": {
+    "code": "FM",
+    "countryName_en": "Micronesia (Federated States of)",
+    "countryName_uk": "Федеративні Штати Мікронезії"
+  },
+  "FO": {
+    "code": "FO",
+    "countryName_en": "Faroe Islands",
+    "countryName_uk": "Фарерські Острови"
+  },
+  "FR": {
+    "code": "FR",
+    "countryName_en": "France",
+    "countryName_uk": "Французька Республіка"
+  },
+  "GA": {
+    "code": "GA",
+    "countryName_en": "Gabon",
+    "countryName_uk": "Габонська Республіка"
+  },
+  "GB": {
+    "code": "GB",
+    "countryName_en": "United Kingdom of Great Britain and Northern Ireland",
+    "countryName_uk": "Сполучене Королівство Великої Британії та Північної Ірландії"
+  },
+  "GD": {
+    "code": "GD",
+    "countryName_en": "Grenada",
+    "countryName_uk": "Гренада"
+  },
+  "GE": {
+    "code": "GE",
+    "countryName_en": "Georgia",
+    "countryName_uk": "Грузія"
+  },
+  "GF": {
+    "code": "GF",
+    "countryName_en": "French Guiana",
+    "countryName_uk": "Французька Гвіана"
+  },
+  "GG": {
+    "code": "GG",
+    "countryName_en": "Guernsey",
+    "countryName_uk": "Гернсі"
+  },
+  "GH": {
+    "code": "GH",
+    "countryName_en": "Ghana",
+    "countryName_uk": "Республіка Гана"
+  },
+  "GI": {
+    "code": "GI",
+    "countryName_en": "Gibraltar",
+    "countryName_uk": "Гібралтар"
+  },
+  "GL": {
+    "code": "GL",
+    "countryName_en": "Greenland",
+    "countryName_uk": "Гренландія"
+  },
+  "GM": {
+    "code": "GM",
+    "countryName_en": "Gambia",
+    "countryName_uk": "Республіка Гамбія"
+  },
+  "GN": {
+    "code": "GN",
+    "countryName_en": "Guinea",
+    "countryName_uk": "Республіка Гвінея"
+  },
+  "GP": {
+    "code": "GP",
+    "countryName_en": "Guadeloupe",
+    "countryName_uk": "Гваделупа"
+  },
+  "GQ": {
+    "code": "GQ",
+    "countryName_en": "Equatorial Guinea",
+    "countryName_uk": "Республіка Екваторіальна Гвінея"
+  },
+  "GR": {
+    "code": "GR",
+    "countryName_en": "Greece",
+    "countryName_uk": "Грецька Республіка"
+  },
+  "GS": {
+    "code": "GS",
+    "countryName_en": "South Georgia and the South Sandwich Islands",
+    "countryName_uk": "Південна Джорджія та Південні Сандвічеві Острови"
+  },
+  "GT": {
+    "code": "GT",
+    "countryName_en": "Guatemala",
+    "countryName_uk": "Республіка Гватемала"
+  },
+  "GU": {
+    "code": "GU",
+    "countryName_en": "Guam",
+    "countryName_uk": "Гуам"
+  },
+  "GW": {
+    "code": "GW",
+    "countryName_en": "Guinea-Bissau",
+    "countryName_uk": "Республіка Гвінея-Бісау"
+  },
+  "GY": {
+    "code": "GY",
+    "countryName_en": "Guyana",
+    "countryName_uk": "Республіка Гаяна"
+  },
+  "HK": {
+    "code": "HK",
+    "countryName_en": "Hong Kong",
+    "countryName_uk": "Особливий адміністративний район Китаю Гонконг"
+  },
+  "HM": {
+    "code": "HM",
+    "countryName_en": "Heard Island and McDonald Islands",
+    "countryName_uk": "Острів Герд і Острови Макдональд"
+  },
+  "HN": {
+    "code": "HN",
+    "countryName_en": "Honduras",
+    "countryName_uk": "Республіка Гондурас"
+  },
+  "HR": {
+    "code": "HR",
+    "countryName_en": "Croatia",
+    "countryName_uk": "Республіка Хорватія"
+  },
+  "HT": {
+    "code": "HT",
+    "countryName_en": "Haiti",
+    "countryName_uk": "Республіка Гаїті"
+  },
+  "HU": {
+    "code": "HU",
+    "countryName_en": "Hungary",
+    "countryName_uk": "Угорщина"
+  },
+  "ID": {
+    "code": "ID",
+    "countryName_en": "Indonesia",
+    "countryName_uk": "Республіка Індонезія"
+  },
+  "IE": {
+    "code": "IE",
+    "countryName_en": "Ireland",
+    "countryName_uk": "Ірландія"
+  },
+  "IL": {
+    "code": "IL",
+    "countryName_en": "Israel",
+    "countryName_uk": "Держава Ізраїль"
+  },
+  "IM": {
+    "code": "IM",
+    "countryName_en": "Isle of Man",
+    "countryName_uk": "Острів Мен"
+  },
+  "IN": {
+    "code": "IN",
+    "countryName_en": "India",
+    "countryName_uk": "Республіка Індія"
+  },
+  "IO": {
+    "code": "IO",
+    "countryName_en": "British Indian Ocean Territory",
+    "countryName_uk": "Британська Територія в Індійському Океані"
+  },
+  "IQ": {
+    "code": "IQ",
+    "countryName_en": "Iraq",
+    "countryName_uk": "Республіка Ірак"
+  },
+  "IR": {
+    "code": "IR",
+    "countryName_en": "Iran (Islamic Republic of)",
+    "countryName_uk": "Ісламська Республіка Іран"
+  },
+  "IS": {
+    "code": "IS",
+    "countryName_en": "Iceland",
+    "countryName_uk": "Ісландія"
+  },
+  "IT": {
+    "code": "IT",
+    "countryName_en": "Italy",
+    "countryName_uk": "Італійська Республіка"
+  },
+  "JE": {
+    "code": "JE",
+    "countryName_en": "Jersey",
+    "countryName_uk": "Джерсі"
+  },
+  "JM": {
+    "code": "JM",
+    "countryName_en": "Jamaica",
+    "countryName_uk": "Ямайка"
+  },
+  "JO": {
+    "code": "JO",
+    "countryName_en": "Jordan",
+    "countryName_uk": "Йорданське Хашимітське Королівство"
+  },
+  "JP": {
+    "code": "JP",
+    "countryName_en": "Japan",
+    "countryName_uk": "Японія"
+  },
+  "KE": {
+    "code": "KE",
+    "countryName_en": "Kenya",
+    "countryName_uk": "Республіка Кенія"
+  },
+  "KG": {
+    "code": "KG",
+    "countryName_en": "Kyrgyzstan",
+    "countryName_uk": "Киргизька Республіка"
+  },
+  "KH": {
+    "code": "KH",
+    "countryName_en": "Cambodia",
+    "countryName_uk": "Королівство Камбоджа"
+  },
+  "KI": {
+    "code": "KI",
+    "countryName_en": "Kiribati",
+    "countryName_uk": "Республіка Кірибаті"
+  },
+  "KM": {
+    "code": "KM",
+    "countryName_en": "Comoros",
+    "countryName_uk": "Союз Коморських Островів"
+  },
+  "KN": {
+    "code": "KN",
+    "countryName_en": "Saint Kitts and Nevis",
+    "countryName_uk": "Сент-кітс і Невіс"
+  },
+  "KP": {
+    "code": "KP",
+    "countryName_en": "Korea (the Democratic People's Republic of)",
+    "countryName_uk": "Корейська Народно-демократична Республіка"
+  },
+  "KR": {
+    "code": "KR",
+    "countryName_en": "Korea (the Republic of)",
+    "countryName_uk": "Республіка Корея"
+  },
+  "KW": {
+    "code": "KW",
+    "countryName_en": "Kuwait",
+    "countryName_uk": "Держава Кувейт"
+  },
+  "KY": {
+    "code": "KY",
+    "countryName_en": "Cayman Islands",
+    "countryName_uk": "Кайманові Острови"
+  },
+  "KZ": {
+    "code": "KZ",
+    "countryName_en": "Kazakhstan",
+    "countryName_uk": "Республіка Казахстан"
+  },
+  "LA": {
+    "code": "LA",
+    "countryName_en": "Lao People's Democratic Republic",
+    "countryName_uk": "Лаоська Народно-демократична Республіка"
+  },
+  "LB": {
+    "code": "LB",
+    "countryName_en": "Lebanon",
+    "countryName_uk": "Ліванська Республіка"
+  },
+  "LC": {
+    "code": "LC",
+    "countryName_en": "Saint Lucia",
+    "countryName_uk": "Сент-Люсія"
+  },
+  "LI": {
+    "code": "LI",
+    "countryName_en": "Liechtenstein",
+    "countryName_uk": "Князівство Ліхтенштейн"
+  },
+  "LK": {
+    "code": "LK",
+    "countryName_en": "Sri Lanka",
+    "countryName_uk": "Демократична Соціалістична Республіка Шрі-Ланка"
+  },
+  "LR": {
+    "code": "LR",
+    "countryName_en": "Liberia",
+    "countryName_uk": "Республіка Ліберія"
+  },
+  "LS": {
+    "code": "LS",
+    "countryName_en": "Lesotho",
+    "countryName_uk": "Королівство Лесото"
+  },
+  "LT": {
+    "code": "LT",
+    "countryName_en": "Lithuania",
+    "countryName_uk": "Литовська Республіка"
+  },
+  "LU": {
+    "code": "LU",
+    "countryName_en": "Luxembourg",
+    "countryName_uk": "Велике Герцогство Люксембург"
+  },
+  "LV": {
+    "code": "LV",
+    "countryName_en": "Latvia",
+    "countryName_uk": "Латвійська Республіка"
+  },
+  "LY": {
+    "code": "LY",
+    "countryName_en": "Libya",
+    "countryName_uk": "Лівія"
+  },
+  "MA": {
+    "code": "MA",
+    "countryName_en": "Morocco",
+    "countryName_uk": "Королівство Марокко"
+  },
+  "MC": {
+    "code": "MC",
+    "countryName_en": "Monaco",
+    "countryName_uk": "Князівство Монако"
+  },
+  "MD": {
+    "code": "MD",
+    "countryName_en": "Moldova (the Republic of)",
+    "countryName_uk": "Республіка Молдова"
+  },
+  "ME": {
+    "code": "ME",
+    "countryName_en": "Montenegro",
+    "countryName_uk": "Чорногорія"
+  },
+  "MF": {
+    "code": "MF",
+    "countryName_en": "Saint Martin (French part)",
+    "countryName_uk": "Сен-Мартен (французська частина)"
+  },
+  "MG": {
+    "code": "MG",
+    "countryName_en": "Madagascar",
+    "countryName_uk": "Республіка Мадагаскар"
+  },
+  "MH": {
+    "code": "MH",
+    "countryName_en": "Marshall Islands",
+    "countryName_uk": "Республіка Маршаллові Острови"
+  },
+  "MK": {
+    "code": "MK",
+    "countryName_en": "North Macedonia",
+    "countryName_uk": "Республіка Македонія (колишня Югославська республіка)"
+  },
+  "ML": {
+    "code": "ML",
+    "countryName_en": "Mali",
+    "countryName_uk": "Республіка Малі"
+  },
+  "MM": {
+    "code": "MM",
+    "countryName_en": "Myanmar",
+    "countryName_uk": "Республіка Союзу Мʼянма"
+  },
+  "MN": {
+    "code": "MN",
+    "countryName_en": "Mongolia",
+    "countryName_uk": "Монголія"
+  },
+  "MO": {
+    "code": "MO",
+    "countryName_en": "Macao",
+    "countryName_uk": "Особливий адміністративний район Китаю Макао"
+  },
+  "MP": {
+    "code": "MP",
+    "countryName_en": "Northern Mariana Islands",
+    "countryName_uk": "Співдружність Північних Маріанських Островів"
+  },
+  "MQ": {
+    "code": "MQ",
+    "countryName_en": "Martinique",
+    "countryName_uk": "Мартиніка"
+  },
+  "MR": {
+    "code": "MR",
+    "countryName_en": "Mauritania",
+    "countryName_uk": "Ісламська Республіка Мавританія"
+  },
+  "MS": {
+    "code": "MS",
+    "countryName_en": "Montserrat",
+    "countryName_uk": "Монтсеррат"
+  },
+  "MT": {
+    "code": "MT",
+    "countryName_en": "Malta",
+    "countryName_uk": "Республіка Мальта"
+  },
+  "MU": {
+    "code": "MU",
+    "countryName_en": "Mauritius",
+    "countryName_uk": "Республіка Маврикій"
+  },
+  "MV": {
+    "code": "MV",
+    "countryName_en": "Maldives",
+    "countryName_uk": "Мальдівська Республіка"
+  },
+  "MW": {
+    "code": "MW",
+    "countryName_en": "Malawi",
+    "countryName_uk": "Республіка Малаві"
+  },
+  "MX": {
+    "code": "MX",
+    "countryName_en": "Mexico",
+    "countryName_uk": "Мексиканські Сполучені Штати"
+  },
+  "MY": {
+    "code": "MY",
+    "countryName_en": "Malaysia",
+    "countryName_uk": "Малайзія"
+  },
+  "MZ": {
+    "code": "MZ",
+    "countryName_en": "Mozambique",
+    "countryName_uk": "Республіка Мозамбік"
+  },
+  "NA": {
+    "code": "NA",
+    "countryName_en": "Namibia",
+    "countryName_uk": "Республіка Намібія"
+  },
+  "NC": {
+    "code": "NC",
+    "countryName_en": "New Caledonia",
+    "countryName_uk": "Нова Каледонія"
+  },
+  "NE": {
+    "code": "NE",
+    "countryName_en": "Niger",
+    "countryName_uk": "Республіка Нігер"
+  },
+  "NF": {
+    "code": "NF",
+    "countryName_en": "Norfolk Island",
+    "countryName_uk": "Острів Норфолк"
+  },
+  "NG": {
+    "code": "NG",
+    "countryName_en": "Nigeria",
+    "countryName_uk": "Федеративна Республіка Нігерія"
+  },
+  "NI": {
+    "code": "NI",
+    "countryName_en": "Nicaragua",
+    "countryName_uk": "Республіка Нікарагуа"
+  },
+  "NL": {
+    "code": "NL",
+    "countryName_en": "Netherlands",
+    "countryName_uk": "Королівство Нідерландів"
+  },
+  "NO": {
+    "code": "NO",
+    "countryName_en": "Norway",
+    "countryName_uk": "Королівство Норвегія"
+  },
+  "NP": {
+    "code": "NP",
+    "countryName_en": "Nepal",
+    "countryName_uk": "Королівство Непал"
+  },
+  "NR": {
+    "code": "NR",
+    "countryName_en": "Nauru",
+    "countryName_uk": "Республіка Науру"
+  },
+  "NU": {
+    "code": "NU",
+    "countryName_en": "Niue",
+    "countryName_uk": "Ніуе"
+  },
+  "NZ": {
+    "code": "NZ",
+    "countryName_en": "New Zealand",
+    "countryName_uk": "Нова Зеландія"
+  },
+  "OM": {
+    "code": "OM",
+    "countryName_en": "Oman",
+    "countryName_uk": "Султанат Оман"
+  },
+  "PA": {
+    "code": "PA",
+    "countryName_en": "Panama",
+    "countryName_uk": "Республіка Панама"
+  },
+  "PE": {
+    "code": "PE",
+    "countryName_en": "Peru",
+    "countryName_uk": "Республіка Перу"
+  },
+  "PF": {
+    "code": "PF",
+    "countryName_en": "French Polynesia",
+    "countryName_uk": "Французька Полінезія"
+  },
+  "PG": {
+    "code": "PG",
+    "countryName_en": "Papua New Guinea",
+    "countryName_uk": "Папуа-Нова Гвінея"
+  },
+  "PH": {
+    "code": "PH",
+    "countryName_en": "Philippines",
+    "countryName_uk": "Республіка Філіппіни"
+  },
+  "PK": {
+    "code": "PK",
+    "countryName_en": "Pakistan",
+    "countryName_uk": "Ісламська Республіка Пакистан"
+  },
+  "PL": {
+    "code": "PL",
+    "countryName_en": "Poland",
+    "countryName_uk": "Республіка Польща"
+  },
+  "PM": {
+    "code": "PM",
+    "countryName_en": "Saint Pierre and Miquelon",
+    "countryName_uk": "Сен-Пʼєр і Мікелон"
+  },
+  "PN": {
+    "code": "PN",
+    "countryName_en": "Pitcairn",
+    "countryName_uk": "Піткерн"
+  },
+  "PR": {
+    "code": "PR",
+    "countryName_en": "Puerto Rico",
+    "countryName_uk": "Пуерто-Рико"
+  },
+  "PS": {
+    "code": "PS",
+    "countryName_en": "Palestine, State of",
+    "countryName_uk": "Держава Палестина"
+  },
+  "PT": {
+    "code": "PT",
+    "countryName_en": "Portugal",
+    "countryName_uk": "Португальська Республіка"
+  },
+  "PW": {
+    "code": "PW",
+    "countryName_en": "Palau",
+    "countryName_uk": "Республіка Палау"
+  },
+  "PY": {
+    "code": "PY",
+    "countryName_en": "Paraguay",
+    "countryName_uk": "Республіка Парагвай"
+  },
+  "QA": {
+    "code": "QA",
+    "countryName_en": "Qatar",
+    "countryName_uk": "Держава Катар"
+  },
+  "RE": {
+    "code": "RE",
+    "countryName_en": "Reunion",
+    "countryName_uk": "Реюньйон"
+  },
+  "RO": {
+    "code": "RO",
+    "countryName_en": "Romania",
+    "countryName_uk": "Румунія"
+  },
+  "RS": {
+    "code": "RS",
+    "countryName_en": "Serbia",
+    "countryName_uk": "Республіка Сербія"
+  },
+  "RU": {
+    "code": "RU",
+    "countryName_en": "Russian Federation",
+    "countryName_uk": "Російська Федерація"
+  },
+  "RW": {
+    "code": "RW",
+    "countryName_en": "Rwanda",
+    "countryName_uk": "Руандійська Республіка"
+  },
+  "SA": {
+    "code": "SA",
+    "countryName_en": "Saudi Arabia",
+    "countryName_uk": "Королівство Саудівська Аравія"
+  },
+  "SB": {
+    "code": "SB",
+    "countryName_en": "Solomon Islands",
+    "countryName_uk": "Соломонові Острови"
+  },
+  "SC": {
+    "code": "SC",
+    "countryName_en": "Seychelles",
+    "countryName_uk": "Республіка Сейшельські Острови"
+  },
+  "SD": {
+    "code": "SD",
+    "countryName_en": "Sudan",
+    "countryName_uk": "Республіка Судан"
+  },
+  "SE": {
+    "code": "SE",
+    "countryName_en": "Sweden",
+    "countryName_uk": "Королівство Швеція"
+  },
+  "SG": {
+    "code": "SG",
+    "countryName_en": "Singapore",
+    "countryName_uk": "Республіка Сингапур"
+  },
+  "SH": {
+    "code": "SH",
+    "countryName_en": "Saint Helena, Ascension and Tristan da Cunha",
+    "countryName_uk": "Острови Святої Єлени, Вознесіння і Тристан-да-Кунья"
+  },
+  "SI": {
+    "code": "SI",
+    "countryName_en": "Slovenia",
+    "countryName_uk": "Республіка Словенія"
+  },
+  "SJ": {
+    "code": "SJ",
+    "countryName_en": "Svalbard and Jan Mayen",
+    "countryName_uk": "Шпіцберген та Ян-Маєн"
+  },
+  "SK": {
+    "code": "SK",
+    "countryName_en": "Slovakia",
+    "countryName_uk": "Словацька Республіка"
+  },
+  "SL": {
+    "code": "SL",
+    "countryName_en": "Sierra Leone",
+    "countryName_uk": "Республіка Сьєрра-Леоне"
+  },
+  "SM": {
+    "code": "SM",
+    "countryName_en": "San Marino",
+    "countryName_uk": "Республіка Сан-Марино"
+  },
+  "SN": {
+    "code": "SN",
+    "countryName_en": "Senegal",
+    "countryName_uk": "Республіка Сенегал"
+  },
+  "SO": {
+    "code": "SO",
+    "countryName_en": "Somalia",
+    "countryName_uk": "Сомалійська Республіка"
+  },
+  "SR": {
+    "code": "SR",
+    "countryName_en": "Suriname",
+    "countryName_uk": "Республіка Суринам"
+  },
+  "SS": {
+    "code": "SS",
+    "countryName_en": "South Sudan",
+    "countryName_uk": "Республіка Південний Судан"
+  },
+  "ST": {
+    "code": "ST",
+    "countryName_en": "Sao Tome and Principe",
+    "countryName_uk": "Демократична Республіка Сан-Томе і Принсіпі"
+  },
+  "SV": {
+    "code": "SV",
+    "countryName_en": "El Salvador",
+    "countryName_uk": "Республіка Ель-Сальвадор"
+  },
+  "SX": {
+    "code": "SX",
+    "countryName_en": "Sint Maarten (Dutch part)",
+    "countryName_uk": "Сінт-Мартен (у складі Королівства Нідерландів)"
+  },
+  "SY": {
+    "code": "SY",
+    "countryName_en": "Syrian Arab Republic",
+    "countryName_uk": "Сирійська Арабська Республіка"
+  },
+  "SZ": {
+    "code": "SZ",
+    "countryName_en": "Eswatini",
+    "countryName_uk": "Королівство Есватіні"
+  },
+  "TC": {
+    "code": "TC",
+    "countryName_en": "Turks and Caicos Islands",
+    "countryName_uk": "Острови Теркс і Кайкос"
+  },
+  "TD": {
+    "code": "TD",
+    "countryName_en": "Chad",
+    "countryName_uk": "Республіка Чад"
+  },
+  "TF": {
+    "code": "TF",
+    "countryName_en": "French Southern Territories",
+    "countryName_uk": "Французькі Південні і Антарктичні Території"
+  },
+  "TG": {
+    "code": "TG",
+    "countryName_en": "Togo",
+    "countryName_uk": "Тоголезька Республіка"
+  },
+  "TH": {
+    "code": "TH",
+    "countryName_en": "Thailand",
+    "countryName_uk": "Королівство Таїланд"
+  },
+  "TJ": {
+    "code": "TJ",
+    "countryName_en": "Tajikistan",
+    "countryName_uk": "Республіка Таджикистан"
+  },
+  "TK": {
+    "code": "TK",
+    "countryName_en": "Tokelau",
+    "countryName_uk": "Токелау"
+  },
+  "TL": {
+    "code": "TL",
+    "countryName_en": "Timor-Leste",
+    "countryName_uk": "Демократична Республіка Тимор-Лешті"
+  },
+  "TM": {
+    "code": "TM",
+    "countryName_en": "Turkmenistan",
+    "countryName_uk": "Туркменистан"
+  },
+  "TN": {
+    "code": "TN",
+    "countryName_en": "Tunisia",
+    "countryName_uk": "Туніська Республіка"
+  },
+  "TO": {
+    "code": "TO",
+    "countryName_en": "Tonga",
+    "countryName_uk": "Королівство Тонга"
+  },
+  "TR": {
+    "code": "TR",
+    "countryName_en": "Turkey",
+    "countryName_uk": "Турецька Республіка"
+  },
+  "TT": {
+    "code": "TT",
+    "countryName_en": "Trinidad and Tobago",
+    "countryName_uk": "Республіка Тринідад і Тобаго"
+  },
+  "TV": {
+    "code": "TV",
+    "countryName_en": "Tuvalu",
+    "countryName_uk": "Тувалу"
+  },
+  "TW": {
+    "code": "TW",
+    "countryName_en": "Taiwan (Province of China)",
+    "countryName_uk": "Тайвань, провінція Китайської Республіки"
+  },
+  "TZ": {
+    "code": "TZ",
+    "countryName_en": "Tanzania, the United Republic of",
+    "countryName_uk": "Обʼєднана Республіка Танзанія"
+  },
+  "UA": {
+    "code": "UA",
+    "countryName_en": "Ukraine",
+    "countryName_uk": "Україна"
+  },
+  "UG": {
+    "code": "UG",
+    "countryName_en": "Uganda",
+    "countryName_uk": "Республіка Уганда"
+  },
+  "UM": {
+    "code": "UM",
+    "countryName_en": "United States Minor Outlying Islands",
+    "countryName_uk": "Зовнішні малі острови США"
+  },
+  "US": {
+    "code": "US",
+    "countryName_en": "United States of America",
+    "countryName_uk": "Сполучені Штати Америки"
+  },
+  "UY": {
+    "code": "UY",
+    "countryName_en": "Uruguay",
+    "countryName_uk": "Східна Республіка Уругвай"
+  },
+  "UZ": {
+    "code": "UZ",
+    "countryName_en": "Uzbekistan",
+    "countryName_uk": "Республіка Узбекистан"
+  },
+  "VA": {
+    "code": "VA",
+    "countryName_en": "Holy See",
+    "countryName_uk": "Святий Престол (держава-місто Ватикан)"
+  },
+  "VC": {
+    "code": "VC",
+    "countryName_en": "Saint Vincent and the Grenadines",
+    "countryName_uk": "Сент-Вінсент і Гренадіни"
+  },
+  "VE": {
+    "code": "VE",
+    "countryName_en": "Venezuela (Bolivarian Republic of)",
+    "countryName_uk": "Венесуела"
+  },
+  "VG": {
+    "code": "VG",
+    "countryName_en": "Virgin Islands (British)",
+    "countryName_uk": "Британські Віргінські Острови"
+  },
+  "VI": {
+    "code": "VI",
+    "countryName_en": "Virgin Islands (U.S.)",
+    "countryName_uk": "Віргінські Острови (США)"
+  },
+  "VN": {
+    "code": "VN",
+    "countryName_en": "Viet Nam",
+    "countryName_uk": "Соціалістична Республіка Вʼєтнам"
+  },
+  "VU": {
+    "code": "VU",
+    "countryName_en": "Vanuatu",
+    "countryName_uk": "Республіка Вануату"
+  },
+  "WF": {
+    "code": "WF",
+    "countryName_en": "Wallis and Futuna",
+    "countryName_uk": "Уолліс і Футуна"
+  },
+  "WS": {
+    "code": "WS",
+    "countryName_en": "Samoa",
+    "countryName_uk": "Незалежна держава Самоа"
+  },
+  "XK": {
+    "code": "XK",
+    "countryName_en": "Kosovo",
+    "countryName_uk": "Республіка Косово"
+  },
+  "YE": {
+    "code": "YE",
+    "countryName_en": "Yemen",
+    "countryName_uk": "Єменська Республіка"
+  },
+  "YT": {
+    "code": "YT",
+    "countryName_en": "Mayotte",
+    "countryName_uk": "Майотта"
+  },
+  "ZA": {
+    "code": "ZA",
+    "countryName_en": "South Africa",
+    "countryName_uk": "Південноафриканська Республіка"
+  },
+  "ZM": {
+    "code": "ZM",
+    "countryName_en": "Zambia",
+    "countryName_uk": "Республіка Замбія"
+  },
+  "ZW": {
+    "code": "ZW",
+    "countryName_en": "Zimbabwe",
+    "countryName_uk": "Республіка Зімбабве"
+  }
+}
