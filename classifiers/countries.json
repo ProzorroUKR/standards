@@ -15,7 +15,7 @@
     "name_uk": "Алжирська Народна Демократична Республіка",
     "name_en": "Algeria"
   },
-  "WS": {
+  "AS": {
     "name_uk": "Американське Самоа",
     "name_en": "Samoa"
   },
@@ -25,11 +25,11 @@
   },
   "AO": {
     "name_uk": "Республіка Ангола",
-    "name_en": "Albania"
+    "name_en": "Republic of Angola"
   },
-  "AO": {
+  "AG": {
     "name_uk": "Антигуа і Барбуда",
-    "name_en": "Angola"
+    "name_en": "Antigua and Barbuda"
   },
   "AZ": {
     "name_uk": "Азербайджанська Республіка",
@@ -255,9 +255,9 @@
     "name_uk": "Республіка Ель-Сальвадор",
     "name_en": "El Salvador"
   },
-  "GN": {
+  "GQ": {
     "name_uk": "Республіка Екваторіальна Гвінея",
-    "name_en": "Guinea"
+    "name_en": "Republic of Equatorial Guinea"
   },
   "ET": {
     "name_uk": "Федеративна Демократична Республіка Ефіопія",
@@ -371,9 +371,9 @@
     "name_uk": "Республіка Гватемала",
     "name_en": "Guatemala"
   },
-  "GW": {
+  "GN": {
     "name_uk": "Республіка Гвінея",
-    "name_en": "Guinea-Bissau"
+    "name_en": "Republic of Guinea"
   },
   "GY": {
     "name_uk": "Республіка Гаяна",
@@ -760,7 +760,7 @@
     "name_en": "Anguilla"
   },
   "LC": {
-    "name_uk": "Сент-Люсія",
+    "name_uk": "Сент-люсія",
     "name_en": "Saint Lucia"
   },
   "MF": {
