@@ -2,11 +2,9 @@
     {
         "title": "Підходи до підготовки проекту та стратегії роботи з потенційними інвесторами",
         "source": "tenderer",
-        "weightingTypeCode": "PERCENTAGE",
-        "evaluationMethodType": "WEIGHTED",
         "classification": {
             "scheme": "ESPD211",
-            "id": "CRITERION.OTHER.ADVISERS.INVESTORS_STRATEGY"
+            "id": "CRITERION.OTHER.REFERENCES.RECOMMENDATIONS"
         },
         "relatesTo": "tender",
         "legislation": [
@@ -32,7 +30,8 @@
                   {
                         "title": "Кількість рекомендаційних листів щодо підготовки та реалізації проектів загалом",
                         "dataType": "integer",
-                        "minValue": "1"
+                        "minValue": "1",
+                        "weight": "1"
                     }
                     ]
 
