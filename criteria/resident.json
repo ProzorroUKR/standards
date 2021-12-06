@@ -2,11 +2,9 @@
     {
         "title": "Наявність представництва в Україні або залучення інших радників-резидентів (для нерезидентів)",
         "source": "tenderer",
-        "weightingTypeCode": "PERCENTAGE",
-        "evaluationMethodType": "WEIGHTED",
         "classification": {
             "scheme": "ESPD211",
-            "id": "CRITERION.OTHER.ADVISERS.INVESTORS_STRATEGY"
+            "id": "CRITERION.OTHER.SUPPLIER_REQUIREMEMENTS.BIDDER.RESIDENT"
         },
         "relatesTo": "tender",
         "legislation": [
@@ -25,7 +23,9 @@
                 "description": "Учасник є резидентом",
                 "requirements": [
                   {
-                        "title": "Учасник є резидентом"
+                        "title": "Учасник є резидентом",
+                        "dataType": "boolean",
+                        "expectedValue": "true"
                     }
                     ]
             },
@@ -33,7 +33,9 @@
                 "description": "Учасник є нерезидентом, але має представництво  в Україні",
                 "requirements": [
                   {
-                        "title": "Учасник є нерезидентом, але має представництво  в Україні"
+                        "title": "Учасник є нерезидентом, але має представництво  в Україні",
+                        "dataType": "boolean",
+                        "expectedValue": "true"
                     }
                     ]
             },
@@ -41,7 +43,19 @@
                 "description": "Учасник є нерезидентом, але має представництво  в Україні",
                 "requirements": [
                   {
-                        "title": "Учасник є нерезидентом, але має представництво  в Україні"
+                        "title": "Учасник є нерезидентом, але має представництво  в Україні",
+                        "dataType": "boolean",
+                        "expectedValue": "true"
+                    }
+                    ]
+            },
+            {
+                "description": "Учасник відноситься до одного з вищезазначених пунктів",
+                "requirements": [
+                  {
+                        "title": "Учасник відноситься до одного з вищезазначених пунктів",
+                        "dataType": "boolean",
+                        "expectedValue": "false"
                     }
                     ]
             }
