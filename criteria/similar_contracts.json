@@ -2,11 +2,9 @@
     {
         "title": "Наявність документально підтвердженого досвіду учасника у виконанні аналогічних за предметом договорів",
         "source": "tenderer",
-        "weightingTypeCode": "PERCENTAGE",
-        "evaluationMethodType": "WEIGHTED",
         "classification": {
             "scheme": "ESPD211",
-            "id": "CRITERION.OTHER.ADVISERS.SIMILAR_CONTRACTS"
+            "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.REFERENCES.WORKS_PERFORMANCE"
         },
         "relatesTo": "tender",
         "legislation": [
