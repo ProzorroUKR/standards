@@ -2,11 +2,9 @@
     {
         "title": "Строки підготовки проекту",
         "source": "tenderer",
-        "weightingTypeCode": "PERCENTAGE",
-        "evaluationMethodType": "WEIGHTED",
         "classification": {
             "scheme": "ESPD211",
-            "id": "CRITERION.OTHER.ADVISERS.INVESTORS_STRATEGY"
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.DELIVERY_PERIOD"
         },
         "relatesTo": "tender",
         "legislation": [
@@ -27,7 +25,8 @@
                   {
                         "title": "Строки підготовки проекту(у днях)",
                         "dataType": "integer",
-                        "minValue": "0"
+                        "minValue": "0",
+                        "weight": "1"
                     }
                     ]
 
