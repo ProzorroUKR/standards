@@ -2,11 +2,9 @@
     {
         "title": "Наявність та відповідний рівень професійної і технічної кваліфікації працівників учасника",
         "source": "tenderer",
-        "weightingTypeCode": "PERCENTAGE",
-        "evaluationMethodType": "WEIGHTED",
         "classification": {
             "scheme": "ESPD211",
-            "id": "CRITERION.OTHER.ADVISERS.SIMILAR_CONTRACTS"
+            "id": ":CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.STAFF_FOR_CARRYING_SCOPE"
         },
         "relatesTo": "tender",
         "legislation": [
