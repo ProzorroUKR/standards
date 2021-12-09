@@ -566,5 +566,45 @@
         "symbol_uk": "МВт·год",
         "name_ru": "Мегаватт-час",
         "symbol_ru": "МВт·час"
+    },
+    "VLT": {
+        "name_en": "volt",
+        "symbol_en": "V",
+        "name_uk": "Вольт",
+        "symbol_uk": "В",
+        "name_ru": "Вольт",
+        "symbol_ru": "В"
+    },
+    "E32": {
+        "name_en": "litre per hour",
+        "symbol_en": "l/h",
+        "name_uk": "Літр на годину",
+        "symbol_uk": "Л/Год",
+        "name_ru": "Литр в час",
+        "symbol_ru": "Л/ч"
+    },
+    "WTT": {
+        "name_en": "watt",
+        "symbol_en": "W",
+        "name_uk": "Ват",
+        "symbol_uk": "Вт",
+        "name_ru": "Ватт",
+        "symbol_ru": "Вт"
+    },
+    "E93": {
+        "name_en": "kilogram per hour",
+        "symbol_en": "kg/h",
+        "name_uk": "Кілограм на годину",
+        "symbol_uk": "Кг/год",
+        "name_ru": "Килограмм в час",
+        "symbol_ru": "Кг/ч"
+    },
+    "RPM": {
+        "name_en": "revolutions per minute",
+        "symbol_en": "r/min",
+        "name_uk": "Оберт за хвилину",
+        "symbol_uk": "об/хв",
+        "name_ru": "Оборот в минуту",
+        "symbol_ru": "об/мин"
     }
 }
