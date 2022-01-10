@@ -1,31 +1,31 @@
 {
     "2G": {
-        "name": "volt AC", 
-        "symbol": "V", 
+        "name_en": "volt AC", 
+        "symbol_en": "V", 
         "name_uk": "вольт AC", 
         "symbol_uk": "В"
     },
     "2H": {
-        "name": "volt DC", 
-        "symbol": "V", 
+        "name_en": "volt DC", 
+        "symbol_en": "V", 
         "name_uk": "вольт DC", 
         "symbol_uk": "В"
     },
     "2N": {
-        "name": "decibel", 
-        "symbol": "dB", 
+        "name_en": "decibel", 
+        "symbol_en": "dB", 
         "name_uk": "децибел", 
         "symbol_uk": "дБ"
     },
     "2P": {
-        "name": "kilobyte", 
-        "symbol": "kbyte", 
+        "name_en": "kilobyte", 
+        "symbol_en": "kbyte", 
         "name_uk": "кілобайт", 
         "symbol_uk": "Кбайт"
     },
     "2X": {
-        "name": "metre per minute", 
-        "symbol": "m/min", 
+        "name_en": "metre per minute", 
+        "symbol_en": "m/min", 
         "name_uk": "метр на хвилину", 
         "symbol_uk": "м/хв"
     },
@@ -42,26 +42,26 @@
         "symbol_uk": "мкм"
     },
     "4K": {
-        "name": "milliampere", 
-        "symbol": "mA",
+        "name_en": "milliampere", 
+        "symbol_en": "mA",
         "name_uk": "міліампер",
         "symbol_uk": "мА"
     },
     "4L": {
-        "name": "megabyte", 
-        "symbol": "Mbyte",
+        "name_en": "megabyte", 
+        "symbol_en": "Mbyte",
         "name_uk": "мегабайт",
         "symbol_uk": "Мбайт"
     },
     "4O": {
-        "name": "microfarad", 
-        "symbol": "µF",
+        "name_en": "microfarad", 
+        "symbol_en": "µF",
         "name_uk": "мікрофарад",
         "symbol_uk": "мкФ"
     },
     "5K": {
-        "name": "count per minute", 
-        "symbol": "cpm",
+        "name_en": "count per minute", 
+        "symbol_en": "cpm",
         "name_uk": "відлік на хвилину",
         "symbol_uk": "cpm"
     },
@@ -72,8 +72,8 @@
         "symbol_uk": "кд/м²"
     },
     "A93": {
-        "name": "gram per cubic metre", 
-        "symbol": "g/m³",
+        "name_en": "gram per cubic metre", 
+        "symbol_en": "g/m³",
         "name_uk": "грам на кубічний метр",
         "symbol_uk": "г/м³"
     },
@@ -84,26 +84,26 @@
         "symbol_uk": "амп"
     },
     "AMH": {
-        "name": "ampere hour", 
-        "symbol": "A·h",
+        "name_en": "ampere hour", 
+        "symbol_en": "A·h",
         "name_uk": "ампер-година",
         "symbol_uk": "А·год"
     }, 
     "AMP": {
-        "name": "ampere", 
-        "symbol": "A",
+        "name_en": "ampere", 
+        "symbol_en": "A",
         "name_uk": "ампер",
         "symbol_uk": "А"
     },
     "ANN": {
-        "name": "year", 
-        "symbol": "y",
+        "name_en": "year", 
+        "symbol_en": "y",
         "name_uk": "рік",
         "symbol_uk": "р"
     },
     "ATM": {
-        "name": "standard atmosphere", 
-        "symbol": "atm",
+        "name_en": "standard atmosphere", 
+        "symbol_en": "atm",
         "name_uk": "стандартна атмосфера",
         "symbol_uk": "атм"
     },
@@ -114,32 +114,32 @@
         "symbol_uk": "капс"
     },
     "B37": {
-        "name": "kilogram-force", 
-        "symbol": "kgf",
+        "name_en": "kilogram-force", 
+        "symbol_en": "kgf",
         "name_uk": "кілограм-сила",
         "symbol_uk": "кгс"
     },
     "B61": {
-        "name": "lumen per watt", 
-        "symbol": "lm/W",
+        "name_en": "lumen per watt", 
+        "symbol_en": "lm/W",
         "name_uk": "люмен на ват",
         "symbol_uk": "Лм/Вт"
     },
     "B75": {
-        "name": "megaohm", 
-        "symbol": "MΩ",
+        "name_en": "megaohm", 
+        "symbol_en": "MΩ",
         "name_uk": "мегаом",
         "symbol_uk": "МОм"
     },
     "B80": {
-        "name": "gigabit per second", 
-        "symbol": "Gbit/s",
+        "name_en": "gigabit per second", 
+        "symbol_en": "Gbit/s",
         "name_uk": "гігабіт на секунду",
         "symbol_uk": "Гбіт/с"
     },
     "BAR": {
-        "name": "bar [unit of pressure]", 
-        "symbol": "bar", 
+        "name_en": "bar [unit of pressure]", 
+        "symbol_en": "bar", 
         "name_uk": "бар [одиниця тиску]", 
         "symbol_uk": "бар"
     },
@@ -162,8 +162,8 @@
         "symbol_uk": "каністр"
     },
     "CEL": {
-        "name": "degree Celsius", 
-        "symbol": "°C",
+        "name_en": "degree Celsius", 
+        "symbol_en": "°C",
         "name_uk": "градус Цельсія",
         "symbol_uk": "°C"
     }, 
@@ -204,14 +204,14 @@
         "symbol_uk": "ВАр"
     },
     "D46": {
-        "name": "volt-ampere", 
-        "symbol": "V·A", 
+        "name_en": "volt-ampere", 
+        "symbol_en": "V·A", 
         "name_uk": "вольт-ампер", 
         "symbol_uk": "В·А"
     },
     "D55": {
-        "name": "watt per square metre kelvin", 
-        "symbol": "W/(m²·K)", 
+        "name_en": "watt per square metre kelvin", 
+        "symbol_en": "W/(m²·K)", 
         "name_uk": "ват на квадратний метр кельвіна", 
         "symbol_uk": "Вт/(м²·К)"
     },
@@ -228,8 +228,8 @@
         "symbol_uk": "д"
     },
     "DD": {
-        "name": "degree [unit of angle]", 
-        "symbol": "°",
+        "name_en": "degree [unit of angle]", 
+        "symbol_en": "°",
         "name_uk": "градус [одиниця кута]",
         "symbol_uk": "°"
     },
@@ -258,8 +258,8 @@
         "symbol_uk": "Ккал"
     },
     "E20": {
-        "name": "megabit per second", 
-        "symbol": "Mbit/s", 
+        "name_en": "megabit per second", 
+        "symbol_en": "Mbit/s", 
         "name_uk": "мегабіт на секунду", 
         "symbol_uk": "Мбіт/с"
     },
@@ -282,26 +282,26 @@
         "symbol_uk": "Гбайт"
     },
     "E35": {
-        "name": "terabyte", 
-        "symbol": "Tbyte",
+        "name_en": "terabyte", 
+        "symbol_en": "Tbyte",
         "name_uk": "терабайт",
         "symbol_uk": "Тбайт"
     },
     "E37": {
-        "name": "pixel", 
-        "symbol": "pix",
+        "name_en": "pixel", 
+        "symbol_en": "pix",
         "name_uk": "піксель",
         "symbol_uk": "пікс"
     },
     "E38": {
-        "name": "megapixel", 
-        "symbol": "Mpix",
+        "name_en": "megapixel", 
+        "symbol_en": "Mpix",
         "name_uk": "мегапіксель",
         "symbol_uk": "Мпікс"
     },
     "E39": {
-        "name": "dots per inch", 
-        "symbol": "dpi",
+        "name_en": "dots per inch", 
+        "symbol_en": "dpi",
         "name_uk": "точок на дюйм",
         "symbol_uk": "dpi"
     },
@@ -342,32 +342,32 @@
         "symbol_uk": "кг/год"
     },
     "F28": {
-        "name": "gram per minute", 
-        "symbol": "g/min",
+        "name_en": "gram per minute", 
+        "symbol_en": "g/min",
         "name_uk": "грам на хвилину", 
         "symbol_uk": "г/хв"
     },
     "F31": {
-        "name": "kilogram per minute", 
-        "symbol": "kg/min",
+        "name_en": "kilogram per minute", 
+        "symbol_en": "kg/min",
         "name_uk": "кілограм на хвилину", 
         "symbol_uk": "кг/хв"
     },
     "G51": {
-        "name": "litre per second", 
-        "symbol": "l/s",
+        "name_en": "litre per second", 
+        "symbol_en": "l/s",
         "name_uk": "літр на секунду", 
         "symbol_uk": "л/с"
     },
     "GF": {
-        "name": "gram per metre (gram per 100 centimetres)", 
-        "symbol": "g/m",
+        "name_en": "gram per metre (gram per 100 centimetres)", 
+        "symbol_en": "g/m",
         "name_uk": "грам на метр (грам на 100 сантиметрів)", 
         "symbol_uk": "г/м"
     },
     "GL": {
-        "name": "gram per litre", 
-        "symbol": "g/l",
+        "name_en": "gram per litre", 
+        "symbol_en": "g/l",
         "name_uk": "грам на літр", 
         "symbol_uk": "г/л"
     }, 
@@ -396,8 +396,8 @@
         "symbol_uk": "га"
     },
     "HTZ": {
-        "name": "hertz", 
-        "symbol": "Hz", 
+        "name_en": "hertz", 
+        "symbol_en": "Hz", 
         "name_uk": "герц", 
         "symbol_uk": "Гц"
     }, 
@@ -420,8 +420,8 @@
         "symbol_uk": "дюйм"
     },
     "JOU": {
-        "name": "joule", 
-        "symbol": "J",
+        "name_en": "joule", 
+        "symbol_en": "J",
         "name_uk": "джоуль",
         "symbol_uk": "Дж"
     },
@@ -432,8 +432,8 @@
         "symbol_uk": "банк"
     },
     "KEL": {
-        "name": "kelvin", 
-        "symbol": "K", 
+        "name_en": "kelvin", 
+        "symbol_en": "K", 
         "name_uk": "келвін", 
         "symbol_uk": "К"
     },
@@ -444,14 +444,14 @@
         "symbol_uk": "кг"
     },
     "KHZ": {
-        "name": "kilohertz", 
-        "symbol": "kHz", 
+        "name_en": "kilohertz", 
+        "symbol_en": "kHz", 
         "name_uk": "кілогерц", 
         "symbol_uk": "кГц"
     },
     "KMQ": {
-        "name": "kilogram per cubic metre", 
-        "symbol": "kg/m³", 
+        "name_en": "kilogram per cubic metre", 
+        "symbol_en": "kg/m³", 
         "name_uk": "кілограм на кубічний метр", 
         "symbol_uk": "кг/м³"
     },
@@ -462,8 +462,8 @@
         "symbol_uk": "км"
     },
     "KPA": {
-        "name": "kilopascal", 
-        "symbol": "kPa", 
+        "name_en": "kilopascal", 
+        "symbol_en": "kPa", 
         "name_uk": "кілопаскаль", 
         "symbol_uk": "кПа"
     },
@@ -474,8 +474,8 @@
         "symbol_uk": "комп"
     },
     "KVA": {
-        "name": "kilovolt-ampere", 
-        "symbol": "kV·A", 
+        "name_en": "kilovolt-ampere", 
+        "symbol_en": "kV·A", 
         "name_uk": "кіловольт-ампер", 
         "symbol_uk": "кВ·А"
     },
@@ -486,8 +486,8 @@
         "symbol_uk": "кВар"
     },
     "KVT": {
-        "name": "kilovolt", 
-        "symbol": "kV", 
+        "name_en": "kilovolt", 
+        "symbol_en": "kV", 
         "name_uk": "кіловольт", 
         "symbol_uk": "кВ"
     },
@@ -504,8 +504,8 @@
         "symbol_uk": "кВт"
     },
     "L2": {
-        "name": "litre per minute", 
-        "symbol": "l/min", 
+        "name_en": "litre per minute", 
+        "symbol_en": "l/min", 
         "name_uk": "літр на хвилину", 
         "symbol_uk": "л/хв"
     },
@@ -528,20 +528,20 @@
         "symbol_uk": "л"
     },
     "LUM": {
-        "name": "lumen", 
-        "symbol": "lm", 
+        "name_en": "lumen", 
+        "symbol_en": "lm", 
         "name_uk": "люмен", 
         "symbol_uk": "лм"
     },
     "MGM": {
-        "name": "milligram", 
-        "symbol": "mg",
+        "name_en": "milligram", 
+        "symbol_en": "mg",
         "name_uk": "міліграм", 
         "symbol_uk": "мг"
     },
     "MHZ": {
-        "name": "megahertz", 
-        "symbol": "MHz",
+        "name_en": "megahertz", 
+        "symbol_en": "MHz",
         "name_uk": "мегагерц", 
         "symbol_uk": "МГц"
     },
@@ -570,14 +570,14 @@
         "symbol_uk": "місяць"
     },
     "MQH": {
-        "name": "cubic metre per hour", 
-        "symbol": "m³/h", 
+        "name_en": "cubic metre per hour", 
+        "symbol_en": "m³/h", 
         "name_uk": "кубічний метр на годину", 
         "symbol_uk": "м³/год"
     },
     "MSK": {
-        "name": "metre per second squared", 
-        "symbol": "m/s²", 
+        "name_en": "metre per second squared", 
+        "symbol_en": "m/s²", 
         "name_uk": "метр на секунду в квадраті", 
         "symbol_uk": "м/с²"
     },
@@ -600,8 +600,8 @@
         "symbol_uk": "м"
     },
     "MTS": {
-        "name": "metre per second", 
-        "symbol": "m/s", 
+        "name_en": "metre per second", 
+        "symbol_en": "m/s", 
         "name_uk": "метр на секунду", 
         "symbol_uk": "м/с"
     },
@@ -612,8 +612,8 @@
         "symbol_uk": "МВт·год"
     },
     "NEW": {
-        "name": "newton", 
-        "symbol": "N",
+        "name_en": "newton", 
+        "symbol_en": "N",
         "name_uk": "ньютон",
         "symbol_uk": "Н"
     },
@@ -624,14 +624,14 @@
         "symbol_uk": "пач"
     },
     "NU": {
-        "name": "newton metre", 
-        "symbol": "N·m", 
+        "name_en": "newton metre", 
+        "symbol_en": "N·m", 
         "name_uk": "ньютон метр", 
         "symbol_uk": "Н·м"
     },
     "OHM": {
-        "name": "ohm", 
-        "symbol": "Ω", 
+        "name_en": "ohm", 
+        "symbol_en": "Ω", 
         "name_uk": "ом", 
         "symbol_uk": "Ом"
     },
@@ -702,8 +702,8 @@
         "symbol_uk": "об/с"
     },
     "SE": {
-        "name": "section", 
-        "symbol": "",
+        "name_en": "section", 
+        "symbol_en": "",
         "name_uk": "розділ", 
         "symbol_uk": ""
     },
