@@ -27,9 +27,10 @@
                         "dataType": "integer",
                         "minValue": "0",
                         "weight": "1"
-                    },
+      }
                     ]
-                
+
             }
         ]
     }
+    ]
