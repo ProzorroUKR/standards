@@ -10,8 +10,8 @@
     },
     "contactPoint": {
       "email": "cpb.org.ua@gmail.com",
-      "faxNumber": "+380 63 578 04 80",
-      "telephone": "+380 96 689 20 62",
+      "faxNumber": "+380635780480",
+      "telephone": "+380966892062",
       "url": "http://cpb.org.ua",
       "name_en": "Nina Abaimova",
       "name_uk": "Абаімова Ніна Сергіївна"
@@ -36,7 +36,7 @@
     },
     "contactPoint": {
       "email": "catalogue@medpro.health",
-      "telephone": "+3 8066 696 49 90",
+      "telephone": "+380666964990",
       "url": "http://fb.me/uamedpro",
       "name_uk": "Віталій Овсянніков"
     },
@@ -60,8 +60,8 @@
     },
     "contactPoint": {
       "email": "czo.if.ua@gmail.com",
-      "faxNumber": "+380 96 942 56 96",
-      "telephone": "+380 96 942 56 96",
+      "faxNumber": "+380969425696",
+      "telephone": "+380969425696",
       "url": "",
       "name_en": "Yurkevych Volodymyr Mykhailovych",
       "name_uk": "Юркевич Володимир Михайлович"
@@ -76,7 +76,7 @@
     "name_uk": "КП \"ЦЗО ІВАНО-ФРАНКІВСЬКОЇ ОБЛАСНОЇ РАДИ\""
   },
   {
-    "active": false,
+    "active": true,
     "address": {
       "countryName": "Україна",
       "locality": "Київ",
@@ -85,18 +85,141 @@
       "streetAddress": "Бульварно-Кудрявська, 22"
     },
     "contactPoint": {
-      "email": "j.baikova@gmail.com",
-      "faxNumber": "+380 63 578 55 55",
-      "telephone": "+380 96 689 66 66",
-      "name_uk": "Байкова Юлія"
+      "email": "tt481345@gmail.com",
+      "faxNumber": "+380635785555",
+      "telephone": "+380966896666",
+      "name_uk": "Прозорро Тест"
     },
     "identifier": {
       "id": "12345678",
       "scheme": "UA-EDR",
-      "legalName_en": "DERZhAVNA USTANOVA \"TEST Baikova\"",
-      "legalName_uk": "ДЕРЖАВНА УСТАНОВА \"Тест Байкова\""
+      "legalName_en": "DERZhAVNA USTANOVA \"TEST Prozorro\"",
+      "legalName_uk": "ДЕРЖАВНА УСТАНОВА \"Тест Прозорро\""
     },
-    "name_en": "DERZhAVNA USTANOVA \"TEST Baikova\"",
-    "name_uk": "ДЕРЖАВНА УСТАНОВА \"Тест Байкова\""
-  } 
+    "name_en": "DERZhAVNA USTANOVA \"TEST Prozorro\"",
+    "name_uk": "ДЕРЖАВНА УСТАНОВА \"Тест Прозорро\""
+  },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Київ",
+      "postalCode": "04119",
+      "region": "м. Київ",
+      "streetAddress": "вул. Юрія Іллєнка, 83Б"
+    },
+    "contactPoint": {
+      "email": "info@uss.gov.ua",
+      "faxNumber": "+380444814953",
+      "telephone": "+380444814956",
+      "url": "http://www.uss.gov.ua",
+      "name_en": "Mykola Sokyrko",
+      "name_uk": "Сокирко Микола Степанович"
+    },
+    "identifier": {
+      "id": "32348248",
+      "scheme": "UA-EDR",
+      "legalName_en": "State Enterprise \"Ukrainian Special Systems\"",
+      "legalName_uk": "Державне підприємство \"Українські спеціальні системи\""
+    },
+    "name_en": "State Enterprise \"Ukrainian Special Systems\"",
+    "name_uk": "Державне підприємство \"Українські спеціальні системи\""
+  },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Херсон",
+      "postalCode": "73000",
+      "region": "Херсонська область",
+      "streetAddress": "вул. Залаегерсег, 5"
+    },
+    "contactPoint": {
+      "email": "baza.smp.kherson@meta.ua",
+      "faxNumber": "+380552313034",
+      "telephone": "+380992130820",
+      "name_en": "Zhuravlenko Oleksіy Andrіyovich",
+      "name_uk": "Журавленко Олексій Андрійович"
+    },
+    "identifier": {
+      "id": "00182136",
+      "scheme": "UA-EDR",
+      "legalName_en": "KOMUNALʹNE NEKOMERTSIYNE PIDPRYYEMSTVO \"OBLASNA BAZA SPECIALNOGO MEDICHNOGO POSTACHANNY\" KHERSONSKOY OBLASNOY RADI",
+      "legalName_uk": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ОБЛАСНА БАЗА СПЕЦІАЛЬНОГО МЕДИЧНОГО ПОСТАЧАННЯ\" ХЕРСОНСЬКОЇ ОБЛАСНОЇ РАДИ"
+    },
+    "name_en": "KNP \"OBSMP\" KOR",
+    "name_uk": "КНП \"ОБСМП\" ХОР"
+  },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Дніпро",
+      "postalCode": "49000",
+      "region": "Дніпропетровська область",
+      "streetAddress": "пр.Яворницького Дмитра, будинок 75"
+    },
+    "contactPoint": {
+      "email": "czodmr@gmail.com",
+      "telephone": "+380960028132",
+      "name_en": "Saharova Nadiya",
+      "name_uk": "Сахарова Надія Сергіївна"
+    },
+    "identifier": {
+      "id": "32835966",
+      "scheme": "UA-EDR",
+      "legalName_en": "KOMUNALNE PIDPRYYEMSTVO \"TSENTRALIZOVANA ZAKUPIVELNA ORGANIZATSIYA\" DNIPROVSKOYI MISKOYI RADY",
+      "legalName_uk": "\"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ"
+    },
+    "name_en": "KP \"CZO\" DMR",
+    "name_uk": "\"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ\" ДНІПРОВСЬКОЇ МІСЬКОЇ РАДИ"
+  },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Суми",
+      "postalCode": "40000",
+      "region": "Сумська область",
+      "streetAddress": "вул. Кооперативна, будинок 3"
+    },
+    "contactPoint": {
+      "email": "czofond@gmail.com",
+      "telephone": "+380542700065",
+      "name_en": "Borkovets Alexander",
+      "name_uk": "Борковець Олександр"
+    },
+    "identifier": {
+      "id": "34592931",
+      "scheme": "UA-EDR",
+      "legalName_en": "MUNICIPAL ORGANIZATION \"SUMY REGION BUSINESS GUARANTEE FUND\" SUMY REGIONAL COUNCIL",
+      "legalName_uk": "КОМУНАЛЬНА УСТАНОВА \"СУМСЬКИЙ ОБЛАСНИЙ ФОНД ПІДТРИМКИ ПІДПРИЄМНИЦТВА\" СУМСЬКОЇ ОБЛАСНОЇ РАДИ"
+    },
+    "name_en": "MUNICIPAL ORGANIZATION \"SUMY REGION BUSINESS GUARANTEE FUND\" SUMY REGIONAL COUNCIL",
+    "name_uk": "КОМУНАЛЬНА УСТАНОВА \"СУМСЬКИЙ ОБЛАСНИЙ ФОНД ПІДТРИМКИ ПІДПРИЄМНИЦТВА\" СУМСЬКОЇ ОБЛАСНОЇ РАДИ"
+   },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Одеса",
+      "postalCode": "65107",
+      "region": "Одеська область",
+      "streetAddress": "вул. Канатна, будинок 83"
+    },
+    "contactPoint": {
+      "email": "czo_odessa@ukr.net",
+      "telephone": "+380730897589",
+      "name_en": "Huz Anastasiia",
+      "name_uk": "Гуз Анастасія Володимирівна"
+    },
+    "identifier": {
+      "id": "40600473",
+      "scheme": "UA-EDR",
+      "legalName_en": "MUNICIPAL ENTERPRISE \"CENTRALIZED PURCHASING ORGANIZATION OF ODESSA REGIONAL COUNCIL\"",
+      "legalName_uk": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ ОДЕСЬКОЇ ОБЛАСНОЇ РАДИ\""
+    },
+    "name_en": "ME \"CPO ODESSA REGIONAL COUNCIL\"",
+    "name_uk": "КП\"ЦЗО ОДЕСЬКОЇ ОБЛАСНОЇ РАДИ\""
+   }
 ]

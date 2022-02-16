@@ -1,562 +1,776 @@
 {
+    "2G": {
+        "name_en": "volt AC", 
+        "symbol_en": "V", 
+        "name_uk": "вольт AC", 
+        "symbol_uk": "В"
+    },
+    "2H": {
+        "name_en": "volt DC", 
+        "symbol_en": "V", 
+        "name_uk": "вольт DC", 
+        "symbol_uk": "В"
+    },
+    "2N": {
+        "name_en": "decibel", 
+        "symbol_en": "dB", 
+        "name_uk": "децибел", 
+        "symbol_uk": "дБ"
+    },
+    "2P": {
+        "name_en": "kilobyte", 
+        "symbol_en": "kbyte", 
+        "name_uk": "кілобайт", 
+        "symbol_uk": "Кбайт"
+    },
+    "2X": {
+        "name_en": "metre per minute", 
+        "symbol_en": "m/min", 
+        "name_uk": "метр на хвилину", 
+        "symbol_uk": "м/хв"
+    },
     "4A": {
         "name_en": "bobbin", 
         "symbol_en": "", 
-        "name_uk": "Бобіна", 
-        "symbol_uk": "", 
-        "name_ru": "Бабина", 
-        "symbol_ru": ""
+        "name_uk": "бобіна", 
+        "symbol_uk": ""
+    },    
+    "4H": {
+        "name_en": "micrometre",
+        "symbol_en": "µm",
+        "name_uk": "мікрометр",
+        "symbol_uk": "мкм"
+    },
+    "4K": {
+        "name_en": "milliampere", 
+        "symbol_en": "mA",
+        "name_uk": "міліампер",
+        "symbol_uk": "мА"
+    },
+    "4L": {
+        "name_en": "megabyte", 
+        "symbol_en": "Mbyte",
+        "name_uk": "мегабайт",
+        "symbol_uk": "Мбайт"
+    },
+    "4O": {
+        "name_en": "microfarad", 
+        "symbol_en": "µF",
+        "name_uk": "мікрофарад",
+        "symbol_uk": "мкФ"
+    },
+    "5K": {
+        "name_en": "count per minute", 
+        "symbol_en": "cpm",
+        "name_uk": "відлік на хвилину",
+        "symbol_uk": "cpm"
+    },
+    "A24": {
+        "name_en": "candela per square meter",
+        "symbol_en": "cd/m²",
+        "name_uk": "кандела на квадратний метр",
+        "symbol_uk": "кд/м²"
+    },
+    "A93": {
+        "name_en": "gram per cubic metre", 
+        "symbol_en": "g/m³",
+        "name_uk": "грам на кубічний метр",
+        "symbol_uk": "г/м³"
+    },
+    "AM": {
+        "name_en": "ampoule",
+        "symbol_en": "amp",
+        "name_uk": "ампула",
+        "symbol_uk": "амп"
+    },
+    "AMH": {
+        "name_en": "ampere hour", 
+        "symbol_en": "A·h",
+        "name_uk": "ампер-година",
+        "symbol_uk": "А·год"
+    }, 
+    "AMP": {
+        "name_en": "ampere", 
+        "symbol_en": "A",
+        "name_uk": "ампер",
+        "symbol_uk": "А"
+    },
+    "ANN": {
+        "name_en": "year", 
+        "symbol_en": "y",
+        "name_uk": "рік",
+        "symbol_uk": "р"
+    },
+    "ATM": {
+        "name_en": "standard atmosphere", 
+        "symbol_en": "atm",
+        "name_uk": "стандартна атмосфера",
+        "symbol_uk": "атм"
+    },
+    "AV": {
+        "name_en": "capsule",
+        "symbol_en": "caps",
+        "name_uk": "капсула",
+        "symbol_uk": "капс"
+    },
+    "B37": {
+        "name_en": "kilogram-force", 
+        "symbol_en": "kgf",
+        "name_uk": "кілограм-сила",
+        "symbol_uk": "кгс"
+    },
+    "B61": {
+        "name_en": "lumen per watt", 
+        "symbol_en": "lm/W",
+        "name_uk": "люмен на ват",
+        "symbol_uk": "Лм/Вт"
+    },
+    "B75": {
+        "name_en": "megaohm", 
+        "symbol_en": "MΩ",
+        "name_uk": "мегаом",
+        "symbol_uk": "МОм"
+    },
+    "B80": {
+        "name_en": "gigabit per second", 
+        "symbol_en": "Gbit/s",
+        "name_uk": "гігабіт на секунду",
+        "symbol_uk": "Гбіт/с"
+    },
+    "BAR": {
+        "name_en": "bar [unit of pressure]", 
+        "symbol_en": "bar", 
+        "name_uk": "бар [одиниця тиску]", 
+        "symbol_uk": "бар"
+    },
+    "BO": {
+        "name_en": "bottle", 
+        "symbol_en": "bot", 
+        "name_uk": "пляшки", 
+        "symbol_uk": "пляш"
     }, 
     "BX": {
         "name_en": "box", 
-        "symbol_en": "", 
+        "symbol_en": "box", 
         "name_uk": "ящик", 
-        "symbol_uk": "ящ.", 
-        "name_ru": "ящик", 
-        "symbol_ru": "ящ."
+        "symbol_uk": "ящ"
+    },
+    "CA": {
+        "name_en": "can",
+        "symbol_en": "can",
+        "name_uk": "каністра",
+        "symbol_uk": "каністр"
+    },
+    "CEL": {
+        "name_en": "degree Celsius", 
+        "symbol_en": "°C",
+        "name_uk": "градус Цельсія",
+        "symbol_uk": "°C"
     }, 
-    "D44": {
-        "name_en": "var", 
-        "symbol_en": "var", 
-        "name_uk": "Вар", 
-        "symbol_uk": "ВАр", 
-        "name_ru": "Вар", 
-        "symbol_ru": "ВАр"
-    }, 
-    "D64": {
-        "name_en": "block", 
-        "symbol_en": "", 
-        "name_uk": "блок", 
-        "symbol_uk": "блок", 
-        "name_ru": "блок", 
-        "symbol_ru": "блок"
-    }, 
-    "E07": {
-        "name_en": "megawatt hour per hour", 
-        "symbol_en": "MW·h/h", 
-        "name_uk": "мегават-година в годину", 
-        "symbol_uk": "МВт-год/год", 
-        "name_ru": "мегавват-час в час", 
-        "symbol_ru": "МВт-час/час"
-    }, 
-    "E11": {
-        "name_en": "gigacalorie", 
-        "symbol_en": "", 
-        "name_uk": "Гігакалорія", 
-        "symbol_uk": "Гкал", 
-        "name_ru": "Гигакалория", 
-        "symbol_ru": "Гкал"
-    }, 
-    "E14": {
-        "name_en": "kilocalorie (international table)", 
-        "symbol_en": "kcalIT", 
-        "name_uk": "Кілокалорія", 
-        "symbol_uk": "Ккал", 
-        "name_ru": "Килокалория", 
-        "symbol_ru": "Ккал"
-    }, 
-    "E48": {
-        "name_en": "service unit", 
-        "symbol_en": "", 
-        "name_uk": "послуга", 
-        "symbol_uk": "посл.", 
-        "name_ru": "услуга", 
-        "symbol_ru": "усл."
-    }, 
-    "E49": {
-        "name_en": "working day", 
-        "symbol_en": "", 
-        "name_uk": "Робочі дні", 
-        "symbol_uk": "Роб.дні", 
-        "name_ru": "Рабочие дни", 
-        "symbol_ru": "Раб.дни"
-    }, 
-    "E50": {
-        "name_en": "accounting unit", 
-        "symbol_en": "", 
-        "name_uk": "Одиниця", 
-        "symbol_uk": "од.", 
-        "name_ru": "Единица", 
-        "symbol_ru": "ед."
-    }, 
-    "E51": {
-        "name_en": "job", 
-        "symbol_en": "", 
-        "name_uk": "роботи", 
-        "symbol_uk": "роб.", 
-        "name_ru": "работы", 
-        "symbol_ru": "раб."
-    }, 
-    "E54": {
-        "name_en": "trip", 
-        "symbol_en": "", 
-        "name_uk": "рейс", 
-        "symbol_uk": "рейс", 
-        "name_ru": "рейс", 
-        "symbol_ru": "рейс"
-    }, 
-    "GRM": {
-        "name_en": "gram", 
-        "symbol_en": "g", 
-        "name_uk": "Грам", 
-        "symbol_uk": "г", 
-        "name_ru": "Грамм", 
-        "symbol_ru": "г"
-    }, 
-    "H87": {
-        "name_en": "piece", 
-        "symbol_en": "", 
-        "name_uk": "штуки", 
-        "symbol_uk": "шт.", 
-        "name_ru": "штуки", 
-        "symbol_ru": "шт."
-    }, 
-    "HAR": {
-        "name_en": "hectare", 
-        "symbol_en": "ha", 
-        "name_uk": "гектар", 
-        "symbol_uk": "га.", 
-        "name_ru": "гектар", 
-        "symbol_ru": "га."
-    }, 
-    "HUR": {
-        "name_en": "hour", 
-        "symbol_en": "h", 
-        "name_uk": "Година", 
-        "symbol_uk": "Год.", 
-        "name_ru": "Час", 
-        "symbol_ru": "Ч."
-    }, 
-    "IE": {
-        "name_en": "person", 
-        "symbol_en": "", 
-        "name_uk": "Людей", 
-        "symbol_uk": "", 
-        "name_ru": "Людей", 
-        "symbol_ru": ""
-    }, 
-    "KGM": {
-        "name_en": "kilogram", 
-        "symbol_en": "kg", 
-        "name_uk": "кілограми", 
-        "symbol_uk": "кг.", 
-        "name_ru": "килограммы", 
-        "symbol_ru": "кг."
-    }, 
-    "KMT": {
-        "name_en": "kilometre", 
-        "symbol_en": "km", 
-        "name_uk": "кілометри", 
-        "symbol_uk": "км", 
-        "name_ru": "километры", 
-        "symbol_ru": "км"
-    }, 
-    "KT": {
-        "name_en": "kit", 
-        "symbol_en": "", 
-        "name_uk": "комплект", 
-        "symbol_uk": "комп.", 
-        "name_ru": "комплект", 
-        "symbol_ru": ""
-    }, 
-    "KVR": {
-        "name_en": "kilovar", 
-        "symbol_en": "kvar", 
-        "name_uk": "Кіловар", 
-        "symbol_uk": "кВар", 
-        "name_ru": "Киловар", 
-        "symbol_ru": "кВар"
-    }, 
-    "KWH": {
-        "name_en": "kilowatt hour", 
-        "symbol_en": "kW·h", 
-        "name_uk": "Кіловат-година", 
-        "symbol_uk": "кВт⋅год", 
-        "name_ru": "Киловатт-час", 
-        "symbol_ru": "кВт⋅ч"
-    }, 
-    "KWT": {
-        "name_en": "kilowatt", 
-        "symbol_en": "kW", 
-        "name_uk": "Кіловат", 
-        "symbol_uk": "Квт", 
-        "name_ru": "Киловатт", 
-        "symbol_ru": "Квт"
-    }, 
-    "LM": {
-        "name_en": "linear metre", 
-        "symbol_en": "", 
-        "name_uk": "Погонний метр", 
-        "symbol_uk": "пог.м.", 
-        "name_ru": "Погонный метр", 
-        "symbol_ru": "пог.м."
-    }, 
-    "LO": {
-        "name_en": "lot  [unit of procurement]", 
-        "symbol_en": "", 
-        "name_uk": "лот", 
-        "symbol_uk": "лот", 
-        "name_ru": "лот", 
-        "symbol_ru": "лот"
-    }, 
-    "LTR": {
-        "name_en": "litre", 
-        "symbol_en": "l", 
-        "name_uk": "літр", 
-        "symbol_uk": "л.", 
-        "name_ru": "литр", 
-        "symbol_ru": "л."
-    }, 
-    "MON": {
-        "name_en": "month", 
-        "symbol_en": "mo", 
-        "name_uk": "місяць", 
-        "symbol_uk": "місяць", 
-        "name_ru": "месяц", 
-        "symbol_ru": "месяц"
-    }, 
-    "MTK": {
-        "name_en": "square metre", 
-        "symbol_en": "m²", 
-        "name_uk": "метри квадратні", 
-        "symbol_uk": "м.кв.", 
-        "name_ru": "метры квадратные", 
-        "symbol_ru": "м.кв."
-    }, 
-    "MTQ": {
-        "name_en": "cubic metre", 
-        "symbol_en": "m³", 
-        "name_uk": "метри кубічні", 
-        "symbol_uk": "м.куб.", 
-        "name_ru": "метры кубические", 
-        "symbol_ru": "м.куб."
-    }, 
-    "MTR": {
-        "name_en": "metre", 
-        "symbol_en": "m", 
-        "name_uk": "метри", 
-        "symbol_uk": "м", 
-        "name_ru": "метры", 
-        "symbol_ru": "м"
-    }, 
-    "NMP": {
-        "name_en": "number of packs", 
-        "symbol_en": "", 
-        "name_uk": "пачок", 
-        "symbol_uk": "пач.", 
-        "name_ru": "пачок", 
-        "symbol_ru": "пач."
-    }, 
-    "PK": {
-        "name_en": "pack", 
-        "symbol_en": "", 
-        "name_uk": "упаковка", 
-        "symbol_uk": "упак.", 
-        "name_ru": "упаковка", 
-        "symbol_ru": "упак."
-    }, 
-    "PR": {
-        "name_en": "pair", 
-        "symbol_en": "", 
-        "name_uk": "пара", 
-        "symbol_uk": "пар.", 
-        "name_ru": "пара", 
-        "symbol_ru": "пар."
-    }, 
-    "R9": {
-        "name_en": "thousand cubic metre", 
-        "symbol_en": "", 
-        "name_uk": "тисяча кубічних метрів", 
-        "symbol_uk": "т.м.куб", 
-        "name_ru": "тысяча кубических метров", 
-        "symbol_ru": "т.м.куб"
-    }, 
-    "RH": {
-        "name_en": "running or operating hour", 
-        "symbol_en": "", 
-        "name_uk": "Людино-година", 
-        "symbol_uk": "", 
-        "name_ru": "Человек-час", 
-        "symbol_ru": ""
-    }, 
-    "RM": {
-        "name_en": "ream", 
-        "symbol_en": "", 
-        "name_uk": "пачка", 
-        "symbol_uk": "пач.", 
-        "name_ru": "пачка", 
-        "symbol_ru": "пач."
-    }, 
-    "RO": {
-        "name_en": "roll", 
-        "symbol_en": "", 
-        "name_uk": "Рулон", 
-        "symbol_uk": "", 
-        "name_ru": "Рулон", 
-        "symbol_ru": ""
-    }, 
-    "SET": {
-        "name_en": "set", 
-        "symbol_en": "", 
-        "name_uk": "набір", 
-        "symbol_uk": "наб.", 
-        "name_ru": "набор", 
-        "symbol_ru": "наб."
-    }, 
-    "T3": {
-        "name_en": "thousand piece", 
-        "symbol_en": "", 
-        "name_uk": "Тисяч штук", 
-        "symbol_uk": "Тис. шт.", 
-        "name_ru": "Тысяч штук", 
-        "symbol_ru": "Тыс. шт."
-    }, 
-    "TNE": {
-        "name_en": "tonne (metric ton)", 
-        "symbol_en": "t", 
-        "name_uk": "тонни", 
-        "symbol_uk": "т.", 
-        "name_ru": "тонны", 
-        "symbol_ru": "т."
-    }, 
-    "VI": {
-        "name_en": "vial", 
-        "symbol_en": "", 
-        "name_uk": "Флакон", 
-        "symbol_uk": "флак.", 
-        "name_ru": "Флакон", 
-        "symbol_ru": "флак."
-    }, 
-    "SEC": {
-        "name_en": "second [unit of time]", 
-        "symbol_en": "s", 
-        "name_uk": "секунда", 
-        "symbol_uk": "с", 
-        "name_ru": "секунда", 
-        "symbol_ru": "с"
-    }, 
-    "DMK": {
-        "name_en": "square decimetre", 
-        "symbol_en": "dm²", 
-        "name_uk": "дециметр в квадраті", 
-        "symbol_uk": "дц²", 
-        "name_ru": "дециметр квадратний", 
-        "symbol_ru": "дц²"
-    }, 
-    "JR": {
-        "name_en": "jar", 
-        "symbol_en": "", 
-        "name_uk": "банка", 
-        "symbol_uk": "банк", 
-        "name_ru": "банка", 
-        "symbol_ru": "банк"
-    }, 
-    "E27": {
-        "name_en": "dose", 
-        "symbol_en": "", 
-        "name_uk": "доза", 
-        "symbol_uk": "доз", 
-        "name_ru": "доза", 
-        "symbol_ru": "доз"
-    }, 
-    "MLT": {
-        "name_en": "millilitre", 
-        "symbol_en": "ml", 
-        "name_uk": "мілілітр", 
-        "symbol_uk": "мл", 
-        "name_ru": "милилитр", 
-        "symbol_ru": "мл"
-    }, 
-    "ST": {
-        "name_en": "sheet", 
-        "symbol_en": "", 
-        "name_uk": "аркуш", 
-        "symbol_uk": "арк", 
-        "name_ru": "лист", 
-        "symbol_ru": "лист"
-    }, 
-    "BO": {
-        "name_en": "bottle", 
-        "symbol_en": "", 
-        "name_uk": "Пляшки", 
-        "symbol_uk": "пляш", 
-        "name_ru": "бутылка", 
-        "symbol_ru": "бут"
-    }, 
-    "PA": {
-        "name_en": "packet", 
-        "symbol_en": "", 
-        "name_uk": "пакунок", 
-        "symbol_uk": "пак", 
-        "name_ru": "пакет", 
-        "symbol_ru": "пак"
-    }, 
-    "MIN": {
-        "name_en": "minute [unit of time]", 
-        "symbol_en": "min", 
-        "name_uk": "хвилина", 
-        "symbol_uk": "хв", 
-        "name_ru": "минута", 
-        "symbol_ru": "мин"
-    }, 
+    "CH": {
+        "name_en": "container",
+        "symbol_en": "cont",
+        "name_uk": "контейнер",
+        "symbol_uk": "конт"
+    },
     "CMT": {
         "name_en": "centimetre", 
         "symbol_en": "cm", 
         "name_uk": "сантиметр", 
-        "symbol_uk": "см", 
-        "name_ru": "сантиметр", 
-        "symbol_ru": "сант"
+        "symbol_uk": "см"
     }, 
     "CMK": {
         "name_en": "square centimetre", 
         "symbol_en": "cm²", 
-        "name_uk": "сантиметр в квадраті", 
-        "symbol_uk": "см²", 
-        "name_ru": "сантиметр в квадрате", 
-        "symbol_ru": "см²"
+        "name_uk": "квадратний сантиметр", 
+        "symbol_uk": "см²"
     }, 
     "CMQ": {
         "name_en": "cubic centimetre", 
         "symbol_en": "cm³", 
-        "name_uk": "сантиментр в кубі", 
-        "symbol_uk": "см³", 
-        "name_ru": "сантиметр в кубе", 
-        "symbol_ru": "см³"
+        "name_uk": "кубічний сантиментр", 
+        "symbol_uk": "см³"
     },
-    "CA": {
-        "name_en": "can",
-        "symbol_en": "",
-        "name_uk": "каністра",
-        "symbol_uk": "каністр",
-        "name_ru": "канистра",
-        "symbol_ru": "канистр"
+    "CY": {
+        "name_en": "cylinder", 
+        "symbol_en": "cyl",
+        "name_uk": "балон", 
+        "symbol_uk": "балон"
+    },
+    "D44": {
+        "name_en": "var", 
+        "symbol_en": "var", 
+        "name_uk": "вар", 
+        "symbol_uk": "ВАр"
+    },
+    "D46": {
+        "name_en": "volt-ampere", 
+        "symbol_en": "V·A", 
+        "name_uk": "вольт-ампер", 
+        "symbol_uk": "В·А"
+    },
+    "D55": {
+        "name_en": "watt per square metre kelvin", 
+        "symbol_en": "W/(m²·K)", 
+        "name_uk": "ват на квадратний метр кельвіна", 
+        "symbol_uk": "Вт/(м²·К)"
+    },
+    "D64": {
+        "name_en": "block", 
+        "symbol_en": "block", 
+        "name_uk": "блок", 
+        "symbol_uk": "бл"
     },
     "DAY": {
         "name_en": "day",
         "symbol_en": "d",
         "name_uk": "день",
-        "symbol_uk": "дн",
-        "name_ru": "день",
-        "symbol_ru": "дн"
+        "symbol_uk": "д"
     },
-    "QTR": {
-        "name_en": "quarter (UK)",
-        "symbol_en": "Qr (UK)",
-        "name_uk": "квартал",
-        "symbol_uk": "кв",
-        "name_ru": "квартал",
-        "symbol_ru": "кв"
+    "DD": {
+        "name_en": "degree [unit of angle]", 
+        "symbol_en": "°",
+        "name_uk": "градус [одиниця кута]",
+        "symbol_uk": "°"
     },
-    "AV": {
-        "name_en": "capsule",
-        "symbol_en": "",
-        "name_uk": "капсула",
-        "symbol_uk": "капс",
-        "name_ru": "капсула",
-        "symbol_ru": "капс"
+    "DMK": {
+        "name_en": "square decimetre", 
+        "symbol_en": "dm²", 
+        "name_uk": "квадратний дециметр", 
+        "symbol_uk": "дц²"
     },
-    "AM": {
-        "name_en": "ampoule",
-        "symbol_en": "",
-        "name_uk": "ампула",
-        "symbol_uk": "амп.",
-        "name_ru": "ампула",
-        "symbol_ru": "ампула"
+    "E07": {
+        "name_en": "megawatt hour per hour", 
+        "symbol_en": "MW·h/h", 
+        "name_uk": "мегават-година на годину", 
+        "symbol_uk": "МВт·год/год"
+    }, 
+    "E11": {
+        "name_en": "gigacalorie", 
+        "symbol_en": "Gcal", 
+        "name_uk": "гігакалорія", 
+        "symbol_uk": "Гкал"
+    }, 
+    "E14": {
+        "name_en": "kilocalorie (international table)", 
+        "symbol_en": "kcalIT", 
+        "name_uk": "кілокалорія", 
+        "symbol_uk": "Ккал"
     },
-    "CH": {
-        "name_en": "container",
-        "symbol_en": "",
-        "name_uk": "контейнер",
-        "symbol_uk": "конт",
-        "name_ru": "контейнер",
-        "symbol_ru": "конт"
+    "E20": {
+        "name_en": "megabit per second", 
+        "symbol_en": "Mbit/s", 
+        "name_uk": "мегабіт на секунду", 
+        "symbol_uk": "Мбіт/с"
     },
-    "Z2": {
-        "name_en": "chest",
-        "symbol_en": "",
-        "name_uk": "коробка",
-        "symbol_uk": "кор",
-        "name_ru": "коробка",
-        "symbol_ru": "кор"
+    "E27": {
+        "name_en": "dose", 
+        "symbol_en": "dose", 
+        "name_uk": "доза", 
+        "symbol_uk": "доз"
     },
-    "U2": {
-        "name_en": "tablet",
-        "symbol_en": "",
-        "name_uk": "таблетка",
-        "symbol_uk": "таб",
-        "name_ru": "таблетка",
-        "symbol_ru": "таб"
+    "E32": {
+        "name_en": "litre per hour", 
+        "symbol_en": "l/h",
+        "name_uk": "літр на годину", 
+        "symbol_uk": "л/год"
     },
     "E34": {
         "name_en": "gigabyte",
         "symbol_en": "Gbyte",
-        "name_uk": "Гігабайт",
-        "symbol_uk": "ГБ",
-        "name_ru": "Гигабайт",
-        "symbol_ru": "ГБ"
+        "name_uk": "гігабайт",
+        "symbol_uk": "Гбайт"
+    },
+    "E35": {
+        "name_en": "terabyte", 
+        "symbol_en": "Tbyte",
+        "name_uk": "терабайт",
+        "symbol_uk": "Тбайт"
+    },
+    "E37": {
+        "name_en": "pixel", 
+        "symbol_en": "pix",
+        "name_uk": "піксель",
+        "symbol_uk": "пікс"
+    },
+    "E38": {
+        "name_en": "megapixel", 
+        "symbol_en": "Mpix",
+        "name_uk": "мегапіксель",
+        "symbol_uk": "Мпікс"
+    },
+    "E39": {
+        "name_en": "dots per inch", 
+        "symbol_en": "dpi",
+        "name_uk": "точок на дюйм",
+        "symbol_uk": "dpi"
+    },
+    "E48": {
+        "name_en": "service unit", 
+        "symbol_en": "serv", 
+        "name_uk": "послуга", 
+        "symbol_uk": "посл"
+    }, 
+    "E49": {
+        "name_en": "working day", 
+        "symbol_en": "", 
+        "name_uk": "робочі дні", 
+        "symbol_uk": "роб.дні"
+    }, 
+    "E50": {
+        "name_en": "accounting unit", 
+        "symbol_en": "", 
+        "name_uk": "одиниця", 
+        "symbol_uk": "од"
+    }, 
+    "E51": {
+        "name_en": "job", 
+        "symbol_en": "", 
+        "name_uk": "роботи", 
+        "symbol_uk": "роб"
+    }, 
+    "E54": {
+        "name_en": "trip", 
+        "symbol_en": "", 
+        "name_uk": "рейс", 
+        "symbol_uk": "рейс"
+    },
+    "E93": {
+        "name_en": "kilogram per hour", 
+        "symbol_en": "kg/h",
+        "name_uk": "кілограм на годину", 
+        "symbol_uk": "кг/год"
+    },
+    "F28": {
+        "name_en": "gram per minute", 
+        "symbol_en": "g/min",
+        "name_uk": "грам на хвилину", 
+        "symbol_uk": "г/хв"
+    },
+    "F31": {
+        "name_en": "kilogram per minute", 
+        "symbol_en": "kg/min",
+        "name_uk": "кілограм на хвилину", 
+        "symbol_uk": "кг/хв"
+    },
+    "G51": {
+        "name_en": "litre per second", 
+        "symbol_en": "l/s",
+        "name_uk": "літр на секунду", 
+        "symbol_uk": "л/с"
+    },
+    "GF": {
+        "name_en": "gram per metre (gram per 100 centimetres)", 
+        "symbol_en": "g/m",
+        "name_uk": "грам на метр (грам на 100 сантиметрів)", 
+        "symbol_uk": "г/м"
+    },
+    "GL": {
+        "name_en": "gram per litre", 
+        "symbol_en": "g/l",
+        "name_uk": "грам на літр", 
+        "symbol_uk": "г/л"
+    }, 
+    "GM": {
+        "name_en": "gram per square metre",
+        "symbol_en": "g/m²",
+        "name_uk": "грам на квадратний метр",
+        "symbol_uk": "г/м²"
+    },
+    "GRM": {
+        "name_en": "gram", 
+        "symbol_en": "g", 
+        "name_uk": "грам", 
+        "symbol_uk": "г"
+    },
+    "H87": {
+        "name_en": "piece", 
+        "symbol_en": "", 
+        "name_uk": "штуки", 
+        "symbol_uk": "шт"
+    }, 
+    "HAR": {
+        "name_en": "hectare", 
+        "symbol_en": "ha", 
+        "name_uk": "гектар", 
+        "symbol_uk": "га"
+    },
+    "HTZ": {
+        "name_en": "hertz", 
+        "symbol_en": "Hz", 
+        "name_uk": "герц", 
+        "symbol_uk": "Гц"
+    }, 
+    "HUR": {
+        "name_en": "hour", 
+        "symbol_en": "h", 
+        "name_uk": "година", 
+        "symbol_uk": "год"
+    }, 
+    "IE": {
+        "name_en": "person", 
+        "symbol_en": "", 
+        "name_uk": "людей", 
+        "symbol_uk": ""
     },
     "INH": {
         "name_en": "inch",
         "symbol_en": "in",
-        "name_uk": "Дюйм",
-        "symbol_uk": "дюйм",
-        "name_ru": "Дюйм",
-        "symbol_ru": "дюйм"
+        "name_uk": "дюйм",
+        "symbol_uk": "дюйм"
     },
-    "GM": {
-        "name_en": "gram per square metre",
-        "symbol_en": "g/m²",
-        "name_uk": "Грам на квадратний метр",
-        "symbol_uk": "г/м²",
-        "name_ru": "Грам на квадратный метр",
-        "symbol_ru": "г/м²"
+    "JOU": {
+        "name_en": "joule", 
+        "symbol_en": "J",
+        "name_uk": "джоуль",
+        "symbol_uk": "Дж"
     },
-    "4H": {
-        "name_en": "micrometre",
-        "symbol_en": "µm",
-        "name_uk": "Мікрометр",
-        "symbol_uk": "мкм",
-        "name_ru": "Микрометр",
-        "symbol_ru": "мкм"
+    "JR": {
+        "name_en": "jar", 
+        "symbol_en": "", 
+        "name_uk": "банка", 
+        "symbol_uk": "банк"
     },
-    "P1": {
-        "name_en": "percent",
-        "symbol_en": "% or pct",
-        "name_uk": "Відсоток",
-        "symbol_uk": "%",
-        "name_ru": "Процент",
-        "symbol_ru": "%"
+    "KEL": {
+        "name_en": "kelvin", 
+        "symbol_en": "K", 
+        "name_uk": "келвін", 
+        "symbol_uk": "К"
     },
-    "WHR": {
-        "name_en": "watt hour",
-        "symbol_en": "W·h",
-        "name_uk": "Ватт в годину",
-        "symbol_uk": "Вт/г",
-        "name_ru": "Ватт в час",
-        "symbol_ru": "Вт/г"
+    "KGM": {
+        "name_en": "kilogram", 
+        "symbol_en": "kg", 
+        "name_uk": "кілограм", 
+        "symbol_uk": "кг"
     },
-    "A24": {
-        "name_en": "Candela per square meter",
-        "symbol_en": "cd/m²",
-        "name_uk": "Кандела на квадратний метр",
-        "symbol_uk": "кд/м²",
-        "name_ru": "Кандела на квадратный метр",
-        "symbol_ru": "кд/м²"
+    "KHZ": {
+        "name_en": "kilohertz", 
+        "symbol_en": "kHz", 
+        "name_uk": "кілогерц", 
+        "symbol_uk": "кГц"
     },
+    "KMQ": {
+        "name_en": "kilogram per cubic metre", 
+        "symbol_en": "kg/m³", 
+        "name_uk": "кілограм на кубічний метр", 
+        "symbol_uk": "кг/м³"
+    },
+    "KMT": {
+        "name_en": "kilometre", 
+        "symbol_en": "km", 
+        "name_uk": "кілометри", 
+        "symbol_uk": "км"
+    },
+    "KPA": {
+        "name_en": "kilopascal", 
+        "symbol_en": "kPa", 
+        "name_uk": "кілопаскаль", 
+        "symbol_uk": "кПа"
+    },
+    "KT": {
+        "name_en": "kit", 
+        "symbol_en": "", 
+        "name_uk": "комплект", 
+        "symbol_uk": "комп"
+    },
+    "KVA": {
+        "name_en": "kilovolt-ampere", 
+        "symbol_en": "kV·A", 
+        "name_uk": "кіловольт-ампер", 
+        "symbol_uk": "кВ·А"
+    },
+    "KVR": {
+        "name_en": "kilovar", 
+        "symbol_en": "kvar", 
+        "name_uk": "кіловар", 
+        "symbol_uk": "кВар"
+    },
+    "KVT": {
+        "name_en": "kilovolt", 
+        "symbol_en": "kV", 
+        "name_uk": "кіловольт", 
+        "symbol_uk": "кВ"
+    },
+    "KWH": {
+        "name_en": "kilowatt hour", 
+        "symbol_en": "kW·h", 
+        "name_uk": "Кіловат-година", 
+        "symbol_uk": "кВт⋅год"
+    }, 
+    "KWT": {
+        "name_en": "kilowatt", 
+        "symbol_en": "kW", 
+        "name_uk": "кіловат", 
+        "symbol_uk": "кВт"
+    },
+    "L2": {
+        "name_en": "litre per minute", 
+        "symbol_en": "l/min", 
+        "name_uk": "літр на хвилину", 
+        "symbol_uk": "л/хв"
+    },
+    "LM": {
+        "name_en": "linear metre", 
+        "symbol_en": "", 
+        "name_uk": "погонний метр", 
+        "symbol_uk": "пог.м"
+    }, 
+    "LO": {
+        "name_en": "lot  [unit of procurement]", 
+        "symbol_en": "", 
+        "name_uk": "лот", 
+        "symbol_uk": "лот"
+    }, 
+    "LTR": {
+        "name_en": "litre", 
+        "symbol_en": "l", 
+        "name_uk": "літр", 
+        "symbol_uk": "л"
+    },
+    "LUM": {
+        "name_en": "lumen", 
+        "symbol_en": "lm", 
+        "name_uk": "люмен", 
+        "symbol_uk": "лм"
+    },
+    "MGM": {
+        "name_en": "milligram", 
+        "symbol_en": "mg",
+        "name_uk": "міліграм", 
+        "symbol_uk": "мг"
+    },
+    "MHZ": {
+        "name_en": "megahertz", 
+        "symbol_en": "MHz",
+        "name_uk": "мегагерц", 
+        "symbol_uk": "МГц"
+    },
+    "MIN": {
+        "name_en": "minute [unit of time]", 
+        "symbol_en": "min", 
+        "name_uk": "хвилина", 
+        "symbol_uk": "хв"
+    },
+    "MLT": {
+        "name_en": "millilitre", 
+        "symbol_en": "ml", 
+        "name_uk": "мілілітр", 
+        "symbol_uk": "мл"
+    }, 
     "MMT": {
         "name_en": "millimetre",
         "symbol_en": "mm",
         "name_uk": "Міліметр",
-        "symbol_uk": "мм",
-        "name_ru": "Милиметр",
-        "symbol_ru": "мм"
+        "symbol_uk": "мм"
+    },
+    "MON": {
+        "name_en": "month", 
+        "symbol_en": "mo", 
+        "name_uk": "місяць", 
+        "symbol_uk": "місяць"
+    },
+    "MQH": {
+        "name_en": "cubic metre per hour", 
+        "symbol_en": "m³/h", 
+        "name_uk": "кубічний метр на годину", 
+        "symbol_uk": "м³/год"
+    },
+    "MSK": {
+        "name_en": "metre per second squared", 
+        "symbol_en": "m/s²", 
+        "name_uk": "метр на секунду в квадраті", 
+        "symbol_uk": "м/с²"
+    },
+    "MTK": {
+        "name_en": "square metre", 
+        "symbol_en": "m²", 
+        "name_uk": "метри квадратні", 
+        "symbol_uk": "м²"
+    }, 
+    "MTQ": {
+        "name_en": "cubic metre", 
+        "symbol_en": "m³", 
+        "name_uk": "метри кубічні", 
+        "symbol_uk": "м³"
+    }, 
+    "MTR": {
+        "name_en": "metre", 
+        "symbol_en": "m", 
+        "name_uk": "метри", 
+        "symbol_uk": "м"
+    },
+    "MTS": {
+        "name_en": "metre per second", 
+        "symbol_en": "m/s", 
+        "name_uk": "метр на секунду", 
+        "symbol_uk": "м/с"
     },
     "MWH": {
         "name_en": "megawatt hour",
         "symbol_en": "MW·h",
         "name_uk": "Мегават-година",
-        "symbol_uk": "МВт·год",
-        "name_ru": "Мегаватт-час",
-        "symbol_ru": "МВт·час"
+        "symbol_uk": "МВт·год"
+    },
+    "NEW": {
+        "name_en": "newton", 
+        "symbol_en": "N",
+        "name_uk": "ньютон",
+        "symbol_uk": "Н"
+    },
+    "NMP": {
+        "name_en": "number of packs", 
+        "symbol_en": "", 
+        "name_uk": "пачок", 
+        "symbol_uk": "пач"
+    },
+    "NU": {
+        "name_en": "newton metre", 
+        "symbol_en": "N·m", 
+        "name_uk": "ньютон метр", 
+        "symbol_uk": "Н·м"
+    },
+    "OHM": {
+        "name_en": "ohm", 
+        "symbol_en": "Ω", 
+        "name_uk": "ом", 
+        "symbol_uk": "Ом"
+    },
+    "P1": {
+        "name_en": "percent",
+        "symbol_en": "%",
+        "name_uk": "відсоток",
+        "symbol_uk": "%"
+    },
+    "PA": {
+        "name_en": "packet", 
+        "symbol_en": "packet", 
+        "name_uk": "пакунок", 
+        "symbol_uk": "пак"
+    },
+    "PK": {
+        "name_en": "pack", 
+        "symbol_en": "pack", 
+        "name_uk": "упаковка", 
+        "symbol_uk": "упак"
+    }, 
+    "PR": {
+        "name_en": "pair", 
+        "symbol_en": "pair", 
+        "name_uk": "пара", 
+        "symbol_uk": "пар"
+    },
+    "QTR": {
+        "name_en": "quarter (UK)",
+        "symbol_en": "qr",
+        "name_uk": "квартал",
+        "symbol_uk": "кв"
+    }, 
+    "R9": {
+        "name_en": "thousand cubic metre", 
+        "symbol_en": "", 
+        "name_uk": "тисяча кубічних метрів", 
+        "symbol_uk": "тис.м³"
+    }, 
+    "RH": {
+        "name_en": "running or operating hour", 
+        "symbol_en": "", 
+        "name_uk": "людино-година", 
+        "symbol_uk": "л/г"
+    }, 
+    "RM": {
+        "name_en": "ream", 
+        "symbol_en": "ream", 
+        "name_uk": "пачка", 
+        "symbol_uk": "пач"
+    }, 
+    "RO": {
+        "name_en": "roll", 
+        "symbol_en": "", 
+        "name_uk": "рулон", 
+        "symbol_uk": ""
+    },
+    "RPM": {
+        "name_en": "revolutions per minute", 
+        "symbol_en": "r/min",
+        "name_uk": "обертів на хвилину", 
+        "symbol_uk": "об/хв"
+    },
+    "RPS": {
+        "name_en": "revolutions per second", 
+        "symbol_en": "r/s",
+        "name_uk": "обертів на секунду", 
+        "symbol_uk": "об/с"
+    },
+    "SE": {
+        "name_en": "section", 
+        "symbol_en": "",
+        "name_uk": "розділ", 
+        "symbol_uk": ""
+    },
+    "SEC": {
+        "name_en": "second [unit of time]", 
+        "symbol_en": "s", 
+        "name_uk": "секунда", 
+        "symbol_uk": "с"
+    },
+    "SET": {
+        "name_en": "set", 
+        "symbol_en": "set", 
+        "name_uk": "набір", 
+        "symbol_uk": "наб"
+    }, 
+    "ST": {
+        "name_en": "sheet", 
+        "symbol_en": "sh", 
+        "name_uk": "аркуш", 
+        "symbol_uk": "арк"
+    },
+    "T3": {
+        "name_en": "thousand piece", 
+        "symbol_en": "th", 
+        "name_uk": "тисяч штук", 
+        "symbol_uk": "тис. шт"
+    }, 
+    "TNE": {
+        "name_en": "tonne (metric ton)", 
+        "symbol_en": "t", 
+        "name_uk": "тонни", 
+        "symbol_uk": "т"
+    },
+    "U2": {
+        "name_en": "tablet",
+        "symbol_en": "tab",
+        "name_uk": "таблетка",
+        "symbol_uk": "таб"
+    },
+    "VI": {
+        "name_en": "vial", 
+        "symbol_en": "vi", 
+        "name_uk": "Флакон", 
+        "symbol_uk": "флак"
+    }, 
+    "VLT": {
+        "name_en": "volt", 
+        "symbol_en": "V",
+        "name_uk": "вольт", 
+        "symbol_uk": "В"
+    },
+    "WHR": {
+        "name_en": "watt hour",
+        "symbol_en": "W·h",
+        "name_uk": "ват-година",
+        "symbol_uk": "Вт·г"
+    },
+    "WTT": {
+        "name_en": "watt", 
+        "symbol_en": "W",
+        "name_uk": "ват",
+        "symbol_uk": "Вт"
+    },
+    "Z2": {
+        "name_en": "chest",
+        "symbol_en": "ch",
+        "name_uk": "коробка",
+        "symbol_uk": "кор"
     }
 }
