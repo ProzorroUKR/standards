@@ -17,19 +17,19 @@
                 },
                 "type": "NATIONAL_LEGISLATION"
             }
-    ],
-           "requirementGroups": [
+        ],
+        "requirementGroups": [
             {
                 "description": "Учасник зазначає",
                 "requirements": [
-                  {
+                    {
                         "title": "Кваліфікація персоналу, людиноднів з урахуванням ваги експерта",
                         "dataType": "integer",
                         "minValue": "0",
                         "weight": "1"
-                    },
-                    ]
-                
+                    }
+                ]
             }
         ]
     }
+]
