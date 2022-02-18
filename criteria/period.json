@@ -25,7 +25,6 @@
                   {
                         "title": "Строки підготовки проекту(у днях)",
                         "dataType": "integer",
-                        "minValue": "0",
                         "weight": "1"
                     }
                     ]

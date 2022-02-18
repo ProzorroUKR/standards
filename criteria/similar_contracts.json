@@ -24,13 +24,11 @@
                 "requirements": [
                   {
                         "title": "Кількість реалізованих договорів виключно в Україні",
-                        "dataType": "integer",
-                        "minValue": "0"
+                        "dataType": "integer"
                     },
                   {
                         "title": "Кількість реалізованих договорів загалом (без України)",
                         "dataType": "integer",
-                        "minValue": "1",
                         "weight": "1"
                     }
                     ]
