@@ -221,5 +221,31 @@
     },
     "name_en": "ME \"CPO ODESSA REGIONAL COUNCIL\"",
     "name_uk": "КП\"ЦЗО ОДЕСЬКОЇ ОБЛАСНОЇ РАДИ\""
-   }
+   },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Київ",
+      "postalCode": "01601",
+      "region": "м. Київ",
+      "streetAddress": "Бульварно-Кудрявська, 22"
+    },
+    "contactPoint": {
+      "email": " prozorro.cpo@gmail.com",
+      "faxNumber": "+380674522729",
+      "telephone": "+380674522729",
+      "url": " https://prozorro.gov.ua/page/plus",
+      "name_en": "Olga Nos",
+      "name_uk": "Ольга Нос"
+    },
+    "identifier": {
+      "id": "01101100",
+      "scheme": "UA-EDR",
+      "legalName_en": "Prozorro+",
+      "legalName_uk": "Prozorro+"
+    },
+    "name_en": "Prozorro+",
+    "name_uk": "Prozorro+"
+  }
 ]
