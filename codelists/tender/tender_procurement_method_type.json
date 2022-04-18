@@ -3,11 +3,11 @@
         "autoInitiated": false,
         "procurementMethod": "open",
         "description_en": "The procurement approach that regulates purchases of goods, works and services within the limits established by the Law (from 50,000 hryvnias to 200,000 hryvnias for goods and services, or 1,500,000 hryvnias for works).",
-        "name_en": "Simple/Below threshold procurement",
+        "name_en": "Simple procurement",
         "description_uk": "Закупівля, що регулює придбання товарів, робіт і послуг в межах сум, встановлених Законом (від 50,000 гривень до 200,000 гривень для товарів і послуг, або 1,500,000 гривень для робіт).",
-        "name_uk": "Спрощена/Допорогова закупівля",
+        "name_uk": "Спрощена закупівля",
         "description_ru": "Закупка регулирует приобретение товаров, работ и услуг в пределах сумм, установленних Законом (от 50,000 гривен до 200,000 гривен для товаров и услуг, или 1,500,000 гривен для работ).",
-        "name_ru": "Упрощенная/Допороговая закупка"
+        "name_ru": "Упрощенная закупка"
     },
     "aboveThresholdUA": {
         "autoInitiated": false,
