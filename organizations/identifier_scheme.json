@@ -1155,6 +1155,22 @@
             "name": "Централен Регистар на Република Северна Македонија",
             "public-database": false,
             "url": "crm.com.mk/DS/"
+        },
+        {
+            "category": "MX",
+            "code": "MX-RFC",
+            "description":  "The Registro Federal de Contribuyentes de México assigns an RFC identifier to both individual and corporate taxpayers. Registration takes place through Servicio de Administración Tributaria (SAT) and registrants are provided with their RFC. Whilst there is no public database of RFCs available, a web service to validate RFCs is available at https://portalsat.plataforma.sat.gob.mx/ConsultaRFC/ The structure of an RFC encodes information about the initials and date of registration of a company",
+            "name": "Federal Taxpayers Registry",
+            "public-database": false,
+            "url": "https://portalsat.plataforma.sat.gob.mx/ConsultaRFC/"
+        },
+        {
+            "category": "LU",
+            "code": "LUX",
+            "description": null,
+            "name": "LUXEMBOURG BUSINESS REGISTERS",
+            "public-database": true,
+            "url": "https://www.lbr.lu/"
         }
     ]
 }
