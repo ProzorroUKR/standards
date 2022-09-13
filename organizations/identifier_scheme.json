@@ -1171,6 +1171,14 @@
             "name": "LUXEMBOURG BUSINESS REGISTERS",
             "public-database": true,
             "url": "https://www.lbr.lu/"
+        },
+        {
+            "category": "UY",
+            "code": "UY-DGR",
+            "description": "La Dirección General de Registros es una Unidad Ejecutora del Ministerio de Educación y Cultura, es decir que pertenece a la llamada Administración Central del Estado.",
+            "name": "Registro de Personas Jurídicas, Sección Registro Nacional de Comercio",
+            "public-database": false,
+            "url": "https://portal.dgr.gub.uy/"
         }
     ]
 }
