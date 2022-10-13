@@ -56,5 +56,34 @@
         "name_en": "Global Fund", 
         "name_uk": "Глобальний фонд", 
         "name_ru": "Глобальный фонд"
+    },
+    {
+        "additionalIdentifiers": [], 
+        "address": {
+            "countryName": "Україна", 
+            "locality": "Київ", 
+            "postalCode": "03191", 
+            "region": "Київська", 
+            "streetAddress": "вул. Юрія Смолича, буд.6, кв.30"
+        }, 
+        "contactPoint": {
+            "email": "info@ed.org.ua", 
+            "faxNumber": "", 
+            "telephone": "+380507660133", 
+            "url": "https://ed.org.ua/", 
+            "name_en": "Volodymyr Flonts", 
+            "name_uk": "Володимир Фльонц", 
+            "name_ru": "Владимир Фльонц"
+        }, 
+        "identifier": {
+            "id": "39582446", 
+            "scheme": "UA-EDR", 
+            "legalName_en": "Nongovernmental Organization Electronic Democracy", 
+            "legalName_uk": "Громадська організація Електронна демократія", 
+            "legalName_ru": "Общественная организация Электронная демократия"
+        }, 
+        "name_en": "NGO E-DEMOCRACY", 
+        "name_uk": "ГО ЕЛЕКТРОННА ДЕМОКРАТІЯ", 
+        "name_ru": "ОО ЭЛЕКТРОННАЯ ДЕМОКРАТИЯ"
     }
 ]
