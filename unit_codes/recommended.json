@@ -772,5 +772,17 @@
         "symbol_en": "ch",
         "name_uk": "коробка",
         "symbol_uk": "кор"
+    },
+    "K3": {
+        "name_en": "kilovolt ampere reactive hour",
+        "symbol_en": "kvar·h",
+        "name_uk": "кіловар-година",
+        "symbol_uk": "кВар·год"
+    },
+    "QTL": {
+        "name_en": "liquid quart (US)",
+        "symbol_en": "liq qt (US)",
+        "name_uk": "американська кварта для рідин",
+        "symbol_uk": "кварт.рід"
     }
 }
