@@ -61,9 +61,9 @@
         "additionalIdentifiers": [], 
         "address": {
             "countryName": "Україна", 
-            "locality": "Київ", 
+            "locality": "м. Київ", 
             "postalCode": "03191", 
-            "region": "Київська", 
+            "region": "Київська область", 
             "streetAddress": "вул. Юрія Смолича, буд.6, кв.30"
         }, 
         "contactPoint": {
