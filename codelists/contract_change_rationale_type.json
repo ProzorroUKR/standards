@@ -20,16 +20,16 @@
     "itemPriceVariation": {
         "description_en": "an increase in the unit's price of goods to 10% in proportion to the increase in the price of such goods on the market in the event of fluctuations in the price of such goods on the market, provided that such change does not increase the amount specified in the procurement contract, - not more than once every 90 days from the moment of signing the procurement contract. Restrictions on the terms of price change per unit of goods do not apply in cases of changes in the terms of the contract for the purchase of gasoline and diesel fuel, gas and electricity", 
         "title_en": "Change in the unit's price", 
-        "description_uk": "збільшення ціни за одиницю товару до 10 відсотків пропорційно збільшенню ціни такого товару на ринку у разі коливання ціни такого товару на ринку за умови, що така зміна не призведе до збільшення суми, визначеної в договорі про закупівлю, - не частіше ніж один раз на 90 днів з моменту підписання договору про закупівлю. Обмеження щодо строків зміни ціни за одиницю товару не застосовується у випадках зміни умов договору про закупівлю бензину та дизельного пального, газу та електричної енергії", 
+        "description_uk": "збільшення ціни за одиницю товару до 10 відсотків пропорційно збільшенню ціни такого товару на ринку у разі коливання ціни такого товару на ринку за умови, що така зміна не призведе до збільшення суми, визначеної в договорі про закупівлю, - не частіше ніж один раз на 90 днів з моменту підписання договору про закупівлю. Обмеження щодо строків зміни ціни за одиницю товару не застосовується у випадках зміни умов договору про закупівлю бензину та дизельного пального, газу та електричної енергії (Закон)", 
         "title_uk": "Зміна ціни за одиницю товару", 
         "description_ru": "увеличение цены за единицу товара до 10 процентов пропорционально увеличению цены такого товара на рынке в случае колебания цены такого товара на рынке при условии, что такое изменение не приведет к увеличению суммы, обозначенной в договоре о закупке, - не чаще одного раза в 90 дней с момента подписания договора о закупке. Ограничения по срокам изменения цены за единицу товара не применяется в случаях изменения условий договора о закупке бензина и дизельного топлива, газа и электрической энергии", 
         "title_ru": "Изменение цены за единицу товара",
-        "archive": true
+        "archive": false
     },
     "itemPriceChange": {
         "description_en": "approval of a change in the price per product unit in the purchase contract in the event of a fluctuation in the price of such product on the market, which has occurred since the conclusion of the purchase contract or the last amendment to the purchase contract in terms of a change in the price per product unit. The change in the price per unit of the product is carried out in proportion to the fluctuation of the price of such a product on the market (the percentage increase in the price per unit of the product cannot exceed the percentage of the fluctuation (increase) in the price of such a product on the market) provided that such fluctuation is documented and should not lead to an increase in the amount specified in the purchase agreement at the time of its conclusion", 
         "title_en": "Change in the unit's price", 
-        "description_uk": "погодження зміни ціни за одиницю товару в договорі про закупівлю у разі коливання ціни такого товару на ринку, що відбулося з моменту укладання договору про закупівлю або останнього внесення змін до договору про закупівлю в частині зміни ціни за одиницю товару. Зміна ціни за одиницю товару здійснюється пропорційно коливанню ціни такого товару на ринку (відсоток збільшення ціни за одиницю товару не може перевищувати відсоток коливання (збільшення) ціни такого товару на ринку) за умови документального підтвердження такого коливання та не повинна призвести до збільшення суми, визначеної в договорі про закупівлю на момент його укладення", 
+        "description_uk": "погодження зміни ціни за одиницю товару в договорі про закупівлю у разі коливання ціни такого товару на ринку, що відбулося з моменту укладання договору про закупівлю або останнього внесення змін до договору про закупівлю в частині зміни ціни за одиницю товару. Зміна ціни за одиницю товару здійснюється пропорційно коливанню ціни такого товару на ринку (відсоток збільшення ціни за одиницю товару не може перевищувати відсоток коливання (збільшення) ціни такого товару на ринку) за умови документального підтвердження такого коливання та не повинна призвести до збільшення суми, визначеної в договорі про закупівлю на момент його укладення (Постанова)", 
         "title_uk": "Зміна ціни за одиницю товару", 
         "description_ru": "согласование изменения цены за единицу товара в договоре о закупке в случае колебания цены такого товара на рынке, которое произошло с момента заключения договора о закупке или последнего внесения изменений в договор о закупке по части изменения цены за единицу товара. Изменение цены за единицу товара осуществляется пропорционально колебанию цены такого товара на рынке (процент увеличения цены за единицу товара не может превышать процент колебания (увеличения) цены такого товара на рынке) при условии документального подтверждения такого колебания и не должно привести к увеличению суммы, определенной в договоре о закупке к моменту его заключения", 
         "title_ru": "Изменение цены за единицу товара",
@@ -38,16 +38,16 @@
     "priceReduction": {
         "description_en": "approval of price changes in the procurement contract in the direction of reduction (without changing the quantity (volume) and quality of goods, works and services), including in case of fluctuations in the price of goods on the market", 
         "title_en": "Coordinated price reduction", 
-        "description_uk": "погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку", 
+        "description_uk": "погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку (Закон)", 
         "title_uk": "Узгоджене зменшення ціни", 
         "description_ru": "согласование изменения цены в договоре о закупке в сторону уменьшения (без изменения количества (объема) и качества товаров, работ и услуг), в том числе в случае колебания цены товара на рынке", 
         "title_ru": "Согласованное уменьшение цены",
-        "archive": true
+        "archive": false
     },
     "priceReductionWithoutQuantity": {
         "description_en": "approval of a downward price change in the purchase agreement (without changing the quantity (volume) and quality of goods, works and services)", 
         "title_en": "Coordinated price reduction", 
-        "description_uk": "погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг)", 
+        "description_uk": "погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг) (Постанова)", 
         "title_uk": "Узгоджене зменшення ціни", 
         "description_ru": "согласование изменения цены в договоре о закупке в сторону уменьшения (без изменения количества (объема) и качества товаров, работ и услуг)", 
         "title_ru": "Согласованное уменьшение цены",
@@ -65,16 +65,16 @@
     "taxRate": {
         "description_en": "price changes in the procurement contract due to changes in tax rates and fees and/or changes in the conditions for granting tax benefits - in proportion to changes of such rates and/or tax benefits", 
         "title_en": "Price changes due to changes in tax rates and fees", 
-        "description_uk": "зміна ціни в договорі про закупівлю у зв’язку зі зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до змін таких ставок та/або пільг з оподаткування", 
+        "description_uk": "зміна ціни в договорі про закупівлю у зв’язку зі зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до змін таких ставок та/або пільг з оподаткування (Закон)", 
         "title_uk": "Зміна ціни у зв’язку із зміною ставок податків і зборів", 
         "description_ru": "изменение цены в договоре о закупке в связи с изменением ставок налогов и сборов и/или изменением условий о предоставлении льгот по налогообложению - пропорционально изменениям таких ставок и/или льгот по налогообложению", 
         "title_ru": "Изменение цены в связи с изменением ставок налогов и сборов",
-        "archive": true
+        "archive": false
     },
     "taxationSystem": {
         "description_en": "price changes in the purchase contract in connection with changes in tax rates and fees, changes in the taxation system and/or changes in the conditions for granting tax benefits - in proportion to changes in such rates and/or tax benefits", 
         "title_en": "Price changes due to changes in tax rates and fees", 
-        "description_uk": "зміни ціни в договорі про закупівлю у зв’язку зі зміною ставок податків і зборів, зміною системи оподаткування та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування", 
+        "description_uk": "зміни ціни в договорі про закупівлю у зв’язку зі зміною ставок податків і зборів, зміною системи оподаткування та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування (Постанова)", 
         "title_uk": "Зміна ціни у зв’язку із зміною ставок податків і зборів", 
         "description_ru": "изменения цены в договоре о закупке в связи с изменением ставок налогов и сборов, изменением системы налогообложения и/или изменением условий предоставления льгот по налогообложению - пропорционально изменению таких ставок и/или льгот по налогообложению", 
         "title_ru": "Изменение цены в связи с изменением ставок налогов и сборов",
@@ -83,16 +83,16 @@
     "thirdParty": {
         "description_en": "changes of the established under the law by the State Statistics Service consumer price index, changes in foreign currency rate, changes in stock prices or Platts indices, ARGUS regulated prices (rates) and standards that are used in the procurement contract if the price change order is specified in the procurement contract", 
         "title_en": "Change of the third-party indicators (rate, indices...)", 
-        "description_uk": "зміна встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS регульованих цін (тарифів) і нормативів, що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни", 
+        "description_uk": "зміна встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS регульованих цін (тарифів) і нормативів, що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни (Закон)", 
         "title_uk": "Зміна сторонніх показників (курсу, тарифів...)", 
         "description_ru": "изменение установленного в соответствии с законодательством органами государственной статистики индекса потребительских цен, изменения курса иностранной валюты, изменения биржевых котировок или показателей Platts, ARGUS регулируемых цен (тарифов) и нормативов, которые применяются в договоре о закупке, в случае установления в договоре о закупке порядка изменения цены", 
         "title_ru": "Изменение посторонних показателей (курса, тарифов ...)",
-        "archive": true
+        "archive": false
     },
     "externalIndicators": {
         "description_en": "changes in the consumer price index established in accordance with the law by the state statistics authorities, changes in the foreign currency exchange rate, changes in stock exchange quotations or indicators of Platts, ARGUS, regulated prices (tariffs), standards, weighted average prices for electricity on the \"day-ahead\" market, which are applied in the contract on purchase, in the event that the procedure for changing the price is established in the purchase contract", 
         "title_en": "Change of the third-party indicators (rate, indices...)", 
-        "description_uk": "зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни", 
+        "description_uk": "зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни (Постанова)", 
         "title_uk": "Зміна сторонніх показників (курсу, тарифів...)", 
         "description_ru": "изменения установленного согласно законодательству органами государственной статистики индекса потребительских цен, изменения курса иностранной валюты, изменения биржевых котировок или показателей Platts, ARGUS, регулируемых цен (тарифов), нормативов, средневзвешенных цен на электроэнергию на рынке \"в сутки вперед\", применяемые в договоре о закупке, в случае установления в договоре о закупке порядка изменения цены", 
         "title_ru": "Изменение посторонних показателей (курса, тарифов ...)",
