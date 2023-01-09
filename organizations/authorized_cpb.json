@@ -9,12 +9,12 @@
       "streetAddress": "Бульварно-Кудрявська, 22"
     },
     "contactPoint": {
-      "email": "cpb.org.ua@gmail.com",
-      "faxNumber": "+380635780480",
-      "telephone": "+380966892062",
+      "email": "info@cpb.org.ua",
+      "faxNumber": "+380445780480",
+      "telephone": "+380635780480",
       "url": "http://cpb.org.ua",
-      "name_en": "Nina Abaimova",
-      "name_uk": "Абаімова Ніна Сергіївна"
+      "name_en": "Lozynskyi Serhii",
+      "name_uk": "Лозинський Сергій Валерійович"
     },
     "identifier": {
       "id": "40996564",
@@ -247,5 +247,30 @@
     },
     "name_en": "Prozorro+",
     "name_uk": "Prozorro+"
-  }
+  },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "смт. Бородянка, Бучанський р-н.",
+      "postalCode": "07801",
+      "region": "Київська область",
+      "streetAddress": "вул. Семашко, 15"
+    },
+    "contactPoint": {
+      "email": "kzkorbazatender@gmail.com",
+      "faxNumber": "+380734158868",
+      "telephone": "+380734158868",
+      "name_en": "Beshliaha Andrii",
+      "name_uk": "Бешляга Андрій Олегович"
+    },
+    "identifier": {
+      "id": "02125740",
+      "scheme": "UA-EDR",
+      "legalName_en": "MUNICIPAL ESTABLISHMENT OF THE KYIV REGIONAL COUNCIL \"BASE OF SPECIAL MEDICAL SUPPLY\"",
+      "legalName_uk": "КОМУНАЛЬНИЙ ЗАКЛАД КИЇВСЬКОЇ ОБЛАСНОЇ РАДИ \"БАЗА СПЕЦІАЛЬНОГО МЕДИЧНОГО ПОСТАЧАННЯ\""
+    },
+    "name_en": "KZ KOR \"BASE OF SPECIAL MEDICAL SUP\"",
+    "name_uk": "КЗ КОР \"БАЗА СПЕЦМЕДПОСТАЧАННЯ\""
+  }  
 ]
