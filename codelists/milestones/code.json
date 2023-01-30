@@ -1,12 +1,10 @@
 {
     "prepayment": {
         "name_en": "Prepayments", 
-        "name_uk": "Аванс", 
-        "name_ru": "Аванс"
+        "name_uk": "Аванс"
     }, 
     "postpayment": {
         "name_en": "Postpayments", 
-        "name_uk": "Пiсляоплата", 
-        "name_ru": "Послеоплата"
+        "name_uk": "Пiсляоплата"
     }
 }
