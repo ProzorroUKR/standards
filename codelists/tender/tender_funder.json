@@ -14,19 +14,16 @@
             "telephone": "+380444906671", 
             "url": "http://www.worldbank.org/uk/country/ukraine", 
             "name_en": "Darya Gulei", 
-            "name_uk": "Дар’я Гулей", 
-            "name_ru": "Дарья Гулей"
+            "name_uk": "Дар’я Гулей"
         }, 
         "identifier": {
             "id": "44000", 
             "scheme": "XM-DAC", 
             "legalName_en": "International Bank for Reconstruction and Development (IBRD)", 
-            "legalName_uk": "Міжнародний банк реконструкції та розвитку (МБРР)", 
-            "legalName_ru": "Международный банк реконструкции и развития (МБРР)"
+            "legalName_uk": "Міжнародний банк реконструкції та розвитку (МБРР)"
         }, 
         "name_en": "World Bank", 
-        "name_uk": "Світовий Банк", 
-        "name_ru": "Всемирный Банк"
+        "name_uk": "Світовий Банк"
     }, 
     {
         "additionalIdentifiers": [], 
@@ -43,19 +40,16 @@
             "telephone": "+41587911700", 
             "url": "https://www.theglobalfund.org/en/", 
             "name_en": "", 
-            "name_uk": "", 
-            "name_ru": ""
+            "name_uk": ""
         }, 
         "identifier": {
             "id": "47045", 
             "scheme": "XM-DAC", 
             "legalName_en": "Global Fund to Fight AIDS, Tuberculosis and Malaria", 
-            "legalName_uk": "Глобальний Фонд для боротьби зі СНІДом, туберкульозом і малярією", 
-            "legalName_ru": "Глобальный Фонд по борьбе со СПИДом, туберкулезом и малярией"
+            "legalName_uk": "Глобальний Фонд для боротьби зі СНІДом, туберкульозом і малярією"
         }, 
         "name_en": "Global Fund", 
-        "name_uk": "Глобальний фонд", 
-        "name_ru": "Глобальный фонд"
+        "name_uk": "Глобальний фонд"
     },
     {
         "additionalIdentifiers": [], 
@@ -72,18 +66,15 @@
             "telephone": "+380507660133", 
             "url": "https://ed.org.ua/", 
             "name_en": "Volodymyr Flonts", 
-            "name_uk": "Володимир Фльонц", 
-            "name_ru": "Владимир Фльонц"
+            "name_uk": "Володимир Фльонц"
         }, 
         "identifier": {
             "id": "39582446", 
             "scheme": "UA-EDR", 
             "legalName_en": "Nongovernmental Organization Electronic Democracy", 
-            "legalName_uk": "Громадська організація Електронна демократія", 
-            "legalName_ru": "Общественная организация Электронная демократия"
+            "legalName_uk": "Громадська організація Електронна демократія"
         }, 
         "name_en": "NGO E-DEMOCRACY", 
-        "name_uk": "ГО ЕЛЕКТРОННА ДЕМОКРАТІЯ", 
-        "name_ru": "ОО ЭЛЕКТРОННАЯ ДЕМОКРАТИЯ"
+        "name_uk": "ГО ЕЛЕКТРОННА ДЕМОКРАТІЯ"
     }
 ]
