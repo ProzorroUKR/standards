@@ -7,11 +7,66 @@
     "bid_id": {
       "$ref": "types/md5.json"
     },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["pending", "cancelled", "unsuccessful", "active"]
+    },
+    "date": {
+      "$ref": "Date.json"
+    },
+    "eligible": {
+      "type": "boolean"
+    },
+    "qualified": {
+      "type": "boolean"
+    },
+    "value": {
+      "$ref": "Value.json"
+    },
+    "subcontractingDetails": {
+      "type": "string"
+    },
+    "documents": {
+      "type": "array",
+      "items": {
+        "$ref": "Document.json"
+      }
+    },
+    "suppliers": {
+      "type": "array",
+      "items": {
+        "$ref": "Organization.json"
+      }
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "$ref": "Item.json"
+      }
+    },
     "milestones": {
       "type": "array",
       "items": {
         "$ref": "QualificationMilestone.json"
       }
+    },
+    "complaints": {
+      "type": "array",
+      "items": {
+        "$ref": "Complaint.json"
+      }
+    },
+    "complaintPeriod": {
+      "$ref": "Period.json"
+    },
+    "lotID": {
+      "$ref": "types/md5.json"
     }
   },
   "required": [

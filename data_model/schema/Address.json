@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "properties": {
+    "postalCode": {
+      "type": "string",
+      "$comment": "поштовий індекс"
+    },
+    "countryName": {
+      "type": "string",
+      "$comment": "країна"
+    },
+    "streetAddress": {
+      "type": "string",
+      "$comment": "вулиця"
+    },
+    "region": {
+      "type": "string",
+      "$comment": "область"
+    },
+    "locality": {
+      "type": "string",
+      "$comment": "населений пункт"
+    }
+  },
+  "required": [
+    "countryName",
+    "region"
+  ],
+  "additionalProperties": false
+}

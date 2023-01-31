@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "properties": {
+    "startDate": {
+      "$ref": "Date.json",
+      "$comment": "початкова дата періоду"
+    },
+    "endDate": {
+      "$ref": "Date.json",
+      "$comment": "кінцева дата періоду"
+    }
+  },
+  "additionalProperties": false
+}

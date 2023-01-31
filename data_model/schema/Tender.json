@@ -4,23 +4,122 @@
     "id": {
       "$ref": "types/md5.json"
     },
-    "procurementMethod": {
-      "type": "string",
-      "enum": ["open", "limited"]
-    },
-    "mainProcurementCategory": {
-      "type": "string",
-      "enum": ["goods", "services", "works"]
-    },
-    "cause": {
-      "type": "string",
-      "enum": ["quick"]
-    },
-    "procurementMethodRationale": {
+    "owner": {
       "type": "string"
     },
     "procuringEntity": {
       "$ref": "ProcuringEntity.json"
+    },
+    "dateModified": {
+      "$ref": "Date.json"
+    },
+    "tenderID": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["active.tendering", "active.awarded", "cancelled", "unsuccessful"]
+    },
+    "date": {
+      "$ref": "Date.json"
+    },
+    "next_check": {
+      "$ref": "Date.json"
+    },
+    "numberOfBids": {
+      "type": "number"
+    },
+    "title": {
+      "type": "string"
+    },
+    "procurementMethod": {
+      "type": "string",
+      "enum": ["open", "limited", "selective"]
+    },
+    "procurementMethodRationale": {
+      "type": "string"
+    },
+    "procurementMethodType": {
+      "type": "string",
+      "enum": ["aboveThresholdUA", "aboveThresholdEU"]
+    },
+    "cause": {
+      "type": "string",
+      "enum":  ["", ""]
+    },
+    "causeDescription": {
+      "type": "string"
+    },
+    "mainProcurementCategory": {
+      "type": "string",
+      "enum": ["services", "goods", "works"]
+    },
+    "value": {
+      "$ref": "Value.json"
+    },
+    "minimalStep": {
+      "$ref": "Value.json"
+    },
+    "guarantee": {
+      "$ref": "Value.json"
+    },
+    "submissionMethod": {
+      "type": "string",
+      "enum": ["electronicAuction"]
+    },
+    "auctionUrl": {
+      "type": "string"
+    },
+    "awardCriteria": {
+      "type": "string"
+    },
+    "documents": {
+      "type": "array",
+      "items": {
+        "$ref": "Document.json"
+      }
+    },
+    "features": {
+      "type": "array",
+      "items": {
+        "$ref": "Feature.json"
+      }
+    },
+    "lots": {
+      "type": "array",
+      "items": {
+        "$ref": "Lot.json"
+      }
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "$ref": "Item.json"
+      }
+    },
+    "milestones": {
+      "type": "array",
+      "items": {
+        "$ref": "Milestone.json"
+      }
+    },
+    "questions": {
+      "type": "array",
+      "items": {
+        "$ref": "Question.json"
+      }
+    },
+    "complaints": {
+      "type": "array",
+      "items": {
+        "$ref": "Complaint.json"
+      }
+    },
+    "bids": {
+      "type": "array",
+      "items": {
+        "$ref": "Bid.json"
+      }
     },
     "qualifications": {
       "type": "array",
@@ -33,6 +132,38 @@
       "items": {
         "$ref": "Award.json"
       }
+    },
+    "complaints": {
+      "type": "array",
+      "items": {
+        "$ref": "Complaint.json"
+      }
+    },
+    "contracts": {
+      "type": "array",
+      "items": {
+        "$ref": "Contract.json"
+      }
+    },
+    "plans": {
+      "type": "array",
+      "items": {
+        "id": {
+          "$ref": "types/md5.json"
+        }
+      }
+    },
+    "tenderPeriod": {
+      "$ref": "Period.json"
+    },
+    "enquiryPeriod": {
+      "$ref": "Period.json"
+    },
+    "complaintPeriod": {
+      "$ref": "Period.json"
+    },
+    "awardPeriod": {
+      "$ref": "Period.json"
     }
   },
   "required": [

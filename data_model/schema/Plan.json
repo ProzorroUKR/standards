@@ -1,0 +1,65 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "types/md5.json"
+    },
+    "planID": {
+      "type": "string"
+    },
+    "owner": {
+      "type": "string"
+    },
+    "procuringEntity": {
+      "$ref": "ProcuringEntity.json"
+    },
+    "datePublished": {
+      "$ref": "Date.json"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "scheduled", "cancelled", "complete"]
+    },
+    "dateModified": {
+      "$ref": "Date.json"
+    },
+    "classification": {
+      "$ref": "Classification.json"
+    },
+    "additionalClassificaions": {
+      "type": "array",
+      "items": {
+        "$ref": "Classification.json"
+      }
+    },
+    "budget": {
+      "$ref": "Budget.json"
+    },
+    "tender": {
+      "$ref": "Tender.json"
+    },
+    "buyers": {
+      "type": "array",
+      "items": {
+        "$ref": "ProcuringEntity.json"
+      }
+    },
+    "documents": {
+      "type": "array",
+      "items": {
+        "$ref": "Document.json"
+      }
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "$ref": "Item.json"
+        }
+    }
+  },
+  "required": [
+    "id",
+    "procuringEntity"
+  ],
+  "additionalProperties": false
+}

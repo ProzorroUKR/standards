@@ -13,13 +13,14 @@
     "address": {
       "$ref": "Address.json"
     },
-    "kind": {
-      "type": "string"
-    }
+    "scale": {
+      "type": "string",
+      "enum": ["sme", "large", "mid", "micro", "not specified"]
   },
   "required": [
     "name",
     "identifier"
   ],
   "additionalProperties": false
+  }
 }

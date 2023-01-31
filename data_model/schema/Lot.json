@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "types/md5.json"
+    },
+    "title": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "date": {
+      "$ref": "Date.json"
+    },
+    "value": {
+      "$ref": "Value.json"
+    },
+    "minimalStep": {
+      "$ref": "Value.json"
+    },
+    "auctionPeriod": {
+      "$ref": "Period.json"
+    }
+  },
+  "required": [
+    "id"
+  ],
+  "additionalProperties": false
+}
