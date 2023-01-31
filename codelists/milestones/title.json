@@ -1,42 +1,34 @@
 {
     "executionOfWorks": {
         "name_en": "execution of works", 
-        "name_uk": "виконання робіт", 
-        "name_ru": "выполнение работ"
+        "name_uk": "виконання робіт"
     }, 
     "deliveryOfGoods": {
         "name_en": "delivery of goods", 
-        "name_uk": "поставка товару", 
-        "name_ru": "поставка товара"
+        "name_uk": "поставка товару"
     }, 
     "submittingServices": {
         "name_en": "submitting services", 
-        "name_uk": "надання послуг", 
-        "name_ru": "предоставление услуг"
+        "name_uk": "надання послуг"
     }, 
     "signingTheContract": {
         "name_en": "signing the contract", 
-        "name_uk": "підписання договору", 
-        "name_ru": "подписание договора"
+        "name_uk": "підписання договору"
     }, 
     "submissionDateOfApplications": {
         "name_en": "submission date of applications", 
-        "name_uk": "дата подання заявки", 
-        "name_ru": "дата подачи заявки"
+        "name_uk": "дата подання заявки"
     }, 
     "dateOfInvoicing": {
         "name_en": "date of invoicing", 
-        "name_uk": "дата виставлення рахунку", 
-        "name_ru": "дата выставления счета"
+        "name_uk": "дата виставлення рахунку"
     }, 
     "endDateOfTheReportingPeriod": {
         "name_en": "end date of the reporting period", 
-        "name_uk": "дата закінчення звітного періоду", 
-        "name_ru": "дата окончания отчетного периода"
+        "name_uk": "дата закінчення звітного періоду"
     }, 
     "anotherEvent": {
         "name_en": "another event", 
-        "name_uk": "інша подія", 
-        "name_ru": "другое событие"
+        "name_uk": "інша подія"
     }
 }
