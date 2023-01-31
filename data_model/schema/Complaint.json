@@ -9,11 +9,19 @@
     },
     "type": {
       "type": "string",
-      "enum": ["claim", "complaint"]
+      "enum": [
+        "claim",
+        "complaint"
+      ]
     },
     "status": {
       "type": "string",
-      "enum": ["draft", "pending", "accepted", "resolved"]
+      "enum": [
+        "draft",
+        "pending",
+        "accepted",
+        "resolved"
+      ]
     },
     "date": {
       "$ref": "Date.json"
@@ -38,7 +46,10 @@
     },
     "resolutionType": {
       "type": "string",
-      "enum": ["invalid", "resolved"]
+      "enum": [
+        "invalid",
+        "resolved"
+      ]
     },
     "documents": {
       "type": "array",

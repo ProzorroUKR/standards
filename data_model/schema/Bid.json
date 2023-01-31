@@ -6,7 +6,14 @@
     },
     "status": {
       "type": "string",
-      "enum": ["draft", "active", "invalid", "unsuccessful", "cancelled", "deleted"]
+      "enum": [
+        "draft",
+        "active",
+        "invalid",
+        "unsuccessful",
+        "cancelled",
+        "deleted"
+      ]
     },
     "date": {
       "$ref": "Date.json"

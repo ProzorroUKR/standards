@@ -15,11 +15,19 @@
     },
     "procuringStages": {
       "type": "string",
-      "enum": ["planning", "awarding", "contracting"]
+      "enum": [
+        "planning",
+        "awarding",
+        "contracting"
+      ]
     },
     "reasons": {
       "type": "string",
-      "enum": ["public", "risks", "media"]
+      "enum": [
+        "public",
+        "risks",
+        "media"
+      ]
     },
     "dateCreated": {
       "$ref": "Date.json"
@@ -32,7 +40,12 @@
     },
     "status": {
       "type": "string",
-      "enum": ["draft", "active", "addressed", "complete"]
+      "enum": [
+        "draft",
+        "active",
+        "addressed",
+        "complete"
+      ]
     },
     "dateModified": {
       "$ref": "Date.json"
