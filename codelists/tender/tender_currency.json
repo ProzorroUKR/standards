@@ -6,7 +6,6 @@
     "title": "Hryvnia",
     "name_en": "Hryvnia",
     "name_uk": "Гривня",
-    "name_ru": "Гривна",
     "abbr_uk": "грн",
     "sign": "₴"
   },
@@ -17,7 +16,6 @@
     "title": "US Dollar",
     "name_en": "Dollar",
     "name_uk": "Долар",
-    "name_ru": "Доллар",
     "sign": "$"
   },
   "EUR":  {
@@ -27,7 +25,6 @@
     "title": "Euro",
     "name_en": "Euro",
     "name_uk": "Євро",
-    "name_ru": "Евро",
     "sign": "€"
   },
   "GBP":  {
@@ -37,7 +34,6 @@
     "title": "Pound sterling",
     "name_en": "Pound sterling",
     "name_uk": "Фунт стерлінгів",
-    "name_ru": "Фунт стерлингов",
     "sign": "£"
   },
   "RUB":  {
@@ -47,7 +43,6 @@
     "title": "Russian Ruble",
     "name_en": "Russian Ruble",
     "name_uk": "Російський рубль",
-    "name_ru": "Российский рубль",
     "sign": "₽"
   }
 }
