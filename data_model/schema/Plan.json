@@ -18,7 +18,12 @@
     },
     "status": {
       "type": "string",
-      "enum": ["draft", "scheduled", "cancelled", "complete"]
+      "enum": [
+        "draft",
+        "scheduled",
+        "cancelled",
+        "complete"
+      ]
     },
     "dateModified": {
       "$ref": "Date.json"
@@ -36,7 +41,7 @@
       "$ref": "Budget.json"
     },
     "tender": {
-      "$ref": "Tender.json"
+      "$ref": "PlanTender.json"
     },
     "buyers": {
       "type": "array",
@@ -54,7 +59,7 @@
       "type": "array",
       "items": {
         "$ref": "Item.json"
-        }
+      }
     }
   },
   "required": [

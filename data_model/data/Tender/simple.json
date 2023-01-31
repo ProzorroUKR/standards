@@ -1,747 +1,194 @@
 {
-  "procurementMethod": "open",
-  "numberOfBids": 2,
-  "awardPeriod": {
-      "startDate": "2020-01-23T15:13:36.498877+02:00",
-      "endDate": "2020-02-05T17:39:10.333920+02:00"
-    },
+  "plans": [
+    {
+      "id": "2b56c30f3b224d318be860bb87ecbb47"
+    }
+  ],
+  "date": "2023-01-31T13:49:50.134102+02:00",
+  "dateModified": "2023-01-31T13:49:50.134102+02:00",
+  "tenderID": "UA-2023-01-31-009155-a",
+  "documents": [
+    {
+      "documentType": "notice",
+      "id": "dbb9a822bea446a9b5585d8be29f857f",
+      "datePublished": "2023-01-31T13:49:48.143078+02:00",
+      "hash": "md5:30b15e5b9a5be6389f926eda1a5fcf09",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-api.prozorro.gov.ua/api/2.5/tenders/7efa6ac38ba24d8db06801f42a7d2231/documents/dbb9a822bea446a9b5585d8be29f857f?download=f53ad3c0eb09483a86cbd67de9fde1e3",
+      "documentOf": "tender",
+      "dateModified": "2023-01-31T13:49:48.281387+02:00"
+    }
+  ],
+  "owner": "prom.ua",
+  "title": "Пусконалагоджувальні роботи для запуску дизель-генератора в будівлі КНП \"КЛШМД\" ДМР за адресою: вул С.Бендери,26 м. Дніпро",
   "mainProcurementCategory": "services",
-  "features": [
-      {
-        "code": "f759375b100344caa6dcf13dba26790f",
-        "featureOf": "tenderer",
-        "description": "Відстрочка платежу",
-        "enum": [
-          {
-            "value": 0.1,
-            "title": "90 і більше календарних днів"
-          },
-          {
-            "value": 0.05,
-            "title": "від 60 до 89  календарних днів"
-          },
-          {
-            "value": 0.0,
-            "title": "59 і меньше календарних днів"
-          }
-        ],
-        "title": "Відстрочка платежу"
-      }
-    ],
-  "complaintPeriod": {
-      "startDate": "2019-12-26T16:14:21.215879+02:00",
-      "endDate": "2020-01-18T00:00:00+02:00"
-    },
-  "auctionUrl": "https://auction.openprocurement.org/tenders/46171c28148748798c428759a0b04eed",
-  "enquiryPeriod": {
-      "startDate": "2019-12-26T16:14:21.215879+02:00",
-      "clarificationsUntil": "2020-01-16T00:00:00+02:00",
-      "endDate": "2020-01-12T16:19:04+02:00",
-      "invalidationDate": "2019-12-26T16:18:49.458835+02:00"
-    },
-  "submissionMethod": "electronicAuction",
+  "procurementMethodType": "reporting",
   "procuringEntity": {
-      "kind": "general",
-      "name": "Комунальне підприємство \"Веселка\"",
-      "address": {
-        "postalCode": "01014",
-        "countryName": "Україна",
-        "streetAddress": "вулиця Петра Болбочана, 6",
-        "region": "м. Київ",
-        "locality": "місто"
-      },
-      "contactPoint": {
-        "name_ru": "  ",
-        "name": "Петровський Петро Петровия",
-        "telephone": "+380441234567",
-        "faxNumber": "+380447654321",
-        "name_en": "Petrovskiy Petro Petrovych",
-        "email": "1234566@ukr.net"
-      },
-      "identifier": {
-        "scheme": "UA-EDR",
-        "legalName_en": "Municipal Enterprise “Veselka”",
-        "id": "00005267",
-        "legalName": "Комунальне підприємство \"Веселка\""
-      },
-      "name_en": "Municipal Enterprise “Veselka”"
+    "name": "Комунальне некомерційне підприємство \"Клінічна лікарня швидкої медичної допомоги\" Дніпровської міської ради",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "01984636",
+      "legalName": "Комунальне некомерційне підприємство \"Клінічна лікарня швидкої медичної допомоги\" Дніпровської міської ради",
+      "uri": "https://dniprorada.gov.ua/uk/page/komunalne-nekomercijne-pidpriemstvo-klinichna-likarnya-shvidkoi-medichnoi-dopomogi-dniprovskoi-miskoi-radi"
     },
-  "questions": [
-      {
-        "description": "Просимо Вас надати проектну документацію на дану роботу. Проектну документацію просимо направити в електронному вигляді на електронну адресу 2011@gmail.com",
-        "title": "Проектна документація",
-        "author": {
-          "contactPoint": {
-            "telephone": "+380671234567",
-            "name": "Василь Васильєв",
-            "email": "2011@gmail.com"
-          },
+    "address": {
+      "streetAddress": "вул. Володимира Антоновича, 65",
+      "locality": "м. Дніпро",
+      "region": "Дніпропетровська область",
+      "postalCode": "49006",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "email": "bsmp-dp@ukr.net",
+      "telephone": "+380567706504",
+      "name": "Сергій Вікторович Мошенець"
+    },
+    "kind": "general"
+  },
+  "items": [
+    {
+      "id": "be075b30edce459895c1cdd304f487ef",
+      "description": "Пусконалагоджувальні роботи для запуску дизель-генератора в будівлі КНП \"КЛШМД\" ДМР за адресою: вул С.Бендери,26 м. Дніпро",
+      "classification": {
+        "description": "Електромонтажні роботи",
+        "scheme": "ДК021",
+        "id": "45310000-3"
+      },
+      "unit": {
+        "name": "послуга",
+        "code": "E48"
+      },
+      "quantity": 1.0,
+      "deliveryDate": {
+        "startDate": "2023-01-31T00:00:00+02:00",
+        "endDate": "2023-02-03T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул. С.Бендери, 26",
+        "locality": "м. Дніпро",
+        "region": "Дніпропетровська область",
+        "postalCode": "49000",
+        "countryName": "Україна"
+      }
+    }
+  ],
+  "value": {
+    "amount": 64502.22,
+    "currency": "UAH",
+    "valueAddedTaxIncluded": false
+  },
+  "procurementMethod": "limited",
+  "status": "complete",
+  "awards": [
+    {
+      "id": "9b889fcb81f74540981c1f042f396b0d",
+      "status": "active",
+      "date": "2023-01-31T13:49:48.668243+02:00",
+      "value": {
+        "amount": 64502.22,
+        "valueAddedTaxIncluded": false,
+        "currency": "UAH"
+      },
+      "suppliers": [
+        {
+          "name": "ХАНДОЖКО СЕРГІЙ ОЛЕГОВИЧ",
           "identifier": {
             "scheme": "UA-EDR",
-            "id": "00004593",
-            "legalName": "ТОВ \"АКВА\""
+            "id": "2385516616",
+            "legalName": "ХАНДОЖКО СЕРГІЙ ОЛЕГОВИЧ"
           },
-          "name": "ТОВ \"АКВА\"",
           "address": {
-            "postalCode": "50066",
-            "countryName": "Україна",
-            "streetAddress": "вул. Двінська,9",
+            "streetAddress": "ВУЛИЦЯ АЕРОДРОМНА будинок 25А",
+            "locality": "місто Дніпро",
             "region": "Дніпропетровська область",
-            "locality": "м. Дніпро"
+            "postalCode": "49000",
+            "countryName": "Україна"
+          },
+          "scale": "sme",
+          "contactPoint": {
+            "telephone": "+380505712069",
+            "name": ""
           }
-        },
-        "relatedItem": "46171c28148748798c428759a0b04eed",
-        "answer": "Ваш запит було розглянуто на тендерному комітеті. За результатами розгляду повідомляється.",
-        "date": "2020-01-11T13:32:48.834039+02:00",
-        "dateAnswered": "2020-01-13T17:42:31.000515+02:00",
-        "id": "c8d57011ff25404b8b3b01317e24d093",
-        "questionOf": "tender"
-      }
-    ],
-  "owner": "netcast.com.ua",
-  "id": "46171c28148748798c428759a0b04eed",
-  "plans": [
-      {
-        "id": "19b3c0f57f8245c2a161027b1f35f57f"
-      }
-    ],
-  "documents": [
-      {
-        "hash": "md5:db4866b32ed0e46014b207ca252dae06",
-        "description": "SHA1: 8e10891913b84c03bbfb6f199ec5bfd819f57057; SHA2-384: 1755a24ceeb8e2ca11ad698e94620e8ff758f3e6e4cc6cea0128f069c316936944e34dc72ab8378e51a12c87532f30cc; Antivirus: ESET Antivirus",
-        "title": "Тендерна документація.pdf",
-        "url": "https://public.docs.openprocurement.org/get/0c589e898e2e47ffb823af6a1387167c?KeyID=52462340&Signature=a%252Bk9AZxSvK6LIgUJmYnvdop6NfHqlY%2FaH2Shv%2FPnyj2S126egGPRv8BFjzulP0AVT1FQkzxgiNHzXxLxFmM%2FBw%253D%253D",
-        "format": "application/pdf",
-        "title_en": "Тендерна документація.pdf",
-        "documentOf": "tender",
-        "datePublished": "2019-12-26T16:16:03.778551+02:00",
-        "author": "tender_owner",
-        "title_ru": "Тендерна документація.pdf",
-        "documentType": "biddingDocuments",
-        "dateModified": "2019-12-26T16:16:03.778587+02:00",
-        "id": "6ed4f428cd3d4c98855f5ce7bd94119a"
-      },
-      {
-        "hash": "md5:88d616e7d2874413e32eeb121f5cd3c7",
-        "description": "SHA1: 9e1e121609c4a922aeb88f27ab1996e132aad3bf; SHA2-384: 507971844cd85a53016757f95f5c9f5a997ef7ca18d25c824ccf44092df1f2c22b533730d220f13d5fb7ebcedcb81913; Antivirus: ESET Antivirus",
-        "title": "sign.p7s",
-        "url": "https://public.docs.openprocurement.org/get/3194d1e30a8c4bf0abb14e97baa297d1?KeyID=52462340&Signature=eK7g1JQc4%252BYI%2FNJB8s2eXilEb8kHjCsjLF9G9MGAxS0jZLKa1idJuORcxArJAIBIhZmd8YiJTqwTRUgAQ%2FSMDw%253D%253D",
-        "format": "application/pkcs7-signature",
-        "title_en": "sign.p7s",
-        "documentOf": "tender",
-        "datePublished": "2019-12-26T16:18:49.456850+02:00",
-        "author": "tender_owner",
-        "title_ru": "sign.p7s",
-        "dateModified": "2019-12-26T16:18:49.456888+02:00",
-        "id": "6c745854d5d34460beb787eb00d2e1aa"
-      },
-      {
-        "hash": "md5:a106d4c90491a0bd6544f0554ec57505",
-        "author": "auction",
-        "format": "text/plain",
-        "url": "https://public.docs.openprocurement.org/get/e8212393010d4f82aaf07add8d4170b3?KeyID=52462340&Signature=6BIwzH15fCADX8aTN7RkAWmOJxgmODyj%252BAKMCi4JWs4xkB73gx8%2F7ttwqI5OOmX45qUlkRFcIjjooGnElqkABg%253D%253D",
-        "title": "audit_46171c28148748798c428759a0b04eed.yaml",
-        "documentOf": "tender",
-        "datePublished": "2020-01-23T15:13:35.686699+02:00",
-        "dateModified": "2020-01-23T15:13:35.686732+02:00",
-        "id": "7556ed5762c0489faeef7bc2e56f6a26"
-      },
-      {
-        "hash": "md5:f93838efa3871033313feea13437295d",
-        "author": "auction",
-        "format": "text/plain",
-        "url": "https://public.docs.openprocurement.org/get/791297508ee6491aacb88e25ff1bdf96?KeyID=52462340&Signature=39%2FbH64SiO3FiaS%252BCVtSfKlOp3gobCILMc9BBTQZWh3VQeuCTtVOtFApoOUhMysg%2FJO6HoIPxywCk%2FuW6BMHDA%253D%253D",
-        "title": "audit_46171c28148748798c428759a0b04eed.yaml",
-        "documentOf": "tender",
-        "datePublished": "2020-01-23T15:13:35.686699+02:00",
-        "dateModified": "2020-01-23T15:13:37.393905+02:00",
-        "id": "7556ed5762c0489faeef7bc2e56f6a26"
-      }
-    ],
-  "title": "71350000-6 Науково-технічні послуги в галузі інженерії (Науково-технічний та технологічний супровід складально-зварювальних робіт при монтажі металоконструкцій естакад лівого берегу (споруди №1, №2, №6, №7) в складі об’єкту «Будівництво Подільського мостового переходу через р. Дніпро у м. Києві»)",
-  "tenderID": "UA-2019-12-26-001364-c",
-  "guarantee": {
-      "currency": "UAH",
-      "amount": 88000.0
-    },
-  "dateModified": "2020-03-12T16:33:18.881509+02:00",
-  "status": "complete",
-  "tenderPeriod": {
-      "startDate": "2019-12-26T16:14:21.215879+02:00",
-      "endDate": "2020-01-22T16:19:04+02:00"
-    },
+        }
+      ]
+    }
+  ],
   "contracts": [
-      {
-        "status": "active",
-        "documents": [
-          {
-            "hash": "md5:bc0ac16ca6899d3809d730b232acba33",
-            "description": "SHA1: 1ec974770fbb515ad34f02951732fbfd450b2cd5; SHA2-384: 29708aaf630b2c2a2d6f275ba19aed009ca590a33e1cf8b711e5a8c02091ca956c648fa1bc649eec7451885e881fa610; Antivirus: ESET Antivirus",
-            "title": "договір",
-            "url": "https://public.docs.openprocurement.org/get/19fd7bb0eacf4576a615210d89887012?KeyID=52462340&Signature=tiirr7H7lzFUUjPlsukafxPnkKOMXAk7fyC7lAa2fwhilwVn%2Ft24caADSk0Hoohe1Rg07RhcKoKEgX2T8AOVAw%253D%253D",
-            "format": "application/pdf",
-            "title_en": "Договір.pdf",
-            "documentOf": "tender",
-            "datePublished": "2020-03-12T16:28:55.631928+02:00",
-            "title_ru": "Договір.pdf",
-            "dateModified": "2020-03-12T16:28:55.631951+02:00",
-            "id": "a8beccbe25854ae7aaa1e51ec5b24f5d"
-          },
-          {
-            "hash": "md5:e2764d5a1850ff2a335aad419fa86a74",
-            "description": "SHA1: 9e56c7e91f278acf87e0ccaecf1768b0ae14079f; SHA2-384: 0e4a9bd2c1c6e162f886265d58ebf5d5e5d1fe1329cf86f3c42afe72201e93c35d6e5bb6510fb97ffd323beb3ccf4367; Antivirus: ESET Antivirus",
-            "title": "sign.p7s",
-            "url": "https://public.docs.openprocurement.org/get/eb70a05b74b94da091e232ec7e33b460?KeyID=52462340&Signature=Cj%252BtZAn1j1s6YyzREkqdh0UWAj8m4ZZHrZLnuE%2FEcAOxPPVXiBju6gWq7bgJfH0cr%2FerYSDlrNftwosjv%252B3RDQ%253D%253D",
-            "format": "application/pkcs7-signature",
-            "title_en": "sign.p7s",
-            "documentOf": "tender",
-            "datePublished": "2020-03-12T16:32:59.443571+02:00",
-            "title_ru": "sign.p7s",
-            "dateModified": "2020-03-12T16:32:59.443592+02:00",
-            "id": "ad698471aaac470ca03ec6658ae9507e"
-          }
-        ],
-        "items": [
-          {
-            "description": "71350000-6 Науково-технічні послуги в галузі інженерії (Науково-технічний та технологічний супровід складально-зварювальних робіт при монтажі металоконструкцій естакад лівого берегу (споруди №1, №2, №6, №7) в складі об’єкту «Будівництво Подільського мостового переходу через р. Дніпро у м. Києві»)",
-            "classification": {
-              "scheme": "ДК021",
-              "description": "Науково-технічні послуги в галузі інженерії",
-              "id": "71350000-6"
-            },
-            "deliveryAddress": {
-              "postalCode": "00000",
-              "countryName": "Україна",
-              "streetAddress": "Київ",
-              "region": "м. Київ",
-              "locality": "Київ"
-            },
-            "deliveryDate": {
-              "endDate": "2021-12-31T16:19:04+02:00"
-            },
-            "id": "784038c66534d8a24c53396e4b3f50b3",
-            "unit": {
-              "code": "E48",
-              "name": "послуга"
-            },
-            "quantity": 1.0
-          }
-        ],
-        "suppliers": [
-          {
-            "scale": "sme",
-            "contactPoint": {
-              "name_ru": "  ",
-              "name": "Комарчева Тетяна Володимирівна",
-              "telephone": "+380442006524",
-              "faxNumber": "+380442008070",
-              "name_en": "  ",
-              "email": "dktbpaton@gmail.com"
-            },
-            "identifier": {
-              "scheme": "UA-EDR",
-              "id": "05417457",
-              "legalName": "ДП ДКТБ ІЕЗ ім.Є.О.Патона НАНУ"
-            },
-            "name": "ДП ДКТБ ІЕЗ ім.Є.О.Патона НАНУ",
-            "address": {
-              "postalCode": "03150",
-              "countryName": "Україна",
-              "streetAddress": "вул. Боженка, 15, корпус 7",
-              "region": "м. Київ",
-              "locality": "Київ"
-            }
-          }
-        ],
-        "contractNumber": "02354",
-        "period": {
-          "startDate": "2020-03-12T00:00:00+02:00",
-          "endDate": "2021-12-31T23:59:59+02:00"
-        },
-        "dateSigned": "2020-03-12T00:00:00+02:00",
-        "value": {
-          "currency": "UAH",
-          "amount": 2670760.0,
-          "amountNet": 2225633.33,
-          "valueAddedTaxIncluded": true
-        },
-        "date": "2020-03-12T16:33:18.881509+02:00",
-        "awardID": "3ae853f0f5404552ac7040ec58e9c436",
-        "id": "0ae3b1a8d77b4044b9b7d89e2476e52f",
-        "contractID": "UA-2019-12-26-001364-c-a1"
-      }
-    ],
-  "auctionPeriod": {
-      "startDate": "2020-01-23T14:52:35+02:00",
-      "endDate": "2020-01-23T15:13:36.419577+02:00"
-    },
-  "procurementMethodType": "aboveThresholdUA",
-  "awards": [
-      {
-        "status": "unsuccessful",
-        "documents": [
-          {
-            "hash": "md5:316d8bfe06748b0b1c58050ba00c4574",
-            "author": "bots",
-            "format": "application/yaml",
-            "url": "https://public.docs.openprocurement.org/get/68a0b083069044e9b064ea87d9ac00d3?KeyID=52462340&Signature=Nmft99qTtNJ3DFxuzDid6bbu52gvgk%252BgoYB9rN9gozwd6tMPpkvPHZMGw6MzOmuTugKKD%2FdvgtGlWkxgv5msCQ%253D%253D",
-            "title": "edr_identification.yaml",
-            "documentOf": "tender",
-            "datePublished": "2020-01-23T15:13:49.271495+02:00",
-            "documentType": "registerExtract",
-            "dateModified": "2020-01-23T15:13:49.271517+02:00",
-            "id": "97cdc27d8ad4422d98a83aba902c75b8"
-          },
-          {
-            "hash": "md5:3f4e876c1155bce413d8f1ff6ffeb446",
-            "description": "SHA1: b368bc502c876f7b2a635186b8248e7ca8201c1f; SHA2-384: cebaef059f74c1d04defafdfbb7711fb883622d23ed2cc68bd9e279a383b740631c6d94753c966b2a9809307ec1c5f72; Antivirus: ESET Antivirus",
-            "title": "протокол",
-            "url": "https://public.docs.openprocurement.org/get/df5c8f81cdf3472f9ad3a96e1e65be9b?KeyID=52462340&Signature=MuMSjhI2SbYXDBgTZq2bX%2FXyYuPXuHRTana9Dj2Il5vv2KnPTGGzh8CUATjaQqUzvnKUpTPn5huCVX%252BB7nZxDA%253D%253D",
-            "format": "application/pdf",
-            "title_en": "Протокол.pdf",
-            "documentOf": "tender",
-            "datePublished": "2020-01-27T18:12:33.215167+02:00",
-            "author": "tender_owner",
-            "title_ru": "Протокол.pdf",
-            "dateModified": "2020-01-27T18:12:33.215189+02:00",
-            "id": "e96c1a883dbe4c54bd4878736726cb7c"
-          },
-          {
-            "hash": "md5:8ae68ac433960374eba179bcf55c45b8",
-            "description": "SHA1: 6de153fd8682ddf2b72c8bc164bc01a5be94e1b4; SHA2-384: c8985bac5bc81fd0d896691f1e4456c9c36335c958309b7ce8c0664dbfde3805596dc0177444ee5880af4068ef393126; Antivirus: ESET Antivirus",
-            "title": "sign.p7s",
-            "url": "https://public.docs.openprocurement.org/get/4ee4ca85cb5742eda3c90141e05a6665?KeyID=52462340&Signature=euXc8oEjZZvUnr7gCatBbmgi%2FB8b2vXbKE7ATd4u8nXURJxk8%252B8jSJB20234RagUGankVDX43GCxRE1bY%252BXbBQ%253D%253D",
-            "format": "application/pkcs7-signature",
-            "title_en": "sign.p7s",
-            "documentOf": "tender",
-            "datePublished": "2020-01-27T18:15:17.252562+02:00",
-            "author": "tender_owner",
-            "title_ru": "sign.p7s",
-            "dateModified": "2020-01-27T18:15:17.252600+02:00",
-            "id": "2b79db918a7b4ac9829f6bcd23fe49df"
-          }
-        ],
-        "description": "Тендерна пропозиція не відповідає вимогам тендерної документації.\r\nВідповідно до ст. 30 Закону України «Про публічні закупівлі» відхилити тендерну пропозицію Товариства з обмеженою відповідальністю «АКВАПЛАСТ» - тендерна пропозиція не відповідає умовам тендерної документації.",
-        "title": "Тендерна пропозиція не відповідає вимогам тендерної документації",
-        "suppliers": [
-          {
-            "scale": "mid",
-            "contactPoint": {
-              "telephone": "+380671234567",
-              "name": "Василь Васильєв",
-              "email": "2011@gmail.com"
-            },
-            "identifier": {
-              "scheme": "UA-EDR",
-              "id": "32974593",
-              "legalName": "ТОВ \"АКВА\""
-            },
-            "name": "ТОВ \"АКВА\"",
-            "address": {
-              "postalCode": "50066",
-              "countryName": "Україна",
-              "streetAddress": "вул. Двінська,9",
-              "region": "Дніпропетровська область",
-              "locality": "м. Дніпро"
-            }
-          }
-        ],
-        "complaintPeriod": {
-          "startDate": "2020-01-23T15:13:36.501119+02:00",
-          "endDate": "2020-02-07T00:00:00+02:00"
-        },
-        "title_en": "",
-        "bid_id": "f766ec0be73a4fdabbbfa9c16c93e92f",
-        "description_en": "",
-        "qualified": false,
-        "value": {
-          "currency": "UAH",
-          "amount": 2499000.0,
-          "valueAddedTaxIncluded": true
-        },
-        "title_ru": "",
-        "date": "2020-01-27T18:15:21.101088+02:00",
-        "eligible": false,
-        "description_ru": "",
-        "id": "f1556589d7634b53b748a934c17e697e"
+    {
+      "id": "242db3aa56d94e8bb2bf9740fa64dcac",
+      "awardID": "9b889fcb81f74540981c1f042f396b0d",
+      "contractID": "UA-2023-01-31-009155-a-a1",
+      "contractNumber": "БП-15",
+      "status": "active",
+      "period": {
+        "startDate": "2023-01-31T00:00:00+02:00",
+        "endDate": "2023-12-31T00:00:00+02:00"
       },
-      {
-        "status": "active",
-        "documents": [
-          {
-            "hash": "md5:f293ae208696ada140572d574d180b02",
-            "author": "bots",
-            "format": "application/yaml",
-            "url": "https://public.docs.openprocurement.org/get/b95b067e7f924f2bb886d423ce47c38c?KeyID=52462340&Signature=0mNN4bEX9t8kXKBIY48b5cDJshlGFWifMuX9AdIfDaK5Knj1B9NEjx0YjSXuJQLIqn0pUirBMSdDQE6H1ciXAw%253D%253D",
-            "title": "edr_identification.yaml",
-            "documentOf": "tender",
-            "datePublished": "2020-01-27T18:15:31.089824+02:00",
-            "documentType": "registerExtract",
-            "dateModified": "2020-01-27T18:15:31.089867+02:00",
-            "id": "cd49bd8b697c412ba89af9a6e262ff39"
+      "items": [
+        {
+          "id": "be075b30edce459895c1cdd304f487ef",
+          "description": "Пусконалагоджувальні роботи для запуску дизель-генератора в будівлі КНП \"КЛШМД\" ДМР за адресою: вул С.Бендери,26 м. Дніпро",
+          "classification": {
+            "description": "Електромонтажні роботи",
+            "scheme": "ДК021",
+            "id": "45310000-3"
           },
-          {
-            "hash": "md5:c920465c1142efe585f228404eee52b0",
-            "description": "SHA1: ca92224ab43243fc1d4af213a96fd286cca98bff; SHA2-384: c1b18cce9d3576f88cc2ffe2452a0ec852a887dc37fc3950ccd90acc90f0ed6cbc09396cec84d03646966045f17472dd; Antivirus: ESET Antivirus",
-            "title": "протокол",
-            "url": "https://public.docs.openprocurement.org/get/b14c0b9f80674b308e49cd6577d94f25?KeyID=52462340&Signature=LoSi9fK5pqI4TfYNphFGlfqi7KqwWSW7GK0gV%252Bm%252BgZOqB6Vy9In2rnHv%252BjbC9Q2eE3uZjFyNaYyeWeOGdbkMDQ%253D%253D",
-            "format": "application/pdf",
-            "title_en": "Протокол.pdf",
-            "documentOf": "tender",
-            "datePublished": "2020-01-31T14:40:29.914279+02:00",
-            "author": "tender_owner",
-            "title_ru": "Протокол.pdf",
-            "dateModified": "2020-01-31T14:40:29.914314+02:00",
-            "id": "cfc20f58b8034172816c49da724b92b6"
+          "unit": {
+            "name": "послуга",
+            "code": "E48"
           },
-          {
-            "hash": "md5:0ebe95c3fcfb2af0c0d229e2a19f8f0c",
-            "description": "SHA1: 251fb300d823cbdbafbe68461ee72161e5dc633e; SHA2-384: 098d213d1cc9e6b452e58374406e7c35efc2f46d3a68b69d54267622b4d303505c29e6dda789af48ab3c64db3fd6992d; Antivirus: ESET Antivirus",
-            "title": "протокол",
-            "url": "https://public.docs.openprocurement.org/get/95d9c5df3e9b42dbb03d2715ef0919ea?KeyID=52462340&Signature=K0z8e4e6NtYzniGWW5Hc9sVQhpFnbrXy5dICkulBf1KIoV2jwTuT1mRVdi0f1%252BHpD5Ym%2Fht%2FdQGq3y7VyMTYDg%253D%253D",
-            "format": "application/pdf",
-            "title_en": "Протокол.pdf",
-            "documentOf": "tender",
-            "datePublished": "2020-02-05T17:36:40.707561+02:00",
-            "author": "tender_owner",
-            "title_ru": "Протокол.pdf",
-            "dateModified": "2020-02-05T17:36:40.707581+02:00",
-            "id": "861b83bb462d46e2815c3f7fc4fb6cc0"
+          "quantity": 1.0,
+          "deliveryDate": {
+            "startDate": "2023-01-31T00:00:00+02:00",
+            "endDate": "2023-02-03T00:00:00+02:00"
           },
-          {
-            "hash": "md5:5853a7f5057f536ebc5166fd963887a6",
-            "description": "SHA1: 192a0d2f2497b0f36107a6a7bc44724eb6cbc0d8; SHA2-384: 8711b3c000bc489c50a301d7ccaca097d357ab633f334ce013979ff0dc4cb719a520ecae5bf4cec15507f4d33d80f0cc; Antivirus: ESET Antivirus",
-            "title": "sign.p7s",
-            "url": "https://public.docs.openprocurement.org/get/8afa4a230d714e359f1704b7d9ffef94?KeyID=52462340&Signature=xNo3yyCQTQZmtrrhMu2jYCtURMA8audFh5INzeqarNZelL7OcXcXo2pUZuE7eVF4SauxDSUJE%252BdqcYHy%2FG9wAQ%253D%253D",
-            "format": "application/pkcs7-signature",
-            "title_en": "sign.p7s",
-            "documentOf": "tender",
-            "datePublished": "2020-02-05T17:39:05.636421+02:00",
-            "author": "tender_owner",
-            "title_ru": "sign.p7s",
-            "dateModified": "2020-02-05T17:39:05.636443+02:00",
-            "id": "eac144bd613b4f929d463177d6f1f300"
+          "deliveryAddress": {
+            "streetAddress": "вул. С.Бендери, 26",
+            "locality": "м. Дніпро",
+            "region": "Дніпропетровська область",
+            "postalCode": "49000",
+            "countryName": "Україна"
+          }
+        }
+      ],
+      "documents": [
+        {
+          "documentType": "contractSigned",
+          "id": "d33f83e10c454ec79a0ae083c45d4900",
+          "datePublished": "2023-01-31T13:49:49.721393+02:00",
+          "hash": "md5:6b84f16d99df0f2d2ca14caa9c19b21d",
+          "title": "Договір №БП-15 від 31.01.2023_ФОП Хандожко.pdf",
+          "format": "application/pdf",
+          "url": "https://public-api.prozorro.gov.ua/api/2.5/tenders/7efa6ac38ba24d8db06801f42a7d2231/contracts/242db3aa56d94e8bb2bf9740fa64dcac/documents/d33f83e10c454ec79a0ae083c45d4900?download=477d5e1127bb4aea83d4493961f73646",
+          "documentOf": "tender",
+          "dateModified": "2023-01-31T13:49:49.865691+02:00"
+        }
+      ],
+      "dateSigned": "2023-01-31T13:37:00+02:00",
+      "suppliers": [
+        {
+          "name": "ХАНДОЖКО СЕРГІЙ ОЛЕГОВИЧ",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2385516616",
+            "legalName": "ХАНДОЖКО СЕРГІЙ ОЛЕГОВИЧ"
           },
-          {
-            "hash": "md5:505783e8758a3b02ec51f37d92037ec1",
-            "author": "bots",
-            "format": "text/plain",
-            "url": "https://public.docs.openprocurement.org/get/dd4044ea06b047dca3aaab0a93cf1b10?KeyID=52462340&Signature=rtXp2f9d6%2FRTSewCO8ww6Sa%2Frvud9p9BNE9dPPsslMRY7LV%252BdTDunwc9Wy63BZt5qDmulDPliwzC7MZqUhKLAA%253D%253D",
-            "title": "26590002426097J1603102100000177810220202659.KVT.p7s",
-            "documentOf": "tender",
-            "datePublished": "2020-02-05T17:39:19.360653+02:00",
-            "documentType": "registerFiscal",
-            "dateModified": "2020-02-05T17:39:19.360684+02:00",
-            "id": "2acfccfed62d4cda90a7b3cf0969b597"
+          "address": {
+            "streetAddress": "ВУЛИЦЯ АЕРОДРОМНА будинок 25А",
+            "locality": "місто Дніпро",
+            "region": "Дніпропетровська область",
+            "postalCode": "49000",
+            "countryName": "Україна"
           },
-          {
-            "hash": "md5:21d43ee61c33b1b4bac510c456e70a5a",
-            "author": "bots",
-            "format": "text/plain",
-            "url": "https://public.docs.openprocurement.org/get/29c6df2c181f4818be9250e508b2e79a?KeyID=52462340&Signature=E8%2FSpBEqYo5psbckhRE3oSixM4LyGK5GiLkJiBBP6AOTAQM%2F9ZgpGM%2FYtwpNAKRxs%2FUzsce2Hn9XdFPr3M3mCg%253D%253D",
-            "title": "26590002426097J1703102100000177810220202659.XML.p7s",
-            "documentOf": "tender",
-            "datePublished": "2020-02-06T16:07:05.358636+02:00",
-            "documentType": "registerFiscal",
-            "dateModified": "2020-02-06T16:07:05.358657+02:00",
-            "id": "a033db6a2ba04150aa9a995b9b517fd6"
+          "scale": "sme",
+          "contactPoint": {
+            "telephone": "+380505712069",
+            "name": ""
           }
-        ],
-        "complaintPeriod": {
-          "startDate": "2020-01-27T18:15:21.083244+02:00",
-          "endDate": "2020-02-16T00:00:00+02:00"
-        },
-        "suppliers": [
-          {
-            "scale": "sme",
-            "contactPoint": {
-              "name_ru": "  ",
-              "name": "Комарчева Тетяна Володимирівна",
-              "telephone": "+380442006524",
-              "faxNumber": "+380442008070",
-              "name_en": "  ",
-              "email": "dktbpaton@gmail.com"
-            },
-            "identifier": {
-              "scheme": "UA-EDR",
-              "id": "05417457",
-              "legalName": "ДП ДКТБ ІЕЗ ім.Є.О.Патона НАНУ"
-            },
-            "name": "ДП ДКТБ ІЕЗ ім.Є.О.Патона НАНУ",
-            "address": {
-              "postalCode": "03150",
-              "countryName": "Україна",
-              "streetAddress": "вул. Боженка, 15, корпус 7",
-              "region": "м. Київ",
-              "locality": "Київ"
-            }
-          }
-        ],
-        "eligible": true,
-        "bid_id": "4b18f9eb29294f709786636ddff8eed0",
-        "value": {
-          "currency": "UAH",
-          "amount": 2670760.0,
-          "valueAddedTaxIncluded": true
-        },
-        "complaints": [
-          {
-            "status": "declined",
-            "dateDecision": "2020-03-06T20:02:52.765946+02:00",
-            "documents": [
-              {
-                "hash": "md5:97aaadf1054888f803f1c8dab0c381ff",
-                "author": "aboveThresholdReviewers",
-                "format": "application/pdf",
-                "url": "https://public.docs.openprocurement.org/get/7e72f8814b144fcdad86d317b7b91af4?KeyID=52462340&Signature=nt49XaotHBmrJ7taVXUgDGCj2uH1p6lmL4ZenycLWtqlkjYRtgODw4CFv0x5A2BCZxUZJYqJkUYBxePSY0DkAQ%253D%253D",
-                "title": "Рішення від 17.02.2020 № 2929 + лист Замовнику.pdf",
-                "documentOf": "tender",
-                "datePublished": "2020-02-17T19:38:47.502253+02:00",
-                "dateModified": "2020-02-17T19:38:47.502290+02:00",
-                "id": "ed1db05fd52b4050a08b02c33eb40066"
-              },
-              {
-                "hash": "md5:665f0a092d838929a2ab9efee070061b",
-                "author": "aboveThresholdReviewers",
-                "format": "application/pdf",
-                "url": "https://public.docs.openprocurement.org/get/3779a20ba20c4399a2a871e0b30be867?KeyID=52462340&Signature=Er36TGcC%2FUmlgycZ7yAkQmGPsRsI6b2W2LuqY0h0%252BZzOKrD8GjemiOQzfKrTv3I9IPSwe5aFFmcyvdY5l2ziCw%253D%253D",
-                "title": "Інформація про резолютивну частину рішення від  03.03.2020 № 4042.pdf",
-                "documentOf": "tender",
-                "datePublished": "2020-03-04T15:51:42.919984+02:00",
-                "dateModified": "2020-03-04T15:51:42.920016+02:00",
-                "id": "52dfff39bbc14638bdda539159026c6f"
-              },
-              {
-                "hash": "md5:815d97c0d199325237bb5cf8aa2fe9ea",
-                "author": "aboveThresholdReviewers",
-                "format": "application/pdf",
-                "url": "https://public.docs.openprocurement.org/get/38b9e7ba490247b79d4a3b818b1b4eca?KeyID=52462340&Signature=w%252BKsXwbagD1%2Fcj8s62GcQkwvuK1vXIrUCwKUZzLUehIR4zQgbrObnyzhmEAJsK92YDfnI59NQS85efR8L1%252BfBA%253D%253D",
-                "title": "рішення від 03.03.2020 № 4042.pdf",
-                "documentOf": "tender",
-                "datePublished": "2020-03-06T20:02:39.134764+02:00",
-                "dateModified": "2020-03-06T20:02:39.134794+02:00",
-                "id": "ad548b4c1d5a49e49c9a695e7cfbc17f"
-              }
-            ],
-            "description": "Не погоджуючись з відхиленням тендерної пропозиції учасника",
-            "author": {
-              "contactPoint": {
-                "telephone": "+380671234567",
-                "name": "Василь Васильєв",
-                "email": "2011@gmail.com"
-              },
-              "identifier": {
-                "scheme": "UA-EDR",
-                "id": "00004593",
-                "legalName": "ТОВ \"АКВА\""
-              },
-              "name": "ТОВ \"АКВА\"",
-              "address": {
-                "postalCode": "50066",
-                "countryName": "Україна",
-                "streetAddress": "вул. Двінська,9",
-                "region": "Дніпропетровська область",
-                "locality": "м. Кривий Ріг"
-              }
-            },
-            "title": "Скарга щодо встановлення порушень процедури закупівлі «71350000-6 Науково-технічні послуги в галузі інженерії (Науково-технічний та технологічний супровід складально-зварювальних робіт при монтажі металоконструкцій естакад лівого берегу (споруди №1, №2, №6, №7) в складі об’єкту «Будівництво Подільського мостового переходу через р. Дніпро у м. Києві»)», ідентифікатор закупівлі – UA-2019-12-26-001364-c.",
-            "bid_id": "f766ec0be73a4fdabbbfa9c16c93e92f",
-            "dateAccepted": "2020-02-17T19:38:54.228019+02:00",
-            "dateSubmitted": "2020-02-13T15:35:56.687670+02:00",
-            "complaintID": "UA-2019-12-26-001364-c.c2",
-            "date": "2020-03-06T20:02:52.787668+02:00",
-            "acceptance": true,
-            "type": "complaint",
-            "id": "b907a4df251e4ec9ae86298f6d05db9c"
-          }
-        ],
-        "qualified": true,
-        "date": "2020-02-05T17:39:10.353056+02:00",
-        "id": "3ae853f0f5404552ac7040ec58e9c436"
-      }
-    ],
-  "date": "2020-03-12T16:33:18.881509+02:00",
-  "milestones": [
-      {
-        "code": "postpayment",
-        "description": "Згідно договору. Дежерело фінансування закупівлі - бюджетні кошти.",
-        "sequenceNumber": 0,
-        "title": "submittingServices",
-        "duration": {
-          "type": "calendar",
-          "days": 90
-        },
-        "percentage": 100.0,
-        "type": "financing",
-        "id": "4f737a44b4f9481cbf7032378a7bc7b6"
-      }
-    ],
-  "minimalStep": {
-      "currency": "UAH",
-      "amount": 20000.0,
-      "valueAddedTaxIncluded": true
-    },
-  "items": [
-      {
-        "description": "71350000-6 Науково-технічні послуги в галузі інженерії (Науково-технічний та технологічний супровід складально-зварювальних робіт при монтажі металоконструкцій естакад лівого берегу (споруди №1, №2, №6, №7) в складі об’єкту «Будівництво Подільського мостового переходу через р. Дніпро у м. Києві»)",
-        "classification": {
-          "scheme": "ДК021",
-          "description": "Науково-технічні послуги в галузі інженерії",
-          "id": "71350000-6"
-        },
-        "deliveryAddress": {
-          "postalCode": "00000",
-          "countryName": "Україна",
-          "streetAddress": "Київ",
-          "region": "м. Київ",
-          "locality": "Київ"
-        },
-        "deliveryDate": {
-          "endDate": "2021-12-31T16:19:04+02:00"
-        },
-        "id": "784038c66534d8a24c53396e4b3f50b3",
-        "unit": {
-          "code": "E48",
-          "name": "послуга"
-        },
-        "quantity": 1.0
-      }
-    ],
-  "bids": [
-      {
-        "status": "active",
-        "documents": [
-          {
-            "hash": "md5:86bd766b69584794c47edc3a3ace7d37",
-            "description": "SHA1: 8c9ae15af53fb22507db0d927ce62475369d2b3e; SHA2-384: b5180ac6de84d84cc8bce9e6d1018af1431c619eec987bbae3405106e50562c2991debdae2fe93336d18bec2ba2db90f; Antivirus: ESET Antivirus",
-            "title": "тендерна пропозиція.pdf",
-            "url": "https://public.docs.openprocurement.org/get/4af5a1d1b6de4b608552520caa23e9df?KeyID=52462340&Signature=6z7D9Q1O9WxSa%2F4mK6qitUXvD5%252BiSeVhpS%252B10cCt%252BFcTyvrnf84h71S4RlevG8XDy7mpH5EzdoV4IUl9ox%2FoDA%253D%253D",
-            "format": "application/pdf",
-            "title_en": "тендерна пропозиція.pdf",
-            "documentOf": "tender",
-            "datePublished": "2020-01-22T12:21:40.285351+02:00",
-            "title_ru": "тендерна пропозиція.pdf",
-            "documentType": "commercialProposal",
-            "dateModified": "2020-01-22T12:21:40.285384+02:00",
-            "id": "401e95eeaad746049bfb6edebc5a376a"
-          }
-        ],
-        "parameters": [
-          {
-            "code": "f759375b100344caa6dcf13dba26790f",
-            "value": 0.1
-          }
-        ],
-        "selfEligible": true,
-        "value": {
-          "currency": "UAH",
-          "amount": 2670760.0,
-          "valueAddedTaxIncluded": true
-        },
-        "subcontractingDetails": "-",
-        "selfQualified": true,
-        "tenderers": [
-          {
-            "scale": "sme",
-            "contactPoint": {
-              "name_ru": "  ",
-              "name": "Семен Семьонов",
-              "telephone": "+380449876543",
-              "faxNumber": "+380444567890",
-              "name_en": "  ",
-              "email": "patn@gmail.com"
-            },
-            "identifier": {
-              "scheme": "UA-EDR",
-              "id": "00000457",
-              "legalName": "ДП Патн"
-            },
-            "name": "ДП Патн",
-            "address": {
-              "postalCode": "00050",
-              "countryName": "Україна",
-              "streetAddress": "вул. Боженка, 15, корпус 7",
-              "region": "м. Київ",
-              "locality": "Київ"
-            }
-          }
-        ],
-        "date": "2020-01-23T15:10:43.103128+02:00",
-        "id": "4b18f9eb29294f709786636ddff8eed0",
-        "participationUrl": "https://auction.openprocurement.org/tenders/46171c28148748798c428759a0b04eed/login?bidder_id=4b18f9eb29294f709786636ddff8eed0&hash=678818a77f253d37f40a9ec944e73c164f56f085"
-      },
-      {
-        "status": "active",
-        "documents": [
-          {
-            "hash": "md5:824c78a06c1640b8789efdd9f7decc3f",
-            "format": "application/octet-stream",
-            "url": "https://public.docs.openprocurement.org/get/b3ed3eb95f4446e3bd59ddd7de855dae?KeyID=52462340&Signature=5pnC6dqsQvGoaBGnV28vrfup8dI22bSUv85opJwEJ1IpqGmAAdJcN8UfT6eyK4zTcyWCy7yoBMEwfVCMnvHvBQ%253D%253D",
-            "title": "Інформація характеристик предмета закупівлі.pdf.p7s",
-            "documentOf": "tender",
-            "datePublished": "2020-01-22T14:08:58.621666+02:00",
-            "documentType": "technicalSpecifications",
-            "dateModified": "2020-01-22T14:08:58.621683+02:00",
-            "id": "88a96c7273194911a5b8f21e733a8a98"
-          },
-          {
-            "hash": "md5:82746d878f4279172be0c090888b84f0",
-            "format": "application/octet-stream",
-            "url": "https://public.docs.openprocurement.org/get/da80362b892d4204bf355be75c49f2c5?KeyID=52462340&Signature=wXyOKvAXIPglU0hMvPAqUDMiR3H%2F6impxWpBKPhuMRVzVqa6T9bQPPKnvHQjmTkeFGYePu77NSkE98Y0Ka1dCQ%253D%253D",
-            "title": "Технічна специфікація.pdf.p7s",
-            "documentOf": "tender",
-            "datePublished": "2020-01-22T14:08:58.628434+02:00",
-            "documentType": "technicalSpecifications",
-            "dateModified": "2020-01-22T14:08:58.628451+02:00",
-            "id": "c2fa99c4fee741bcb4ca87e12583ba21"
-          }
-        ],
-        "parameters": [
-          {
-            "code": "f759375b100344caa6dcf13dba26790f",
-            "value": 0.1
-          }
-        ],
-        "selfEligible": true,
-        "value": {
-          "currency": "UAH",
-          "amount": 2499000.0,
-          "valueAddedTaxIncluded": true
-        },
-        "subcontractingDetails": "",
-        "selfQualified": true,
-        "tenderers": [
-          {
-            "scale": "mid",
-            "contactPoint": {
-              "telephone": "+380671234567",
-              "name": "Василь Васильєв",
-              "email": "2011@gmail.com"
-            },
-            "identifier": {
-              "scheme": "UA-EDR",
-              "id": "32974593",
-              "legalName": "ТОВ \"АКВА\""
-            },
-            "name": "ТОВ \"АКВА\"",
-            "address": {
-              "postalCode": "50066",
-              "countryName": "Україна",
-              "streetAddress": "вул. Двінська,9",
-              "region": "Дніпропетровська область",
-              "locality": "м. Дніпро"
-            }
-          }
-        ],
-        "date": "2020-01-22T14:08:58.612081+02:00",
-        "id": "f766ec0be73a4fdabbbfa9c16c93e92f",
-        "participationUrl": "https://auction.openprocurement.org/tenders/46171c28148748798c428759a0b04eed/login?bidder_id=f766ec0be73a4fdabbbfa9c16c93e92f&hash=0cad3a987d34c50cd6090940354a8692f707605b"
-      }
-    ],
-  "value": {
-      "currency": "UAH",
-      "amount": 2951952.0,
-      "valueAddedTaxIncluded": true
-    },
-  "awardCriteria": "lowestCost"
+        }
+      ]
+    }
+  ],
+  "id": "7efa6ac38ba24d8db06801f42a7d2231"
 }

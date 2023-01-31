@@ -2,7 +2,7 @@
   "type": "object",
   "properties": {
     "amount": {
-      "type": "integer",
+      "type": "number",
       "$comment": "кількість як число"
     },
     "currency": {
@@ -15,8 +15,8 @@
     }
   },
   "required": [
-      "amount",
-      "currency"
+    "amount",
+    "currency"
   ],
   "additionalProperties": {
     "annualCostsReduction": {

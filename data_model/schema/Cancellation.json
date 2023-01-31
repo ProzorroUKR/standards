@@ -6,11 +6,20 @@
     },
     "cancellationOf": {
       "type": "string",
-      "enum": ["tender", "lot"]
+      "enum": [
+        "tender",
+        "lot"
+      ]
     },
     "reasonType": {
       "type": "string",
-      "enum": ["noDemand", "unFixable", "noObjectiveness", "expensesCut", "dateViolation"]
+      "enum": [
+        "noDemand",
+        "unFixable",
+        "noObjectiveness",
+        "expensesCut",
+        "dateViolation"
+      ]
     },
     "reason": {
       "type": "string",
@@ -18,7 +27,12 @@
     },
     "status": {
       "type": "string",
-      "enum": ["draft", "pending", "active", "unsuccessful"]
+      "enum": [
+        "draft",
+        "pending",
+        "active",
+        "unsuccessful"
+      ]
     },
     "date": {
       "$ref": "Date.json"

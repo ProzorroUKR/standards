@@ -24,7 +24,10 @@
     },
     "status": {
       "type": "string",
-      "enum": ["active", "terminated"]
+      "enum": [
+        "active",
+        "terminated"
+      ]
     },
     "dateSigned": {
       "$ref": "Date.json"

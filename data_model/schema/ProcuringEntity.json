@@ -5,7 +5,7 @@
       "type": "string"
     },
     "identifier": {
-       "$ref": "Identifier.json"
+      "$ref": "Identifier.json"
     },
     "contactPoint": {
       "$ref": "ContactPoint.json"

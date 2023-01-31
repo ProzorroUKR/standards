@@ -15,7 +15,12 @@
     },
     "status": {
       "type": "string",
-      "enum": ["pending", "cancelled", "unsuccessful", "active"]
+      "enum": [
+        "pending",
+        "cancelled",
+        "unsuccessful",
+        "active"
+      ]
     },
     "date": {
       "$ref": "Date.json"
@@ -70,7 +75,6 @@
     }
   },
   "required": [
-    "bid_id",
     "id"
   ],
   "additionalProperties": false

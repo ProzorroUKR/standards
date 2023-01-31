@@ -27,7 +27,13 @@
     },
     "status": {
       "type": "string",
-      "enum": ["pending", "cancelled", "unsuccessful", "active", "terminated"]
+      "enum": [
+        "pending",
+        "cancelled",
+        "unsuccessful",
+        "active",
+        "terminated"
+      ]
     },
     "dateSigned": {
       "$ref": "Date.json",

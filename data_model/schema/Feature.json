@@ -14,9 +14,9 @@
       "type": "array",
       "items": {
         "$ref": "Value.json"
-    },
-    "featureOf": {
-      "type": "string"
+      },
+      "featureOf": {
+        "type": "string"
       }
     }
   },

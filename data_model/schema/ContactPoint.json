@@ -5,7 +5,7 @@
       "type": "string"
     },
     "faxNumber": {
-       "type": "string"
+      "type": "string"
     },
     "name": {
       "type": "string"

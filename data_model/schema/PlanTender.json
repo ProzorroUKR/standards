@@ -1,0 +1,24 @@
+{
+  "type": "object",
+  "properties": {
+    "procurementMethod": {
+      "type": "string",
+      "enum": [
+        "open",
+        "limited",
+        "selective"
+      ]
+    },
+    "procurementMethodType": {
+      "type": "string",
+      "enum": [
+        "aboveThresholdUA",
+        "aboveThresholdEU",
+        "reporting"
+      ]
+    },
+    "tenderPeriod": {
+      "$ref": "Period.json"
+    }
+  }
+}
