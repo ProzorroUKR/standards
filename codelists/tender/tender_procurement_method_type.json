@@ -5,9 +5,7 @@
         "description_en": "The procurement approach that regulates purchases of goods, works and services within the limits established by the Law (from 50,000 hryvnias to 200,000 hryvnias for goods and services, or 1,500,000 hryvnias for works).",
         "name_en": "Simple procurement",
         "description_uk": "Закупівля, що регулює придбання товарів, робіт і послуг в межах сум, встановлених Законом (від 50,000 гривень до 200,000 гривень для товарів і послуг, або 1,500,000 гривень для робіт).",
-        "name_uk": "Спрощена закупівля",
-        "description_ru": "Закупка регулирует приобретение товаров, работ и услуг в пределах сумм, установленних Законом (от 50,000 гривен до 200,000 гривен для товаров и услуг, или 1,500,000 гривен для работ).",
-        "name_ru": "Упрощенная закупка"
+        "name_uk": "Спрощена закупівля"  
     },
     "aboveThreshold": {
         "autoInitiated": false,
@@ -15,9 +13,7 @@
         "description_en": "This procedure is applied within the framework of the resolution \"On the peculiarities of the procurement of goods, works and services during the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\" and regulates purchases above the limit amounts established by this resolution: for goods and services - more than 100 thousand hryvnias; for current repair services more than 200,000; UAH; for more works - 1.5 million hryvnias. Procurement process: specification of conditions and acceptance of the offer (at least 7 days), holding of the auction, qualification of participants (including one offer), determination of the winner and conclusion of the purchase contract (not earlier than 6 days after the determination of the winner).",
         "name_en": "Open bidding with features",
         "description_uk": "Ця процедура застосовується в рамках дії постанови \"Про особливості здійснення закупівель товарів, робіт і послуг на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\" і регулює закупівлі вище граничних сум, встановлених цією постановою: для товарів та послуг - більше 100 тисяч гривень; для послуг з поточного ремонту більше - 200 тисяч; гривень; для робіт більше - 1,5  мільйона гривень. Процес закупівлі: уточнення умов та прийняття пропозиції (не менше 7 днів), проведення аукціону, кваліфікація учасників (в тому числі однієї пропозиції), визначення переможця та укладення договору про закупівлю (не раніше, ніж на 6 день після визначення переможця).",
-        "name_uk": "Відкриті торги з особливостями",
-        "description_ru": "Эта процедура применяется в рамках действия постановления \"Об особенностях осуществления закупок товаров, работ и услуг на период действия правового режима военного положения в Украине и в течение 90 дней со дня его прекращения или отмены\" и регулирует закупки выше предельных сумм, установленных этим постановлением: для товаров и услуг – более 100 тысяч гривен; для услуг по текущему ремонту больше – 200 тысяч; гривен; для работ больше – 1,5 миллиона гривен. Процесс закупки: уточнение условий и принятие предложения (не менее 7 дней), проведение аукциона, квалификация участников (в том числе одного предложения), определение победителя и заключение договора о закупке (не раньше чем на 6 день после определения победителя).",
-        "name_ru": "Открытые торги с особенностями"
+        "name_uk": "Відкриті торги з особливостями"
     },
     "aboveThresholdUA": {
         "autoInitiated": false,
@@ -25,9 +21,7 @@
         "description_en": "The procurement procedure that regulates purchases which subject value exceeds the limits established by the Law (200,000 hryvnias for goods and services, or 1,500,000 hryvnias for works) but less than defined by EU Directive on Public Procurement EUR 133,000 for goods or services and EUR 5,150,00 for works.",
         "name_en": "Open procedure",
         "description_uk": "Процедура, що регулює закупівлі, вартість яких вища за граничні суми, встановлені Законом (200,000 гривень для товарів і послуг або 1,500,000 гривень для робіт), але нижча за граничні суми, визначені Директивою ЄС про публічні закупівлі (еквівалент 133,000 євро для товарів і послуг або 5,150,000 євро для робіт).",
-        "name_uk": "Відкриті торги",
-        "description_ru": "Процедура регулирует закупки, стоимость которых выше предельных сумм, установленных Законом (200,000 гривен для товаров и услуг или 1,500,000 гривен для работ), но ниже предельных сумм, определенных Директивой ЕС о публичных закупках (эквивалент 133,000 евро для товаров и услуг или 5,150,000 евро для работ).",
-        "name_ru": "Открытые торги"
+        "name_uk": "Відкриті торги"
     },
     "aboveThresholdEU": {
         "autoInitiated": false,
@@ -35,9 +29,7 @@
         "description_en": "The procurement procedure that regulates purchases covered by EU Directive on Public Procurement for goods or services exceedes EUR 133,000 and for works exceeds EUR 5,150,00, belong to this type of procedure. These procedures must be translated into English.",
         "name_en": "Open procedure with publication in English",
         "description_uk": "Процедура, що регулює закупівлі, які підпадають під сферу дії Директиви ЄС про публічні закупівлі (більше еквіваленту 133,000 євро для товарів і послуг або 5,150,000 євро для робіт). Оголошення таких процедур дублюється англійською мовою.",
-        "name_uk": "Відкриті торги з публікацією англійською мовою",
-        "description_ru": "Процедура регулирует закупки, которые подпадают под сферу действия Директивы ЕС о публичных закупках (более эквивалента 133,000 евро для товаров и услуг или 5,150,000 евро для работ). Объявления таких процедур дублируется на английском языке.",
-        "name_ru": "Открытые торги с публикацией на английском языке"
+        "name_uk": "Відкриті торги з публікацією англійською мовою"
     },
     "negotiation": {
         "autoInitiated": false,
@@ -45,9 +37,7 @@
         "description_en": "The procurement procedure that is used as an exception, when at least one of the reasons listed in the Law \"On Public Procurement\" for this procedure is documentary confirmed. The Procuring entity publishes a decision to sign a contract after conducting negotiations with one or more Participants. The complaint period is 10 days.",
         "name_en": "Negotiated procedure",
         "description_uk": "Процедура, що використовується як виняток, лише при наявності та обґрунтуванні однієї з підстав, що встановлені Законом. Замовник публікує рішення про намір укласти договір після проведення переговорів з одним або кількома учасниками, яке може бути оскаржене протягом 10 днів.",
-        "name_uk": "Переговорна процедура",
-        "description_ru": "Процедура используется как исключение, только при наличии и обосновании одной из причин, установленных Законом. Заказчик публикует решение о намерении заключить договор после проведения переговоров с одним или несколькими участниками, которое может быть обжаловано в течение 10 дней.",
-        "name_ru": "Переговорная процедура"
+        "name_uk": "Переговорна процедура"
     },
     "negotiation.quick": {
         "autoInitiated": false,
@@ -55,9 +45,7 @@
         "description_en": "The procurement procedure that uses as an exception, if at least one of the reasons listed in the Law \"On Public Procurement\" for this procedure is documentary confirmed. The Procuring entity publishes a decision to sign a contract after conducting negotiations with one or more Participants. The complaint period is 5 days.",
         "name_en": "Negotiated procedure (in urgent cases)",
         "description_uk": "Процедура, що використовується як виняток, лише при наявності та обґрунтуванні однієї з підстав, що встановлені Законом. Замовник публікує рішення про намір укласти договір після проведення переговорів з одним або кількома учасниками, яке може бути оскаржене протягом 5 днів.",
-        "name_uk": "Переговорна процедура (скорочена)",
-        "description_ru": "Процедура используется как исключение, только при наличии и обосновании одной из причин, установленных Законом. Заказчик публикует решение о намерении заключить договор после проведения переговоров с одним или несколькими участниками, которое может быть обжаловано в течение 5 дней.",
-        "name_ru": "Переговорная процедура (сокращенная)"
+        "name_uk": "Переговорна процедура (скорочена)"
     },
     "aboveThresholdUA.defense": {
         "autoInitiated": false,
@@ -65,9 +53,7 @@
         "description_en": "Purchases that are regulated by Law of Ukraine on Peculiarities of Procurement of Goods and Services for Ensuring Defense Needs",
         "name_en": "Negotiated procedure for defence purposes",
         "description_uk": "Процедура, що застосовується в рамках Закону України \"Про особливості здійснення закупівель товарів, робіт і послуг для гарантованого забезпечення потреб оборони\".",
-        "name_uk": "Переговорна процедура для потреб оборони",
-        "description_ru": "Процедура применяется в рамках Закона \"Об особенностях осуществления закупок товаров, работ и услуг для гарантированного обеспечения потребностей обороны\".",
-        "name_ru": "Переговорная процедура для нужд обороны"
+        "name_uk": "Переговорна процедура для потреб оборони"
     },
     "competitiveDialogueUA": {
         "autoInitiated": false,
@@ -75,9 +61,7 @@
         "description_en": "The procurement procedure that is used when clearly define technical and qualitative characteristics of the work or determine the type of services is impossible and there is need to conduct negotiations with the Bidders. Subject value can not exceeds the limits established by EU Directive on Public Procurement EUR 133,000 for goods or services and EUR 5,150,00 for works. The special feature is the weight of non-price indicators that can not be less than 1%.",
         "name_en": "Competitive dialogue 1st stage",
         "description_uk": "Процедура, що застосовується у разі неможливості визначити необхідні технічні, якісні характеристики (специфікації) робіт або визначити вид послуг і для прийняття рішення про закупівлю необхідно провести переговори з учасниками процедури закупівлі. Вартість не може перевищувати сум, визначених Директивою ЄС про публічні закупівлі (еквівалент 133,000 євро для товарів і послуг або 5,150,000 євро для робіт). Вага нецінових показників не може становити менше 1%.",
-        "name_uk": "Конкурентний діалог 1-ий етап",
-        "description_ru": "Процедура применяется в случае невозможности определить необходимые технические, качественные характеристики (спецификации) работ или определить вид услуг и для принятия решения о закупке необходимо провести переговоры с участниками процедуры закупки. Стоимость не может превышать сумм, определенных Директивой ЕС о публичных закупках (эквивалент 133,000 евро для товаров и услуг или 5,150,000 евро для работ). Вес неценовых показателей не может составлять менее 1%.",
-        "name_ru": "Конкурентный диалог 1-ый этап"
+        "name_uk": "Конкурентний діалог 1-ий етап"
     },
     "competitiveDialogueEU": {
         "autoInitiated": false,
@@ -85,9 +69,7 @@
         "description_en": "The procurement procedure that is used when clearly define technical and qualitative characteristics of the work or determine the type of services is impossible and there is need to conduct negotiations with the Bidders. Regulated by EU Directive on Public Procurement for purchases that exceeds EUR 133,000 for goods or services and EUR 5,150,00 for works. These procedures must be translated into English.",
         "name_en": "Competitive dialogue with publication in English 1st stage",
         "description_uk": "Процедура, що застосовується у разі неможливості визначити необхідні технічні, якісні характеристики (специфікації) робіт або визначити вид послуг і для прийняття рішення про закупівлю необхідно провести переговори з учасниками процедури закупівлі. Підпадає під сферу дії Директиви ЄС про публічні закупівлі (більше еквіваленту 133,000 євро для товарів і послуг або 5,150,000 євро для робіт). Оголошення таких процедур дублюється англійською мовою.",
-        "name_uk": "Конкурентний діалог з публікацією англійською мовою 1-ий етап",
-        "description_ru": "Процедура применяется в случае невозможности определить необходимые технические, качественные характеристики (спецификации) работ или определить вид услуг и для принятия решения о закупке необходимо провести переговоры с участниками процедуры закупки. Подпадает под сферу действия Директивы ЕС о публичных закупках (более эквивалента 133,000 евро для товаров и услуг или 5,150,000 евро для работ). Объявления таких процедур дублируется на английском языке.",
-        "name_ru": "Конкурентный диалог с публикацией на английском языке 1-ый этап"
+        "name_uk": "Конкурентний діалог з публікацією англійською мовою 1-ий етап"
     },
     "competitiveDialogueUA.stage2": {
         "autoInitiated": true,
@@ -95,9 +77,7 @@
         "description_en": "Competition for a procurement contract under the competitive dialogue procedure which is executed only for the bidders whose tender proposals were not rejected at the previous stage.",
         "name_en": "Competitive dialogue 2nd stage",
         "description_uk": "Відбір учасника для укладання договору про закупівлю за процедурою конкурентного діалогу, що проводиться для учасників, тендерні пропозиції яких не було відхилено на попередньому етапі",
-        "name_uk": "Конкурентний діалог 2-ий етап",
-        "description_ru": "Отбор участника для заключения договора о закупке по процедуре конкурентного диалога проводится для участников, тендерные предложения которых не были отклонены на предыдущем этапе",
-        "name_ru": "Конкурентный диалог 2-ой этап"
+        "name_uk": "Конкурентний діалог 2-ий етап"
     },
     "competitiveDialogueEU.stage2": {
         "autoInitiated": true,
@@ -105,9 +85,7 @@
         "description_en": "Competition for a procurement contract under the competitive dialogue procedure which is executed only for the bidders whose tender proposals were not rejected at the previous stage.",
         "name_en": "Competitive dialogue with publication in English 2nd stage",
         "description_uk": "Відбір учасника для укладання договору про закупівлю за процедурою конкурентного діалогу, що проводиться для учасників, тендерні пропозиції яких не було відхилено на попередньому етапі",
-        "name_uk": "Конкурентний діалог з публікацією англійською мовою 2-ий етап",
-        "description_ru": "Отбор участника для заключения договора о закупке по процедуре конкурентного диалога проводится для участников, тендерные предложения которых не были отклонены на предыдущем этапе",
-        "name_ru": "Конкурентный диалог с публикацией на английском языке 2-ой этап"
+        "name_uk": "Конкурентний діалог з публікацією англійською мовою 2-ий етап"
     },
     "reporting": {
         "autoInitiated": false,
@@ -115,9 +93,7 @@
         "description_en": "The procurement approach that is used to purchase goods, works and services, the value of which does not exceed 50 thousand hryvnias and is carried out without using an electronic procurement system",
         "name_en": "Procurement without using an electronic system",
         "description_uk": "Закупівля, що застосовується для придбання товарів, робіт і послуг, вартість яких не перевищує 50 тисяч гривень і здійснюється без використання електронної системи закупівель.",
-        "name_uk": "Закупівля без використання електронної системи",
-        "description_ru": "Закупка применяется для приобретения товаров, работ и услуг, стоимость которых не превышает 50 000 гривен и осуществляется без использования электронной системы закупок.",
-        "name_ru": "Закупка без использования электронной системы"
+        "name_uk": "Закупівля без використання електронної системи"
     },
     "esco": {
         "autoInitiated": false,
@@ -125,9 +101,7 @@
         "description_en": "The procurement procedure for purchasing energy services, regardless of procurement subject value, are executed in comformity with the Law of Ukraine on Public Procurement, taking into account the intricacies defined by the Law of Ukraine on Implementation of New Investment Opportunities, Guarantee of Rights and Legitimate Interests of Business Entities in Large-scale Energy Modernisation. Energy service contract performance indicator (net present value) is the main assessment criterion while conducting an Auction in purchase of energy service.",
         "name_en": "Open procurement of energy services",
         "description_uk": "Процедура, що використовується при закупівлі енергосервісу, незалежно від вартості предмета закупівлі та регулюється нормами Закону України \"Про публічні закупівлі\" з урахуванням особливостей, встановлених Законом України “Про запровадження нових інвестиційних можливостей, гарантування прав та законних інтересів суб’єктів підприємницької діяльності для проведення масштабної енергомодернізації\". Основним критерієм оцінки при проведенні аукціону в закупівлі енергосервісу є показник ефективності енергосервісного договору.",
-        "name_uk": "Відкриті торги для закупівлі енергосервісу",
-        "description_ru": "Процедура используется при закупке энергосервиса, независимо от стоимости предмета закупки и регулируется нормами Закона Украины \"О публичных закупках \" с учетом особенностей, установленных Законом Украины \"О введении новых инвестиционных возможностей, обеспечение прав и законных интересов субъектов предпринимательской деятельности для проведение масштабной энергомодернизации \". Основным критерием оценки при проведении аукциона в закупке энергосервиса являеться показатель эффективности энергосервисного договора.",
-        "name_ru": "Открытые торги для закупки энергосервиса"
+        "name_uk": "Відкриті торги для закупівлі енергосервісу"
     },
     "closeFrameworkAgreementUA": {
         "autoInitiated": false,
@@ -135,9 +109,7 @@
         "description_en": "Closed framework agreement is executed in comformity with the Law of Ukraine on Public Procurement and Decree \"On entrance and execution of framework agreements\".",
         "name_en": "Framework agreement",
         "description_uk": "Процедура, що використовується для укладення рамкової угоди з декількома учасниками та регулюється нормами Закону України \"Про публічні закупівлі\" та Наказу \"Про укладання і виконання рамкових угод\".",
-        "name_uk": "Укладання рамкової угоди",
-        "description_ru": "Процедура используется для заключения рамочного соглашения с несколькими участниками и регулируется нормами Закона Украины \"О публичных закупках\" и Приказа \"О заключении и исполнении рамочных соглашений\".",
-        "name_ru": "Заключение рамочного соглашения"
+        "name_uk": "Укладання рамкової угоди"
     },
     "closeFrameworkAgreementSelectionUA": {
         "autoInitiated": true,
@@ -145,9 +117,7 @@
         "description_en": "Competition under framework agreement is executed only for the parties to framework agreement.",
         "name_en": "Mini-competition under framework agreement",
         "description_uk": "Відбір учасника для укладання договору про закупівлю за рамковою угодою, що проводиться тільки для учасників, що стали сторонами рамкової угоди.",
-        "name_uk": "Відбір для закупівлі за рамковою угодою",
-        "description_ru": "Отбор участника для заключения договора о закупке по рамочному соглашению, который проводится только для участников, которые стали сторонами рамочного соглашения.",
-        "name_ru": "Отбор для закупки по рамочному соглашению"
+        "name_uk": "Відбір для закупівлі за рамковою угодою"
     },
     "centralizedProcurement": {
         "autoInitiated": false,
@@ -155,9 +125,7 @@
         "description_en": "Procurement procedure for the benefit of the contracting authorities that are obliged to purchase through a central purchasing body and/or the contracting authorities that are willing to choose the central purchasing body independently on the basis of a contract concluded with it.",
         "name_en": "Procurement via Central Purchasing Body",
         "description_uk": "Закупівля, що застосовується для придбання товарів, робіт і послуг в інтересах замовників, які зобов’язані здійснювати закупівлі через централізовану закупівельну організацію та/або замовників, які мають право самостійно обирати централізовану закупівельну організацію, на підставі укладеного з нею договору.",
-        "name_uk": "Закупівля через Централізовану закупівельну організацію",
-        "description_ru": "Закупка применяется для приобретения товаров, работ и услуг в интересах заказчиков, которые обязаны осуществлять закупки через централизованную закупочную организацию и/или заказчиков, которые имеют право самостоятельно выбирать централизованную закупочную организацию, на основании заключенного с ней договора.",
-        "name_ru": "Закупка через Централизованную закупочную организацию"
+        "name_uk": "Закупівля через Централізовану закупівельну організацію"
     },      
     "priceQuotation": {
         "autoInitiated": false,
@@ -165,9 +133,7 @@
         "description_en": "The procurement is used to purchase goods, within the limits established by the Law (from 50,000 hryvnias to 200,000 hryvnias) applying digital catalogue.",
         "name_en": "Price Quotation",
         "description_uk": "Закупівля, що здійснюється для придбання товарів в межах сум, встановлених Законом (від 50,000 гривень до 200,000 гривень для товарів) з використанням електронного каталогу.",
-        "name_uk": "Запит ціни пропозицій",
-        "description_ru": "Закупка применяется для приобретения товаров в пределах сумм, установленних Законом (от 50,000 гривен до 200,000 гривен для товаров) с использованием электронного каталога.",
-        "name_ru": "Запрос цены предложений"
+        "name_uk": "Запит ціни пропозицій"
     }, 
     "": {
         "autoInitiated": false,
@@ -175,9 +141,7 @@
         "description_en": "",
         "name_en": "Without using an electronic system",
         "description_uk": "",
-        "name_uk": "Без використання електронної системи",
-        "description_ru": "",
-        "name_ru": "Без использования электронной системы"
+        "name_uk": "Без використання електронної системи"
     },
     "simple.defense": {
         "autoInitiated": false,
@@ -185,8 +149,6 @@
         "description_en": "Purchases that are regulated by Law of Ukraine on Peculiarities of Procurement of Goods and Services for Ensuring Defense Needs",
         "name_en": "Simple Defense",
         "description_uk": "Процедура, що застосовується в рамках Закону України \"Про особливості здійснення закупівель товарів, робіт і послуг для гарантованого забезпечення потреб оборони\".",
-        "name_uk": "Спрощені торги із застосуванням електронної системи закупівель",
-        "description_ru": "Процедура применяется в рамках Закона \"Об особенностях осуществления закупок товаров, работ и услуг для гарантированного обеспечения потребностей обороны\".",
-        "name_ru": "Упрощенные торги с применением электронной системы закупок"
+        "name_uk": "Спрощені торги із застосуванням електронної системи закупівель"
     }
 }
