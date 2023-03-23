@@ -272,5 +272,30 @@
     },
     "name_en": "KZ KOR \"BASE OF SPECIAL MEDICAL SUP\"",
     "name_uk": "КЗ КОР \"БАЗА СПЕЦМЕДПОСТАЧАННЯ\""
+  },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Харків",
+      "postalCode": "07801",
+      "region": "Харківська область",
+      "streetAddress": "вул. Конторська, 35"
+    },
+    "contactPoint": {
+      "email": "i.markhasova@czo.kh.city",
+      "faxNumber": "+380687861842",
+      "telephone": "+380687861842",
+      "name_en": "Markhasova Irina",
+      "name_uk": "Мархасьова Ірина Вадимівна"
+    },
+    "identifier": {
+      "id": "40848524",
+      "scheme": "UA-EDR",
+      "legalName_en": "UTILITY ENTERPRISE \"CENTRALIZED PROCUREMENT ORGANIZATION OF KHARKIV CITY COUNCIL\"",
+      "legalName_uk": "КОМУНАЛЬНЕ ПІДПРИЄМСТВО \"ЦЕНТРАЛІЗОВАНА ЗАКУПІВЕЛЬНА ОРГАНІЗАЦІЯ ХАРКІВСЬКОЇ МІСЬКОЇ РАДИ\""
+    },
+    "name_en": "UE \"CPO KCC\"",
+    "name_uk": "КП \"ЦЗО ХМР\""
   }  
 ]
