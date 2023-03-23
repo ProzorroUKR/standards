@@ -1,0 +1,14 @@
+{
+    "electronicCatalogue": {
+        "description_en": "The selection of participants, which is used to fill the list of qualified suppliers to the electronic catalog and is regulated by the norms of the Law of Ukraine \"On Public Procurement\" and the requirements of the Procedure \"Formation and use of the electronic catalog\".",
+        "name_en": "eCatalogue pre-qualification",
+        "description_uk": "Відбір учасників, що використовується для наповнення переліку кваліфікованих постачальників до електронного каталогу та регулюється нормами Закону України \"Про публічні закупівлі\" та вимогами Порядку \"Формування та використання електронного каталогу\".",
+        "name_uk": "Кваліфікація до каталогу"  
+    },
+    "dynamicPurchasingSystem": {
+        "description_en": "The selection of participants, which is used to conclude a framework agreement, which provides for the possibility during the entire period of its validity to involve suppliers or customers in addition to the original parties.",
+        "name_en": "Open framework agreement",
+        "description_uk": "Відбір учасників, що використовується для укладання рамкової угоди, яка передбачає можливість протягом всього періоду її дії долучати постачальників або замовників на додаток до початкових сторін.",
+        "name_uk": "Відкрита рамкова угода"
+    }
+}
