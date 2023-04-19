@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "hasAuction": {
+      "type": "boolean",
+      "enum": [
+        true,
+        false
+      ]
+    }
+  },
+  "required": [
+    "hasAuction"
+  ],
+  "additionalProperties": false
+}
