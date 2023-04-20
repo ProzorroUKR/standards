@@ -5,7 +5,8 @@
       "type": "boolean",
       "enum": [
         true
-      ]
+      ],
+      "default": true
     }
   },
   "required": [
