@@ -8,10 +8,19 @@
         false
       ],
       "default": true
+    },
+    "hasAwardingOrder": {
+      "type": "boolean",
+      "enum": [
+        true,
+        false
+      ],
+      "default": true
     }
   },
   "required": [
-    "hasAuction"
+    "hasAuction",
+    "hasAwardingOrder"
   ],
   "additionalProperties": false
 }
