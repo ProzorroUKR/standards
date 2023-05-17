@@ -11,8 +11,7 @@
     "hasAwardingOrder": {
       "type": "boolean",
       "enum": [
-        true,
-        false
+        true
       ],
       "default": true
     }
