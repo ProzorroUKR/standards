@@ -8,10 +8,19 @@
         false
       ],
       "default": true
+    },
+    "hasExceededValue": {
+      "type": "boolean",
+      "enum": [
+        true,
+        false
+      ],
+      "default": false
     }
   },
   "required": [
-    "hasAuction"
+    "hasAuction",
+    "hasExceededValue"
   ],
   "additionalProperties": false
 }

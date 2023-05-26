@@ -7,6 +7,17 @@
         false
       ],
       "default": false
+    },
+    "hasExceededValue": {
+      "anyOf": [
+        {"type": "boolean"},
+        {"type": "null"}
+      ],
+      "enum": [
+        true,
+        false,
+        null
+      ]
     }
   },
   "required": [
