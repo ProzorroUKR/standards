@@ -8,20 +8,17 @@
       ],
       "default": false
     },
-    "hasExceededValue": {
-      "anyOf": [
-        {"type": "boolean"},
-        {"type": "null"}
-      ],
+    "hasValueRestriction": {
+      "type": "boolean",
       "enum": [
-        true,
-        false,
-        null
-      ]
+        true
+      ],
+      "default": true
     }
   },
   "required": [
-    "hasAuction"
+    "hasAuction",
+    "hasValueRestriction"
   ],
   "additionalProperties": false
 }

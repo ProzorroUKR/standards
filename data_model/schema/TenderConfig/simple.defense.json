@@ -9,18 +9,18 @@
       ],
       "default": true
     },
-    "hasExceededValue": {
+    "hasValueRestriction": {
       "type": "boolean",
       "enum": [
         true,
         false
       ],
-      "default": false
+      "default": true
     }
   },
   "required": [
     "hasAuction",
-    "hasExceededValue"
+    "hasValueRestriction"
   ],
   "additionalProperties": false
 }
