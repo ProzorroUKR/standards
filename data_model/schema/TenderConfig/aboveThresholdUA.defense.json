@@ -9,6 +9,13 @@
       ],
       "default": true
     },
+    "hasAwardingOrder": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
+    },
     "hasValueRestriction": {
       "type": "boolean",
       "enum": [
@@ -19,6 +26,7 @@
   },
   "required": [
     "hasAuction",
+    "hasAwardingOrder",
     "hasValueRestriction"
   ],
   "additionalProperties": false
