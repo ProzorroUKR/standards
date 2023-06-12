@@ -15,6 +15,13 @@
         true
       ],
       "default": true
+    },
+    "valueCurrencyEquality": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
     }
   },
   "required": [
