@@ -14,11 +14,19 @@
         true
       ],
       "default": true
+    },
+    "hasValueRestriction": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
     }
   },
   "required": [
     "hasAuction",
-    "hasAwardingOrder"
+    "hasAwardingOrder",
+    "hasValueRestriction"
   ],
   "additionalProperties": false
 }
