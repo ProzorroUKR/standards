@@ -14,11 +14,18 @@
         true
       ],
       "default": true
+    },
+    "minBidsNumber": {
+      "type": "integer",
+      "minimum": 3,
+      "maximum": 3,
+      "default": 3
     }
   },
   "required": [
     "hasAuction",
-    "hasAwardingOrder"
+    "hasAwardingOrder",
+    "minBidsNumber"
   ],
   "additionalProperties": false
 }
