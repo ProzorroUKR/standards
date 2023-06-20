@@ -16,6 +16,13 @@
       ],
       "default": true
     },
+    "hasValueRestriction": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
+    },
     "minBidsNumber": {
       "type": "integer",
       "minimum": 1,
@@ -26,6 +33,7 @@
   "required": [
     "hasAuction",
     "hasAwardingOrder",
+    "hasValueRestriction",
     "minBidsNumber"
   ],
   "additionalProperties": false
