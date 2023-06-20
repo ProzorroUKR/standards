@@ -32,13 +32,21 @@
         false
       ],
       "default": true
+    },
+    "hasPrequalification": {
+      "type": "boolean",
+      "enum": [
+        false
+      ],
+      "default": false
     }
   },
   "required": [
     "hasAuction",
     "hasAwardingOrder",
     "hasValueRestriction",
-    "valueCurrencyEquality"
+    "valueCurrencyEquality",
+    "hasPrequalification"
   ],
   "additionalProperties": false
 }
