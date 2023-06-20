@@ -17,6 +17,14 @@
       ],
       "default": true
     },
+    "hasValueRestriction": {
+      "type": "boolean",
+      "enum": [
+        true,
+        false
+      ],
+      "default": true
+    },
     "valueCurrencyEquality": {
       "type": "boolean",
       "enum": [
@@ -28,7 +36,9 @@
   },
   "required": [
     "hasAuction",
-    "hasAwardingOrder"
+    "hasAwardingOrder",
+    "hasValueRestriction",
+    "valueCurrencyEquality"
   ],
   "additionalProperties": false
 }
