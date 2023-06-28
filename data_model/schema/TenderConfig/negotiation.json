@@ -21,12 +21,20 @@
         true
       ],
       "default": true
+    },
+    "valueCurrencyEquality": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
     }
   },
   "required": [
     "hasAuction",
     "hasAwardingOrder",
-    "hasValueRestriction"
+    "hasValueRestriction",
+    "valueCurrencyEquality"
   ],
   "additionalProperties": false
 }
