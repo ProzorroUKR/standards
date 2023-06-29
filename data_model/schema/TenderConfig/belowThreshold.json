@@ -36,7 +36,7 @@
     "minBidsNumber": {
       "type": "integer",
       "minimum": 1,
-      "maximum": 1,
+      "maximum": 9,
       "default": 1
     }
   },
