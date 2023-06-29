@@ -25,6 +25,14 @@
       ],
       "default": true
     },
+    "valueCurrencyEquality": {
+      "type": "boolean",
+      "enum": [
+        true,
+        false
+      ],
+      "default": true
+    },
     "minBidsNumber": {
       "type": "integer",
       "minimum": 1,
@@ -36,6 +44,7 @@
     "hasAuction",
     "hasAwardingOrder",
     "hasValueRestriction",
+    "valueCurrencyEquality",
     "minBidsNumber"
   ],
   "additionalProperties": false
