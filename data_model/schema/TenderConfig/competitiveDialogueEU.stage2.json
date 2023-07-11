@@ -29,6 +29,13 @@
       ],
       "default": true
     },
+    "hasPrequalification": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
+    },
     "minBidsNumber": {
       "type": "integer",
       "minimum": 2,
@@ -41,6 +48,7 @@
     "hasAwardingOrder",
     "hasValueRestriction",
     "valueCurrencyEquality",
+    "hasPrequalification",
     "minBidsNumber"
   ],
   "additionalProperties": false
