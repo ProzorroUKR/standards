@@ -35,6 +35,12 @@
         false
       ],
       "default": false
+    },
+    "minBidsNumber": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 1,
+      "default": 1
     }
   },
   "required": [
@@ -42,7 +48,8 @@
     "hasAwardingOrder",
     "hasValueRestriction",
     "valueCurrencyEquality",
-    "hasPrequalification"
+    "hasPrequalification",
+    "minBidsNumber"
   ],
   "additionalProperties": false
 }
