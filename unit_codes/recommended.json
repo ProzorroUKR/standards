@@ -650,8 +650,8 @@
     "PK": {
         "name_en": "pack", 
         "symbol_en": "pack", 
-        "name_uk": "упаковка", 
-        "symbol_uk": "упак"
+        "name_uk": "паковання", 
+        "symbol_uk": "паков"
     }, 
     "PR": {
         "name_en": "pair", 
