@@ -1,0 +1,8 @@
+{
+  "restricted": {
+    "name_uk": "Обмежений доступ",
+    "description_uk": "Параметр, що визначає наявність або відсутність обмеження публічного доступу до структури даних",
+    "name_en": "Limited access",
+    "description_en": "A parameter that determines whether or not there is a restriction on public access to the data structure"
+  }
+}
