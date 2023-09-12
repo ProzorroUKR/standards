@@ -1,0 +1,38 @@
+{
+  "hasAuction": {
+    "name_uk": "Електронний аукціон",
+    "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі електронного аукціону",
+    "name_en": "Electronic auction",
+    "description_en": "A parameter that determines the presence or absence of an electronic auction in procurement"
+  },
+  "hasAwardingOrder": {
+    "name_uk": "Послідовний порядок розгляду пропозицій",
+    "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі обовʼязкового послідовного розгляду пропозицій",
+    "name_en": "Sequential procedure for consideration of proposals",
+    "description_en": "A parameter that determines the presence or absence of mandatory sequential consideration of bids in procurement"
+  },
+  "hasPrequalification": {
+    "name_uk": "Попередня кваліфікація учасників",
+    "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі попереднього відбору учасників",
+    "name_en": "Preliminary qualification of participants",
+    "description_en": "A parameter that determines the presence or absence of pre-qualification of participants in the procurement"
+  },
+  "hasValueRestriction": {
+    "name_uk": "Ціна пропозиції обмежена очікуваною вартістю",
+    "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі обмеження максимальної ціни пропозиції учасника очікуваною вартістю",
+    "name_en": "The bid price is limited to the expected value",
+    "description_en": "A parameter that determines the presence or absence of a limitation of the maximum price of the participant's offer in the procurement by the expected value"
+  },
+  "valueCurrencyEquality": {
+    "name_uk": "Валюта пропозиції визначена очікуваною вартістю",
+    "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі мультивалютності",
+    "name_en": "The currency of the bid is determined by the procurement",
+    "description_en": "A parameter that determines the presence or absence of multicurrency in the procurement"
+  },
+  "minBidsNumber": {
+    "name_uk": "Мінімальна кількість пропозицій",
+    "description_uk": "Параметр, що визначає у закупівлі кількість пропозицій достатню для того, щоб вона відбулась",
+    "name_en": "Minimum number of bids",
+    "description_en": "The parameter that determines the number of bids in procurement sufficient for it to take place"
+  }
+}
