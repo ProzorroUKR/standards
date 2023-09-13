@@ -47,7 +47,7 @@
       "maximum": 9,
       "default": 1
     },
-    "preSelection": {
+    "hasPreSelectionAgreement": {
       "type": "boolean",
       "enum": [
         false
@@ -62,7 +62,7 @@
     "valueCurrencyEquality",
     "hasPrequalification",
     "minBidsNumber",
-    "preSelection"
+    "hasPreSelectionAgreement"
   ],
   "additionalProperties": false
 }
