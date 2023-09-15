@@ -17,7 +17,7 @@
                     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#Text"
                     },
                     "type": "NATIONAL_LEGISLATION",
-                    "article": "44.6"
+                    "article": "47.6"
                 },
                 {
                     "version": "2022-10-12",
@@ -27,7 +27,7 @@
                     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#Tex"
                     },
                 "type": "NATIONAL_LEGISLATION",
-                "article": "44.5"
+                "article": "47.5"
                 }
         ],
         "requirementGroups": [
@@ -71,7 +71,7 @@
                     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#Tex"
                 },
                 "type": "NATIONAL_LEGISLATION",
-                "article": "44.4"
+                "article": "47.4"
             },
             {
                 "version": "2020-02-13",
@@ -115,7 +115,7 @@
                     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#Tex"
                 },
                 "type": "NATIONAL_LEGISLATION",
-                "article": "44.2"
+                "article": "47.2"
             },
             {
                 "version": "2022-10-12",
@@ -125,7 +125,7 @@
                     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#Tex"
                 },
                 "type": "NATIONAL_LEGISLATION",
-                "article": "44.3"
+                "article": "47.3"
             }
         ],
         "requirementGroups": [
@@ -164,7 +164,7 @@
                     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#Tex"
                 },
                 "type": "NATIONAL_LEGISLATION",
-                "article": "44.12"
+                "article": "47.12"
             }
         ],
         "requirementGroups": [
@@ -198,7 +198,7 @@
                     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#Tex"
                 },
                 "type": "NATIONAL_LEGISLATION",
-                "article": "44.8"
+                "article": "47.8"
             }
         ],
         "requirementGroups": [
@@ -232,7 +232,7 @@
                     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#Tex"
                 },
                 "type": "NATIONAL_LEGISLATION",
-                "article": "44.7"
+                "article": "47.7"
             }
         ],
         "requirementGroups": [
@@ -265,7 +265,7 @@
                      "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#Tex"
                      },
                      "type": "NATIONAL_LEGISLATION",
-                     "article": "44.1"
+                     "article": "47.1"
                      }
         ],
         "requirementGroups": [
@@ -298,7 +298,7 @@
                      "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#Tex"
                      },
                      "type": "NATIONAL_LEGISLATION",
-                     "article": "44.9"
+                     "article": "47.9"
             },
             {
                 "version": "2022-10-12",
@@ -308,7 +308,7 @@
                      "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#Tex"
                      },
                      "type": "NATIONAL_LEGISLATION",
-                     "article": "44.10"
+                     "article": "47.10"
             },
             {
                 "version": "2022-10-12",
@@ -318,7 +318,7 @@
                      "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#Tex"
                      },
                      "type": "NATIONAL_LEGISLATION",
-                     "article": "44.11"
+                     "article": "47.11"
             },
             {
                 "version": "2020-03-16",
@@ -346,7 +346,7 @@
                         "expectedValue": "true"
                     },
                     {
-                        "title": "Учасник процедури закупівлі або кінцевий бенефіціарний власник, член або учасник (акціонер) юридичної особи — учасника процедури закупівлі не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\"",
+                        "title": "Учасник процедури закупівлі або кінцевий бенефіціарний власник, член або учасник (акціонер) юридичної особи — учасника процедури закупівлі не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\", крім випадку, коли активи такої особи в установленому законодавством порядку передані в управління АРМА",
                         "dataType": "boolean",
                         "expectedValue": "true"
                     }
