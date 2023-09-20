@@ -1,3 +1,4 @@
+from os import walk
 import os.path
 from json import loads
 
@@ -14,3 +15,7 @@ def exist(path):
     this_dir, this_filename = os.path.split(__file__)
     file_path = os.path.join(this_dir, path)
     return os.path.exists(file_path)
+
+
+def get_dir_files(path):
+    return next(walk(path), (None, None, []))[2]
