@@ -34,5 +34,11 @@
     "description_uk": "Параметр, що визначає у закупівлі кількість пропозицій достатню для того, щоб вона відбулась",
     "name_en": "Minimum number of bids",
     "description_en": "The parameter that determines the number of bids in procurement sufficient for it to take place"
+  },
+  "hasPreSelectionAgreement": {
+    "name_uk": "TBD",
+    "description_uk": "TBD",
+    "name_en": "TBD",
+    "description_en": "TBD"
   }
 }
