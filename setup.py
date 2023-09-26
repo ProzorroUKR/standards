@@ -9,7 +9,7 @@ setup(
     python_requires=">=2.7",
     package_dir={'standards': '.'},
     package_data={
-        'standards': glob("*/**/*.json", recursive=True) + glob("*/**/*.html", recursive=True)
+        'standards': glob("*/**/*.json", recursive=True)
     },
     packages=["standards"],
     include_package_data=True,
