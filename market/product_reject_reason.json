@@ -1,0 +1,10 @@
+{
+    "invalidTitle": {
+        "title_en": "The product title is incorrect",
+        "title_uk": "Невірно зазначена назва товару"
+    },
+    "invalidCharacteristics": {
+        "title_en": "Incorrectly selected product characteristics",
+        "title_uk": "Невірно обрані характеристики товару"
+    }
+}

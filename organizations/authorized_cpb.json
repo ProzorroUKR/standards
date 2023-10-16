@@ -23,7 +23,8 @@
       "legalName_uk": "ДЕРЖАВНА УСТАНОВА \"ПРОФЕСІЙНІ ЗАКУПІВЛІ\""
     },
     "name_en": "STATE INSTITUTION \"PROFESSIONAL PROCUREMENT\"",
-    "name_uk": "ДЕРЖАВНА УСТАНОВА \"ПРОФЕСІЙНІ ЗАКУПІВЛІ\""
+    "name_uk": "ДЕРЖАВНА УСТАНОВА \"ПРОФЕСІЙНІ ЗАКУПІВЛІ\"",
+    "marketAdministrator": true
   },
   {
     "active": true,
@@ -47,7 +48,8 @@
       "legalName_uk": "ДЕРЖАВНЕ ПІДПРИЄМСТВО \"МЕДИЧНІ ЗАКУПІВЛІ УКРАЇНИ\""
     },
     "name_en": "STATE ENTERPRISE \"MEDICAL PROCUREMENT OF UKRAINE\"",
-    "name_uk": "ДЕРЖАВНЕ ПІДПРИЄМСТВО \"МЕДИЧНІ ЗАКУПІВЛІ УКРАЇНИ\""
+    "name_uk": "ДЕРЖАВНЕ ПІДПРИЄМСТВО \"МЕДИЧНІ ЗАКУПІВЛІ УКРАЇНИ\"",
+    "marketAdministrator": true
   },
   {
     "active": true,
@@ -123,7 +125,8 @@
       "legalName_uk": "Державне підприємство \"Українські спеціальні системи\""
     },
     "name_en": "State Enterprise \"Ukrainian Special Systems\"",
-    "name_uk": "Державне підприємство \"Українські спеціальні системи\""
+    "name_uk": "Державне підприємство \"Українські спеціальні системи\"",
+    "marketAdministrator": true
   },
   {
     "active": true,
