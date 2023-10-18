@@ -300,5 +300,30 @@
     },
     "name_en": "UE \"CPO KCC\"",
     "name_uk": "КП \"ЦЗО ХМР\""
-  }  
+  },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Київ",
+      "postalCode": "03035",
+      "region": "Київ",
+      "streetAddress": "вул. Солом’янська, 1"
+    },
+    "contactPoint": {
+      "email": "uwsczo@ukr.net",
+      "telephone": "+380506850062",
+      "url": "ukrvodservic-gov-ua.1gb.ua",
+      "name_en": "Olena Ponomarenko",
+      "name_uk": "Пономаренко Олена Іванівна"
+    },
+    "identifier": {
+      "id": "32765831",
+      "scheme": "UA-EDR",
+      "legalName_en": "State enterprise \"Ukrvodservice\"",
+      "legalName_uk": "Державне підприємство \"Укрводсервіс\""
+    },
+    "name_en": "SE \"Ukrvodservice\"",
+    "name_uk": "ДП \"Укрводсервіс\""
+  }
 ]
