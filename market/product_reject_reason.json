@@ -4,7 +4,7 @@
         "title_uk": "Невірно зазначена назва товару"
     },
     "invalidCharacteristics": {
-        "title_en": "Incorrectly selected product characteristics",
-        "title_uk": "Невірно обрані характеристики товару"
+        "title_en": "Incorrectly specified product characteristics",
+        "title_uk": "Невірно вказані характеристики товару"
     }
 }
