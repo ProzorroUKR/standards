@@ -1,0 +1,32 @@
+{
+    "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES": {
+        "title": "Технічні, якісні та кількісні характеристики предмету закупівлі" 
+    }, 
+    "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.CERTIFICATES": {
+        "title": "Технічні специфікації, маркування, сертифікати, протоколи випробувань та інші засоби підтвердження відповідності," 
+    },
+    "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.CERTIFICATES.QUALITY_ASSURANCE.QA_INSTITUTES_CERTIFICATE": {
+        "title": "Ліцензії або документи дозвільного характеру" 
+    },
+   "CRITERION.OTHER.BID.GUARANTEE": {
+        "title": "Забезпечення тендерних пропозицій" 
+    },
+    "CRITERION.OTHER.CONTRACT.GUARANTEE": {
+        "title": "Забезпечення виконання договору" 
+    },
+    "CRITERION.OTHER.BID.LANGUAGE": {
+        "title": "Мова (мови), якою (якими) повинні готуватися тендерні пропозиції" 
+    },
+    "CRITERION.OTHER.LIFE_CYCLE_COST": {
+        "title": "Вартість життєвого циклу" 
+    },
+    "CRITERION.OTHER.CONTRACT_CONDITIONS.SPECIFIC": {
+        "title": "Істотні умови договору" 
+    },
+    "CRITERION.OTHER.CONTRACT_CONDITIONS.GENERAL": {
+        "title": "Інші умови договору" 
+    },
+    "CRITERION.OTHER.CONTRACT_CONDITIONS.ANEX": {
+        "title": "Додатки до договору" 
+    }
+}
