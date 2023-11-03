@@ -31,5 +31,146 @@
                 
             }
         ]
+    },
+    {
+        "title": "Забезпечення тендерних пропозицій",
+        "source": "tenderer",
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.BID.GUARANTEE"
+        },
+        "legislation": [
+            {
+                "version": "2020-04-19",
+                "identifier": {
+                    "id": "922-VIII",
+                    "legalName": "Закон України \"Про публічні закупівлі\"",
+                    "uri": "https://zakon.rada.gov.ua/laws/show/922-19"
+                },
+                "type": "NATIONAL_LEGISLATION"
+            }
+    ],
+           "requirementGroups": [
+            {
+                "description": "Учасник підтверджує, що",
+                "requirements": [
+                  {
+                        "title": "Вид та умови надання забезпечення тендерних пропозицій",
+                        "dataType": "boolean",
+                        "expectedValue": "true"
+                    }
+                    ]
+                
+            }
+        ]
+    },
+    {
+        "title": "Забезпечення виконання договору",
+        "source": "winner",
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+        },
+        "legislation": [
+            {
+                "version": "2020-04-19",
+                "identifier": {
+                    "id": "922-VIII",
+                    "legalName": "Закон України \"Про публічні закупівлі\"",
+                    "uri": "https://zakon.rada.gov.ua/laws/show/922-19"
+                },
+                "type": "NATIONAL_LEGISLATION"
+            }
+    ],
+           "requirementGroups": [
+            {
+                "description": "Учасник підтверджує, що",
+                "requirements": [
+                  {
+                        "title": "Розмір та умови надання забезпечення виконання договору про закупівлю",
+                        "dataType": "boolean",
+                        "expectedValue": "true"
+                    }
+                    ]
+                 
+            }
+        ]
+    },
+    {
+        "title": "Технічні, якісні та кількісні характеристики предмету закупівлі", 
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+        }
+    }, 
+    {
+        "title": "Технічні специфікації, маркування, сертифікати, протоколи випробувань та інші засоби підтвердження відповідності", 
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.CERTIFICATES"
+        }
+    }, 
+    {
+        "title": "Ліцензії або документи дозвільного характеру", 
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.CERTIFICATES.QUALITY_ASSURANCE.QA_INSTITUTES_CERTIFICATE"
+        }
+    },
+    {
+        "title": "Строк дії тендерної пропозиції", 
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.BID.VALIDITY_PERIOD"
+        }
+    },
+    {
+        "title": "Вартість життєвого циклу", 
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.LIFE_CYCLE_COST"
+        }
+    },
+    {
+        "title": "Істотні умови договору", 
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.CONTRACT_CONDITIONS.SPECIFIC"
+        }
+    },
+    {
+        "title": "Інші умови договору", 
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.CONTRACT_CONDITIONS.GENERAL"
+        }
+    },
+    {
+        "title": "Додатки до договору", 
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.CONTRACT_CONDITIONS.ANEX"
+        }
+    },
+    {
+        "title": "Умови гарантійного обслуговування", 
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.WARRANTY"
+        }
+    },
+    {
+        "title": "Інші умови тендерної документації", 
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.NATIONAL.OTHER"
+        }
+    },
+    {
+        "title": "Нецінові критерії оцінки", 
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.FEATURE"
+        }
     }
     ]
