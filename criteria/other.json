@@ -50,16 +50,16 @@
                 "type": "NATIONAL_LEGISLATION"
             }
     ],
-           "requirementGroups": [
+       "requirementGroups": [
             {
                 "description": "Учасник підтверджує, що",
                 "requirements": [
-                  {
+                    {
                         "title": "Вид та умови надання забезпечення тендерних пропозицій",
                         "dataType": "boolean",
                         "expectedValue": "true"
                     }
-                    ]
+                ]
                 
             }
         ]
@@ -82,16 +82,16 @@
                 "type": "NATIONAL_LEGISLATION"
             }
     ],
-           "requirementGroups": [
+       "requirementGroups": [
             {
                 "description": "Учасник підтверджує, що",
                 "requirements": [
-                  {
+                    {
                         "title": "Розмір та умови надання забезпечення виконання договору про закупівлю",
                         "dataType": "boolean",
                         "expectedValue": "true"
                     }
-                    ]
+                ]
                  
             }
         ]
@@ -173,4 +173,4 @@
             "id": "CRITERION.OTHER.FEATURE"
         }
     }
-    ]
+]
