@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Наявність обладнання, матеріально-технічної бази та технологій", 
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.EQUIPMENT"
+        }
+    }, 
+    {
+        "title": "Наявність працівників відповідної кваліфікації, які мають необхідні знання та досвід", 
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.STAFF_FOR_CARRYING_SCOPE"
+        }
+    },
+    {
+        "title": "Наявність документально підтвердженого досвіду виконання аналогічних договорів", 
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.STAFF_FOR_CARRYING_SCOPE"
+        }
+    },
+    {
+        "title": "Наявність фінансової спроможності, яка підтверджується фінансовою звітністю", 
+        "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING.TURNOVER.GENERAL_YEARLY"
+        }
+    }
+]
