@@ -34,5 +34,11 @@
     "description_uk": "Параметр, що визначає у закупівлі кількість пропозицій достатню для того, щоб вона відбулась",
     "name_en": "Minimum number of bids",
     "description_en": "The parameter that determines the number of bids in procurement sufficient for it to take place"
+  },
+  "hasPreSelectionAgreement": {
+    "name_uk": "Відбір з попередньо кваліфікованими учасниками",
+    "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі попереднього етапу кваліфікаційного відбору учасників",
+    "name_en": "Selection with pre-qualified participants",
+    "description_en": "The parameter that determines the presence or absence of the preliminary stage of the qualification selection of participants in the procurement"
   }
 }

@@ -4,9 +4,10 @@
     "hasAuction": {
       "type": "boolean",
       "enum": [
+        true,
         false
       ],
-      "default": false
+      "default": true
     },
     "hasAwardingOrder": {
       "type": "boolean",
@@ -18,9 +19,9 @@
     "hasValueRestriction": {
       "type": "boolean",
       "enum": [
-        true
+        false
       ],
-      "default": true
+      "default": false
     },
     "valueCurrencyEquality": {
       "type": "boolean",
@@ -45,9 +46,9 @@
     "hasPreSelectionAgreement": {
       "type": "boolean",
       "enum": [
-        false
+        true
       ],
-      "default": false
+      "default": true
     }
   },
   "required": [

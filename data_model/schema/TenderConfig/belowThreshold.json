@@ -46,6 +46,13 @@
       "minimum": 1,
       "maximum": 9,
       "default": 1
+    },
+    "hasPreSelectionAgreement": {
+      "type": "boolean",
+      "enum": [
+        false
+      ],
+      "default": false
     }
   },
   "required": [
@@ -54,7 +61,8 @@
     "hasValueRestriction",
     "valueCurrencyEquality",
     "hasPrequalification",
-    "minBidsNumber"
+    "minBidsNumber",
+    "hasPreSelectionAgreement"
   ],
   "additionalProperties": false
 }
