@@ -76,5 +76,57 @@
         }, 
         "name_en": "NGO E-DEMOCRACY", 
         "name_uk": "ГО ЕЛЕКТРОННА ДЕМОКРАТІЯ"
+    },
+    {
+        "additionalIdentifiers": [],
+        "address": {
+            "countryName": "Сполучене Королівство Великої Британії",
+            "locality": "Лондон",
+            "postalCode": "SW1A 2AH",
+            "region": "Лондон",
+            "streetAddress": "King Charles Street"
+        },
+        "contactPoint": {
+            "email": "fcdo.correspondence@fcdo.gov.uk",
+            "faxNumber": "+44 20 7008 5000",
+            "telephone": "+44 20 7008 5000",
+            "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+            "name_en": "Foreign, Commonwealth and Development Office",
+            "name_uk": "Міністерство закордонних справ і справ Співдружності націй та розвитку Великої Британії"
+        },
+        "identifier": {
+            "id": "45001",
+            "scheme": "XM-DAC",
+            "legalName_en": "Foreign, Commonwealth and Development Office",
+            "legalName_uk": "Міністерство закордонних справ і справ Співдружності націй та розвитку Великої Британі"
+        },
+        "name_en": "Foreign, Commonwealth and Development Office",
+        "name_uk": "Міністерство закордонних справ і справ Співдружності націй та розвитку Великої Британії"
+    },
+    {
+        "additionalIdentifiers": [],
+        "address": {
+            "countryName": "Сполучені Штати Америки",
+            "locality": "Вашингтон",
+            "postalCode": "20004",
+            "region": "DC",
+            "streetAddress": "1300 Pennsylvania Avenue NW"
+        },
+        "contactPoint": {
+            "email": "open@usaid.gov",
+            "faxNumber": "+1 202-216-3070",
+            "telephone": "+1 202-712-0960",
+            "url": "https://www.usaid.gov/",
+            "name_en": "United States Agency for International Development",
+            "name_uk": "Aгентство США з Міжнародного Розвитку"
+        },
+        "identifier": {
+            "id": "47015",
+            "scheme": "XM-DAC",
+            "legalName_en": "United States Agency for International Development",
+            "legalName_uk": "Aгентство США з Міжнародного Розвитку"
+        },
+        "name_en": "United States Agency for International Development",
+        "name_uk": "Aгентство США з Міжнародного Розвитку"
     }
 ]
