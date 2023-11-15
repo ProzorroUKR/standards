@@ -88,8 +88,8 @@
         },
         "contactPoint": {
             "email": "fcdo.correspondence@fcdo.gov.uk",
-            "faxNumber": "+44 20 7008 5000",
-            "telephone": "+44 20 7008 5000",
+            "faxNumber": "+442070085000",
+            "telephone": "+442070085000",
             "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
             "name_en": "Foreign, Commonwealth and Development Office",
             "name_uk": "Міністерство закордонних справ і справ Співдружності націй та розвитку Великої Британії"
@@ -114,8 +114,8 @@
         },
         "contactPoint": {
             "email": "open@usaid.gov",
-            "faxNumber": "+1 202-216-3070",
-            "telephone": "+1 202-712-0960",
+            "faxNumber": "+12022163070",
+            "telephone": "+12027120960",
             "url": "https://www.usaid.gov/",
             "name_en": "United States Agency for International Development",
             "name_uk": "Aгентство США з Міжнародного Розвитку"
