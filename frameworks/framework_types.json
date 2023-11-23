@@ -6,9 +6,9 @@
         "name_uk": "Кваліфікація до каталогу"  
     },
     "dynamicPurchasingSystem": {
-        "description_en": "The selection of participants, which is used to conclude a framework agreement, which provides for the possibility during the entire period of its validity to involve suppliers or customers in addition to the original parties.",
-        "name_en": "Open framework agreement",
-        "description_uk": "Відбір учасників, що використовується для укладання рамкової угоди, яка передбачає можливість протягом всього періоду її дії долучати постачальників або замовників на додаток до початкових сторін.",
-        "name_uk": "Відкрита рамкова угода"
+        "description_en": "Selection of participants, which is used to form a dynamic list of suppliers, among which purchases of goods, works and services are carried out.",
+        "name_en": "Dynamic purchasing system",
+        "description_uk": "Відбір учасників, що використовується для формування динамічного переліку постачальників, серед яких проводяться закупівлі товарів, робіт і послуг.",
+        "name_uk": "Динамічна система закупівель"
     }
 }
