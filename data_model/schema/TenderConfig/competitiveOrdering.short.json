@@ -53,50 +53,44 @@
     "tenderPeriodMinDays": {
       "type": "integer",
       "enum": [
-        7,
         3
       ],
-      "default": 7
+      "default": 3
     },
     "tenderComplaints": {
       "type": "boolean",
       "enum": [
-        true,
         false
       ],
-      "default": true
+      "default": false
     },
     "tenderClaims": {
       "type": "boolean",
       "enum": [
-        true,
         false
       ],
-      "default": true
+      "default": false
     },
     "awardComplaints": {
       "type": "boolean",
       "enum": [
-        true,
         false
       ],
-      "default": true
+      "default": false
     },
     "awardClaims": {
       "type": "boolean",
       "enum": [
-        true,
         false
       ],
-      "default": true
+      "default": false
     },
     "cancellationComplaints": {
       "type": "boolean",
       "enum": [
-        true,
         false
       ],
-      "default": true
+      "default": false
     }
   },
   "required": [
