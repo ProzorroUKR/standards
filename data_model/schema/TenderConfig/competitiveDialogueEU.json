@@ -48,6 +48,27 @@
         false
       ],
       "default": false
+    },
+    "tenderComplaints": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
+    },
+    "awardComplaints": {
+      "type": "boolean",
+      "enum": [
+        false
+      ],
+      "default": false
+    },
+    "cancellationComplaints": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
     }
   },
   "required": [
@@ -57,7 +78,10 @@
     "valueCurrencyEquality",
     "hasPrequalification",
     "minBidsNumber",
-    "hasPreSelectionAgreement"
+    "hasPreSelectionAgreement",
+    "tenderComplaints",
+    "awardComplaints",
+    "cancellationComplaints"
   ],
   "additionalProperties": false
 }
