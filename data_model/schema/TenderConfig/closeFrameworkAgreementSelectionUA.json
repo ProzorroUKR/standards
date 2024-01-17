@@ -73,8 +73,7 @@
     "restricted": {
       "type": "boolean",
       "enum": [
-        false,
-        true
+        false
       ],
       "default": false
     }
