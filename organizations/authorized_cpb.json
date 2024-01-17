@@ -325,5 +325,30 @@
     },
     "name_en": "SE \"Ukrvodservice\"",
     "name_uk": "ДП \"Укрводсервіс\""
+  },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Одеса",
+      "postalCode": "65045",
+      "region": "м. Одеса",
+      "streetAddress": "вул. Буніна, 30"
+    },
+    "contactPoint": {
+      "email": "odrezerv@ukr.net",
+      "telephone": "+380487376932",
+      "url": "",
+      "name_en": "Kramarenko Hanna Petrivna",
+      "name_uk": "Крамаренко Ганна Петрівна"
+    },
+    "identifier": {
+      "id": "00182082",
+      "scheme": "UA-EDR",
+      "legalName_en": "Utility Establishment \"Odesa Regional Base of Special Medical Provision\"",
+      "legalName_uk": "Комунальна установа \"Одеська обласна база спеціального медичного постачання\""
+    },
+    "name_en": "UA \"ORBSMP\"",
+    "name_uk": "КУ \"ООБСМП\""
   }
 ]
