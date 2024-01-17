@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "restrictedDerivatives": {
+      "type": "boolean",
+      "enum": [
+        false
+      ],
+      "default": false
+    }
+  },
+  "required": [
+    "restrictedDerivatives"
+  ],
+  "additionalProperties": false
+}
