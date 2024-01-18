@@ -9,7 +9,12 @@ layout: default
 
 LANG_CODES = ("en", "uk", "ru", "ro")
 IGNORE_EXT = ("py", "txt", "html")
-IGNORE_FILES = ("CNAME", "_config.yml")
+IGNORE_FILES = (
+    "CNAME",
+    "README.md",
+    "_config.yml",
+    ".DS_Store",
+)
 
 
 def find_versions(file_names):
@@ -24,8 +29,8 @@ def find_versions(file_names):
         if name_parts[-1] in IGNORE_EXT:
             continue
 
-        name = name_parts[0]
-        options.extend(name_parts[1:])
+        name = ".".join(name_parts[:-1])
+        options.extend(name_parts[-1:])
 
         if name.endswith("_pretty"):
             name = name[:-7]
