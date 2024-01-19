@@ -70,6 +70,13 @@
         true
       ],
       "default": true
+    },
+    "restricted": {
+      "type": "boolean",
+      "enum": [
+        false
+      ],
+      "default": false
     }
   },
   "required": [
@@ -82,7 +89,8 @@
     "hasPreSelectionAgreement",
     "tenderComplaints",
     "awardComplaints",
-    "cancellationComplaints"
+    "cancellationComplaints",
+    "restricted"
   ],
   "additionalProperties": false
 }
