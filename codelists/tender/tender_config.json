@@ -35,19 +35,19 @@
     "name_en": "Minimum number of bids",
     "description_en": "The parameter that determines the number of bids in procurement sufficient for it to take place"
   },
-  "tenderComplaints": {
+  "hasTenderComplaints": {
     "name_uk": "Оскарження тендерної документації",
     "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі оскарження (звернення до АМКУ за допомогою скарги) умов тендерної документації",
     "name_en": "Appeal of the tender documentation",
     "description_en": "The parameter that determines the presence or absence of an appeal (appeal to the AMCU by means of a complaint) of the terms of the tender documentation in the procurement"
   },
-  "awardComplaints": {
+  "hasAwardComplaints": {
     "name_uk": "Оскарження кваліфікації",
     "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі оскарження (звернення до АМКУ за допомогою скарги) рішення по кваліфікації учасників",
     "name_en": "Appeal of the qualifications",
     "description_en": "The parameter that determines the presence or absence of an appeal in the procurement (appeal to the AMCU with the help of a complaint) of the decision on the qualification of participants"
   },
-  "cancellationComplaints": {
+  "hasCancellationComplaints": {
     "name_uk": "Оскарження скасування",
     "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі оскарження (звернення до АМКУ за допомогою скарги) після скасування процедури",
     "name_en": "Appeal against cancellation",
