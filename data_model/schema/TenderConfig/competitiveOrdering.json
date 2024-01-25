@@ -12,7 +12,8 @@
     "hasAwardingOrder": {
       "type": "boolean",
       "enum": [
-        true
+        true,
+        false
       ],
       "default": true
     },
@@ -27,7 +28,8 @@
     "valueCurrencyEquality": {
       "type": "boolean",
       "enum": [
-        true
+        true,
+        false
       ],
       "default": true
     },
