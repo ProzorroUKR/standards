@@ -1,0 +1,14 @@
+{
+  "pending": {
+    "title_uk": "Очікує підписання"
+  },
+  "cancelled": {
+    "title_uk": "Скасований"
+  },
+  "terminated": {
+    "title_uk": "Завершений"
+  },
+  "active": {
+    "title_uk": "Укладений"
+  }
+}
