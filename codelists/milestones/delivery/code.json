@@ -1,0 +1,10 @@
+{
+  "normal": {
+    "name_en": "One time delivery",
+    "name_uk": "Одноразова поставка"
+  },
+  "cycle": {
+    "name_en": "Cycled delivery",
+    "name_uk": "Повторювана поставка"
+  }
+}
