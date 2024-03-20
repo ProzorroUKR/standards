@@ -1,0 +1,18 @@
+{
+  "afterContractSigning": {
+    "name_en": "After contract signing",
+    "name_uk": "Після підписання контракту"
+  },
+  "afterSubmissionOfApplication": {
+    "name_en": "After submission of application",
+    "name_uk": "Пiсля подання заявки"
+  },
+  "afterPrePayment": {
+    "name_en": "After receiving the prepayment",
+    "name_uk": "Пiсля отримання авансу"
+  },
+  "afterPostPayment": {
+    "name_en": "After receiving the postpayment",
+    "name_uk": "Пiсля отримання оплати"
+  }
+}
