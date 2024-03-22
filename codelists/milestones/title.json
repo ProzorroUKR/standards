@@ -1,34 +1,47 @@
 {
     "executionOfWorks": {
         "name_en": "execution of works", 
-        "name_uk": "виконання робіт"
+        "name_uk": "виконання робіт",
+        "type": "financing"
     }, 
     "deliveryOfGoods": {
         "name_en": "delivery of goods", 
-        "name_uk": "поставка товару"
+        "name_uk": "поставка товару",
+        "type": "financing"
     }, 
     "submittingServices": {
         "name_en": "submitting services", 
-        "name_uk": "надання послуг"
+        "name_uk": "надання послуг",
+        "type": "financing"
     }, 
     "signingTheContract": {
         "name_en": "signing the contract", 
         "name_uk": "підписання договору"
+        "type": "financing, delivery"
     }, 
     "submissionDateOfApplications": {
-        "name_en": "submission date of applications", 
-        "name_uk": "дата подання заявки"
-    }, 
+        "name_en": "submission of application", 
+        "name_uk": "подання заявки",
+        "type": "financing, delivery"
+    },
+    "submittingPayment":{
+        "name_en": "submitting payment",
+        "name_uk": "здійснення оплати",
+        "type": "delivery"
+    },
     "dateOfInvoicing": {
         "name_en": "date of invoicing", 
-        "name_uk": "дата виставлення рахунку"
+        "name_uk": "дата виставлення рахунку",
+        "type": "financing"
     }, 
     "endDateOfTheReportingPeriod": {
         "name_en": "end date of the reporting period", 
-        "name_uk": "дата закінчення звітного періоду"
+        "name_uk": "дата закінчення звітного періоду",
+        "type": "financing"
     }, 
     "anotherEvent": {
         "name_en": "another event", 
-        "name_uk": "інша подія"
+        "name_uk": "інша подія",
+        "type": "financing"
     }
 }
