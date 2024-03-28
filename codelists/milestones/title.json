@@ -16,7 +16,7 @@
     }, 
     "signingTheContract": {
         "name_en": "signing the contract", 
-        "name_uk": "підписання договору"
+        "name_uk": "підписання договору",
         "type": "financing, delivery"
     }, 
     "submissionDateOfApplications": {
