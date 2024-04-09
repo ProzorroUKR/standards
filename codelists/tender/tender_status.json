@@ -1,54 +1,70 @@
 {
   "active.enquiries": {
     "title_uk": "Період уточнень",
-    "title_cfa_uk": "Період запрошення"
+    "title_en": "Clarifications"
   },
   "active.tendering": {
-    "title_uk": "Подання пропозицій"
+    "title_uk": "Подання пропозицій",
+    "title_en": "Bidding"
   },
   "active.pre-qualification": {
-    "title_uk": "Прекваліфікація"
+    "title_uk": "Прекваліфікація",
+    "title_en": "Pre-qualification"
   },
   "active.pre-qualification.stand-still": {
-    "title_uk": "Прекваліфікація (період оскарження)"
+    "title_uk": "Прекваліфікація (період оскарження)",
+    "title_en": "Pre-qualification (appeal period)"
   },
   "active.auction": {
-    "title_uk": "Аукціон"
+    "title_uk": "Аукціон",
+    "title_en": "Auction"
   },
   "active.qualification": {
-    "title_uk": "Кваліфікація переможця"
+    "title_uk": "Кваліфікація переможця",
+    "title_en": "Awarding"
   },
   "active.qualification.stand-still": {
-    "title_uk": "Кваліфікація переможця (період оскарження)"
+    "title_uk": "Кваліфікація переможця (період оскарження)",
+    "title_en": "Awarding (appeal period)"
   },
   "active.awarded": {
-    "title_uk": "Пропозиції розглянуті"
+    "title_uk": "Пропозиції розглянуті",
+    "title_en": "Contract signing"
   },
   "unsuccessful": {
-    "title_uk": "Торги не відбулися"
+    "title_uk": "Торги не відбулися",
+    "title_en": "Unsuccessful"
   },
   "cancelled": {
-    "title_uk": "Торги відмінено"
+    "title_uk": "Торги відмінено",
+    "title_en": "Cancelled"
   },
   "complete": {
-    "title_uk": "Завершена"
+    "title_uk": "Завершена",
+    "title_en": "Completed"
   },
   "draft.unsuccessful": {
-    "title_uk": "Неуспішна закупівля"
+    "title_uk": "Неуспішна закупівля",
+    "title_en": "Failed"
   },
   "draft.pending": {
-   "title_uk": "Неактивоване запрошення"
+   "title_uk": "Неактивоване запрошення",
+    "title_en": "Pending announcement"
   },
   "active" : {
-   "title_uk": "Підготовка угоди"
+   "title_uk": "Підготовка угоди",
+    "title_en": "Contracting"
   },
   "active.stage2.pending" : {
-   "title_uk": "Підготовка до 2-го етапу"
+   "title_uk": "Підготовка до 2-го етапу",
+    "title_en": "Purchase planning"
   },
   "active.stage2.waiting" : {
-   "title_uk": "Створення 2-го етапу"
+   "title_uk": "Створення 2-го етапу",
+    "title_en": "Purchase planned"
   },
   "draft.stage2" : {
-   "title_uk": "Чернетка"
+   "title_uk": "Чернетка",
+    "title_en": "Draft"
   }
 }
