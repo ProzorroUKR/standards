@@ -76,6 +76,13 @@
         false
       ],
       "default": false
+    },
+    "hasLegalRegulation": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
     }
   },
   "required": [
@@ -89,7 +96,8 @@
     "hasTenderComplaints",
     "hasAwardComplaints",
     "hasCancellationComplaints",
-    "restricted"
+    "restricted",
+    "hasLegalRegulation"
   ],
   "additionalProperties": false
 }
