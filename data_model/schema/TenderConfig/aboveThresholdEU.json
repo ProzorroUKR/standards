@@ -71,6 +71,13 @@
       ],
       "default": true
     },
+    "hasValueEstimation": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
+    },
     "restricted": {
       "type": "boolean",
       "enum": [
@@ -90,6 +97,7 @@
     "hasTenderComplaints",
     "hasAwardComplaints",
     "hasCancellationComplaints",
+    "hasValueEstimation",
     "restricted"
   ],
   "additionalProperties": false
