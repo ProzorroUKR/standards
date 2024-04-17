@@ -70,6 +70,13 @@
       ],
       "default": true
     },
+    "hasQualificationComplaints": {
+      "type": "boolean",
+      "enum": [
+        false
+      ],
+      "default": false
+    },
     "restricted": {
       "type": "boolean",
       "enum": [
@@ -89,6 +96,7 @@
     "hasTenderComplaints",
     "hasAwardComplaints",
     "hasCancellationComplaints",
+    "hasQualificationComplaints",
     "restricted"
   ],
   "additionalProperties": false

@@ -59,6 +59,12 @@
     "name_en": "Selection with pre-qualified participants",
     "description_en": "The parameter that determines the presence or absence of the preliminary stage of the qualification selection of participants in the procurement"
   },
+  "hasQualificationComplaints": {
+    "name_uk": "Оскарження результатів кваліфікації",
+    "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі оскарження (звернення до АМКУ за допомогою скарги) результатів проведення кваліфікації учасників",
+    "name_en": "Appeal of the qualification results",
+    "description_en": "The parameter that determines the presence or absence of an appeal (appeal to the AMCU by means of a complaint) of the results of the qualification of participants in the procurement"
+  },
   "restricted": {
     "name_uk": "Обмежений доступ",
     "description_uk": "Параметр, що визначає наявність або відсутність обмеження публічного доступу до структури даних",
