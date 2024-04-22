@@ -88,6 +88,12 @@
       ],
       "default": false
     },
+    "tenderComplainRegulation": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 0,
+      "default": 0
+    },
     "restricted": {
       "type": "boolean",
       "enum": [
@@ -110,6 +116,7 @@
     "hasCancellationComplaints",
     "hasValueEstimation",
     "hasQualificationComplaints",
+    "tenderComplainRegulation",
     "restricted"
   ],
   "additionalProperties": false
