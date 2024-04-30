@@ -15,15 +15,15 @@
         "title_uk": "Умови проекту договору",
         "title_en": "Terms and conditions of the draft contract"
     },
-    "non-priceCriteria": {
+    "nonPriceCriteria": {
         "title_uk": "Нецінові критерії оцінки тендерної пропозиції",
         "title_en": "Non-price tender evaluation criteria"
     },
-    "refusalReasons": {
+    "exclusionGrounds": {
         "title_uk": "Підстави для відмови в участі у процедурі закупівлі",
         "title_en": "Reasons for refusing to participate in the procurement procedure"
     },
-    "otherTerms": {
+    "otherCriteria": {
         "title_uk": "Інші умови тендерної документації",
         "title_en": "Other terms of tender documentation"
     },
@@ -35,11 +35,11 @@
         "title_uk": "Відміна процедури закупівлі",
         "title_en": "Cancellation of the procurement procedure"
     },
-    "nonComplyDecision": {
+    "appealDecisionViolation": {
         "title_uk": "Невиконання рішення органу оскарження",
         "title_en": "Non-comply of the decision of the appeal body"
     },
-    "otherActions": {
+    "otherViolations": {
         "title_uk": "Інші дії/бездіяльність замовника (у т.ч. ненадання роз’яснень тощо)",
         "title_en": "Other actions/inaction of the buyer (including failure to provide explanations, etc.)"
     },
