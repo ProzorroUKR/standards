@@ -16,19 +16,18 @@
                 },
                 "type": "NATIONAL_LEGISLATION"
             }
-    ],
-           "requirementGroups": [
+        ],
+        "requirementGroups": [
             {
                 "description": "Учасник підтверджує, що",
                 "requirements": [
-                  {
+                    {
                         "title": "Вид та умови надання забезпечення тендерних пропозицій",
                         "dataType": "boolean",
-                        "expectedValue": "true"
+                        "expectedValue": true
                     }
-                    ]
-                
+                ]
             }
         ]
     }
-    ]
+]

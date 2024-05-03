@@ -17,48 +17,48 @@
                 },
                 "type": "NATIONAL_LEGISLATION"
             }
-    ],
-           "requirementGroups": [
+        ],
+        "requirementGroups": [
             {
                 "description": "Учасник є резидентом",
                 "requirements": [
-                  {
+                    {
                         "title": "Учасник є резидентом",
                         "dataType": "boolean",
-                        "expectedValue": "true"
+                        "expectedValue": true
                     }
-                    ]
+                ]
             },
             {
                 "description": "Учасник є нерезидентом, але має представництво  в Україні",
                 "requirements": [
-                  {
+                    {
                         "title": "Учасник є нерезидентом, але має представництво  в Україні",
                         "dataType": "boolean",
-                        "expectedValue": "true"
+                        "expectedValue": true
                     }
-                    ]
+                ]
             },
             {
                 "description": "Учасник є нерезидентом, але має представництво  в Україні",
                 "requirements": [
-                  {
+                    {
                         "title": "Учасник є нерезидентом, але має представництво  в Україні",
                         "dataType": "boolean",
-                        "expectedValue": "true"
+                        "expectedValue": true
                     }
-                    ]
+                ]
             },
             {
                 "description": "Учасник відноситься до одного з вищезазначених пунктів",
                 "requirements": [
-                  {
+                    {
                         "title": "Учасник відноситься до одного з вищезазначених пунктів",
                         "dataType": "boolean",
-                        "expectedValue": "false"
+                        "expectedValue": false
                     }
-                    ]
+                ]
             }
         ]
     }
-    ]
+]
