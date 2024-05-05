@@ -71,16 +71,22 @@
     "name_en": "Appeal of the qualification results",
     "description_en": "The parameter that determines the presence or absence of an appeal (appeal to the AMCU by means of a complaint) of the results of the qualification of participants in the procurement"
   },
-  "restricted": {
-    "name_uk": "Обмежений доступ",
-    "description_uk": "Параметр, що визначає наявність або відсутність обмеження публічного доступу до структури даних",
-    "name_en": "Limited access",
-    "description_en": "A parameter that determines whether or not there is a restriction on public access to the data structure"
-  },
   "tenderComplainRegulation": {
     "name_uk": "Визначення кінцевої дати оскарження умов тендерної документації",
     "description_uk": "Параметр, що визначає кінцеву дату періоду оскарження умов тендерної документації у відповідності до кінцевого строку подання тендерних пропозицій",
     "name_en": "Determination of the final date for contesting the conditions of the tender documentation",
     "description_en": "The parameter that determines the final date of the period for contesting the terms of the tender documentation in accordance with the deadline for submitting tender offers"
+  },
+  "qualificationComplainDuration": {
+    "name_uk": "Тривалість оскарження результатів кваліфікації",
+    "description_uk": "Параметр, що визначає тривалість періоду оскарження результатів проведення кваліфікації учасників",
+    "name_en": "The duration of appealing the qualification results",
+    "description_en": "The parameter that determines the duration of the period for appealing the results of participant qualification"
+  },
+  "restricted": {
+    "name_uk": "Обмежений доступ",
+    "description_uk": "Параметр, що визначає наявність або відсутність обмеження публічного доступу до структури даних",
+    "name_en": "Limited access",
+    "description_en": "A parameter that determines whether or not there is a restriction on public access to the data structure"
   }
 }
