@@ -89,6 +89,12 @@
     "name_en": "The duration of contesting the results of determining the winner",
     "description_en": "The parameter that determines the duration of the period for submitting claims and/or appealing the decision on the qualification of participants"
   },
+  "cancellationComplainDuration": {
+    "name_uk": "Тривалість оскарження відміни закупівлі",
+    "description_uk": "Параметр, що визначає тривалість періоду оскарження рішення про відміну замовником закупівлі або лоту",
+    "name_en": "Duration of the appeal against the cancellation of the purchase",
+    "description_en": "The parameter that determines the duration of the appeal period for the customer's decision to cancel the purchase or lot"
+  },
   "restricted": {
     "name_uk": "Обмежений доступ",
     "description_uk": "Параметр, що визначає наявність або відсутність обмеження публічного доступу до структури даних",
