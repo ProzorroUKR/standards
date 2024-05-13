@@ -81,6 +81,12 @@
         true
       ],
       "default": false
+    },
+    "cancellationComplainDuration": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 0,
+      "default": 0
     }
   },
   "required": [
@@ -94,7 +100,8 @@
     "hasTenderComplaints",
     "hasAwardComplaints",
     "hasCancellationComplaints",
-    "restricted"
+    "restricted",
+    "cancellationComplainDuration"
   ],
   "additionalProperties": false
 }
