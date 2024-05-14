@@ -239,6 +239,12 @@
         "name_uk": "квадратний дециметр", 
         "symbol_uk": "дц²"
     },
+    "DMQ": {
+        "name_en": "cubic decimetre", 
+        "symbol_en": "dm³", 
+        "name_uk": "кубічний дециметр", 
+        "symbol_uk": "дц³"
+    },
     "E07": {
         "name_en": "megawatt hour per hour", 
         "symbol_en": "MW·h/h", 
