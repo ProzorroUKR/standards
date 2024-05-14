@@ -1,10 +1,22 @@
 {
     "prepayment": {
         "name_en": "Prepayments", 
-        "name_uk": "Аванс"
-    }, 
+        "name_uk": "Аванс",
+        "type": "financing"
+    },
     "postpayment": {
-        "name_en": "Postpayments", 
-        "name_uk": "Пiсляоплата"
+        "name_en": "Postpayments",
+        "name_uk": "Пiсляоплата",
+        "type": "financing"
+    },
+    "standard": {
+        "name_en": "One-time delivery",
+        "name_uk": "Одноразова поставка",
+        "type": "delivery"
+    },
+    "recurring": {
+        "name_en": "Recurring delivery",
+        "name_uk": "Повторювана поставка",
+        "type": "delivery"
     }
 }
