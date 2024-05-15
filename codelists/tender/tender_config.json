@@ -70,5 +70,11 @@
     "description_uk": "Параметр, що визначає наявність або відсутність обмеження публічного доступу до структури даних",
     "name_en": "Limited access",
     "description_en": "A parameter that determines whether or not there is a restriction on public access to the data structure"
+  },
+  "qualificationDuration": {
+    "name_uk": "Тривалість кваліфікації",
+    "description_uk": "Параметр, який встановлює тривалість періоду попередньої кваліфікації учасників",
+    "name_en": "Qualification duration",
+    "description_en": "A parameter that sets the duration of the participants' pre-qualification period"
   }
 }
