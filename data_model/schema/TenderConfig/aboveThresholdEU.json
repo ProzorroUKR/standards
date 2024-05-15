@@ -77,6 +77,12 @@
         false
       ],
       "default": false
+    },
+    "qualificationDuration": {
+      "type": "integer",
+      "minimum": 20,
+      "maximum": 20,
+      "default": 20
     }
   },
   "required": [
@@ -90,7 +96,8 @@
     "hasTenderComplaints",
     "hasAwardComplaints",
     "hasCancellationComplaints",
-    "restricted"
+    "restricted",
+    "qualificationDuration"
   ],
   "additionalProperties": false
 }
