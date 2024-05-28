@@ -59,6 +59,12 @@
     "name_en": "Selection with pre-qualified participants",
     "description_en": "The parameter that determines the presence or absence of the preliminary stage of the qualification selection of participants in the procurement"
   },
+  "clarificationUntilDuration": {
+    "name_uk": "Кількість днів для надання пояснень на звернення ≧ 0 (календарні дні)",
+    "description_uk": "Параметр, який встановлює кількість днів для надання відповіді замовником на звернення\n\n",
+    "name_en": "The number of days to provide explanations for the request ≧ 0 (calendar days)",
+    "description_en": "The parameter that sets the number of days for the customer to respond to the request"
+  },
   "restricted": {
     "name_uk": "Обмежений доступ",
     "description_uk": "Параметр, що визначає наявність або відсутність обмеження публічного доступу до структури даних",

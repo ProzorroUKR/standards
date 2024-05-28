@@ -70,6 +70,12 @@
       ],
       "default": true
     },
+    "clarificationUntilDuration": {
+      "type": "integer",
+      "minimum": 3,
+      "maximum": 3,
+      "default": 3
+    },
     "restricted": {
       "type": "boolean",
       "enum": [
@@ -89,6 +95,7 @@
     "hasTenderComplaints",
     "hasAwardComplaints",
     "hasCancellationComplaints",
+    "clarificationUntilDuration",
     "restricted"
   ],
   "additionalProperties": false
