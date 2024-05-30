@@ -128,5 +128,57 @@
         },
         "name_en": "United States Agency for International Development",
         "name_uk": "Aгентство США з Міжнародного Розвитку"
+    },
+     {
+        "additionalIdentifiers": [],
+        "address": {
+            "countryName": "Україна",
+            "locality": "м. Київ",
+            "postalCode": "01004",
+            "region": "Київська область",
+            "streetAddress": "вул. Велика Васильківська, буд. 6-о"
+        },
+        "contactPoint": {
+            "email": "myatsyk@icrc.org",
+            "faxNumber": "+380443923210",
+            "telephone": "+380443945424",
+            "url": "https://blogs.icrc.org/ua/",
+            "name_en": "Mariia YATSYK",
+            "name_uk": "Марія ЯЦИК"
+        },
+        "identifier": {
+            "id": "21016",
+            "scheme": "XM-DAC",
+            "legalName_en": "Mission of the International Committee of the Red Cross in Ukraine",
+            "legalName_uk": "Місія Міжнародного Комітету Червоного Хреста в Україні"
+        },
+        "name_en": "ICRC",
+        "name_uk": "МКЧХ"
+    },
+    {
+        "additionalIdentifiers": [],
+        "address": {
+            "countryName": "Україна",
+            "locality": "м. Київ",
+            "postalCode": "30670",
+            "region": "Київська область",
+            "streetAddress": "пр. Перемоги, буд. 53"
+        },
+        "contactPoint": {
+            "email": "contact@novaukraine.org ",
+            "faxNumber": "+380443903167",
+            "telephone": "+380443903167",
+            "url": "http://novaukraine.org",
+            "name_en": "Yuliia Fedorenko",
+            "name_uk": "Юлія Федоренко"
+        },
+        "identifier": {
+            "id": "45044535",
+            "scheme": "UA-EDR",
+            "legalName_en": "CHARITY ORGANIZATION 'INTERNATIONAL CHARITY FUND 'NOVA UKRAINE'",
+            "legalName_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ 'МІЖНАРОДНИЙ БЛАГОДІЙНИЙ ФОНД 'НОВА ЮКРЕЙН'"
+        },
+        "name_en": "CO 'NOVA UKRAINE ICF'",
+        "name_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ 'МІЖНАРОДНИЙ БЛАГОДІЙНИЙ ФОНД 'НОВА ЮКРЕЙН'"
     }
 ]
