@@ -17,23 +17,22 @@
                 },
                 "type": "NATIONAL_LEGISLATION"
             }
-    ],
-           "requirementGroups": [
+        ],
+        "requirementGroups": [
             {
                 "description": "Учасник зазначає",
                 "requirements": [
-                  {
+                    {
                         "title": "Кількість реалізованих договорів виключно в Україні",
                         "dataType": "integer"
                     },
-                  {
+                    {
                         "title": "Кількість реалізованих договорів загалом (без України)",
                         "dataType": "integer",
-                        "weight": "1"
+                        "weight": 1
                     }
-                    ]
-                
+                ]
             }
         ]
     }
-    ]
+]

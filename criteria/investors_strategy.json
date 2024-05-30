@@ -17,23 +17,22 @@
                 },
                 "type": "NATIONAL_LEGISLATION"
             }
-    ],
-           "requirementGroups": [
+        ],
+        "requirementGroups": [
             {
                 "description": "Учасник зазначає",
                 "requirements": [
-                  {
+                    {
                         "title": "Кількість рекомендаційних листів щодо підготовки та реалізації проектів державно-приватного партнерства",
                         "dataType": "integer"
                     },
-                  {
+                    {
                         "title": "Кількість рекомендаційних листів щодо підготовки та реалізації проектів загалом",
                         "dataType": "integer",
-                        "weight": "1"
+                        "weight": 1
                     }
-                    ]
-
+                ]
             }
         ]
     }
-    ]
+]
