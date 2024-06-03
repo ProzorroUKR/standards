@@ -1,122 +1,122 @@
 [
-    {
-      "description": "Наявність в учасника процедури закупівлі обладнання, матеріально-технічної бази та технологій",
-      "classification": {
-        "scheme": "ESPD211",
-        "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.EQUIPMENT"
-      },
-      "title": "Наявність обладнання, матеріально-технічної бази та технологій",
-      "legislation": [
-        {
-          "version": "2021-12-16",
-          "type": "NATIONAL_LEGISLATION",
-          "identifier": {
-            "uri": "https://zakon.rada.gov.ua/laws/show/922-19",
-            "id": "922-VIII",
-            "legalName": "Закон України \"Про публічні закупівлі\""
-          }
-        }
-      ],
-      "source": "tenderer",
-      "requirementGroups": [
-        {
-          "description": "Учасник підтверджує, що відповідає вимогам",
-          "requirements": [
-            {
-              "title": "Наявність в учасника процедури закупівлі обладнання, матеріально-технічної бази та технологій"
-            }
-          ]
-        }
-      ]
-    },
   {
-      "description": "Наявність в учасника процедури закупівлі працівників відповідної кваліфікації, які мають необхідні знання та досвід",
-      "classification": {
-        "scheme": "ESPD211",
-        "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.STAFF_FOR_CARRYING_SCOPE"
-      },
-      "title": "Наявність працівників відповідної кваліфікації",
-      "legislation": [
-        {
-          "version": "2021-12-16",
-          "type": "NATIONAL_LEGISLATION",
-          "identifier": {
-            "uri": "https://zakon.rada.gov.ua/laws/show/922-19",
-            "id": "922-VIII",
-            "legalName": "Закон України \"Про публічні закупівлі\""
-          }
-        }
-      ],
-      "source": "tenderer",
-      "requirementGroups": [
-        {
-          "description": "Учасник підтверджує, що відповідає вимогам",
-          "requirements": [
-            {
-              "title": "Наявність в учасника процедури закупівлі працівників відповідної кваліфікації, які мають необхідні знання та досвід;"
-            }
-          ]
-        }
-      ]
+    "description": "Наявність в учасника процедури закупівлі обладнання, матеріально-технічної бази та технологій;",
+    "classification": {
+      "scheme": "ESPD211",
+      "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.EQUIPMENT"
     },
+    "title": "Наявність обладнання, матеріально-технічної бази та технологій",
+    "legislation": [
+      {
+        "version": "2021-12-16",
+        "type": "NATIONAL_LEGISLATION",
+        "identifier": {
+          "uri": "https://zakon.rada.gov.ua/laws/show/922-19",
+          "id": "922-VIII",
+          "legalName": "Закон України \"Про публічні закупівлі\""
+        }
+      }
+    ],
+    "source": "tenderer",
+    "requirementGroups": [
+      {
+        "description": "Учасник підтверджує, що відповідає вимогам",
+        "requirements": [
+          {
+            "title": "Наявність в учасника процедури закупівлі обладнання, матеріально-технічної бази та технологій;"
+          }
+        ]
+      }
+    ]
+  },
   {
-      "description": "Наявність документально підтвердженого досвіду виконання аналогічного (аналогічних) за предметом закупівлі договору (договорів)",
-      "classification": {
-        "scheme": "ESPD211",
-        "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.REFERENCES.WORKS_PERFORMANCE"
-      },
-      "title": "Наявність досвіду виконання аналогічного (аналогічних) договору (договорів)",
-      "legislation": [
-        {
-          "version": "2021-12-16",
-          "type": "NATIONAL_LEGISLATION",
-          "identifier": {
-            "uri": "https://zakon.rada.gov.ua/laws/show/922-19",
-            "id": "922-VIII",
-            "legalName": "Закон України \"Про публічні закупівлі\""
-          }
-        }
-      ],
-      "source": "tenderer",
-      "requirementGroups": [
-        {
-          "description": "Учасник підтверджує, що відповідає вимогам",
-          "requirements": [
-            {
-              "title": "Наявність документально підтвердженого досвіду виконання аналогічного (аналогічних) за предметом закупівлі договору (договорів)"
-            }
-          ]
-        }
-      ]
+    "description": "Наявність в учасника процедури закупівлі працівників відповідної кваліфікації, які мають необхідні знання та досвід;",
+    "classification": {
+      "scheme": "ESPD211",
+      "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.STAFF_FOR_CARRYING_SCOPE"
     },
+    "title": "Наявність працівників відповідної кваліфікації",
+    "legislation": [
+      {
+        "version": "2021-12-16",
+        "type": "NATIONAL_LEGISLATION",
+        "identifier": {
+          "uri": "https://zakon.rada.gov.ua/laws/show/922-19",
+          "id": "922-VIII",
+          "legalName": "Закон України \"Про публічні закупівлі\""
+        }
+      }
+    ],
+    "source": "tenderer",
+    "requirementGroups": [
+      {
+        "description": "Учасник підтверджує, що відповідає вимогам",
+        "requirements": [
+          {
+            "title": "Наявність в учасника процедури закупівлі працівників відповідної кваліфікації, які мають необхідні знання та досвід;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Наявність документально підтвердженого досвіду виконання аналогічного (аналогічних) за предметом закупівлі договору (договорів);",
+    "classification": {
+      "scheme": "ESPD211",
+      "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.REFERENCES.WORKS_PERFORMANCE"
+    },
+    "title": "Наявність досвіду виконання аналогічного (аналогічних) договору (договорів)",
+    "legislation": [
+      {
+        "version": "2021-12-16",
+        "type": "NATIONAL_LEGISLATION",
+        "identifier": {
+          "uri": "https://zakon.rada.gov.ua/laws/show/922-19",
+          "id": "922-VIII",
+          "legalName": "Закон України \"Про публічні закупівлі\""
+        }
+      }
+    ],
+    "source": "tenderer",
+    "requirementGroups": [
+      {
+        "description": "Учасник підтверджує, що відповідає вимогам",
+        "requirements": [
+          {
+            "title": "Наявність документально підтвердженого досвіду виконання аналогічного (аналогічних) за предметом закупівлі договору (договорів);"
+          }
+        ]
+      }
+    ]
+  },
    {
-      "description": "Наявність фінансової спроможності, яка підтверджується фінансовою звітністю",
-      "classification": {
-        "scheme": "ESPD211",
-        "id": "CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING"
-      },
-      "title": "Наявність фінансової спроможності",
-      "legislation": [
-        {
-          "version": "2021-12-16",
-          "type": "NATIONAL_LEGISLATION",
-          "identifier": {
-            "uri": "https://zakon.rada.gov.ua/laws/show/922-19",
-            "id": "922-VIII",
-            "legalName": "Закон України \"Про публічні закупівлі\""
+    "description": "Наявність фінансової спроможності, яка підтверджується фінансовою звітністю.",
+    "classification": {
+      "scheme": "ESPD211",
+      "id": "CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING"
+    },
+    "title": "Наявність фінансової спроможності",
+    "legislation": [
+      {
+        "version": "2021-12-16",
+        "type": "NATIONAL_LEGISLATION",
+        "identifier": {
+          "uri": "https://zakon.rada.gov.ua/laws/show/922-19",
+          "id": "922-VIII",
+          "legalName": "Закон України \"Про публічні закупівлі\""
+        }
+      }
+    ],
+    "source": "tenderer",
+    "requirementGroups": [
+      {
+        "description": "Учасник підтверджує, що відповідає вимогам",
+        "requirements": [
+          {
+            "title": "Наявність фінансової спроможності, яка підтверджується фінансовою звітністю."
           }
-        }
-      ],
-      "source": "tenderer",
-      "requirementGroups": [
-        {
-          "description": "Учасник підтверджує, що відповідає вимогам",
-          "requirements": [
-            {
-              "title": "Наявність фінансової спроможності, яка підтверджується фінансовою звітністю."
-            }
-          ]
-        }
-      ]
-    }
+        ]
+      }
+    ]
+  }
 ]
