@@ -1,14 +1,14 @@
 {
-    "electronicCatalogue": {
-        "description_en": "The selection of participants, which is used to fill the list of qualified suppliers to the electronic catalog and is regulated by the norms of the Law of Ukraine \"On Public Procurement\" and the requirements of the Procedure \"Formation and use of the electronic catalog\".",
-        "name_en": "eCatalogue pre-qualification",
-        "description_uk": "Відбір учасників, що використовується для наповнення переліку кваліфікованих постачальників до електронного каталогу та регулюється нормами Закону України \"Про публічні закупівлі\" та вимогами Порядку \"Формування та використання електронного каталогу\".",
-        "name_uk": "Кваліфікація до каталогу"  
-    },
-    "dynamicPurchasingSystem": {
-        "description_en": "Selection of participants, which is used to form a dynamic list of suppliers, among which purchases of goods, works and services are carried out.",
-        "name_en": "Dynamic purchasing system",
-        "description_uk": "Відбір учасників, що використовується для формування динамічного переліку постачальників, серед яких проводяться закупівлі товарів, робіт і послуг.",
-        "name_uk": "Динамічна система закупівель"
-    }
+  "electronicCatalogue": {
+    "description_en": "The selection of participants, which is used to fill the list of qualified suppliers to the electronic catalog and is regulated by the norms of the Law of Ukraine \"On Public Procurement\" and the requirements of the Procedure \"Formation and use of the electronic catalog\".",
+    "name_en": "eCatalogue pre-qualification",
+    "description_uk": "Відбір учасників, що використовується для наповнення переліку кваліфікованих постачальників до електронного каталогу та регулюється нормами Закону України \"Про публічні закупівлі\" та вимогами Порядку \"Формування та використання електронного каталогу\".",
+    "name_uk": "Кваліфікація до каталогу"
+  },
+  "dynamicPurchasingSystem": {
+    "description_en": "Selection of participants, which is used to form a dynamic list of suppliers, among which purchases of goods, works and services are carried out.",
+    "name_en": "Dynamic purchasing system",
+    "description_uk": "Відбір учасників, що використовується для формування динамічного переліку постачальників, серед яких проводяться закупівлі товарів, робіт і послуг.",
+    "name_uk": "Динамічна система закупівель"
+  }
 }

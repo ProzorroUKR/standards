@@ -1,32 +1,32 @@
 {
-    "micro": {
-        "title_en": "micro", 
-        "description_en": "Individuals registered as private entrepreneurs, whose average number of employees for the reporting period does not exceed 10 persons and the annual income does not exceed the equivalent of 2 million euros; legal entities, whose average number of employees for the reporting period does not exceed 10 persons and the annual income does not exceed the equivalent of 2 million euros.", 
-        "title_uk": "Суб'єкт мікропідприємництва", 
-        "description_uk": "Фізичні особи, зареєстровані як фізичні особи - підприємці, у яких середня кількість працівників за звітний період не перевищує 10 осіб та річний дохід не перевищує суму, еквівалентну 2 мільйонам євро; юридичні особи - суб’єкти господарювання , у яких середня кількість працівників за звітний період не перевищує 10 осіб та річний дохід не перевищує суму, еквівалентну 2 мільйонам євро."
-    }, 
-    "sme": {
-        "title_en": "sme", 
-        "description_en": "Individuals registered as private entrepreneurs, whose average number of employees for the reporting period does not exceed 50 persons and the annual income does not exceed the equivalent of 10 million euros; legal entities, whose average number of employees for the reporting period does not exceed 50 persons and the annual income does not exceed the equivalent of 10 million euros.", 
-        "title_uk": "Суб'єкт малого підприємництва", 
-        "description_uk": "Фізичні особи, зареєстровані як фізичні особи - підприємці, у яких середня кількість працівників за звітний період не перевищує 50 осіб та річний дохід не перевищує суму, еквівалентну 10 мільйонам євро; юридичні особи - суб’єкти господарювання , у яких середня кількість працівників за звітний період не перевищує 50 осіб та річний не перевищує суму, еквівалентну 10 мільйонам євро."
-    }, 
-    "large": {
-        "title_en": "large", 
-        "description_en": "Legal entities, whose average number of employees for the reporting period (calendar year) exceeds 250 persons and an annual income exceeds the equivalent of 50 million euros.", 
-        "title_uk": "Суб'єкт великого підприємництва", 
-        "description_uk": "Юридичні особи - суб’єкти господарювання, у яких середня кількість працівників за звітний період (календарний рік) перевищує 250 осіб та річний дохід перевищує суму, еквівалентну 50 мільйонам євро."
-    }, 
-    "mid": {
-        "title_en": "mid", 
-        "description_en": "Other entities belong to the medium-sized enterprises.", 
-        "title_uk": "Суб'єкт середнього підприємництва", 
-        "description_uk": "Інші суб’єкти господарювання належать до суб’єктів середнього підприємництва."
-    },
-    "not specified": {
-        "title_en": "not specified", 
-        "description_en": "Not a business entity", 
-        "title_uk": "Не є суб’єктом господарювання", 
-        "description_uk": "Це можуть бути Міністерства, громадські організації, органи влади, різноманітні фонди (ті. хто не отримує прибутку)."
-    }
+  "micro": {
+    "title_en": "micro",
+    "description_en": "Individuals registered as private entrepreneurs, whose average number of employees for the reporting period does not exceed 10 persons and the annual income does not exceed the equivalent of 2 million euros; legal entities, whose average number of employees for the reporting period does not exceed 10 persons and the annual income does not exceed the equivalent of 2 million euros.",
+    "title_uk": "Суб'єкт мікропідприємництва",
+    "description_uk": "Фізичні особи, зареєстровані як фізичні особи - підприємці, у яких середня кількість працівників за звітний період не перевищує 10 осіб та річний дохід не перевищує суму, еквівалентну 2 мільйонам євро; юридичні особи - суб’єкти господарювання , у яких середня кількість працівників за звітний період не перевищує 10 осіб та річний дохід не перевищує суму, еквівалентну 2 мільйонам євро."
+  },
+  "sme": {
+    "title_en": "sme",
+    "description_en": "Individuals registered as private entrepreneurs, whose average number of employees for the reporting period does not exceed 50 persons and the annual income does not exceed the equivalent of 10 million euros; legal entities, whose average number of employees for the reporting period does not exceed 50 persons and the annual income does not exceed the equivalent of 10 million euros.",
+    "title_uk": "Суб'єкт малого підприємництва",
+    "description_uk": "Фізичні особи, зареєстровані як фізичні особи - підприємці, у яких середня кількість працівників за звітний період не перевищує 50 осіб та річний дохід не перевищує суму, еквівалентну 10 мільйонам євро; юридичні особи - суб’єкти господарювання , у яких середня кількість працівників за звітний період не перевищує 50 осіб та річний не перевищує суму, еквівалентну 10 мільйонам євро."
+  },
+  "large": {
+    "title_en": "large",
+    "description_en": "Legal entities, whose average number of employees for the reporting period (calendar year) exceeds 250 persons and an annual income exceeds the equivalent of 50 million euros.",
+    "title_uk": "Суб'єкт великого підприємництва",
+    "description_uk": "Юридичні особи - суб’єкти господарювання, у яких середня кількість працівників за звітний період (календарний рік) перевищує 250 осіб та річний дохід перевищує суму, еквівалентну 50 мільйонам євро."
+  },
+  "mid": {
+    "title_en": "mid",
+    "description_en": "Other entities belong to the medium-sized enterprises.",
+    "title_uk": "Суб'єкт середнього підприємництва",
+    "description_uk": "Інші суб’єкти господарювання належать до суб’єктів середнього підприємництва."
+  },
+  "not specified": {
+    "title_en": "not specified",
+    "description_en": "Not a business entity",
+    "title_uk": "Не є суб’єктом господарювання",
+    "description_uk": "Це можуть бути Міністерства, громадські організації, органи влади, різноманітні фонди (ті. хто не отримує прибутку)."
+  }
 }

@@ -1,50 +1,50 @@
 {
-    "selectionCriteria": {
-        "title_uk": "Кваліфікаційні критерії учасників",
-        "title_en": "Qualification criteria of bidders"
-    },
-    "technicalSpecification": {
-        "title_uk": "Технічна специфікація предмета закупівлі",
-        "title_en": "Technical specification of the procurement subject"
-    },
-    "guarantee": {
-        "title_uk": "Забезпечення тендерної пропозиції/виконання договору",
-        "title_en": "Guarantee of the tender offer/execution of the contract"
-    },
-    "contractTerms": {
-        "title_uk": "Умови проекту договору",
-        "title_en": "Terms and conditions of the draft contract"
-    },
-    "nonPriceCriteria": {
-        "title_uk": "Нецінові критерії оцінки тендерної пропозиції",
-        "title_en": "Non-price tender evaluation criteria"
-    },
-    "exclusionGrounds": {
-        "title_uk": "Підстави для відмови в участі у процедурі закупівлі",
-        "title_en": "Reasons for refusing to participate in the procurement procedure"
-    },
-    "otherCriteria": {
-        "title_uk": "Інші умови тендерної документації",
-        "title_en": "Other terms of tender documentation"
-    },
-    "procurementMethodType": {
-        "title_uk": "Неправомірне обрання та застосування процедури закупівлі",
-        "title_en": "Improper selection and application of the procurement procedure"
-    },
-    "cancellation": {
-        "title_uk": "Відміна процедури закупівлі",
-        "title_en": "Cancellation of the procurement procedure"
-    },
-    "appealDecisionViolation": {
-        "title_uk": "Невиконання рішення органу оскарження",
-        "title_en": "Non-comply of the decision of the appeal body"
-    },
-    "otherViolations": {
-        "title_uk": "Інші дії/бездіяльність замовника (у т.ч. ненадання роз’яснень тощо)",
-        "title_en": "Other actions/inaction of the buyer (including failure to provide explanations, etc.)"
-    },
-    "winnerDocuments": {
-        "title_uk": "Документи, які надаються переможцем",
-        "title_en": "Documents provided by the winner"
-    }
+  "selectionCriteria": {
+    "title_uk": "Кваліфікаційні критерії учасників",
+    "title_en": "Qualification criteria of bidders"
+  },
+  "technicalSpecification": {
+    "title_uk": "Технічна специфікація предмета закупівлі",
+    "title_en": "Technical specification of the procurement subject"
+  },
+  "guarantee": {
+    "title_uk": "Забезпечення тендерної пропозиції/виконання договору",
+    "title_en": "Guarantee of the tender offer/execution of the contract"
+  },
+  "contractTerms": {
+    "title_uk": "Умови проекту договору",
+    "title_en": "Terms and conditions of the draft contract"
+  },
+  "nonPriceCriteria": {
+    "title_uk": "Нецінові критерії оцінки тендерної пропозиції",
+    "title_en": "Non-price tender evaluation criteria"
+  },
+  "exclusionGrounds": {
+    "title_uk": "Підстави для відмови в участі у процедурі закупівлі",
+    "title_en": "Reasons for refusing to participate in the procurement procedure"
+  },
+  "otherCriteria": {
+    "title_uk": "Інші умови тендерної документації",
+    "title_en": "Other terms of tender documentation"
+  },
+  "procurementMethodType": {
+    "title_uk": "Неправомірне обрання та застосування процедури закупівлі",
+    "title_en": "Improper selection and application of the procurement procedure"
+  },
+  "cancellation": {
+    "title_uk": "Відміна процедури закупівлі",
+    "title_en": "Cancellation of the procurement procedure"
+  },
+  "appealDecisionViolation": {
+    "title_uk": "Невиконання рішення органу оскарження",
+    "title_en": "Non-comply of the decision of the appeal body"
+  },
+  "otherViolations": {
+    "title_uk": "Інші дії/бездіяльність замовника (у т.ч. ненадання роз’яснень тощо)",
+    "title_en": "Other actions/inaction of the buyer (including failure to provide explanations, etc.)"
+  },
+  "winnerDocuments": {
+    "title_uk": "Документи, які надаються переможцем",
+    "title_en": "Documents provided by the winner"
+  }
 }

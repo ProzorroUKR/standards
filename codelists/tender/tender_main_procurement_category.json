@@ -1,20 +1,20 @@
 {
-    "goods": {
-        "name_en": "goods", 
-        "description_en": "The primary object of this contracting process involves physical or electronic goods or supplies.", 
-        "name_uk": "товари", 
-        "description_uk": "Основним предметом закупівлі є продукція, об’єкти будь-якого виду та призначення, у тому числі сировина, вироби, устаткування, технології, предмети у твердому, рідкому і газоподібному стані, а також послуги, пов’язані з постачанням таких товарів, якщо вартість таких послуг не перевищує вартості самих товарів."
-    }, 
-    "services": {
-        "name_en": "services", 
-        "description_en": "The primary object of this contracting process involves professional services of some form, generally contracted for on the basis of measurable outputs or deliverables.", 
-        "name_uk": "послуги", 
-        "description_uk": "Основним предметом закупівлі є будь-який предмет закупівлі, крім товарів і робіт, зокрема транспортні послуги, освоєння технологій, наукові дослідження, науково-дослідні або дослідно-конструкторські розробки, медичне та побутове обслуговування, лізинг, найм (оренда), а також фінансові та консультаційні послуги, поточний ремонт."
-    }, 
-    "works": {
-        "name_en": "works", 
-        "description_en": "The primary object of this contracting process involves construction, repair, rehabilitation, demolition, restoration or maintenance of some asset or infrastructure.", 
-        "name_uk": "роботи", 
-        "description_uk": "Основним предметом закупівлі є проектування, будівництво нових, розширення, реконструкція, капітальний ремонт та реставрація існуючих об’єктів і споруд виробничого і невиробничого призначення, роботи з нормування в будівництві, геологорозвідувальні роботи, технічне переоснащення діючих підприємств та супровідні роботам послуги, у тому числі геодезичні роботи, буріння, сейсмічні дослідження, аеро- і супутникова фотозйомка та інші послуги, що включаються до кошторисної вартості робіт, якщо вартість таких послуг не перевищує вартості самих робіт."
-    }
+  "goods": {
+    "name_en": "goods",
+    "description_en": "The primary object of this contracting process involves physical or electronic goods or supplies.",
+    "name_uk": "товари",
+    "description_uk": "Основним предметом закупівлі є продукція, об’єкти будь-якого виду та призначення, у тому числі сировина, вироби, устаткування, технології, предмети у твердому, рідкому і газоподібному стані, а також послуги, пов’язані з постачанням таких товарів, якщо вартість таких послуг не перевищує вартості самих товарів."
+  },
+  "services": {
+    "name_en": "services",
+    "description_en": "The primary object of this contracting process involves professional services of some form, generally contracted for on the basis of measurable outputs or deliverables.",
+    "name_uk": "послуги",
+    "description_uk": "Основним предметом закупівлі є будь-який предмет закупівлі, крім товарів і робіт, зокрема транспортні послуги, освоєння технологій, наукові дослідження, науково-дослідні або дослідно-конструкторські розробки, медичне та побутове обслуговування, лізинг, найм (оренда), а також фінансові та консультаційні послуги, поточний ремонт."
+  },
+  "works": {
+    "name_en": "works",
+    "description_en": "The primary object of this contracting process involves construction, repair, rehabilitation, demolition, restoration or maintenance of some asset or infrastructure.",
+    "name_uk": "роботи",
+    "description_uk": "Основним предметом закупівлі є проектування, будівництво нових, розширення, реконструкція, капітальний ремонт та реставрація існуючих об’єктів і споруд виробничого і невиробничого призначення, роботи з нормування в будівництві, геологорозвідувальні роботи, технічне переоснащення діючих підприємств та супровідні роботам послуги, у тому числі геодезичні роботи, буріння, сейсмічні дослідження, аеро- і супутникова фотозйомка та інші послуги, що включаються до кошторисної вартості робіт, якщо вартість таких послуг не перевищує вартості самих робіт."
+  }
 }

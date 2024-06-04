@@ -1,8 +1,8 @@
 {
-    "evaluationReports": {
-        "title_en": "Evaluation report",
-        "description_en": "Report on the evaluation of the bids and the application of the evaluation criteria, including the justification fo the award",
-        "title_uk": "Протокол розгляду", 
-        "description_uk": "Звіт про оцінку пропозицій і застосування критеріїв оцінки, у тому числі, обґрунтування рішення про визначення переможця."
-    }
+  "evaluationReports": {
+    "title_en": "Evaluation report",
+    "description_en": "Report on the evaluation of the bids and the application of the evaluation criteria, including the justification fo the award",
+    "title_uk": "Протокол розгляду",
+    "description_uk": "Звіт про оцінку пропозицій і застосування критеріїв оцінки, у тому числі, обґрунтування рішення про визначення переможця."
+  }
 }

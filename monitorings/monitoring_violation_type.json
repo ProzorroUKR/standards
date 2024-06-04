@@ -1,86 +1,86 @@
 {
-    "corruptionDescription": {
-        "title_en": "Violation of the procedure for determining the subject of procurement", 
-        "title_uk": "Порушення порядку визначення предмета закупівлі"
-    }, 
-    "corruptionProcurementMethodType": {
-        "title_en": "Violation of the legislation in relation to the wrongful election and application of the procurement procedure was established", 
-        "title_uk": "Порушення законодавства в частині неправомірного обрання та застосування процедури закупівлі"
-    }, 
-    "corruptionPublicDisclosure": {
-        "title_en": "Failure to disclose or violate the timing of the procurement information", 
-        "title_uk": "Неоприлюднення або порушення строків оприлюднення інформації про закупівлі"
-    }, 
-    "corruptionBiddingDocuments": {
-        "title_en": "Tender documentation is not compiled in accordance with the requirements of the law", 
-        "title_uk": "Тендерна документація складена не у відповідності до вимог закону"
-    }, 
-    "documentsForm": {
-        "title_en": "The violation of the legislation in the part of drawing up of documents in the field of public procurement was established", 
-        "title_uk": "Порушення законодавства в частині складання форм документів у сфері публічних закупівель"
-    }, 
-    "corruptionAwarded": {
-        "title_en": "Rejection of bids that are subject to rejection in accordance with the law", 
-        "title_uk": "Не відхилення тендерних пропозицій, які підлягали відхиленню відповідно до закону"
-    }, 
-    "corruptionCancelled": {
-        "title_en": "The part of non-cancellation by the customer of the purchase", 
-        "title_uk": "Порушення законодавства в частині не відміни замовником закупівлі"
-    }, 
-    "corruptionContracting": {
-        "title_en": "Сoncluding with the tenderer who has won the procurement procedure a procurement contract whose terms do not meet the requirements of the tender documentation and/or the tender offer of the winner of the procurement procedure", 
-        "title_uk": "Укладення з учасником, який став переможцем процедури закупівлі, договору про закупівлю, умови якого не відповідають вимогам тендерної документації та/або тендерної пропозиції переможця процедури закупівлі"
-    }, 
-    "corruptionChanges": {
-        "title_en": "Аmending the essential terms of the purchase contract in cases not provided for by law", 
-        "title_uk": "Внесення змін до істотних умов договору про закупівлю у випадках, не передбачених законом"
-    }, 
-    "other": {
-        "title_en": "Other violations of the legislation in the field of procurement are established", 
-        "title_uk": "Інші порушення законодавства у сфері закупівель"
-    },
-    "corruptionUntimely": {
-        "title_en": "Untimely provision or failure to provide the customer with clarification on the contents of the tender documentation",
-        "title_uk": "Несвоєчасне надання або ненадання замовником роз'яснень щодо змісту тендерної документації"
-    },
-    "corruptionBidSecurity": {
-        "title_en": "The amount of tender bid security set out in the tender documentation exceeds the limits set by law",
-        "title_uk": "Розмір забезпечення тендерної пропозиції, встановлений у тендерній документації, перевищує межі, визначені законом"
-    },
-    "corruptionFailureDocuments": {
-        "title_en": "Failure to provide information and documents in cases provided for by law",
-        "title_uk": "Ненадання інформації, документів у випадках, передбачених законом"
-    },
-    "corruptionConsideration": {
-        "title_en": "Violation of terms of consideration of the tender offer",
-        "title_uk": "Порушення строків розгляду тендерної пропозиції"
-    },
-    "servicesWithoutProcurementProcedure": {
-        "title_en": "Purchase of goods, works and services before/without procurement/simplified procurement procedures in accordance with the requirements of the law",
-        "title_uk": "Придбання товарів, робіт і послуг до/без проведення процедур закупівель/спрощених закупівель відповідно до вимог закону"
-    },
-    "useProceduresNotByLaw": {
-        "title_en": "The use of competitive dialogue or restricted bidding or negotiated procurement procedures on terms not provided by law",
-        "title_uk": "Застосування конкурентного діалогу або торгів з обмеженою участю, або переговорної процедури закупівлі на умовах, не передбачених законом"
-    },
-    "rejectionOfBidsNotByLaw": {
-        "title_en": "Rejection of bids on grounds not provided for by law or not in accordance with the requirements of the law (groundless rejection)",
-        "title_uk": "Відхилення тендерних пропозицій на підставах, не передбачених законом або не у відповідності до вимог закону (безпідставне відхилення)"
-    },
-    "inaccuratePersonalData": {
-        "title_en": "Entering inaccurate personal data into the electronic procurement system and not updating if they are changed",
-        "title_uk": "Внесення недостовірних персональних даних до електронної системи закупівель та неоновлення у разі їх зміни"
-    },
-    "deadlineForThePublicationDocumentation": {
-        "title_en": "Violation of the deadline for the publication of the tender documentation",
-        "title_uk": "Порушення строків оприлюднення тендерної документації"
-    },
-    "notComplyDecisionACU": {
-        "title_en": "Failure to comply with the decision of the Antimonopoly Committee of Ukraine as a body of appeal on the results of consideration of complaints of the subjects of appeal, the submission of which is provided by law",
-        "title_uk": "Невиконання рішення Антимонопольного комітету України як органу оскарження за результатами розгляду скарг суб’єктів оскарження, подання яких передбачено законом"
-    },
-    "contractsWithoutProcurement": {
-        "title_en": "Conclusion of contracts providing for the payment by the customer of goods, works and services before/without carrying out the procurement/simplified procurement procedures specified by law",
-        "title_uk": "Укладення договорів, які передбачають оплату замовником товарів, робіт і послуг до/без проведення процедур закупівель/спрощених закупівель, визначених законом"
-    }
+  "corruptionDescription": {
+    "title_en": "Violation of the procedure for determining the subject of procurement",
+    "title_uk": "Порушення порядку визначення предмета закупівлі"
+  },
+  "corruptionProcurementMethodType": {
+    "title_en": "Violation of the legislation in relation to the wrongful election and application of the procurement procedure was established",
+    "title_uk": "Порушення законодавства в частині неправомірного обрання та застосування процедури закупівлі"
+  },
+  "corruptionPublicDisclosure": {
+    "title_en": "Failure to disclose or violate the timing of the procurement information",
+    "title_uk": "Неоприлюднення або порушення строків оприлюднення інформації про закупівлі"
+  },
+  "corruptionBiddingDocuments": {
+    "title_en": "Tender documentation is not compiled in accordance with the requirements of the law",
+    "title_uk": "Тендерна документація складена не у відповідності до вимог закону"
+  },
+  "documentsForm": {
+    "title_en": "The violation of the legislation in the part of drawing up of documents in the field of public procurement was established",
+    "title_uk": "Порушення законодавства в частині складання форм документів у сфері публічних закупівель"
+  },
+  "corruptionAwarded": {
+    "title_en": "Rejection of bids that are subject to rejection in accordance with the law",
+    "title_uk": "Не відхилення тендерних пропозицій, які підлягали відхиленню відповідно до закону"
+  },
+  "corruptionCancelled": {
+    "title_en": "The part of non-cancellation by the customer of the purchase",
+    "title_uk": "Порушення законодавства в частині не відміни замовником закупівлі"
+  },
+  "corruptionContracting": {
+    "title_en": "Сoncluding with the tenderer who has won the procurement procedure a procurement contract whose terms do not meet the requirements of the tender documentation and/or the tender offer of the winner of the procurement procedure",
+    "title_uk": "Укладення з учасником, який став переможцем процедури закупівлі, договору про закупівлю, умови якого не відповідають вимогам тендерної документації та/або тендерної пропозиції переможця процедури закупівлі"
+  },
+  "corruptionChanges": {
+    "title_en": "Аmending the essential terms of the purchase contract in cases not provided for by law",
+    "title_uk": "Внесення змін до істотних умов договору про закупівлю у випадках, не передбачених законом"
+  },
+  "other": {
+    "title_en": "Other violations of the legislation in the field of procurement are established",
+    "title_uk": "Інші порушення законодавства у сфері закупівель"
+  },
+  "corruptionUntimely": {
+    "title_en": "Untimely provision or failure to provide the customer with clarification on the contents of the tender documentation",
+    "title_uk": "Несвоєчасне надання або ненадання замовником роз'яснень щодо змісту тендерної документації"
+  },
+  "corruptionBidSecurity": {
+    "title_en": "The amount of tender bid security set out in the tender documentation exceeds the limits set by law",
+    "title_uk": "Розмір забезпечення тендерної пропозиції, встановлений у тендерній документації, перевищує межі, визначені законом"
+  },
+  "corruptionFailureDocuments": {
+    "title_en": "Failure to provide information and documents in cases provided for by law",
+    "title_uk": "Ненадання інформації, документів у випадках, передбачених законом"
+  },
+  "corruptionConsideration": {
+    "title_en": "Violation of terms of consideration of the tender offer",
+    "title_uk": "Порушення строків розгляду тендерної пропозиції"
+  },
+  "servicesWithoutProcurementProcedure": {
+    "title_en": "Purchase of goods, works and services before/without procurement/simplified procurement procedures in accordance with the requirements of the law",
+    "title_uk": "Придбання товарів, робіт і послуг до/без проведення процедур закупівель/спрощених закупівель відповідно до вимог закону"
+  },
+  "useProceduresNotByLaw": {
+    "title_en": "The use of competitive dialogue or restricted bidding or negotiated procurement procedures on terms not provided by law",
+    "title_uk": "Застосування конкурентного діалогу або торгів з обмеженою участю, або переговорної процедури закупівлі на умовах, не передбачених законом"
+  },
+  "rejectionOfBidsNotByLaw": {
+    "title_en": "Rejection of bids on grounds not provided for by law or not in accordance with the requirements of the law (groundless rejection)",
+    "title_uk": "Відхилення тендерних пропозицій на підставах, не передбачених законом або не у відповідності до вимог закону (безпідставне відхилення)"
+  },
+  "inaccuratePersonalData": {
+    "title_en": "Entering inaccurate personal data into the electronic procurement system and not updating if they are changed",
+    "title_uk": "Внесення недостовірних персональних даних до електронної системи закупівель та неоновлення у разі їх зміни"
+  },
+  "deadlineForThePublicationDocumentation": {
+    "title_en": "Violation of the deadline for the publication of the tender documentation",
+    "title_uk": "Порушення строків оприлюднення тендерної документації"
+  },
+  "notComplyDecisionACU": {
+    "title_en": "Failure to comply with the decision of the Antimonopoly Committee of Ukraine as a body of appeal on the results of consideration of complaints of the subjects of appeal, the submission of which is provided by law",
+    "title_uk": "Невиконання рішення Антимонопольного комітету України як органу оскарження за результатами розгляду скарг суб’єктів оскарження, подання яких передбачено законом"
+  },
+  "contractsWithoutProcurement": {
+    "title_en": "Conclusion of contracts providing for the payment by the customer of goods, works and services before/without carrying out the procurement/simplified procurement procedures specified by law",
+    "title_uk": "Укладення договорів, які передбачають оплату замовником товарів, робіт і послуг до/без проведення процедур закупівель/спрощених закупівель, визначених законом"
+  }
 }
