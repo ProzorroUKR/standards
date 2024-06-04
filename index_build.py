@@ -17,6 +17,7 @@ IGNORE_FILES = (
     "README.md",
     "_config.yml",
     ".DS_Store",
+    "mask_codes_example.json",
 )
 
 
