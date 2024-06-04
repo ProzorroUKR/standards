@@ -2,8 +2,7 @@
 from collections import defaultdict
 import os
 
-LAYOUT = """
----
+LAYOUT = """---
 layout: default
 ---
 <body>
@@ -69,7 +68,7 @@ def versions_to_html(args):
 
 def get_files(path):
     files, dirs = [], []
-    for f_name in os.listdir(path):
+    for f_name in sorted(os.listdir(path)):
         if f_name.startswith(path):
             continue
 
