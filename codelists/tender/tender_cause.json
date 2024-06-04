@@ -2,103 +2,161 @@
   "twiceUnsuccessful": {
     "title_uk": "Двічі відмінено процедуру відкритих торгів, у тому числі частково (за лотом), через відсутність достатньої кількості тендерних пропозицій, визначеної цим Законом",
     "title_en": "If procuring entity twicely cancelled a tender due to lack of suppliers",
-    "archive": false,
-    "parent": null
+    "archive": true
+  },
+  "openUnsuccessful": {
+    "title_uk": "Відмінено відкриті торги через неподання жодної тендерної пропозиції для участі у відкритих торгах",
+    "title_en": "The open bidding was canceled due to the failure to submit any tender offer to participate in the open bidding",
+    "archive": false
+  },
+  "combatArea": {
+    "title_uk": "Замовник або його відокремлений підрозділ перебуває на території активних бойових дій",
+    "title_en": "The customer or his detached unit is in the territory of active hostilities",
+    "archive": false
+  },
+  "legalServices": {
+    "title_uk": "Здійснюється закупівля послуг з адвокатської діяльності",
+    "title_en": "Advocacy services are being procured",
+    "archive": false
+  },
+  "sportEvents": {
+    "title_uk": "Здійснюється закупівля послуг, необхідних для проведення спортивних заходів, що включені до Єдиного календарного плану спортивних заходів та спортивних змагань України на відповідний рік",
+    "title_en": "Procurement of services necessary for sports events included in the Unified calendar plan of sports events and sports competitions of Ukraine for the relevant year is carried out",
+    "archive": false
+  },
+  "criticalInfrastructure": {
+    "title_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури",
+    "title_en": "Procurement of goods, works and services for/from construction, repair and other engineering and technical measures for the protection of critical infrastructure objects of the fuel and energy sector of critical infrastructure is carried out",
+    "archive": false
+  },
+  "civilProtection": {
+    "title_uk": "Здійснюється закупівля товарів, робіт і послуг для здійснення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти",
+    "title_en": "The procurement of goods, works and services is carried out for the implementation of measures aimed at ensuring the protection of facilities of enterprises, institutions and organizations of electric power, nuclear industry, coal industry, oil and gas complexes and critical infrastructure facilities of the railway transport sub-sector of the transport and postal sector",
+    "archive": false
+  },
+  "marketUnsuccessful": {
+    "title_uk": "Закупівля із застосуванням електронного каталогу не відбулася або в електронному каталозі відсутній необхідний замовнику товар",
+    "title_en": "The purchase using the electronic catalog did not take place or the product required by the customer is missing from the electronic catalog",
+    "archive": false
+  },
+  "RNBO": {
+    "title_uk": "Здійснюється закупівля програмного забезпечення, засобів зв’язку, пристроїв та засобів мережевої безпеки та інших засобів захисту технічної та інформаційної інфраструктури",
+    "title_en": "The purchase of software, means of communication, devices and means of network security and other means of protection of the technical and information infrastructure is carried out",
+    "archive": false
+  },
+  "insurance": {
+    "title_uk": "Здійснюється закупівля послуг, пов’язаних із створенням або залученням фінансових інструментів, гарантій, кредитів або грантів",
+    "title_en": "Procurement of related services is in progress them with the creation or involvement of financial instruments, guarantees, loans or grants",
+    "archive": false
+  },
+  "inclusivity": {
+    "title_uk": "Закупівля товарів і послуг здійснюється у підприємства або організації, що засновані громадською організацією осіб з інвалідністю",
+    "title_en": "Goods and services are purchased from enterprises or organizations founded by a public organization of persons with disabilities",
+    "archive": false
+  },
+  "missingPersonsSearch": {
+    "title_uk": "Закупівля для здійснення заходів щодо пошуку осіб, зниклих безвісти за особливих обставин, та репатріації і повернення зниклих безвісти (військових, цивільних)",
+    "title_en": "Procurement for the implementation of activities related to the search for persons missing under special circumstances, and the repatriation and return of missing persons (military, civilian)",
+    "archive": false
+  },
+  "DUS": {
+    "title_uk": "Закупівля товарів, робіт і послуг для забезпечення виконання завдань, покладених на Державне управління справами, в умовах правового режиму воєнного стану",
+    "title_en": "Procurement of goods, works and services to ensure the fulfillment of tasks assigned to the State Administration of Affairs under the conditions of the legal regime of martial law",
+    "archive": false
+  },
+  "emergency": {
+    "title_uk": "Закупівля товарів, робіт і послуг для ліквідації наслідків бойових дій в умовах воєнного стану відповідно до актів Кабінету Міністрів України про виділення коштів з резервного фонду державного бюджету",
+    "title_en": "Procurement of goods, works and services for liquidation of the consequences of hostilities under martial law in accordance with acts of the Cabinet of Ministers of Ukraine on the allocation of funds from the reserve fund of the state budget",
+    "archive": false
+  },
+  "UZ": {
+    "title_uk": "Здійснюється закупівля товарів на виконання договору про спільну діяльність, стороною якого виступає АТ \"Укрзалізниця\"",
+    "title_en": "The purchase of goods is carried out for the fulfillment of the agreement on joint activities, to which JSC \"Ukrzaliznytsia\" acts as a party",
+    "archive": false
+  },
+  "defencePurchase": {
+    "title_uk": "Здійснюється закупівля товарів, робіт та послуг для задоволення нагальних потреб Збройних Сил",
+    "title_en": "Procurement of goods, works and services is carried out to meet the urgent needs of the Armed Forces",
+    "archive": false
   },
   "noCompetition": {
     "title_uk": "Роботи, товари чи послуги можуть бути виконані, поставлені чи надані виключно певним суб’єктом господарювання",
     "title_en": "Lack of competition on suited market because of which procurement contract can be established only with one supplier",
-    "archive": true,
-    "parent": null
+    "archive": true
   },
   "quick": {
-    "title_uk": "Виникла нагальна потреба здійснити закупівлю через настання підстав передбачених Законом",
-    "title_en": "Urgent need to do a procurement due to reasons listed in Law",
-    "archive": true,
-    "parent": null
+    "title_uk": "Виникла нагальна потреба здійснити закупівлю у зв’язку з виникненням об’єктивних обставин",
+    "title_en": "There was an urgent need to make a purchase due to the occurrence of objective circumstances",
+    "archive": false
   },
   "additionalPurchase": {
     "title_uk": "Виникла необхідність у постачанні додаткового обсягу товару у того самого постачальника, що здійснюється протягом трьох років після укладення договору про закупівлю і загальна вартість такого постачання не перевищує 50 відсотків ціни договору про закупівлю",
     "title_en": "Need to do an additional procurement with the same supplier. Additional purchase must be done with the same supplier in 3 years after signing a contract if it's value is not higher than 50% of original contract",
-    "archive": false,
-    "parent": null
+    "archive": false
   },
   "additionalConstruction": {
     "title_uk": "Виникла необхідність у закупівлі додаткових аналогічних робіт чи послуг у того самого учасника, що передбачені в основному договорі про закупівлю, який укладений за результатами проведення тендера та/або здійснюється протягом трьох років після укладення договору про закупівлю і загальна вартість таких робіт чи послуг не перевищує 50 відсотків ціни основного договору про закупівлю",
     "title_en": "Need to do an additional construction works which were not listed in the original project, but these one that due to unseen circumstances became necessary to finish the project. Requirements that need to be met: contract will be established with the same supplier, those works are related to the main (original) project; total costs of additional works are not higher than 50% of the original project",
-    "archive": false,
-    "parent": null
+    "archive": false
   },
   "resolvingInsolvency": {
     "title_uk": "Закупівля товарів за процедурою відновлення платоспроможності боржника згідно із законодавством",
     "title_en": "Goods procurement related to resolving insolvency according to the law",
-    "archive": false,
-    "parent": null
+    "archive": true
   },
   "stateLegalServices": {
     "title_uk": "Закупівля юридичних послуг, пов’язаних із захистом прав та інтересів України, захисту національної безпеки і оборони, а також закупівлі товарів, робіт і послуг у разі участі замовника на підставі рішення Кабінету Міністрів України в міжнародних виставкових заходах",
     "title_en": "Legal services procurement related to protection of right and interests of Ukraine and procurements related to international exhibitions that was based on Cabinet of Ministers of Ukraine decision",
-    "archive": false,
-    "parent": null
+    "archive": false
   },
   "artContestIP": {
     "title_uk": "Закупівля творів мистецтва або закупівля, пов’язана із захистом прав інтелектуальної власності, або укладення договору про закупівлю з переможцем архітектурного чи мистецького конкурсу",
     "title_en": "Art procurement or procurement related to protection of rights of intellectual property or contract conclusion with the winner of architecture or art contest",
-    "archive": true,
-    "parent": null
+    "archive": true
   },
   "artPurchase": {
     "title_uk": "Предмет закупівлі полягає у створенні або придбанні витвору мистецтва",
     "title_en": "Procurement related to creation or purchase of artwork",
-    "archive": false,
-    "parent": "noCompetition"
+    "archive": false
   },
   "contestWinner": {
     "title_uk": "Укладення договору з переможцем архітектурного або мистецького конкурсу",
     "title_en": "Conclusion of contract with the winner of architecture or art contest",
-    "archive": false,
-    "parent": "noCompetition"
+    "archive": false
   },
   "technicalReasons": {
     "title_uk": "Відсутність конкуренції з технічних причин",
     "title_en": "Lack of competition due to technical reasons",
-    "archive": false,
-    "parent": "noCompetition"
+    "archive": false
   },
   "intProperty": {
     "title_uk": "Необхідність захисту прав інтелектуальної власності",
     "title_en": "Necessity of protecting intellectual property rights",
-    "archive": false,
-    "parent": "noCompetition"
+    "archive": false
   },
   "lastHope": {
     "title_uk": "Укладення договору з постачальником останньої надії",
     "title_en": "Conclusion of contract with the last hope supplier",
-    "archive": false,
-    "parent": "noCompetition"
+    "archive": false
   },
   "emergency": {
     "title_uk": "Виникнення особливих економічних обставин з негайною ліквідацією наслідків надзвичайних ситуацій",
     "title_en": "Occurrence of special economical reasons related to emergency management",
-    "archive": false,
-    "parent": "quick"
+    "archive": true
   },
   "humanitarianAid": {
     "title_uk": "Надання Україною гуманітарної допомоги іншим державам",
     "title_en": "Providing humanitarian aid to other countries by Ukraine",
-    "archive": false,
-    "parent": "quick"
+    "archive": true
   },
   "contractCancelled": {
     "title_uk": "Розірвання договору про закупівлю з вини учасника",
     "title_en": "Termination of an agreement by the fault of supplier",
-    "archive": false,
-    "parent": "quick"
+    "archive": true
   },
   "activeComplaint": {
     "title_uk": "Оскарження прийнятих рішень, дій чи бездіяльності замовника щодо триваючого тендера",
     "title_en": "Unfinished complaining process in active procurement",
-    "archive": false,
-    "parent": "quick"
+    "archive": true
   }
 }
