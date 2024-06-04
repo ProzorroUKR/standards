@@ -2,10 +2,14 @@
 from collections import defaultdict
 import os
 
-LAYOUT = """---
+LAYOUT = """
+---
 layout: default
 ---
-<body>{}</body>"""
+<body>
+{}
+</body>
+"""
 
 LANG_CODES = ("en", "uk", "ru", "ro")
 IGNORE_EXT = ("py", "txt", "html")
@@ -100,8 +104,21 @@ def get_files(path):
     return response
 
 
-if __name__ == "__main__":
-    data = get_files(".")
+def format_html(html):
+    indent_size = 0
+    formatted_html = ''
+    for tag in html.split('<'):
+        if tag:
+            stripped = '<' + tag.strip()
+            if stripped.startswith('</'):
+                indent_size -= 1
+            formatted_html += '  ' * indent_size + stripped + '\n'
+            if stripped.startswith('<') and not stripped.startswith('</') and not stripped.endswith('/>'):
+                indent_size += 1
+    return formatted_html
 
+
+if __name__ == "__main__":
+    data = format_html(get_files("."))
     with open("index.html", "w") as f:
         f.write(LAYOUT.format(data))
