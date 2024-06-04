@@ -37,18 +37,18 @@
     "title_uk": "Неуспішна закупівля"
   },
   "draft.pending": {
-   "title_uk": "Неактивоване запрошення"
+    "title_uk": "Неактивоване запрошення"
   },
-  "active" : {
-   "title_uk": "Підготовка угоди"
+  "active": {
+    "title_uk": "Підготовка угоди"
   },
-  "active.stage2.pending" : {
-   "title_uk": "Підготовка до 2-го етапу"
+  "active.stage2.pending": {
+    "title_uk": "Підготовка до 2-го етапу"
   },
-  "active.stage2.waiting" : {
-   "title_uk": "Створення 2-го етапу"
+  "active.stage2.waiting": {
+    "title_uk": "Створення 2-го етапу"
   },
-  "draft.stage2" : {
-   "title_uk": "Чернетка"
+  "draft.stage2": {
+    "title_uk": "Чернетка"
   }
 }

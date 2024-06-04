@@ -1,184 +1,184 @@
 [
-    {
-        "additionalIdentifiers": [], 
-        "address": {
-            "countryName": "Сполучені Штати Америки", 
-            "locality": "Вашингтон", 
-            "postalCode": "20433", 
-            "region": "DC", 
-            "streetAddress": "1818 H Street, NW"
-        }, 
-        "contactPoint": {
-            "email": "ukraine@worldbank.org", 
-            "faxNumber": "+380444906670", 
-            "telephone": "+380444906671", 
-            "url": "http://www.worldbank.org/uk/country/ukraine", 
-            "name_en": "Darya Gulei", 
-            "name_uk": "Дар’я Гулей"
-        }, 
-        "identifier": {
-            "id": "44000", 
-            "scheme": "XM-DAC", 
-            "legalName_en": "International Bank for Reconstruction and Development (IBRD)", 
-            "legalName_uk": "Міжнародний банк реконструкції та розвитку (МБРР)"
-        }, 
-        "name_en": "World Bank", 
-        "name_uk": "Світовий Банк"
-    }, 
-    {
-        "additionalIdentifiers": [], 
-        "address": {
-            "countryName": "Швейцарська Конфедерація", 
-            "locality": "Женева", 
-            "postalCode": "1218", 
-            "region": "Grand-Saconnex", 
-            "streetAddress": "Global Health Campus, Chemin du Pommier 40"
-        }, 
-        "contactPoint": {
-            "email": "ccm@theglobalfund.org", 
-            "faxNumber": "+41445806820", 
-            "telephone": "+41587911700", 
-            "url": "https://www.theglobalfund.org/en/", 
-            "name_en": "", 
-            "name_uk": ""
-        }, 
-        "identifier": {
-            "id": "47045", 
-            "scheme": "XM-DAC", 
-            "legalName_en": "Global Fund to Fight AIDS, Tuberculosis and Malaria", 
-            "legalName_uk": "Глобальний Фонд для боротьби зі СНІДом, туберкульозом і малярією"
-        }, 
-        "name_en": "Global Fund", 
-        "name_uk": "Глобальний фонд"
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Сполучені Штати Америки",
+      "locality": "Вашингтон",
+      "postalCode": "20433",
+      "region": "DC",
+      "streetAddress": "1818 H Street, NW"
     },
-    {
-        "additionalIdentifiers": [], 
-        "address": {
-            "countryName": "Україна", 
-            "locality": "м. Київ", 
-            "postalCode": "03191", 
-            "region": "Київська область", 
-            "streetAddress": "вул. Юрія Смолича, буд.6, кв.30"
-        }, 
-        "contactPoint": {
-            "email": "info@ed.org.ua", 
-            "faxNumber": "", 
-            "telephone": "+380507660133", 
-            "url": "https://ed.org.ua/", 
-            "name_en": "Volodymyr Flonts", 
-            "name_uk": "Володимир Фльонц"
-        }, 
-        "identifier": {
-            "id": "39582446", 
-            "scheme": "UA-EDR", 
-            "legalName_en": "Nongovernmental Organization Electronic Democracy", 
-            "legalName_uk": "Громадська організація Електронна демократія"
-        }, 
-        "name_en": "NGO E-DEMOCRACY", 
-        "name_uk": "ГО ЕЛЕКТРОННА ДЕМОКРАТІЯ"
+    "contactPoint": {
+      "email": "ukraine@worldbank.org",
+      "faxNumber": "+380444906670",
+      "telephone": "+380444906671",
+      "url": "http://www.worldbank.org/uk/country/ukraine",
+      "name_en": "Darya Gulei",
+      "name_uk": "Дар’я Гулей"
     },
-    {
-        "additionalIdentifiers": [],
-        "address": {
-            "countryName": "Сполучене Королівство Великої Британії та Північної Ірландії",
-            "locality": "Лондон",
-            "postalCode": "SW1A 2AH",
-            "region": "Лондон",
-            "streetAddress": "King Charles Street"
-        },
-        "contactPoint": {
-            "email": "fcdo.correspondence@fcdo.gov.uk",
-            "faxNumber": "+442070085000",
-            "telephone": "+442070085000",
-            "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
-            "name_en": "Foreign, Commonwealth and Development Office",
-            "name_uk": "Міністерство закордонних справ і справ Співдружності націй та розвитку Великої Британії"
-        },
-        "identifier": {
-            "id": "45001",
-            "scheme": "XM-DAC",
-            "legalName_en": "Foreign, Commonwealth and Development Office",
-            "legalName_uk": "Міністерство закордонних справ і справ Співдружності націй та розвитку Великої Британії"
-        },
-        "name_en": "Foreign, Commonwealth and Development Office",
-        "name_uk": "Міністерство закордонних справ і справ Співдружності націй та розвитку Великої Британії"
+    "identifier": {
+      "id": "44000",
+      "scheme": "XM-DAC",
+      "legalName_en": "International Bank for Reconstruction and Development (IBRD)",
+      "legalName_uk": "Міжнародний банк реконструкції та розвитку (МБРР)"
     },
-    {
-        "additionalIdentifiers": [],
-        "address": {
-            "countryName": "Сполучені Штати Америки",
-            "locality": "Вашингтон",
-            "postalCode": "20004",
-            "region": "DC",
-            "streetAddress": "1300 Pennsylvania Avenue NW"
-        },
-        "contactPoint": {
-            "email": "open@usaid.gov",
-            "faxNumber": "+12022163070",
-            "telephone": "+12027120960",
-            "url": "https://www.usaid.gov/",
-            "name_en": "United States Agency for International Development",
-            "name_uk": "Aгентство США з Міжнародного Розвитку"
-        },
-        "identifier": {
-            "id": "47015",
-            "scheme": "XM-DAC",
-            "legalName_en": "United States Agency for International Development",
-            "legalName_uk": "Aгентство США з Міжнародного Розвитку"
-        },
-        "name_en": "United States Agency for International Development",
-        "name_uk": "Aгентство США з Міжнародного Розвитку"
+    "name_en": "World Bank",
+    "name_uk": "Світовий Банк"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Швейцарська Конфедерація",
+      "locality": "Женева",
+      "postalCode": "1218",
+      "region": "Grand-Saconnex",
+      "streetAddress": "Global Health Campus, Chemin du Pommier 40"
     },
-     {
-        "additionalIdentifiers": [],
-        "address": {
-            "countryName": "Україна",
-            "locality": "м. Київ",
-            "postalCode": "01004",
-            "region": "Київська область",
-            "streetAddress": "вул. Велика Васильківська, буд. 6-о"
-        },
-        "contactPoint": {
-            "email": "myatsyk@icrc.org",
-            "faxNumber": "+380443923210",
-            "telephone": "+380443945424",
-            "url": "https://blogs.icrc.org/ua/",
-            "name_en": "Mariia YATSYK",
-            "name_uk": "Марія ЯЦИК"
-        },
-        "identifier": {
-            "id": "21016",
-            "scheme": "XM-DAC",
-            "legalName_en": "Mission of the International Committee of the Red Cross in Ukraine",
-            "legalName_uk": "Місія Міжнародного Комітету Червоного Хреста в Україні"
-        },
-        "name_en": "ICRC",
-        "name_uk": "МКЧХ"
+    "contactPoint": {
+      "email": "ccm@theglobalfund.org",
+      "faxNumber": "+41445806820",
+      "telephone": "+41587911700",
+      "url": "https://www.theglobalfund.org/en/",
+      "name_en": "",
+      "name_uk": ""
     },
-    {
-        "additionalIdentifiers": [],
-        "address": {
-            "countryName": "Україна",
-            "locality": "м. Київ",
-            "postalCode": "30670",
-            "region": "Київська область",
-            "streetAddress": "пр. Перемоги, буд. 53"
-        },
-        "contactPoint": {
-            "email": "contact@novaukraine.org",
-            "faxNumber": "+380443903167",
-            "telephone": "+380443903167",
-            "url": "http://novaukraine.org",
-            "name_en": "Yuliia Fedorenko",
-            "name_uk": "Юлія Федоренко"
-        },
-        "identifier": {
-            "id": "45044535",
-            "scheme": "UA-EDR",
-            "legalName_en": "CHARITY ORGANIZATION \"INTERNATIONAL CHARITY FUND \"NOVA UKRAINE\"",
-            "legalName_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ \"МІЖНАРОДНИЙ БЛАГОДІЙНИЙ ФОНД \"НОВА ЮКРЕЙН\""
-        },
-        "name_en": "CO \"NOVA UKRAINE ICF\"",
-        "name_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ \"МІЖНАРОДНИЙ БЛАГОДІЙНИЙ ФОНД \"НОВА ЮКРЕЙН\""
-    }
+    "identifier": {
+      "id": "47045",
+      "scheme": "XM-DAC",
+      "legalName_en": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+      "legalName_uk": "Глобальний Фонд для боротьби зі СНІДом, туберкульозом і малярією"
+    },
+    "name_en": "Global Fund",
+    "name_uk": "Глобальний фонд"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Україна",
+      "locality": "м. Київ",
+      "postalCode": "03191",
+      "region": "Київська область",
+      "streetAddress": "вул. Юрія Смолича, буд.6, кв.30"
+    },
+    "contactPoint": {
+      "email": "info@ed.org.ua",
+      "faxNumber": "",
+      "telephone": "+380507660133",
+      "url": "https://ed.org.ua/",
+      "name_en": "Volodymyr Flonts",
+      "name_uk": "Володимир Фльонц"
+    },
+    "identifier": {
+      "id": "39582446",
+      "scheme": "UA-EDR",
+      "legalName_en": "Nongovernmental Organization Electronic Democracy",
+      "legalName_uk": "Громадська організація Електронна демократія"
+    },
+    "name_en": "NGO E-DEMOCRACY",
+    "name_uk": "ГО ЕЛЕКТРОННА ДЕМОКРАТІЯ"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Сполучене Королівство Великої Британії та Північної Ірландії",
+      "locality": "Лондон",
+      "postalCode": "SW1A 2AH",
+      "region": "Лондон",
+      "streetAddress": "King Charles Street"
+    },
+    "contactPoint": {
+      "email": "fcdo.correspondence@fcdo.gov.uk",
+      "faxNumber": "+442070085000",
+      "telephone": "+442070085000",
+      "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+      "name_en": "Foreign, Commonwealth and Development Office",
+      "name_uk": "Міністерство закордонних справ і справ Співдружності націй та розвитку Великої Британії"
+    },
+    "identifier": {
+      "id": "45001",
+      "scheme": "XM-DAC",
+      "legalName_en": "Foreign, Commonwealth and Development Office",
+      "legalName_uk": "Міністерство закордонних справ і справ Співдружності націй та розвитку Великої Британії"
+    },
+    "name_en": "Foreign, Commonwealth and Development Office",
+    "name_uk": "Міністерство закордонних справ і справ Співдружності націй та розвитку Великої Британії"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Сполучені Штати Америки",
+      "locality": "Вашингтон",
+      "postalCode": "20004",
+      "region": "DC",
+      "streetAddress": "1300 Pennsylvania Avenue NW"
+    },
+    "contactPoint": {
+      "email": "open@usaid.gov",
+      "faxNumber": "+12022163070",
+      "telephone": "+12027120960",
+      "url": "https://www.usaid.gov/",
+      "name_en": "United States Agency for International Development",
+      "name_uk": "Aгентство США з Міжнародного Розвитку"
+    },
+    "identifier": {
+      "id": "47015",
+      "scheme": "XM-DAC",
+      "legalName_en": "United States Agency for International Development",
+      "legalName_uk": "Aгентство США з Міжнародного Розвитку"
+    },
+    "name_en": "United States Agency for International Development",
+    "name_uk": "Aгентство США з Міжнародного Розвитку"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Україна",
+      "locality": "м. Київ",
+      "postalCode": "01004",
+      "region": "Київська область",
+      "streetAddress": "вул. Велика Васильківська, буд. 6-о"
+    },
+    "contactPoint": {
+      "email": "myatsyk@icrc.org",
+      "faxNumber": "+380443923210",
+      "telephone": "+380443945424",
+      "url": "https://blogs.icrc.org/ua/",
+      "name_en": "Mariia YATSYK",
+      "name_uk": "Марія ЯЦИК"
+    },
+    "identifier": {
+      "id": "21016",
+      "scheme": "XM-DAC",
+      "legalName_en": "Mission of the International Committee of the Red Cross in Ukraine",
+      "legalName_uk": "Місія Міжнародного Комітету Червоного Хреста в Україні"
+    },
+    "name_en": "ICRC",
+    "name_uk": "МКЧХ"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Україна",
+      "locality": "м. Київ",
+      "postalCode": "30670",
+      "region": "Київська область",
+      "streetAddress": "пр. Перемоги, буд. 53"
+    },
+    "contactPoint": {
+      "email": "contact@novaukraine.org",
+      "faxNumber": "+380443903167",
+      "telephone": "+380443903167",
+      "url": "http://novaukraine.org",
+      "name_en": "Yuliia Fedorenko",
+      "name_uk": "Юлія Федоренко"
+    },
+    "identifier": {
+      "id": "45044535",
+      "scheme": "UA-EDR",
+      "legalName_en": "CHARITY ORGANIZATION \"INTERNATIONAL CHARITY FUND \"NOVA UKRAINE\"",
+      "legalName_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ \"МІЖНАРОДНИЙ БЛАГОДІЙНИЙ ФОНД \"НОВА ЮКРЕЙН\""
+    },
+    "name_en": "CO \"NOVA UKRAINE ICF\"",
+    "name_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ \"МІЖНАРОДНИЙ БЛАГОДІЙНИЙ ФОНД \"НОВА ЮКРЕЙН\""
+  }
 ]

@@ -1,5 +1,5 @@
 {
-  "UAH":  {
+  "UAH": {
     "num": "980",
     "code": "UAH",
     "currency": "Ukrainian hryvnia",
@@ -9,7 +9,7 @@
     "abbr_uk": "грн",
     "sign": "₴"
   },
-  "USD":  {
+  "USD": {
     "num": "840",
     "code": "USD",
     "currency": "United States dollar",
@@ -18,7 +18,7 @@
     "name_uk": "Долар",
     "sign": "$"
   },
-  "EUR":  {
+  "EUR": {
     "num": "978",
     "code": "EUR",
     "currency": "Euro",
@@ -27,7 +27,7 @@
     "name_uk": "Євро",
     "sign": "€"
   },
-  "GBP":  {
+  "GBP": {
     "num": "826",
     "code": "GBP",
     "currency": "Pound sterling",
@@ -36,7 +36,7 @@
     "name_uk": "Фунт стерлінгів",
     "sign": "£"
   },
-  "RUB":  {
+  "RUB": {
     "num": "643",
     "code": "RUB",
     "currency": "Russian ruble",

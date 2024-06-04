@@ -1,30 +1,30 @@
 {
-    "defense": {
-        "title_en": "Procuring entity that conducts procurement for the defense needs", 
-        "title_uk": "Замовник, що здійснює закупівлі для потреб оборони"
-    }, 
-    "general": {
-        "title_en": "Legal person providing the needs of the state or territorial community", 
-        "title_uk": "Юридична особа, яка забезпечує потреби держави або територіальної громади"
-    }, 
-    "other": {
-        "title_en": "State or utility company that is not regarded as procuring entity", 
-        "title_uk": "Державне або комунальне підприємство, яке не належить до замовників"
-    }, 
-    "special": {
-        "title_en": "A legal entity that operates in one or more specific business areas", 
-        "title_uk": "Юридична особа, яка здійснює діяльність в одній або декількох окремих сферах господарювання"
-    }, 
-    "central": {
-        "title_en": "Legal entity that meets the needs of the state or territorial community (CPB)", 
-        "title_uk": "Юридична особа, яка забезпечує потреби держави або територіальної громади (ЦЗО)"
-    },
-    "authority": {
-        "title_en": "Public authority, local government or law enforcement agency", 
-        "title_uk": "Орган державної влади, місцевого самоврядування або правоохоронний орган"
-    },
-    "social": {
-        "title_en": "Social insurance authority", 
-        "title_uk": "Орган соціального страхування"
-    }
+  "defense": {
+    "title_en": "Procuring entity that conducts procurement for the defense needs",
+    "title_uk": "Замовник, що здійснює закупівлі для потреб оборони"
+  },
+  "general": {
+    "title_en": "Legal person providing the needs of the state or territorial community",
+    "title_uk": "Юридична особа, яка забезпечує потреби держави або територіальної громади"
+  },
+  "other": {
+    "title_en": "State or utility company that is not regarded as procuring entity",
+    "title_uk": "Державне або комунальне підприємство, яке не належить до замовників"
+  },
+  "special": {
+    "title_en": "A legal entity that operates in one or more specific business areas",
+    "title_uk": "Юридична особа, яка здійснює діяльність в одній або декількох окремих сферах господарювання"
+  },
+  "central": {
+    "title_en": "Legal entity that meets the needs of the state or territorial community (CPB)",
+    "title_uk": "Юридична особа, яка забезпечує потреби держави або територіальної громади (ЦЗО)"
+  },
+  "authority": {
+    "title_en": "Public authority, local government or law enforcement agency",
+    "title_uk": "Орган державної влади, місцевого самоврядування або правоохоронний орган"
+  },
+  "social": {
+    "title_en": "Social insurance authority",
+    "title_uk": "Орган соціального страхування"
+  }
 }

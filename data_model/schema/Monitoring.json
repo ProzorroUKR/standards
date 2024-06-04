@@ -35,9 +35,6 @@
     "endDate": {
       "$ref": "Date.json"
     },
-    "monitoring_id": {
-      "type": "string"
-    },
     "status": {
       "type": "string",
       "enum": [

@@ -1,4 +1,4 @@
-name: Data model validation
+name: Data Model Validation
 
 on:
   [push,pull_request]

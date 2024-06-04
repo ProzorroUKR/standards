@@ -1,10 +1,10 @@
 {
-    "invalidTitle": {
-        "title_en": "The product title is incorrect",
-        "title_uk": "Невірно зазначена назва товару"
-    },
-    "invalidCharacteristics": {
-        "title_en": "Incorrectly specified product characteristics",
-        "title_uk": "Невірно вказані характеристики товару"
-    }
+  "invalidTitle": {
+    "title_en": "The product title is incorrect",
+    "title_uk": "Невірно зазначена назва товару"
+  },
+  "invalidCharacteristics": {
+    "title_en": "Incorrectly specified product characteristics",
+    "title_uk": "Невірно вказані характеристики товару"
+  }
 }

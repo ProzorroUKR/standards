@@ -1,26 +1,26 @@
 {
-    "itemPriceVariation": {
-        "title_en": "Changing the unit price of goods (services) not more than 10 percent in the case of fluctuations in the price of the goods (services) in the market", 
-        "description_en": "Procuring Entity should make an appropriate percentage (XX,XX% format), which increases or decreases previous values associated with a particular item, and the CDB returns the listed values of the corresponding unitPrice", 
-        "title_uk": "Зміна ціни за одиницю товару (послуги) не більше ніж на 10 відсотків у разі коливання ціни такого товару (послуги) на ринку", 
-        "description_uk": "Замовник має внести відповідне відсоткове значення (формату XX,XX%), що збільшує або зменшує попередні значення, стосовного певного item, а ЦБД повернути перераховані значення відповідних unitPrice"
-    }, 
-    "thirdParty": {
-        "title_en": "Changing the statutory regulations of the state statistics of the consumer price index, the change in the exchange rate of foreign currency, the exchange quotations or Platts indicators, regulated prices (tariffs) and standards applicable in the framework agreement, in the case of an order, the price change per unit of goods (services) in the framework agreement", 
-        "description_en": "Procuring Entity should make an appropriate percentage (XX,XX% format), which increases or decreases previous values associated with a particular item, and the CDB returns the listed values of the corresponding unitPrice", 
-        "title_uk": "Зміна встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміна курсу іноземної валюти, зміна біржових котирувань або показників Platts, регульованих цін (тарифів) і нормативів, які застосовуються в рамковій угоді, у разі встановлення порядку зміна ціни за одиницю товару (послуги) у рамковій угоді", 
-        "description_uk": "Замовник має внести відповідне відсоткове значення (формату XX,XX%), що збільшує або зменшує попередні значення, стосовногопевного item, а ЦБД повернути перераховані значення відповідних unitPrice"
-    }, 
-    "taxRate": {
-        "title_en": "Changing the price per unit of goods (services) due to changes in rates of taxes and fees is proportional to changes in such rates", 
-        "description_en": "Procuring Entity can enter either the percentage value or the absolute value (format XX,XX UAH.), which increases or decreases the previous values related to a certain item, after that CDB should return the listed values of the corresponding unitPrice", 
-        "title_uk": "Зміна ціни за одиницю товару (послуги) у зв'язку із зміною ставок податків і зборів пропорційно до змін таких ставок", 
-        "description_uk": "Замовник може внести або відсоткове значення, або абсолютне значення (формату ХХ,ХХ грн)"
-    }, 
-    "partyWithdrawal": {
-        "title_en": "Termination of participation in the framework agreement of the participant", 
-        "description_en": "Procuring Entity is allowed to change the status of the respective participant if the participant for some reasons is no longer a party to the FA (contracts: active → unsuccessful)", 
-        "title_uk": "Припинення участі у рамковій угоді учасника", 
-        "description_uk": "Замовнику дозволяється змінювати статус відповідного учасника, якщо учасник з певних причин більше не є стороною РУ (contracts:active → unsuccessful)"
-    }
+  "itemPriceVariation": {
+    "title_en": "Changing the unit price of goods (services) not more than 10 percent in the case of fluctuations in the price of the goods (services) in the market",
+    "description_en": "Procuring Entity should make an appropriate percentage (XX,XX% format), which increases or decreases previous values associated with a particular item, and the CDB returns the listed values of the corresponding unitPrice",
+    "title_uk": "Зміна ціни за одиницю товару (послуги) не більше ніж на 10 відсотків у разі коливання ціни такого товару (послуги) на ринку",
+    "description_uk": "Замовник має внести відповідне відсоткове значення (формату XX,XX%), що збільшує або зменшує попередні значення, стосовного певного item, а ЦБД повернути перераховані значення відповідних unitPrice"
+  },
+  "thirdParty": {
+    "title_en": "Changing the statutory regulations of the state statistics of the consumer price index, the change in the exchange rate of foreign currency, the exchange quotations or Platts indicators, regulated prices (tariffs) and standards applicable in the framework agreement, in the case of an order, the price change per unit of goods (services) in the framework agreement",
+    "description_en": "Procuring Entity should make an appropriate percentage (XX,XX% format), which increases or decreases previous values associated with a particular item, and the CDB returns the listed values of the corresponding unitPrice",
+    "title_uk": "Зміна встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміна курсу іноземної валюти, зміна біржових котирувань або показників Platts, регульованих цін (тарифів) і нормативів, які застосовуються в рамковій угоді, у разі встановлення порядку зміна ціни за одиницю товару (послуги) у рамковій угоді",
+    "description_uk": "Замовник має внести відповідне відсоткове значення (формату XX,XX%), що збільшує або зменшує попередні значення, стосовногопевного item, а ЦБД повернути перераховані значення відповідних unitPrice"
+  },
+  "taxRate": {
+    "title_en": "Changing the price per unit of goods (services) due to changes in rates of taxes and fees is proportional to changes in such rates",
+    "description_en": "Procuring Entity can enter either the percentage value or the absolute value (format XX,XX UAH.), which increases or decreases the previous values related to a certain item, after that CDB should return the listed values of the corresponding unitPrice",
+    "title_uk": "Зміна ціни за одиницю товару (послуги) у зв'язку із зміною ставок податків і зборів пропорційно до змін таких ставок",
+    "description_uk": "Замовник може внести або відсоткове значення, або абсолютне значення (формату ХХ,ХХ грн)"
+  },
+  "partyWithdrawal": {
+    "title_en": "Termination of participation in the framework agreement of the participant",
+    "description_en": "Procuring Entity is allowed to change the status of the respective participant if the participant for some reasons is no longer a party to the FA (contracts: active → unsuccessful)",
+    "title_uk": "Припинення участі у рамковій угоді учасника",
+    "description_uk": "Замовнику дозволяється змінювати статус відповідного учасника, якщо учасник з певних причин більше не є стороною РУ (contracts:active → unsuccessful)"
+  }
 }
