@@ -5,8 +5,7 @@ import os
 def get_files_paths(root):
     files = []
     for name in os.listdir(root):
-        if name.startswith("."):
-            # skip hidden files
+        if name.startswith(root):
             continue
 
         path = os.path.join(root, name)
