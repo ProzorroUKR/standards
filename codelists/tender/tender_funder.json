@@ -175,10 +175,10 @@
         "identifier": {
             "id": "45044535",
             "scheme": "UA-EDR",
-            "legalName_en": "CHARITY ORGANIZATION 'INTERNATIONAL CHARITY FUND 'NOVA UKRAINE'",
-            "legalName_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ 'МІЖНАРОДНИЙ БЛАГОДІЙНИЙ ФОНД 'НОВА ЮКРЕЙН'"
+            "legalName_en": "CHARITY ORGANIZATION \"INTERNATIONAL CHARITY FUND \"NOVA UKRAINE\"",
+            "legalName_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ \"МІЖНАРОДНИЙ БЛАГОДІЙНИЙ ФОНД \"НОВА ЮКРЕЙН\""
         },
-        "name_en": "CO 'NOVA UKRAINE ICF'",
-        "name_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ 'МІЖНАРОДНИЙ БЛАГОДІЙНИЙ ФОНД 'НОВА ЮКРЕЙН'"
+        "name_en": "CO \"NOVA UKRAINE ICF\"",
+        "name_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ \"МІЖНАРОДНИЙ БЛАГОДІЙНИЙ ФОНД \"НОВА ЮКРЕЙН\""
     }
 ]

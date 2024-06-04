@@ -80,25 +80,25 @@
   "emergency": {
     "title_uk": "Виникнення особливих економічних обставин з негайною ліквідацією наслідків надзвичайних ситуацій",
     "title_en": "Occurrence of special economical reasons related to emergency management",
-  "archive": false,
-  "parent": "quick"
- },
- "humanitarianAid": {
-  "title_uk": "Надання Україною гуманітарної допомоги іншим державам",
-  "title_en": "Providing humanitarian aid to other countries by Ukraine",
-  "archive": false,
-  "parent": "quick"
- },
- "contractCancelled": {
-  "title_uk": "Розірвання договору про закупівлю з вини учасника",
-  "title_en": "Termination of an agreement by the fault of supplier",
-  "archive": false,
-  "parent": "quick"
- },
- "activeComplaint": {
-  "title_uk": "Оскарження прийнятих рішень, дій чи бездіяльності замовника щодо триваючого тендера",
-  "title_en": "Unfinished complaining process in active procurement",
-  "archive": false,
-  "parent": "quick"
- }
+    "archive": false,
+    "parent": "quick"
+  },
+  "humanitarianAid": {
+    "title_uk": "Надання Україною гуманітарної допомоги іншим державам",
+    "title_en": "Providing humanitarian aid to other countries by Ukraine",
+    "archive": false,
+    "parent": "quick"
+  },
+  "contractCancelled": {
+    "title_uk": "Розірвання договору про закупівлю з вини учасника",
+    "title_en": "Termination of an agreement by the fault of supplier",
+    "archive": false,
+    "parent": "quick"
+  },
+  "activeComplaint": {
+    "title_uk": "Оскарження прийнятих рішень, дій чи бездіяльності замовника щодо триваючого тендера",
+    "title_en": "Unfinished complaining process in active procurement",
+    "archive": false,
+    "parent": "quick"
+  }
 }
