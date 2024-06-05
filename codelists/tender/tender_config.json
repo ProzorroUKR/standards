@@ -64,5 +64,11 @@
     "description_uk": "Параметр, що визначає наявність або відсутність обмеження публічного доступу до структури даних",
     "name_en": "Limited access",
     "description_en": "A parameter that determines whether or not there is a restriction on public access to the data structure"
+  },
+  "cancellationComplainDuration": {
+    "name_uk": "Тривалість оскарження відміни закупівлі",
+    "description_uk": "Параметр, що визначає тривалість періоду оскарження рішення про відміну замовником закупівлі або лоту",
+    "name_en": "Duration of the appeal against the cancellation of the purchase",
+    "description_en": "The parameter that determines the duration of the appeal period for the customer's decision to cancel the purchase or lot"
   }
 }
