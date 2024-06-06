@@ -21,12 +21,7 @@
     ],
     "requirementGroups": [
       {
-        "description": "Учасник підтверджує, що",
-        "requirements": [
-          {
-            "dataType": "boolean"
-          }
-        ]
+        "description": "Учасник підтверджує, що"
       }
     ]
   },
@@ -52,12 +47,7 @@
     ],
     "requirementGroups": [
       {
-        "description": "Учасник підтверджує, що",
-        "requirements": [
-          {
-            "dataType": "boolean"
-          }
-        ]
+        "description": "Учасник підтверджує, що"
       }
     ]
   },
@@ -83,12 +73,7 @@
     ],
     "requirementGroups": [
       {
-        "description": "Учасник підтверджує, що",
-        "requirements": [
-          {
-            "dataType": "boolean"
-          }
-        ]
+        "description": "Учасник підтверджує, що"
       }
     ]
   },
@@ -114,12 +99,7 @@
     ],
     "requirementGroups": [
       {
-        "description": "Учасник підтверджує, що",
-        "requirements": [
-          {
-            "dataType": "boolean"
-          }
-        ]
+        "description": "Учасник підтверджує, що"
       }
     ]
   }
