@@ -25,8 +25,8 @@
     "archive": false
   },
   "criticalInfrastructure": {
-    "title_uk": "Закупівля для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури",
-    "title_en": "Procurement for/from construction, repair and other engineering and technical measures for the protection of critical infrastructure facilities of the fuel and energy sector of critical infrastructure",
+    "title_uk": "Будівництво, ремонт та інші інженерно-технічні заходи із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури",
+    "title_en": "Construction, repair and other engineering and technical measures for the protection of critical infrastructure facilities of the fuel and energy sector of critical infrastructure",
     "archive": false
   },
   "civilProtection": {
@@ -50,8 +50,8 @@
     "archive": false
   },
   "inclusivity": {
-    "title_uk": "Закупівля товарів і послуг здійснюється у підприємства або організації, що засновані громадською організацією осіб з інвалідністю та мають дозвіл на право користування пільгами з оподаткування",
-    "title_en": "The purchase of goods and services is carried out from enterprises or organizations founded by a public organization of persons with disabilities and having a permit for the right to use tax benefits",
+    "title_uk": "Закупівля здійснюється у підприємства або організації, що засновані громадською організацією осіб з інвалідністю та мають дозвіл на право користування пільгами з оподаткування",
+    "title_en": "Purchases are made from enterprises or organizations founded by a public organization of persons with disabilities and authorized to use tax benefits",
     "archive": false
   },
   "missingPersonsSearch": {
@@ -80,8 +80,8 @@
     "archive": true
   },
   "quick": {
-    "title_uk": "Виникла нагальна потреба здійснити закупівлю у зв’язку з виникненням об’єктивних обставин",
-    "title_en": "There was an urgent need to make a purchase due to the occurrence of objective circumstances",
+    "title_uk": "Виникла нагальна потреба здійснити закупівлю у зв’язку з виникненням об’єктивних обставин, що унеможливлюють дотримання замовником строків для проведення закупівлі із застосуванням відкритих торгів та/або електронного каталогу",
+    "title_en": "There was an urgent need to make a purchase in connection with the occurrence of objective circumstances that make it impossible for the customer to comply with the terms for the purchase using open tenders and/or an electronic catalog",
     "archive": false
   },
   "additionalPurchase": {
@@ -100,8 +100,8 @@
     "archive": true
   },
   "stateLegalServices": {
-    "title_uk": "Закупівля юридичних послуг, пов’язаних із захистом прав та інтересів України, захисту національної безпеки і оборони, а також закупівлі товарів, робіт і послуг у разі участі замовника на підставі рішення Кабінету Міністрів України в міжнародних виставкових заходах",
-    "title_en": "Legal services procurement related to protection of right and interests of Ukraine and procurements related to international exhibitions that was based on Cabinet of Ministers of Ukraine decision",
+    "title_uk": "Юридичні послуги, пов’язані із захистом прав та інтересів України, у тому числі з метою захисту національної безпеки і оборони, під час врегулювання спорів, розгляду в закордонних юрисдикційних органах справ за участю іноземного суб’єкта та України",
+    "title_en": "Legal services related to the protection of the rights and interests of Ukraine, including for the purpose of protecting national security and defense, during the settlement of disputes, consideration in foreign jurisdictions of cases involving a foreign subject and Ukraine",
     "archive": false
   },
   "artContestIP": {
@@ -135,8 +135,8 @@
     "archive": false
   },
   "emergency": {
-    "title_uk": "Закупівля товарів, робіт і послуг для ліквідації наслідків надзвичайних ситуацій (наслідків бойових дій в умовах воєнного стану відповідно до актів Кабінету Міністрів України)",
-    "title_en": "Procurement of goods, works and services to eliminate the consequences of emergency situations (the consequences of hostilities under martial law in accordance with the acts of the Cabinet of Ministers of Ukraine)",
+    "title_uk": "Виникнення обставин з ліквідації наслідків надзвичайних ситуацій (наслідків бойових дій в умовах воєнного стану відповідно до актів Кабінету Міністрів України)",
+    "title_en": "The occurrence of circumstances related to the liquidation of the consequences of emergency situations (the consequences of hostilities under martial law in accordance with the acts of the Cabinet of Ministers of Ukraine)",
     "archive": true
   },
   "humanitarianAid": {
