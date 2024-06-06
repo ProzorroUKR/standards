@@ -5,8 +5,8 @@
     "archive": true
   },
   "openUnsuccessful": {
-    "title_uk": "Відмінено відкриті торги через неподання жодної тендерної пропозиції для участі у відкритих торгах",
-    "title_en": "The open bidding was canceled due to the failure to submit any tender offer to participate in the open bidding",
+    "title_uk": "Відмінено відкриті торги через неподання жодної тендерної пропозиції для участі у відкритих торгах, в тому числі за лотом",
+    "title_en": "Open auctions were canceled due to failure to submit any tender offer for participation in open auctions, including by lot",
     "archive": false
   },
   "combatArea": {
@@ -15,68 +15,63 @@
     "archive": false
   },
   "legalServices": {
-    "title_uk": "Здійснюється закупівля послуг з адвокатської діяльності",
-    "title_en": "Advocacy services are being procured",
+    "title_uk": "Послуги з адвокатської діяльності",
+    "title_en": "Advocacy services",
     "archive": false
   },
   "sportEvents": {
-    "title_uk": "Здійснюється закупівля послуг, необхідних для проведення спортивних заходів, що включені до Єдиного календарного плану спортивних заходів та спортивних змагань України на відповідний рік",
-    "title_en": "Procurement of services necessary for sports events included in the Unified calendar plan of sports events and sports competitions of Ukraine for the relevant year is carried out",
+    "title_uk": "Послуги, необхідні для проведення спортивних заходів, спортивних змагань, заходів з фізичної культури і спорту, фізкультурно-спортивної реабілітації, що включені до Єдиного календарного плану фізкультурно-оздоровчих, спортивних заходів та спортивних змагань України на відповідний рік",
+    "title_en": "Services necessary for sports events, sports competitions, physical culture and sports events, physical culture and sports rehabilitation, which are included in the Unified calendar plan for physical culture and health, sports events and sports competitions of Ukraine for the corresponding year",
     "archive": false
   },
   "criticalInfrastructure": {
-    "title_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури",
-    "title_en": "Procurement of goods, works and services for/from construction, repair and other engineering and technical measures for the protection of critical infrastructure objects of the fuel and energy sector of critical infrastructure is carried out",
+    "title_uk": "Закупівля для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури",
+    "title_en": "Procurement for/from construction, repair and other engineering and technical measures for the protection of critical infrastructure facilities of the fuel and energy sector of critical infrastructure",
     "archive": false
   },
   "civilProtection": {
-    "title_uk": "Здійснюється закупівля товарів, робіт і послуг для здійснення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти",
-    "title_en": "The procurement of goods, works and services is carried out for the implementation of measures aimed at ensuring the protection of facilities of enterprises, institutions and organizations of electric power, nuclear industry, coal industry, oil and gas complexes and critical infrastructure facilities of the railway transport sub-sector of the transport and postal sector",
+    "title_uk": "Закупівля для здійснення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту",
+    "title_en": "Procurement for the implementation of measures aimed at ensuring the protection of objects of enterprises, institutions and organizations of electric power, nuclear industry, coal industry, oil and gas complexes and objects of critical infrastructure of the railway transport sub-sector of the transport and postal sector, including in the construction part, creation and arrangement of objects of the fund of protective structures of civil protection",
     "archive": false
   },
   "marketUnsuccessful": {
-    "title_uk": "Закупівля із застосуванням електронного каталогу не відбулася або в електронному каталозі відсутній необхідний замовнику товар",
-    "title_en": "The purchase using the electronic catalog did not take place or the product required by the customer is missing from the electronic catalog",
+    "title_uk": "Не відбулась закупівля із застосуванням електронного каталогу або в електронному каталозі відсутній необхідний замовнику товар",
+    "title_en": "The purchase using the electronic catalog did not take place, or the product required by the customer is missing from the electronic catalog",
     "archive": false
   },
   "RNBO": {
-    "title_uk": "Здійснюється закупівля програмного забезпечення, засобів зв’язку, пристроїв та засобів мережевої безпеки та інших засобів захисту технічної та інформаційної інфраструктури",
-    "title_en": "The purchase of software, means of communication, devices and means of network security and other means of protection of the technical and information infrastructure is carried out",
+    "title_uk": "Закупівля програмного забезпечення, засобів зв’язку, пристроїв та засобів захисту технічної та інформаційної інфраструктури Апаратом Ради національної безпеки і оборони України, коли інформація, що повинна бути оприлюднена в оголошенні, є інформацією з обмеженим доступом",
+    "title_en": "Procurement of software, means of communication, devices and means of protection of technical and information infrastructure by the Apparatus of the National Security and Defense Council of Ukraine, when the information to be made public in the announcement is information with limited access",
     "archive": false
   },
   "insurance": {
-    "title_uk": "Здійснюється закупівля послуг, пов’язаних із створенням або залученням фінансових інструментів, гарантій, кредитів або грантів",
-    "title_en": "Procurement of related services is in progress them with the creation or involvement of financial instruments, guarantees, loans or grants",
+    "title_uk": "Створення або залучення фінансових інструментів, гарантій, кредитів або грантів, а також послуг, пов’язаних із страхуванням, перестрахуванням та/або відшкодуванням збитків від воєнних ризиків торгових суден, задіяних у перевезенні українських експортних товарів",
+    "title_en": "Creation or attraction of financial instruments, guarantees, loans or grants, as well as services related to insurance, reinsurance and/or compensation for losses from war risks of merchant ships involved in the transportation of Ukrainian export goods",
     "archive": false
   },
   "inclusivity": {
-    "title_uk": "Закупівля товарів і послуг здійснюється у підприємства або організації, що засновані громадською організацією осіб з інвалідністю",
-    "title_en": "Goods and services are purchased from enterprises or organizations founded by a public organization of persons with disabilities",
+    "title_uk": "Закупівля товарів і послуг здійснюється у підприємства або організації, що засновані громадською організацією осіб з інвалідністю та мають дозвіл на право користування пільгами з оподаткування",
+    "title_en": "The purchase of goods and services is carried out from enterprises or organizations founded by a public organization of persons with disabilities and having a permit for the right to use tax benefits",
     "archive": false
   },
   "missingPersonsSearch": {
-    "title_uk": "Закупівля для здійснення заходів щодо пошуку осіб, зниклих безвісти за особливих обставин, та репатріації і повернення зниклих безвісти (військових, цивільних)",
-    "title_en": "Procurement for the implementation of activities related to the search for persons missing under special circumstances, and the repatriation and return of missing persons (military, civilian)",
+    "title_uk": "Здійснення заходів щодо пошуку осіб, зниклих безвісти за особливих обставин, та репатріації і повернення зниклих безвісти (військових, цивільних), що проводяться Мінреінтеграції та державними підприємствами, що належать до сфери його управління",
+    "title_en": "Implementation of measures to search for persons missing under special circumstances, and repatriation and return of missing persons (military, civilian), carried out by the Ministry of Reintegration and state enterprises belonging to the sphere of its management",
     "archive": false
   },
   "DUS": {
-    "title_uk": "Закупівля товарів, робіт і послуг для забезпечення виконання завдань, покладених на Державне управління справами, в умовах правового режиму воєнного стану",
-    "title_en": "Procurement of goods, works and services to ensure the fulfillment of tasks assigned to the State Administration of Affairs under the conditions of the legal regime of martial law",
-    "archive": false
-  },
-  "emergency": {
-    "title_uk": "Закупівля товарів, робіт і послуг для ліквідації наслідків бойових дій в умовах воєнного стану відповідно до актів Кабінету Міністрів України про виділення коштів з резервного фонду державного бюджету",
-    "title_en": "Procurement of goods, works and services for liquidation of the consequences of hostilities under martial law in accordance with acts of the Cabinet of Ministers of Ukraine on the allocation of funds from the reserve fund of the state budget",
+    "title_uk": "Забезпечення виконання завдань, покладених на Державне управління справами, в умовах правового режиму воєнного стану за рахунок коштів резервного фонду Державного бюджету України",
+    "title_en": "Ensuring the performance of the tasks assigned to the State Administration of Affairs under the conditions of the legal regime of martial law at the expense of the reserve fund of the State Budget of Ukraine",
     "archive": false
   },
   "UZ": {
-    "title_uk": "Здійснюється закупівля товарів на виконання договору про спільну діяльність, стороною якого виступає АТ \"Укрзалізниця\"",
-    "title_en": "The purchase of goods is carried out for the fulfillment of the agreement on joint activities, to which JSC \"Ukrzaliznytsia\" acts as a party",
+    "title_uk": "Виконання договору про спільну діяльність, стороною якого виступає АТ \"Укрзалізниця\" та укладеного з метою підвищення обороноздатності держави на період дії правового режиму воєнного стану в Україні",
+    "title_en": "Implementation of the agreement on joint activities, to which JSC \"Ukrzaliznytsia\" is a party, concluded with the aim of increasing the state's defense capability during the period of the legal regime of martial law in Ukraine",
     "archive": false
   },
   "defencePurchase": {
-    "title_uk": "Здійснюється закупівля товарів, робіт та послуг для задоволення нагальних потреб Збройних Сил",
-    "title_en": "Procurement of goods, works and services is carried out to meet the urgent needs of the Armed Forces",
+    "title_uk": "Задоволення нагальних потреб Збройних Сил, інших військових формувань та правоохоронних органів на їх запит",
+    "title_en": "Meeting the urgent needs of the Armed Forces, other military formations and law enforcement agencies at their request",
     "archive": false
   },
   "noCompetition": {
@@ -135,13 +130,13 @@
     "archive": false
   },
   "lastHope": {
-    "title_uk": "Укладення договору з постачальником останньої надії",
-    "title_en": "Conclusion of contract with the last hope supplier",
+    "title_uk": "Укладення договору про закупівлю з постачальником останньої надії або з постачальником універсальної послуги",
+    "title_en": "Conclusion of a purchase agreement with a supplier of last resort or with a universal service supplier",
     "archive": false
   },
   "emergency": {
-    "title_uk": "Виникнення особливих економічних обставин з негайною ліквідацією наслідків надзвичайних ситуацій",
-    "title_en": "Occurrence of special economical reasons related to emergency management",
+    "title_uk": "Закупівля товарів, робіт і послуг для ліквідації наслідків надзвичайних ситуацій (наслідків бойових дій в умовах воєнного стану відповідно до актів Кабінету Міністрів України)",
+    "title_en": "Procurement of goods, works and services to eliminate the consequences of emergency situations (the consequences of hostilities under martial law in accordance with the acts of the Cabinet of Ministers of Ukraine)",
     "archive": true
   },
   "humanitarianAid": {
