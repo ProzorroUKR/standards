@@ -30,8 +30,8 @@
     "archive": false
   },
   "civilProtection": {
-    "title_uk": "Закупівля для здійснення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту",
-    "title_en": "Procurement for the implementation of measures aimed at ensuring the protection of objects of enterprises, institutions and organizations of electric power, nuclear industry, coal industry, oil and gas complexes and objects of critical infrastructure of the railway transport sub-sector of the transport and postal sector, including in the construction part, creation and arrangement of objects of the fund of protective structures of civil protection",
+    "title_uk": "Здійснення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту",
+    "title_en": "Implementation of measures aimed at ensuring the protection of objects of enterprises, institutions and organizations of electric power, nuclear industry, coal industry, oil and gas complexes and objects of critical infrastructure of the railway transport sub-sector of the transport and postal sector, including in the part of construction, creation and arrangement of objects of the fund of protective structures of civil protection",
     "archive": false
   },
   "marketUnsuccessful": {
