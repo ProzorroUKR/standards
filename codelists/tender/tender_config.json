@@ -101,6 +101,12 @@
     "name_en": "The number of days to provide explanations for the request ≧ 0 (calendar days)",
     "description_en": "The parameter that sets the number of days for the customer to respond to the request"
   },
+  "qualificationDuration": {
+    "name_uk": "Тривалість кваліфікації",
+    "description_uk": "Параметр, який встановлює тривалість періоду кваліфікації учасників",
+    "name_en": "Qualification duration",
+    "description_en": "The parameter that sets the duration of the participants' qualification period"
+  },
   "restricted": {
     "name_uk": "Обмежений доступ",
     "description_uk": "Параметр, що визначає наявність або відсутність обмеження публічного доступу до структури даних",
