@@ -21,7 +21,7 @@
     ],
     "requirementGroups": [
       {
-        "description": "Учасник підтверджує, що"
+        "description": "Підтвреджується, що"
       }
     ]
   },
@@ -47,7 +47,7 @@
     ],
     "requirementGroups": [
       {
-        "description": "Учасник підтверджує, що"
+        "description": "Підтвреджується, що"
       }
     ]
   },
@@ -73,7 +73,7 @@
     ],
     "requirementGroups": [
       {
-        "description": "Учасник підтверджує, що"
+        "description": "Підтвреджується, що"
       }
     ]
   },
@@ -99,7 +99,7 @@
     ],
     "requirementGroups": [
       {
-        "description": "Учасник підтверджує, що"
+        "description": "Підтвреджується, що"
       }
     ]
   }
