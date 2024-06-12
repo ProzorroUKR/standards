@@ -120,6 +120,12 @@
       "maximum": 1,
       "default": 1
     },
+    "qualificationDuration": {
+      "type": "integer",
+      "minimum": 20,
+      "maximum": 20,
+      "default": 20
+    },
     "restricted": {
       "type": "boolean",
       "enum": [
@@ -146,6 +152,7 @@
     "awardComplainDuration",
     "cancellationComplainDuration",
     "clarificationUntilDuration",
+    "qualificationDuration",
     "restricted"
   ],
   "additionalProperties": false
