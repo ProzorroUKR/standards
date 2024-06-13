@@ -24,7 +24,7 @@ def format_json_files(path):
                 with open(file_path, "r") as fr:
                     text = fr.read()
                     data = json.loads(text)
-                text_formatted = json.dumps(data, indent=INDENT, ensure_ascii=False)
+                text_formatted = json.dumps(data, indent=INDENT, ensure_ascii=False) + "\n"
                 if text != text_formatted:
                     with open(file_path, "w") as fw:
                         fw.write(text_formatted)
