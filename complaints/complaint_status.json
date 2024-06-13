@@ -1,29 +1,38 @@
 {
   "pending": {
-    "title_uk": "Очікує розгляду"
+    "title_uk": "Очікує розгляду",
+    "title_en": "Pending"
   },
   "accepted": {
-    "title_uk": "Прийнято до розгляду"
+    "title_uk": "Прийнято до розгляду",
+    "title_en": "Accepted"
   },
   "invalid": {
-    "title_uk": "Залишено без розгляду"
+    "title_uk": "Залишено без розгляду",
+    "title_en": "Rejected"
   },
   "stopped": {
-    "title_uk": "Розгляд припинено"
+    "title_uk": "Розгляд припинено",
+    "title_en": "Terminated"
   },
   "declined": {
-    "title_uk": "Відмовлено в задоволенні"
+    "title_uk": "Відмовлено в задоволенні",
+    "title_en": "Declined"
   },
   "satisfied": {
-    "title_uk": "Задоволено"
+    "title_uk": "Задоволено",
+    "title_en": "Satisfied"
   },
   "stopping": {
-    "title_uk": "Відкликано"
+    "title_uk": "Відкликано",
+    "title_en": "Recalled"
   },
   "mistaken": {
-    "title_uk": "Скасовано"
+    "title_uk": "Скасовано",
+    "title_en": "Cancelled"
   },
   "resolved": {
-    "title_uk": "Порушення усунуто"
+    "title_uk": "Порушення усунуто",
+    "title_en": "Resolved"
   }
 }
