@@ -21,7 +21,17 @@
     ],
     "requirementGroups": [
       {
-        "description": "Підтвреджується, що"
+        "description": "Підтвреджується, що",
+         "requirements": [
+          {
+            "dataType": "boolean",
+            "expectedValue": true,
+            "eligibleEvidence": {
+              "description": "Документ у форматі PDF",
+              "type": "document"
+            }
+          }
+        ]
       }
     ]
   },
@@ -47,7 +57,17 @@
     ],
     "requirementGroups": [
       {
-        "description": "Підтвреджується, що"
+        "description": "Підтвреджується, що",
+        "requirements": [
+          {
+            "dataType": "boolean",
+            "expectedValue": true,
+            "eligibleEvidence": {
+              "description": "Документ у форматі PDF",
+              "type": "document"
+            }
+          }
+        ]
       }
     ]
   },
@@ -73,7 +93,17 @@
     ],
     "requirementGroups": [
       {
-        "description": "Підтвреджується, що"
+        "description": "Підтвреджується, що",
+        "requirements": [
+          {
+            "dataType": "boolean",
+            "expectedValue": true,
+            "eligibleEvidence": {
+              "description": "Документ у форматі PDF",
+              "type": "document"
+            }
+          }
+        ]
       }
     ]
   },
@@ -99,7 +129,17 @@
     ],
     "requirementGroups": [
       {
-        "description": "Підтвреджується, що"
+        "description": "Підтвреджується, що",
+        "requirements": [
+          {
+            "dataType": "boolean",
+            "expectedValue": true,
+            "eligibleEvidence": {
+              "description": "Документ у форматі PDF",
+              "type": "document"
+            }
+          }
+        ]
       }
     ]
   }
