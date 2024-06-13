@@ -22,7 +22,7 @@
     "requirementGroups": [
       {
         "description": "Підтвреджується, що",
-         "requirements": [
+        "requirements": [
           {
             "dataType": "boolean",
             "expectedValue": true,
