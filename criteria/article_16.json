@@ -15,15 +15,21 @@
           "legalName": "Закон України \"Про публічні закупівлі\"",
           "uri": "https://zakon.rada.gov.ua/laws/show/922-19"
         },
-        "type": "NATIONAL_LEGISLATION"
+        "type": "NATIONAL_LEGISLATION",
+        "article": "16.2.1"
       }
     ],
     "requirementGroups": [
       {
-        "description": "Учасник підтверджує, що відповідає вимогам",
-        "requirements": [
+        "description": "Підтвреджується, що",
+         "requirements": [
           {
-            "title": "Наявність в учасника процедури закупівлі обладнання, матеріально-технічної бази та технологій;"
+            "dataType": "boolean",
+            "expectedValue": true,
+            "eligibleEvidence": {
+              "description": "Документ у форматі PDF",
+              "type": "document"
+            }
           }
         ]
       }
@@ -45,15 +51,21 @@
           "legalName": "Закон України \"Про публічні закупівлі\"",
           "uri": "https://zakon.rada.gov.ua/laws/show/922-19"
         },
-        "type": "NATIONAL_LEGISLATION"
+        "type": "NATIONAL_LEGISLATION",
+        "article": "16.2.2"
       }
     ],
     "requirementGroups": [
       {
-        "description": "Учасник підтверджує, що відповідає вимогам",
+        "description": "Підтвреджується, що",
         "requirements": [
           {
-            "title": "Наявність в учасника процедури закупівлі працівників відповідної кваліфікації, які мають необхідні знання та досвід;"
+            "dataType": "boolean",
+            "expectedValue": true,
+            "eligibleEvidence": {
+              "description": "Документ у форматі PDF",
+              "type": "document"
+            }
           }
         ]
       }
@@ -75,15 +87,21 @@
           "legalName": "Закон України \"Про публічні закупівлі\"",
           "uri": "https://zakon.rada.gov.ua/laws/show/922-19"
         },
-        "type": "NATIONAL_LEGISLATION"
+        "type": "NATIONAL_LEGISLATION",
+        "article": "16.2.3"
       }
     ],
     "requirementGroups": [
       {
-        "description": "Учасник підтверджує, що відповідає вимогам",
+        "description": "Підтвреджується, що",
         "requirements": [
           {
-            "title": "Наявність документально підтвердженого досвіду виконання аналогічного (аналогічних) за предметом закупівлі договору (договорів);"
+            "dataType": "boolean",
+            "expectedValue": true,
+            "eligibleEvidence": {
+              "description": "Документ у форматі PDF",
+              "type": "document"
+            }
           }
         ]
       }
@@ -105,15 +123,21 @@
           "legalName": "Закон України \"Про публічні закупівлі\"",
           "uri": "https://zakon.rada.gov.ua/laws/show/922-19"
         },
-        "type": "NATIONAL_LEGISLATION"
+        "type": "NATIONAL_LEGISLATION",
+        "article": "16.2.4"
       }
     ],
     "requirementGroups": [
       {
-        "description": "Учасник підтверджує, що відповідає вимогам",
+        "description": "Підтвреджується, що",
         "requirements": [
           {
-            "title": "Наявність фінансової спроможності, яка підтверджується фінансовою звітністю."
+            "dataType": "boolean",
+            "expectedValue": true,
+            "eligibleEvidence": {
+              "description": "Документ у форматі PDF",
+              "type": "document"
+            }
           }
         ]
       }
