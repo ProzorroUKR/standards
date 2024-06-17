@@ -87,19 +87,20 @@
       "streetAddress": "Бульварно-Кудрявська, 22"
     },
     "contactPoint": {
-      "email": "tt481345@gmail.com",
-      "faxNumber": "+380635785555",
-      "telephone": "+380966896666",
-      "name_uk": "Прозорро Тест"
+      "email": "k.goutsalova@prozorro.ua",
+      "faxNumber": "",
+      "telephone": "+380672493700",
+      "name_uk": "Кристина Гуцалова"
     },
     "identifier": {
-      "id": "12345678",
+      "id": "02426097",
       "scheme": "UA-EDR",
-      "legalName_en": "DERZhAVNA USTANOVA \"TEST Prozorro\"",
-      "legalName_uk": "ДЕРЖАВНА УСТАНОВА \"Тест Прозорро\""
+      "legalName_en": "STATE ENTERPRISE \"Prozorro\"",
+      "legalName_uk": "ДЕРЖАВНА УСТАНОВА \"Прозорро\""
     },
-    "name_en": "DERZhAVNA USTANOVA \"TEST Prozorro\"",
-    "name_uk": "ДЕРЖАВНА УСТАНОВА \"Тест Прозорро\""
+    "name_en": "STATE ENTERPRISE \"Prozorro\"",
+    "name_uk": "ДЕРЖАВНА УСТАНОВА \"Прозорро\"",
+    "marketAdministrator": true
   },
   {
     "active": true,
