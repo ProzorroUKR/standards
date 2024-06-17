@@ -106,6 +106,30 @@
     "address": {
       "countryName": "Україна",
       "locality": "Київ",
+      "postalCode": "01601",
+      "region": "м. Київ",
+      "streetAddress": "Бульварно-Кудрявська, 22"
+    },
+    "contactPoint": {
+      "email": "k.goutsalova@prozorro.ua",
+      "telephone": "+380672493700",
+      "name_uk": "Кристина Гуцалова"
+    },
+    "identifier": {
+      "id": "02426097",
+      "scheme": "UA-EDR",
+      "legalName_en": "STATE ENTERPRISE \"Prozorro\"",
+      "legalName_uk": "ДЕРЖАВНА УСТАНОВА \"Прозорро\""
+    },
+    "name_en": "STATE ENTERPRISE \"Prozorro\"",
+    "name_uk": "ДЕРЖАВНА УСТАНОВА \"Прозорро\"",
+    "marketAdministrator": true
+  },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Київ",
       "postalCode": "04119",
       "region": "м. Київ",
       "streetAddress": "вул. Юрія Іллєнка, 83Б"
