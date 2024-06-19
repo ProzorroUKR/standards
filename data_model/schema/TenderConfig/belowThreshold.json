@@ -102,6 +102,12 @@
       "maximum": 0,
       "default": 0
     },
+    "awardComplainDuration": {
+      "type": "integer",
+      "minimum": 2,
+      "maximum": 2,
+      "default": 2
+    },
     "restricted": {
       "type": "boolean",
       "enum": [
@@ -125,6 +131,7 @@
     "hasQualificationComplaints",
     "tenderComplainRegulation",
     "qualificationComplainDuration",
+    "awardComplainDuration",
     "restricted"
   ],
   "additionalProperties": false
