@@ -83,6 +83,12 @@
     "name_en": "The duration of appealing the qualification results",
     "description_en": "The parameter that determines the duration of the period for appealing the results of participant qualification"
   },
+  "awardComplainDuration": {
+    "name_uk": "Тривалість оскарження результатів визначення переможця",
+    "description_uk": "Параметр, що визначає тривалість періоду подання вимог та/або оскарження рішення по кваліфікації учасників",
+    "name_en": "The duration of contesting the results of determining the winner",
+    "description_en": "The parameter that determines the duration of the period for submitting claims and/or appealing the decision on the qualification of participants"
+  },
   "restricted": {
     "name_uk": "Обмежений доступ",
     "description_uk": "Параметр, що визначає наявність або відсутність обмеження публічного доступу до структури даних",
