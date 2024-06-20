@@ -12,27 +12,31 @@
     "hasAwardingOrder": {
       "type": "boolean",
       "enum": [
-        true
+        true,
+        false
       ],
       "default": true
     },
     "hasValueRestriction": {
       "type": "boolean",
       "enum": [
-        true
+        true,
+        false
       ],
       "default": true
     },
     "valueCurrencyEquality": {
       "type": "boolean",
       "enum": [
-        true
+        true,
+        false
       ],
       "default": true
     },
     "hasPrequalification": {
       "type": "boolean",
       "enum": [
+        true,
         false
       ],
       "default": false
@@ -40,7 +44,7 @@
     "minBidsNumber": {
       "type": "integer",
       "minimum": 1,
-      "maximum": 1,
+      "maximum": 9,
       "default": 1
     },
     "hasPreSelectionAgreement": {

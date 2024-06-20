@@ -8,10 +8,19 @@
         false
       ],
       "default": false
+    },
+    "hasLegalRegulation": {
+      "type": "boolean",
+      "enum": [
+        true,
+        false
+      ],
+      "default": true
     }
   },
   "required": [
-    "restrictedDerivatives"
+    "restrictedDerivatives",
+    "hasLegalRegulation"
   ],
   "additionalProperties": false
 }
