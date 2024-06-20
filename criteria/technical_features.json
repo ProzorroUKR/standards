@@ -1,0 +1,26 @@
+{
+  "title": "Вимоги до специфікації предмету закупівлі",
+  "description": "Учасники процедури закупівлі повинні надати у складі тендерних пропозицій інформацію та документи, які підтверджують відповідність тендерної пропозиції учасника технічним, якісним, кількісним та іншим вимогам до предмета закупівлі, установленим замовником",
+  "classification": {
+    "scheme": "ESPD211",
+    "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+    "legislation": [
+      {
+        "version": "2024-04-19",
+        "type": "NATIONAL_LEGISLATION",
+        "identifier": {
+          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#Text",
+          "id": "922-VIII",
+          "legalName": "Про публічні закупівлі"
+        },
+        "article": "22.2.3"
+      },
+    ],
+  "source": "tenderer",
+  "requirementGroups": [
+    {
+      "description": "Підтверджується, що"
+    }
+  ]
+}
