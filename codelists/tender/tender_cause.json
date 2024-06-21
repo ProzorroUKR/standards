@@ -2,103 +2,156 @@
   "twiceUnsuccessful": {
     "title_uk": "Двічі відмінено процедуру відкритих торгів, у тому числі частково (за лотом), через відсутність достатньої кількості тендерних пропозицій, визначеної цим Законом",
     "title_en": "If procuring entity twicely cancelled a tender due to lack of suppliers",
-    "archive": false,
-    "parent": null
+    "archive": true
+  },
+  "openUnsuccessful": {
+    "title_uk": "Відмінено відкриті торги через неподання жодної тендерної пропозиції для участі у відкритих торгах, в тому числі за лотом",
+    "title_en": "Open auctions were canceled due to failure to submit any tender offer for participation in open auctions, including by lot",
+    "archive": false
+  },
+  "combatArea": {
+    "title_uk": "Замовник або його відокремлений підрозділ перебуває на території активних бойових дій",
+    "title_en": "The customer or his detached unit is in the territory of active hostilities",
+    "archive": false
+  },
+  "legalServices": {
+    "title_uk": "Послуги з адвокатської діяльності",
+    "title_en": "Advocacy services",
+    "archive": false
+  },
+  "sportEvents": {
+    "title_uk": "Послуги, необхідні для проведення спортивних заходів, спортивних змагань, заходів з фізичної культури і спорту, фізкультурно-спортивної реабілітації, що включені до Єдиного календарного плану фізкультурно-оздоровчих, спортивних заходів та спортивних змагань України на відповідний рік",
+    "title_en": "Services necessary for sports events, sports competitions, physical culture and sports events, physical culture and sports rehabilitation, which are included in the Unified calendar plan for physical culture and health, sports events and sports competitions of Ukraine for the corresponding year",
+    "archive": false
+  },
+  "criticalInfrastructure": {
+    "title_uk": "Будівництво, ремонт та інші інженерно-технічні заходи із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури",
+    "title_en": "Construction, repair and other engineering and technical measures for the protection of critical infrastructure facilities of the fuel and energy sector of critical infrastructure",
+    "archive": false
+  },
+  "civilProtection": {
+    "title_uk": "Здійснення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту",
+    "title_en": "Implementation of measures aimed at ensuring the protection of objects of enterprises, institutions and organizations of electric power, nuclear industry, coal industry, oil and gas complexes and objects of critical infrastructure of the railway transport sub-sector of the transport and postal sector, including in the part of construction, creation and arrangement of objects of the fund of protective structures of civil protection",
+    "archive": false
+  },
+  "marketUnsuccessful": {
+    "title_uk": "Не відбулась закупівля із застосуванням електронного каталогу або в електронному каталозі відсутній необхідний замовнику товар",
+    "title_en": "The purchase using the electronic catalog did not take place, or the product required by the customer is missing from the electronic catalog",
+    "archive": false
+  },
+  "RNBO": {
+    "title_uk": "Закупівля програмного забезпечення, засобів зв’язку, пристроїв та засобів захисту технічної та інформаційної інфраструктури Апаратом Ради національної безпеки і оборони України, коли інформація, що повинна бути оприлюднена в оголошенні, є інформацією з обмеженим доступом",
+    "title_en": "Procurement of software, means of communication, devices and means of protection of technical and information infrastructure by the Apparatus of the National Security and Defense Council of Ukraine, when the information to be made public in the announcement is information with limited access",
+    "archive": false
+  },
+  "insurance": {
+    "title_uk": "Створення або залучення фінансових інструментів, гарантій, кредитів або грантів, а також послуг, пов’язаних із страхуванням, перестрахуванням та/або відшкодуванням збитків від воєнних ризиків торгових суден, задіяних у перевезенні українських експортних товарів",
+    "title_en": "Creation or attraction of financial instruments, guarantees, loans or grants, as well as services related to insurance, reinsurance and/or compensation for losses from war risks of merchant ships involved in the transportation of Ukrainian export goods",
+    "archive": false
+  },
+  "inclusivity": {
+    "title_uk": "Закупівля здійснюється у підприємства або організації, що засновані громадською організацією осіб з інвалідністю та мають дозвіл на право користування пільгами з оподаткування",
+    "title_en": "Purchases are made from enterprises or organizations founded by a public organization of persons with disabilities and authorized to use tax benefits",
+    "archive": false
+  },
+  "missingPersonsSearch": {
+    "title_uk": "Здійснення заходів щодо пошуку осіб, зниклих безвісти за особливих обставин, та репатріації і повернення зниклих безвісти (військових, цивільних), що проводяться Мінреінтеграції та державними підприємствами, що належать до сфери його управління",
+    "title_en": "Implementation of measures to search for persons missing under special circumstances, and repatriation and return of missing persons (military, civilian), carried out by the Ministry of Reintegration and state enterprises belonging to the sphere of its management",
+    "archive": false
+  },
+  "DUS": {
+    "title_uk": "Забезпечення виконання завдань, покладених на Державне управління справами, в умовах правового режиму воєнного стану за рахунок коштів резервного фонду Державного бюджету України",
+    "title_en": "Ensuring the performance of the tasks assigned to the State Administration of Affairs under the conditions of the legal regime of martial law at the expense of the reserve fund of the State Budget of Ukraine",
+    "archive": false
+  },
+  "UZ": {
+    "title_uk": "Виконання договору про спільну діяльність, стороною якого виступає АТ \"Укрзалізниця\" та укладеного з метою підвищення обороноздатності держави на період дії правового режиму воєнного стану в Україні",
+    "title_en": "Implementation of the agreement on joint activities, to which JSC \"Ukrzaliznytsia\" is a party, concluded with the aim of increasing the state's defense capability during the period of the legal regime of martial law in Ukraine",
+    "archive": false
+  },
+  "defencePurchase": {
+    "title_uk": "Задоволення нагальних потреб Збройних Сил, інших військових формувань та правоохоронних органів на їх запит",
+    "title_en": "Meeting the urgent needs of the Armed Forces, other military formations and law enforcement agencies at their request",
+    "archive": false
   },
   "noCompetition": {
     "title_uk": "Роботи, товари чи послуги можуть бути виконані, поставлені чи надані виключно певним суб’єктом господарювання",
     "title_en": "Lack of competition on suited market because of which procurement contract can be established only with one supplier",
-    "archive": true,
-    "parent": null
+    "archive": true
   },
   "quick": {
-    "title_uk": "Виникла нагальна потреба здійснити закупівлю через настання підстав передбачених Законом",
-    "title_en": "Urgent need to do a procurement due to reasons listed in Law",
-    "archive": true,
-    "parent": null
+    "title_uk": "Виникла нагальна потреба здійснити закупівлю у зв’язку з виникненням об’єктивних обставин, що унеможливлюють дотримання замовником строків для проведення закупівлі із застосуванням відкритих торгів та/або електронного каталогу",
+    "title_en": "There was an urgent need to make a purchase in connection with the occurrence of objective circumstances that make it impossible for the customer to comply with the terms for the purchase using open tenders and/or an electronic catalog",
+    "archive": false
   },
   "additionalPurchase": {
     "title_uk": "Виникла необхідність у постачанні додаткового обсягу товару у того самого постачальника, що здійснюється протягом трьох років після укладення договору про закупівлю і загальна вартість такого постачання не перевищує 50 відсотків ціни договору про закупівлю",
     "title_en": "Need to do an additional procurement with the same supplier. Additional purchase must be done with the same supplier in 3 years after signing a contract if it's value is not higher than 50% of original contract",
-    "archive": false,
-    "parent": null
+    "archive": false
   },
   "additionalConstruction": {
     "title_uk": "Виникла необхідність у закупівлі додаткових аналогічних робіт чи послуг у того самого учасника, що передбачені в основному договорі про закупівлю, який укладений за результатами проведення тендера та/або здійснюється протягом трьох років після укладення договору про закупівлю і загальна вартість таких робіт чи послуг не перевищує 50 відсотків ціни основного договору про закупівлю",
     "title_en": "Need to do an additional construction works which were not listed in the original project, but these one that due to unseen circumstances became necessary to finish the project. Requirements that need to be met: contract will be established with the same supplier, those works are related to the main (original) project; total costs of additional works are not higher than 50% of the original project",
-    "archive": false,
-    "parent": null
+    "archive": false
   },
   "resolvingInsolvency": {
     "title_uk": "Закупівля товарів за процедурою відновлення платоспроможності боржника згідно із законодавством",
     "title_en": "Goods procurement related to resolving insolvency according to the law",
-    "archive": false,
-    "parent": null
+    "archive": true
   },
   "stateLegalServices": {
-    "title_uk": "Закупівля юридичних послуг, пов’язаних із захистом прав та інтересів України, захисту національної безпеки і оборони, а також закупівлі товарів, робіт і послуг у разі участі замовника на підставі рішення Кабінету Міністрів України в міжнародних виставкових заходах",
-    "title_en": "Legal services procurement related to protection of right and interests of Ukraine and procurements related to international exhibitions that was based on Cabinet of Ministers of Ukraine decision",
-    "archive": false,
-    "parent": null
+    "title_uk": "Юридичні послуги, пов’язані із захистом прав та інтересів України, у тому числі з метою захисту національної безпеки і оборони, під час врегулювання спорів, розгляду в закордонних юрисдикційних органах справ за участю іноземного суб’єкта та України",
+    "title_en": "Legal services related to the protection of the rights and interests of Ukraine, including for the purpose of protecting national security and defense, during the settlement of disputes, consideration in foreign jurisdictions of cases involving a foreign subject and Ukraine",
+    "archive": false
   },
   "artContestIP": {
     "title_uk": "Закупівля творів мистецтва або закупівля, пов’язана із захистом прав інтелектуальної власності, або укладення договору про закупівлю з переможцем архітектурного чи мистецького конкурсу",
     "title_en": "Art procurement or procurement related to protection of rights of intellectual property or contract conclusion with the winner of architecture or art contest",
-    "archive": true,
-    "parent": null
+    "archive": true
   },
   "artPurchase": {
     "title_uk": "Предмет закупівлі полягає у створенні або придбанні витвору мистецтва",
     "title_en": "Procurement related to creation or purchase of artwork",
-    "archive": false,
-    "parent": "noCompetition"
+    "archive": false
   },
   "contestWinner": {
     "title_uk": "Укладення договору з переможцем архітектурного або мистецького конкурсу",
     "title_en": "Conclusion of contract with the winner of architecture or art contest",
-    "archive": false,
-    "parent": "noCompetition"
+    "archive": false
   },
   "technicalReasons": {
     "title_uk": "Відсутність конкуренції з технічних причин",
     "title_en": "Lack of competition due to technical reasons",
-    "archive": false,
-    "parent": "noCompetition"
+    "archive": false
   },
   "intProperty": {
     "title_uk": "Необхідність захисту прав інтелектуальної власності",
     "title_en": "Necessity of protecting intellectual property rights",
-    "archive": false,
-    "parent": "noCompetition"
+    "archive": false
   },
   "lastHope": {
-    "title_uk": "Укладення договору з постачальником останньої надії",
-    "title_en": "Conclusion of contract with the last hope supplier",
-    "archive": false,
-    "parent": "noCompetition"
+    "title_uk": "Укладення договору про закупівлю з постачальником останньої надії або з постачальником універсальної послуги",
+    "title_en": "Conclusion of a purchase agreement with a supplier of last resort or with a universal service supplier",
+    "archive": false
   },
   "emergency": {
-    "title_uk": "Виникнення особливих економічних обставин з негайною ліквідацією наслідків надзвичайних ситуацій",
-    "title_en": "Occurrence of special economical reasons related to emergency management",
-    "archive": false,
-    "parent": "quick"
+    "title_uk": "Виникнення обставин з ліквідації наслідків надзвичайних ситуацій (наслідків бойових дій в умовах воєнного стану відповідно до актів Кабінету Міністрів України)",
+    "title_en": "The occurrence of circumstances related to the liquidation of the consequences of emergency situations (the consequences of hostilities under martial law in accordance with the acts of the Cabinet of Ministers of Ukraine)",
+    "archive": true
   },
   "humanitarianAid": {
     "title_uk": "Надання Україною гуманітарної допомоги іншим державам",
     "title_en": "Providing humanitarian aid to other countries by Ukraine",
-    "archive": false,
-    "parent": "quick"
+    "archive": true
   },
   "contractCancelled": {
     "title_uk": "Розірвання договору про закупівлю з вини учасника",
     "title_en": "Termination of an agreement by the fault of supplier",
-    "archive": false,
-    "parent": "quick"
+    "archive": true
   },
   "activeComplaint": {
     "title_uk": "Оскарження прийнятих рішень, дій чи бездіяльності замовника щодо триваючого тендера",
     "title_en": "Unfinished complaining process in active procurement",
-    "archive": false,
-    "parent": "quick"
+    "archive": true
   }
 }
