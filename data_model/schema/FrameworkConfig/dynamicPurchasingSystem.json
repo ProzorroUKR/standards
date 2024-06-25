@@ -8,10 +8,17 @@
         false
       ],
       "default": false
+    },
+    "qualificationComplainDuration": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 0,
+      "default": 0
     }
   },
   "required": [
-    "restrictedDerivatives"
+    "restrictedDerivatives",
+    "qualificationComplainDuration"
   ],
   "additionalProperties": false
 }
