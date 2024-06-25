@@ -59,6 +59,12 @@
     "name_en": "Selection with pre-qualified participants",
     "description_en": "The parameter that determines the presence or absence of the preliminary stage of the qualification selection of participants in the procurement"
   },
+  "qualificationComplainDuration": {
+    "name_uk": "Тривалість оскарження результатів кваліфікації",
+    "description_uk": "Параметр, що визначає тривалість періоду оскарження результатів проведення кваліфікації учасників",
+    "name_en": "The duration of appealing the qualification results",
+    "description_en": "The parameter that determines the duration of the period for appealing the results of participant qualification"
+  },
   "restricted": {
     "name_uk": "Обмежений доступ",
     "description_uk": "Параметр, що визначає наявність або відсутність обмеження публічного доступу до структури даних",

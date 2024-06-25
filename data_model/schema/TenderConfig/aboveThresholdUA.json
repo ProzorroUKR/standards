@@ -71,6 +71,12 @@
       ],
       "default": true
     },
+    "qualificationComplainDuration": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 0,
+      "default": 0
+    },
     "restricted": {
       "type": "boolean",
       "enum": [
@@ -90,6 +96,7 @@
     "hasTenderComplaints",
     "hasAwardComplaints",
     "hasCancellationComplaints",
+    "qualificationComplainDuration",
     "restricted"
   ],
   "additionalProperties": false
