@@ -77,6 +77,12 @@
         false
       ],
       "default": false
+    },
+    "tenderComplainRegulation": {
+      "type": "integer",
+      "minimum": 2,
+      "maximum": 2,
+      "default": 2
     }
   },
   "required": [
@@ -90,7 +96,8 @@
     "hasTenderComplaints",
     "hasAwardComplaints",
     "hasCancellationComplaints",
-    "restricted"
+    "restricted",
+    "tenderComplainRegulation"
   ],
   "additionalProperties": false
 }
