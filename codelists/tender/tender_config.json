@@ -59,6 +59,12 @@
     "name_en": "Selection with pre-qualified participants",
     "description_en": "The parameter that determines the presence or absence of the preliminary stage of the qualification selection of participants in the procurement"
   },
+  "hasValueEstimation": {
+    "name_uk": "Очікувана вартість ТАК/НІ",
+    "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі очікуваної вартості",
+    "name_en": "Expected value YES/NO",
+    "description_en": "The parameter that determines the presence or absence of the expected value in the procurement"
+  },
   "restricted": {
     "name_uk": "Обмежений доступ",
     "description_uk": "Параметр, що визначає наявність або відсутність обмеження публічного доступу до структури даних",
