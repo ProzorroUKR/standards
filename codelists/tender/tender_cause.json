@@ -40,8 +40,8 @@
     "archive": false
   },
   "marketUnsuccessful": {
-    "title_uk": "Не відбулась закупівля із застосуванням електронного каталогу або в електронному каталозі відсутній необхідний замовнику товар (для замовників, які попередньо проводили відкриті торги через ЦЗО)",
-    "title_en": "The purchase using the electronic catalog did not take place, or the product required by the customer is missing from the electronic catalog (for customers who previously conducted open tenders through the CPO)",
+    "title_uk": "Не відбулась закупівля із застосуванням електронного каталогу або в електронному каталозі відсутній необхідний замовнику товар (для замовників в інтересах яких попередньо проводили відкриті торги/закупівлю за рамковою угодою ДУ \"Професійні закупівлі\")",
+    "title_en": "The purchase using the electronic catalog did not take place, or the product required by the customer is missing from the electronic catalog (for customers in whose interests open tenders/procurement was previously carried out under the framework agreement of the \"Professional Procurement\" DU)",
     "archive": false
   },
   "RNBO": {
