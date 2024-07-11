@@ -4,6 +4,11 @@
     "title_en": "If procuring entity twicely cancelled a tender due to lack of suppliers",
     "archive": true
   },
+  "heatingSeason": {
+    "title_uk": "Закупівля газопоршневих, газотурбінних когенераційних установок, газотурбінних установок та блочномодульних котелень (їх складових), їх оренда, закупівля товарів, робіт та послуг, пов’язаних з їх будівництвом та введенням в експлуатацію, для підготовки до опалювального сезону 2024/2025 року",
+    "title_en": "Procurement of gas piston, gas turbine cogeneration units, gas turbine units and block-modular boiler houses (their components), their lease, procurement of goods, works and services related to their construction and commissioning to prepare for the heating season 2024/2025",
+    "archive": false
+  },
   "openUnsuccessful": {
     "title_uk": "Відмінено відкриті торги через неподання жодної тендерної пропозиції для участі у відкритих торгах, в тому числі за лотом",
     "title_en": "Open auctions were canceled due to failure to submit any tender offer for participation in open auctions, including by lot",
@@ -35,8 +40,8 @@
     "archive": false
   },
   "marketUnsuccessful": {
-    "title_uk": "Не відбулась закупівля із застосуванням електронного каталогу або в електронному каталозі відсутній необхідний замовнику товар",
-    "title_en": "The purchase using the electronic catalog did not take place, or the product required by the customer is missing from the electronic catalog",
+    "title_uk": "Не відбулась закупівля із застосуванням електронного каталогу або в електронному каталозі відсутній необхідний замовнику товар (для замовників в інтересах яких попередньо проводили відкриті торги/закупівлю за рамковою угодою ДУ \"Професійні закупівлі\")",
+    "title_en": "The purchase using the electronic catalog did not take place, or the product required by the customer is missing from the electronic catalog (for customers in whose interests open tenders/procurement was previously carried out under the framework agreement of the \"Professional Procurement\" DU)",
     "archive": false
   },
   "RNBO": {
