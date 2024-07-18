@@ -72,9 +72,9 @@
     "description_en": "The parameter that determines the presence or absence of an appeal (appeal to the AMCU by means of a complaint) of the results of the qualification of participants in the procurement"
   },
   "tenderComplainRegulation": {
-    "name_uk": "Визначення кінцевої дати оскарження умов тендерної документації",
+    "name_uk": "Кількість днів між кінцевою датою оскарження умов та кінцевим строком подання пропозицій",
     "description_uk": "Параметр, що визначає кінцеву дату періоду оскарження умов тендерної документації у відповідності до кінцевого строку подання тендерних пропозицій",
-    "name_en": "Determination of the final date for contesting the conditions of the tender documentation",
+    "name_en": "The number of days between the final date for contesting the terms and the deadline for submitting proposals",
     "description_en": "The parameter that determines the final date of the period for contesting the terms of the tender documentation in accordance with the deadline for submitting tender offers"
   },
   "qualificationComplainDuration": {
@@ -85,9 +85,9 @@
   },
   "awardComplainDuration": {
     "name_uk": "Тривалість оскарження результатів визначення переможця",
-    "description_uk": "Параметр, що визначає тривалість періоду подання вимог та/або оскарження рішення по кваліфікації учасників",
+    "description_uk": "Параметр, що визначає тривалість періоду оскарження результатів визначення переможця",
     "name_en": "The duration of contesting the results of determining the winner",
-    "description_en": "The parameter that determines the duration of the period for submitting claims and/or appealing the decision on the qualification of participants"
+    "description_en": "The parameter that determines the duration of the period for contesting the results of determining the winner"
   },
   "cancellationComplainDuration": {
     "name_uk": "Тривалість оскарження відміни закупівлі",
@@ -96,9 +96,9 @@
     "description_en": "The parameter that determines the duration of the appeal period for the customer's decision to cancel the purchase or lot"
   },
   "clarificationUntilDuration": {
-    "name_uk": "Кількість днів для надання пояснень на звернення ≧ 0 (календарні дні)",
-    "description_uk": "Параметр, який встановлює кількість днів для надання відповіді замовником на звернення\n\n",
-    "name_en": "The number of days to provide explanations for the request ≧ 0 (calendar days)",
+    "name_uk": "Кількість днів для надання пояснень на звернення",
+    "description_uk": "Параметр, який встановлює кількість днів для надання відповіді замовником на звернення",
+    "name_en": "The number of days to provide explanations for the request",
     "description_en": "The parameter that sets the number of days for the customer to respond to the request"
   },
   "qualificationDuration": {
