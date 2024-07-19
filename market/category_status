@@ -1,0 +1,10 @@
+{
+  "active": {
+    "title_uk": "Активна",
+    "title_en": "Active"
+  },
+  "hidden": {
+    "title_uk": "Прихована",
+    "title_en": "Hidden"
+  }
+} 
