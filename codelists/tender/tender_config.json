@@ -59,6 +59,54 @@
     "name_en": "Selection with pre-qualified participants",
     "description_en": "The parameter that determines the presence or absence of the preliminary stage of the qualification selection of participants in the procurement"
   },
+  "hasValueEstimation": {
+    "name_uk": "Очікувана вартість ТАК/НІ",
+    "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі очікуваної вартості",
+    "name_en": "Expected value YES/NO",
+    "description_en": "The parameter that determines the presence or absence of the expected value in the procurement"
+  },
+  "hasQualificationComplaints": {
+    "name_uk": "Оскарження результатів кваліфікації",
+    "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі оскарження (звернення до АМКУ за допомогою скарги) результатів проведення кваліфікації учасників",
+    "name_en": "Appeal of the qualification results",
+    "description_en": "The parameter that determines the presence or absence of an appeal (appeal to the AMCU by means of a complaint) of the results of the qualification of participants in the procurement"
+  },
+  "tenderComplainRegulation": {
+    "name_uk": "Кількість днів між кінцевою датою оскарження умов та кінцевим строком подання пропозицій",
+    "description_uk": "Параметр, що визначає кінцеву дату періоду оскарження умов тендерної документації у відповідності до кінцевого строку подання тендерних пропозицій",
+    "name_en": "The number of days between the final date for contesting the terms and the deadline for submitting proposals",
+    "description_en": "The parameter that determines the final date of the period for contesting the terms of the tender documentation in accordance with the deadline for submitting tender offers"
+  },
+  "qualificationComplainDuration": {
+    "name_uk": "Тривалість оскарження результатів кваліфікації",
+    "description_uk": "Параметр, що визначає тривалість періоду оскарження результатів проведення кваліфікації учасників",
+    "name_en": "The duration of appealing the qualification results",
+    "description_en": "The parameter that determines the duration of the period for appealing the results of participant qualification"
+  },
+  "awardComplainDuration": {
+    "name_uk": "Тривалість оскарження результатів визначення переможця",
+    "description_uk": "Параметр, що визначає тривалість періоду оскарження результатів визначення переможця",
+    "name_en": "The duration of contesting the results of determining the winner",
+    "description_en": "The parameter that determines the duration of the period for contesting the results of determining the winner"
+  },
+  "cancellationComplainDuration": {
+    "name_uk": "Тривалість оскарження відміни закупівлі",
+    "description_uk": "Параметр, що визначає тривалість періоду оскарження рішення про відміну замовником закупівлі або лоту",
+    "name_en": "Duration of the appeal against the cancellation of the purchase",
+    "description_en": "The parameter that determines the duration of the appeal period for the customer's decision to cancel the purchase or lot"
+  },
+  "clarificationUntilDuration": {
+    "name_uk": "Кількість днів для надання пояснень на звернення",
+    "description_uk": "Параметр, який встановлює кількість днів для надання відповіді замовником на звернення",
+    "name_en": "The number of days to provide explanations for the request",
+    "description_en": "The parameter that sets the number of days for the customer to respond to the request"
+  },
+  "qualificationDuration": {
+    "name_uk": "Тривалість кваліфікації",
+    "description_uk": "Параметр, який встановлює тривалість періоду кваліфікації учасників",
+    "name_en": "Qualification duration",
+    "description_en": "The parameter that sets the duration of the participants' qualification period"
+  },
   "restricted": {
     "name_uk": "Обмежений доступ",
     "description_uk": "Параметр, що визначає наявність або відсутність обмеження публічного доступу до структури даних",
