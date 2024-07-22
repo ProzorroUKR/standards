@@ -36,22 +36,22 @@
     "description_en": "The parameter that determines the number of bids in procurement sufficient for it to take place"
   },
   "hasTenderComplaints": {
-    "name_uk": "Оскарження тендерної документації",
+    "name_uk": "Оскарження умов тендерної документації",
     "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі оскарження (звернення до АМКУ за допомогою скарги) умов тендерної документації",
     "name_en": "Appeal of the tender documentation",
     "description_en": "The parameter that determines the presence or absence of an appeal (appeal to the AMCU by means of a complaint) of the terms of the tender documentation in the procurement"
   },
   "hasAwardComplaints": {
-    "name_uk": "Оскарження кваліфікації",
-    "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі оскарження (звернення до АМКУ за допомогою скарги) рішення по кваліфікації учасників",
-    "name_en": "Appeal of the qualifications",
-    "description_en": "The parameter that determines the presence or absence of an appeal in the procurement (appeal to the AMCU with the help of a complaint) of the decision on the qualification of participants"
+    "name_uk": "Оскарження результатів визначення переможця",
+    "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі оскарження (звернення до АМКУ за допомогою скарги) результатів визначення переможця",
+    "name_en": "Contesting the results of determining the winner",
+    "description_en": "The parameter that determines the presence or absence of an appeal in the procurement (appeal to the AMCU with the help of a complaint) of the results of the determination of the winner"
   },
   "hasCancellationComplaints": {
-    "name_uk": "Оскарження скасування",
-    "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі оскарження (звернення до АМКУ за допомогою скарги) після скасування процедури",
-    "name_en": "Appeal against cancellation",
-    "description_en": "The parameter that determines the presence or absence of an appeal in the procurement (appeal to the AMCU with the help of a complaint) after the cancellation of the procedure"
+    "name_uk": "Оскарження відміни закупівлі",
+    "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі оскарження (звернення до АМКУ за допомогою скарги) рішень про відміну замовником закупівлі або лоту",
+    "name_en": "Appeal against cancellation of purchase",
+    "description_en": "The parameter that determines the presence or absence of an appeal in the procurement (appeal to the AMCU with the help of a complaint) of decisions on the cancellation of the purchase or lot by the customer"
   },
   "hasPreSelectionAgreement": {
     "name_uk": "Відбір з попередньо кваліфікованими учасниками",
