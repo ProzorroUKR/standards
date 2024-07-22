@@ -7,7 +7,8 @@
     "name_en": "Hryvnia",
     "name_uk": "Гривня",
     "abbr_uk": "грн",
-    "sign": "₴"
+    "sign": "₴",
+    "archive": false
   },
   "USD": {
     "num": "840",
@@ -16,7 +17,8 @@
     "title": "US Dollar",
     "name_en": "Dollar",
     "name_uk": "Долар",
-    "sign": "$"
+    "sign": "$",
+    "archive": false
   },
   "EUR": {
     "num": "978",
@@ -25,7 +27,8 @@
     "title": "Euro",
     "name_en": "Euro",
     "name_uk": "Євро",
-    "sign": "€"
+    "sign": "€",
+    "archive": false
   },
   "GBP": {
     "num": "826",
@@ -34,7 +37,18 @@
     "title": "Pound sterling",
     "name_en": "Pound sterling",
     "name_uk": "Фунт стерлінгів",
-    "sign": "£"
+    "sign": "£",
+    "archive": false
+  },
+  "NOK": {
+    "num": "578",
+    "code": "NOK",
+    "currency": "Norwegian Krone",
+    "title": "Norwegian Krone",
+    "name_en": "Norwegian Krone",
+    "name_uk": "Норвезька крона",
+    "sign": "NKr",
+    "archive": false
   },
   "RUB": {
     "num": "643",
@@ -43,6 +57,7 @@
     "title": "Russian Ruble",
     "name_en": "Russian Ruble",
     "name_uk": "Російський рубль",
-    "sign": "₽"
+    "sign": "₽",
+    "archive": true
   }
 }
