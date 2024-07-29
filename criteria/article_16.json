@@ -25,11 +25,7 @@
         "requirements": [
           {
             "dataType": "boolean",
-            "expectedValue": true,
-            "eligibleEvidence": {
-              "description": "Документ у форматі PDF",
-              "type": "document"
-            }
+            "expectedValue": true
           }
         ]
       }
@@ -61,11 +57,7 @@
         "requirements": [
           {
             "dataType": "boolean",
-            "expectedValue": true,
-            "eligibleEvidence": {
-              "description": "Документ у форматі PDF",
-              "type": "document"
-            }
+            "expectedValue": true
           }
         ]
       }
@@ -97,11 +89,7 @@
         "requirements": [
           {
             "dataType": "boolean",
-            "expectedValue": true,
-            "eligibleEvidence": {
-              "description": "Документ у форматі PDF",
-              "type": "document"
-            }
+            "expectedValue": true
           }
         ]
       }
@@ -133,11 +121,7 @@
         "requirements": [
           {
             "dataType": "boolean",
-            "expectedValue": true,
-            "eligibleEvidence": {
-              "description": "Документ у форматі PDF",
-              "type": "document"
-            }
+            "expectedValue": true
           }
         ]
       }
