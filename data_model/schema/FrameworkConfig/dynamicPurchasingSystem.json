@@ -8,10 +8,24 @@
         false
       ],
       "default": false
+    },
+    "clarificationUntilDuration": {
+      "type": "integer",
+      "minimum": 3,
+      "maximum": 3,
+      "default": 3
+    },
+    "qualificationComplainDuration": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 0,
+      "default": 0
     }
   },
   "required": [
-    "restrictedDerivatives"
+    "restrictedDerivatives",
+    "clarificationUntilDuration",
+    "qualificationComplainDuration"
   ],
   "additionalProperties": false
 }

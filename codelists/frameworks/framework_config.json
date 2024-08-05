@@ -4,5 +4,17 @@
     "description_uk": "Параметр, що визначає наявність або відсутність обмеження публічного доступу до структур даних, що є похідними доступного в публічному АРІ обʼєкту",
     "name_en": "Partially restricted access",
     "description_en": "A parameter that determines the presence or absence of a restriction on public access to data structures that are derivatives of an object available in the public API"
+  },
+  "clarificationUntilDuration": {
+    "name_uk": "Кількість днів для надання пояснень на звернення",
+    "description_uk": "Параметр, який встановлює кількість днів для надання відповіді замовником на звернення",
+    "name_en": "The number of days to provide explanations for the request",
+    "description_en": "The parameter that sets the number of days for the customer to respond to the request"
+  },
+  "qualificationComplainDuration": {
+    "name_uk": "Тривалість оскарження результатів кваліфікації",
+    "description_uk": "Параметр, що визначає тривалість періоду оскарження результатів проведення кваліфікації учасників",
+    "name_en": "The duration of appealing the qualification results",
+    "description_en": "The parameter that determines the duration of the period for appealing the results of participant qualification"
   }
 }
