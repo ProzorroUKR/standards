@@ -683,6 +683,12 @@
     "name_uk": "людино-година",
     "symbol_uk": "л/г"
   },
+  "RL": {
+    "name_en": "reel",
+    "symbol_en": "",
+    "name_uk": "бухта",
+    "symbol_uk": ""
+  },
   "RM": {
     "name_en": "ream",
     "symbol_en": "ream",
