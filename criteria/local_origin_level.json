@@ -4,13 +4,14 @@
     "description": "Товар включений до додаткового переліку, що затверджений Кабінетом Міністрів України, і має ступінь локалізації виробництва, який перевищує або дорівнює ступеню локалізації виробництва, встановленому на відповідний рік. Ці вимоги не застосовуються до закупівель, які підпадають під дію положень Закону України \"Про приєднання України до Угоди про державні закупівлі\", а також положень про державні закупівлі інших міжнародних договорів України, згода на обов’язковість яких надана Верховною Радою України.",
     "classification": {
       "scheme": "ESPD211",
-      "id": "OTHER.SUBJECT_OF_PROCUREMENT.LOCAL_ORIGIN_LEVEL"
+      "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.LOCAL_ORIGIN_LEVEL"
     },
     "relatesTo": "item",
     "legislation": [
       {
         "version": "2021-12-16",
         "type": "NATIONAL_LEGISLATION",
+        "article": "1.4.1",
         "identifier": {
           "uri": "https://zakon.rada.gov.ua/laws/show/1977-20",
           "id": "1977-IX",
@@ -20,6 +21,7 @@
       {
         "version": "2023-04-11",
         "type": "NATIONAL_LEGISLATION",
+        "article": "1.4",
         "identifier": {
           "uri": "https://zakon.rada.gov.ua/laws/show/861-2022-%D0%BF",
           "id": "861-2022-п",
@@ -97,12 +99,7 @@
               "TW",
               "GB",
               "US"
-            ],
-            "eligibleEvidence": {
-              "title": "Документ, що підтверджує країну походження предмету закупівлі",
-              "description": "Документ у форматі PDF",
-              "type": "document"
-            }
+            ]
           }
         ]
       }
