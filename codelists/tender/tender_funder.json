@@ -180,5 +180,31 @@
     },
     "name_en": "CO \"NOVA UKRAINE ICF\"",
     "name_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ \"МІЖНАРОДНИЙ БЛАГОДІЙНИЙ ФОНД \"НОВА ЮКРЕЙН\""
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Сполучене Королівство Великої Британії та Північної Ірландії",
+      "locality": "Лондон",
+      "postalCode": "SW1A 2AH",
+      "region": "Лондон",
+      "streetAddress": "King Charles Street"
+    },
+    "contactPoint": {
+      "email": "fcdo.correspondence@fcdo.gov.uk",
+      "faxNumber": "+442070085000",
+      "telephone": "+442070085000",
+      "url": "",
+      "name_en": "",
+      "name_uk": ""
+    },
+    "identifier": {
+      "id": "",
+      "scheme": "XM-DAC",
+      "legalName_en": "UK International Development (UK Dev)",
+      "legalName_uk": "Програма допомоги з міжнародного розвитку від уряду Великої Британії (UK Dev)"
+    },
+    "name_en": "UK International Development (UK Dev)",
+    "name_uk": "Програма допомоги з міжнародного розвитку від уряду Великої Британії (UK Dev)"
   }
 ]
