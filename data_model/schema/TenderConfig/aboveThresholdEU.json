@@ -71,6 +71,56 @@
       ],
       "default": true
     },
+    "hasValueEstimation": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
+    },
+    "hasQualificationComplaints": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
+    },
+    "tenderComplainRegulation": {
+      "type": "integer",
+      "minimum": 4,
+      "maximum": 4,
+      "default": 4
+    },
+    "qualificationComplainDuration": {
+      "type": "integer",
+      "minimum": 5,
+      "maximum": 5,
+      "default": 5
+    },
+    "awardComplainDuration": {
+      "type": "integer",
+      "minimum": 10,
+      "maximum": 10,
+      "default": 10
+    },
+    "cancellationComplainDuration": {
+      "type": "integer",
+      "minimum": 10,
+      "maximum": 10,
+      "default": 10
+    },
+    "clarificationUntilDuration": {
+      "type": "integer",
+      "minimum": 3,
+      "maximum": 3,
+      "default": 3
+    },
+    "qualificationDuration": {
+      "type": "integer",
+      "minimum": 20,
+      "maximum": 20,
+      "default": 20
+    },
     "restricted": {
       "type": "boolean",
       "enum": [
@@ -90,6 +140,14 @@
     "hasTenderComplaints",
     "hasAwardComplaints",
     "hasCancellationComplaints",
+    "hasValueEstimation",
+    "hasQualificationComplaints",
+    "tenderComplainRegulation",
+    "qualificationComplainDuration",
+    "awardComplainDuration",
+    "cancellationComplainDuration",
+    "clarificationUntilDuration",
+    "qualificationDuration",
     "restricted"
   ],
   "additionalProperties": false
