@@ -7,6 +7,10 @@
     "title_uk": "неможливість усунення виявлених порушень законодавства у сфері публічних закупівель",
     "title_en": "can not fix revealed violations of the law in the scope of public procurement"
   },
+  "noOffer": {
+    "title_uk": "Подано менше 2 тендерних пропозицій",
+    "title_en": "Less than two bids were submitted"
+  },
   "forceMajeure": {
     "title_uk": "неможливість здійснення закупівлі унаслідок непереборної сили",
     "title_en": "can not do a procurement due to force majeure conditions"
