@@ -20,8 +20,8 @@
     "archive": false
   },
   "openUnsuccessful": {
-    "title_uk": "Відмінено конкурентні торги через неподання жодної тендерної пропозиції для участі у спрощеній закупівлі, в тому числі за лотом",
-    "title_en": "Competitive bidding was canceled due to failure to submit any tender offer for participation in simplified procurement, including by lot",
+    "title_uk": "Відмінено конкурентні торги через неподання жодної тендерної пропозиції для участі у закупівлі, в тому числі за лотом",
+    "title_en": "Competitive bidding was canceled due to the failure to submit any tender offer to participate in the procurement, including by lot",
     "archive": false
   },
   "combatArea": {
@@ -115,8 +115,8 @@
     "archive": true
   },
   "stateLegalServices": {
-    "title_uk": "Юридичні послуги, пов’язані із захистом прав та інтересів України, у тому числі з метою захисту національної безпеки і оборони, під час врегулювання спорів, розгляду в закордонних юрисдикційних органах справ за участю іноземного суб’єкта та України",
-    "title_en": "Legal services related to the protection of the rights and interests of Ukraine, including for the purpose of protecting national security and defense, during the settlement of disputes, consideration in foreign jurisdictions of cases involving a foreign entity and Ukraine",
+    "title_uk": "Юридичні послуги, пов’язані із захистом прав та інтересів, у тому числі з метою захисту національної безпеки і оборони України, під час врегулювання спорів, розгляду в закордонних юрисдикційних органах справ за участю іноземного суб’єкта та субʼєкта України",
+    "title_en": "Legal services related to the protection of rights and interests, including for the purpose of protecting the national security and defense of Ukraine, during the settlement of disputes, consideration in foreign jurisdictions of cases involving a foreign subject and a subject of Ukraine",
     "archive": false
   },
   "artContestIP": {
