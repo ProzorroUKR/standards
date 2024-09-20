@@ -4,14 +4,24 @@
     "title_en": "If procuring entity twicely cancelled a tender due to lack of suppliers",
     "archive": true
   },
+  "naturalGas": {
+    "title_uk": "Здійснюється закупівля природного газу суб’єктом ринку природного газу, на якого Кабінетом Міністрів України відповідно до Закону України \"Про ринок природного газу\" покладено спеціальні обов’язки для забезпечення загальносуспільних інтересів у процесі функціонування ринку природного газу",
+    "title_en": "Natural gas is purchased by a natural gas market subject, which the Cabinet of Ministers of Ukraine, in accordance with the Law of Ukraine \"On the Natural Gas Market\", has assigned special duties to ensure public interests in the process of functioning of the natural gas market",
+    "archive": false
+  },
+  "hematopoieticStemCells": {
+    "title_uk": "Гемопоетичні стовбурові клітини, роботи та послуги, що пов’язані з їх придбанням",
+    "title_en": "Hematopoietic stem cells, works and services related to their acquisition",
+    "archive": false
+  },
   "heatingSeason": {
     "title_uk": "Закупівля газопоршневих, газотурбінних когенераційних установок, газотурбінних установок та блочномодульних котелень (їх складових), їх оренда, закупівля товарів, робіт та послуг, пов’язаних з їх будівництвом та введенням в експлуатацію, для підготовки до опалювального сезону 2024/2025 року",
     "title_en": "Procurement of gas piston, gas turbine cogeneration units, gas turbine units and block-modular boiler houses (their components), their lease, procurement of goods, works and services related to their construction and commissioning to prepare for the heating season 2024/2025",
     "archive": false
   },
   "openUnsuccessful": {
-    "title_uk": "Відмінено відкриті торги через неподання жодної тендерної пропозиції для участі у відкритих торгах, в тому числі за лотом",
-    "title_en": "Open auctions were canceled due to failure to submit any tender offer for participation in open auctions, including by lot",
+    "title_uk": "Відмінено конкурентні торги через неподання жодної тендерної пропозиції для участі у закупівлі, в тому числі за лотом",
+    "title_en": "Competitive bidding was canceled due to the failure to submit any tender offer to participate in the procurement, including by lot",
     "archive": false
   },
   "combatArea": {
@@ -105,8 +115,8 @@
     "archive": true
   },
   "stateLegalServices": {
-    "title_uk": "Юридичні послуги, пов’язані із захистом прав та інтересів України, у тому числі з метою захисту національної безпеки і оборони, під час врегулювання спорів, розгляду в закордонних юрисдикційних органах справ за участю іноземного суб’єкта та України",
-    "title_en": "Legal services related to the protection of the rights and interests of Ukraine, including for the purpose of protecting national security and defense, during the settlement of disputes, consideration in foreign jurisdictions of cases involving a foreign subject and Ukraine",
+    "title_uk": "Юридичні послуги, пов’язані із захистом прав та інтересів, у тому числі з метою захисту національної безпеки і оборони України, під час врегулювання спорів, розгляду в закордонних юрисдикційних органах справ за участю іноземного суб’єкта та субʼєкта України",
+    "title_en": "Legal services related to the protection of rights and interests, including for the purpose of protecting the national security and defense of Ukraine, during the settlement of disputes, consideration in foreign jurisdictions of cases involving a foreign subject and a subject of Ukraine",
     "archive": false
   },
   "artContestIP": {
