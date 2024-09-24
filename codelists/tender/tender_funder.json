@@ -206,5 +206,31 @@
     },
     "name_en": "UK International Development (UK Dev)",
     "name_uk": "Програма допомоги з міжнародного розвитку від уряду Великої Британії (UK Dev)"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Україна",
+      "locality": "м. Київ",
+      "postalCode": "01010",
+      "region": "Київська область",
+      "streetAddress": "вул. Омеляновича-Павленка, 4/6, 14 поверх"
+    },
+    "contactPoint": {
+      "email": "procurement@tabletochki.org",
+      "faxNumber": "+380674648774",
+      "telephone": "+380674648774",
+      "url": "https://tabletochki.org",
+      "name_en": "Olena Ronenko",
+      "name_uk": "Олена Роненко"
+    },
+    "identifier": {
+      "id": "38805429",
+      "scheme": "UA-EDR",
+      "legalName_en": "Tabletochki Charity Foundation",
+      "legalName_uk": "Благодійний фонд \"Таблеточки\""
+    },
+    "name_en": "Tabletochki CF",
+    "name_uk": "БФ \"Таблеточки\""
   }
 ]
