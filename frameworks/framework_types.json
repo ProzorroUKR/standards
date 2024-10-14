@@ -10,5 +10,11 @@
     "name_en": "Dynamic purchasing system",
     "description_uk": "Відбір учасників, що використовується для формування динамічного переліку постачальників, серед яких проводяться закупівлі товарів, робіт і послуг.",
     "name_uk": "Динамічна система закупівель"
+  },
+  "requestForProposal": {
+    "description_en": "Selection of participants, which is used to form a dynamic list of suppliers, among which purchases of goods, works and services are carried out.",
+    "name_en": "Dynamic purchasing system",
+    "description_uk": "Відбір учасників, що використовується для формування динамічного переліку постачальників, серед яких проводяться закупівлі товарів, робіт і послуг.",
+    "name_uk": "Динамічна система закупівель"
   }
 }
