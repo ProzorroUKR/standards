@@ -10,5 +10,11 @@
     "name_en": "Dynamic purchasing system",
     "description_uk": "Відбір учасників, що використовується для формування динамічного переліку постачальників, серед яких проводяться закупівлі товарів, робіт і послуг.",
     "name_uk": "Динамічна система закупівель"
+  },
+  "internationalFinancialInstitutions": {
+    "description_en": "The selection of participants used for the formation of prequalified suppliers among whom the procurement of goods, works, and services is carried out by International Financial Institutions.",
+    "name_en": "Prequalification of Participants",
+    "description_uk": "Відбір учасників, що використовується для формування прекваліфікованиї постачальників, серед яких проводяться закупівлі товарів, робіт і послуг Міжнародними фінансовими організаціями.",
+    "name_uk": "Виявлення зацікавленості"
   }
 }
