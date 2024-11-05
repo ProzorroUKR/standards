@@ -138,10 +138,10 @@
   "priceQuotation": {
     "autoInitiated": false,
     "procurementMethod": "selective",
-    "description_en": "Request for proposals for the pre-selection of suppliers according to the specified specification of the subject of procurement",
+    "description_en": "The procurement is used to purchase goods, within the limits established by the Law (from 50,000 hryvnias to 200,000 hryvnias) applying digital catalogue",
     "name_en": "Price Quotation",
-    "description_uk": "Запит пропозицій з попереднього відбору постачальників за визначеною специфікацією предмета закупівлі",
-    "name_uk": "Запит пропозицій постачальників"
+    "description_uk": "Закупівля, що здійснюється для придбання товарів в межах сум, встановлених Законом (від 50,000 гривень до 200,000 гривень для товарів) з використанням електронного каталогу",
+    "name_uk": "Запит (ціни) пропозицій"
   },
   "": {
     "autoInitiated": false,
