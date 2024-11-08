@@ -13,6 +13,13 @@
     "title_uk": "Продовження строку дії договору на наступний рік",
     "archive": false
   },
+  "priceClarification": {
+    "description_en": "Preparation of the contract price, updated in accordance with the approved project documentation to the procurement contract",
+    "title_en": "Clarification of the contractual price",
+    "description_uk": "Складання договірної ціни, уточненої відповідно до затвердженої проектної документації до договору про закупівлю",
+    "title_uk": "Уточнення договірної ціни",
+    "archive": false
+  },
   "itemPriceVariation": {
     "description_en": "an increase in the unit's price of goods to 10% in proportion to the increase in the price of such goods on the market in the event of fluctuations in the price of such goods on the market, provided that such change does not increase the amount specified in the procurement contract, - not more than once every 90 days from the moment of signing the procurement contract. Restrictions on the terms of price change per unit of goods do not apply in cases of changes in the terms of the contract for the purchase of gasoline and diesel fuel, gas and electricity",
     "title_en": "Change in the unit's price",
