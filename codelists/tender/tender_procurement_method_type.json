@@ -7,6 +7,14 @@
     "description_uk": "Закупівля, що регулює придбання товарів, робіт і послуг в межах сум, встановлених Законом (від 50,000 гривень до 200,000 гривень для товарів і послуг, або 1,500,000 гривень для робіт).",
     "name_uk": "Спрощена закупівля"
   },
+  "requestForProposal": {
+    "autoInitiated": false,
+    "procurementMethod": "open",
+    "description_en": "A procedure conducted under specific rules that may be applied by contracting authorities when funded by international organizations.",
+    "name_en": "Procurement according to organizer's rules",
+    "description_uk": "Процедура, яка проводиться за окремими правилами та може застосовуватись замовниками при фінансуванні міжнародними організаціями.",
+    "name_uk": "Торги за правилами організатора"
+  },
   "aboveThreshold": {
     "autoInitiated": false,
     "procurementMethod": "open",
