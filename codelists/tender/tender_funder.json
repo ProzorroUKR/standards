@@ -232,5 +232,31 @@
     },
     "name_en": "Tabletochki CF",
     "name_uk": "БФ \"Таблеточки\""
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Бельгія",
+      "locality": "Брюссель",
+      "postalCode": "1048",
+      "region": "Brussel",
+      "streetAddress": "Rue de la Loi / Wetstraat, 175"
+    },
+    "contactPoint": {
+      "email": "press.centre@consilium.europa.eu",
+      "faxNumber": "+3222816111",
+      "telephone": "+3222816111",
+      "url": "https://european-union.europa.eu",
+      "name_en": "Council of the European Union",
+      "name_uk": "Рада Європейського Союзу"
+    },
+    "identifier": {
+      "id": "55000",
+      "scheme": "XM-DAC",
+      "legalName_en": "Ukraine facility",
+      "legalName_uk": "Ukraine facility"
+    },
+    "name_en": "Ukraine facility",
+    "name_uk": "Ukraine facility"
   }
 ]
