@@ -446,13 +446,12 @@
               "Адміністративні та технічні причини",
               "Особливості діяльності під час воєнного стану"
             ],
-            "expectedMinItems": 1,
-            "expectedMaxItems": 1
+            "expectedMinItems": 1
           },
           {
             "title": "Сума існуючої заборгованості",
             "dataType": "number",
-            "minValue": 0.00
+            "minValue": 0.0
           }
         ]
       }
