@@ -449,7 +449,7 @@
             "expectedMinItems": 1
           },
           {
-            "title": "Сума існуючої заборгованості",
+            "title": "Сума існуючої заборгованості, грн.",
             "dataType": "number",
             "minValue": 0.0
           }
