@@ -1,6 +1,7 @@
 #! /usr/bin/python
 from collections import defaultdict
 import os
+import fnmatch
 
 LAYOUT = """---
 layout: default
@@ -11,13 +12,17 @@ layout: default
 """
 
 LANG_CODES = ("en", "uk", "ru", "ro")
-IGNORE_EXT = ("py", "txt", "html")
-IGNORE_FILES = (
-    "CNAME",
-    "README.md",
-    "_config.yml",
+
+IGNORE_PATTERNS = (
+    "./index.html",
+    "./_config.yml",
+    "./mask_codes_example.json",
     ".DS_Store",
-    "mask_codes_example.json",
+    "README.md",
+    "CNAME",
+    "*.py",
+    "*.txt",
+    ".*",
 )
 
 
@@ -25,13 +30,7 @@ def find_versions(file_names):
     versions = defaultdict(list)
     for name, full_name in file_names:
         options = []
-
-        if name in IGNORE_FILES:
-            continue
-
         name_parts = name.split(".")
-        if name_parts[-1] in IGNORE_EXT:
-            continue
 
         name = ".".join(name_parts[:-1])
         options.extend(name_parts[-1:])
@@ -70,18 +69,29 @@ def versions_to_html(args):
 def get_files(path):
     files, dirs = [], []
     for f_name in sorted(os.listdir(path)):
-        if f_name.startswith(path):
-            continue
-
         full_name = os.path.join(path, f_name)
+        relative_path = os.path.relpath(full_name, ".")
+        
+        # Normalize paths to use forward slashes for consistent matching
+        relative_path = relative_path.replace(os.sep, '/')
+        normalized_path = './' + relative_path if not relative_path.startswith('./') else relative_path
+        
+        # Check both filename and path patterns
+        should_ignore = any(
+            (fnmatch.fnmatch(normalized_path, pattern) if pattern.startswith('./') 
+             else fnmatch.fnmatch(f_name, pattern))
+            for pattern in IGNORE_PATTERNS
+        )
+        
+        if should_ignore:
+            continue
+            
         if os.path.isdir(full_name):
             line = get_files(full_name)
             if line:
                 dirs.append("{} {}".format(f_name, line))
         else:
-            files.append(
-                (f_name, full_name)
-            )
+            files.append((f_name, full_name))
 
     file_versions = find_versions(files)
     items = []
