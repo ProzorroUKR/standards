@@ -1,0 +1,113 @@
+#content > ul {
+    padding: 15px;
+    margin: 0;
+    border-radius: 4px;
+    color: #34495e;
+    font-size: 1.2em;
+    font-weight: 500;
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    padding: 10px 30px;
+}
+
+/* Basic list styling */
+ul {
+    list-style: none;
+    padding-left: 20px;
+    margin: 6px 0;
+}
+
+/* Main list items */
+ul > li {
+    margin: 6px 0;
+    font-weight: 500;
+    color: #333;
+    position: relative;
+    padding-left: 15px;
+    transition: all 0.2s ease;
+}
+
+/* Collapse/expand arrow for items with nested lists */
+ul > li:has(> ul)::after {
+    content: '▼';
+    position: absolute;
+    left: -5px;
+    top: 5px;
+    font-size: 0.7em;
+    color: #007EFD;
+    transition: transform 0.2s ease;
+}
+
+ul > li.collapsed::after {
+    transform: rotate(-90deg);
+}
+
+/* Hide nested lists when collapsed */
+ul > li.collapsed > ul {
+    display: none;
+}
+
+/* For items without nested elements, keep bullet centered */
+ul > li:not(:has(ul))::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 4px;
+    height: 4px;
+    background: #007EFD;
+    border-radius: 50%;
+    transform: translateY(-50%);
+}
+
+/* Nested lists with connecting lines */
+ul ul {
+    margin-left: 12px;
+    position: relative;
+}
+
+ul ul::before {
+    content: '';
+    position: absolute;
+    left: -8px;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: linear-gradient(to bottom, 
+        transparent 0%,
+        #e0e0e0 15%,
+        #e0e0e0 85%,
+        transparent 100%
+    );
+}
+
+/* Links styling */
+ul a {
+    text-decoration: none;
+    color: #007EFD;
+    border-radius: 3px;
+    transition: all 0.2s ease;
+}
+
+ul a:hover {
+    background-color: #007EFD;
+    color: white;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0, 126, 253, 0.2);
+}
+
+/* Hover effects for list items */
+ul > li:hover::before {
+    transform: translateY(-50%) scale(1.2);
+}
+
+/* Make parent items clickable */
+ul > li:has(> ul) {
+    cursor: pointer;
+}
+
+/* Expand/Collapse All button styling */
+.expand-collapse-btn {
+    margin-left: auto;
+}

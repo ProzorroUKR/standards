@@ -1,0 +1,141 @@
+body {
+    font-family: Arial, sans-serif;
+    min-width: 1000px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+#content {
+    background: white;
+    padding: 10px 30px 10px 30px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.03);
+    flex: 1;
+    margin: 100px 0 40px;
+    max-width: 1400px;
+    width: calc(100% - 80px);
+}
+
+h1 {
+    font-size: 1.8em;
+    font-weight: 600;
+    color: #34495e;
+    margin-bottom: 10px;
+    padding-bottom: 15px;
+}
+
+h2 {
+    color: #333;
+    padding-bottom: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 10px 0;
+    width: 100%;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.03);
+}
+
+th, td {
+    border: 1px solid #e6e6e6;
+    padding: 8px 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #f0f4f8;
+    color: #34495e;
+    font-weight: 500;
+    font-size: 0.95em;
+}
+
+tr:nth-child(even) {
+    background-color: #f8f9fa;
+}
+
+td {
+    color: #666;
+    line-height: 1.3;
+    font-size: 0.9em;
+}
+
+.loading {
+    text-align: center;
+    padding: 20px;
+    font-style: italic;
+    color: #666;
+}
+
+/* Expand/Collapse All button styling */
+.btn {
+    background-color: #007EFD;
+    color: white;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+/* Navbar styles */
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    width: 100%;
+    background-color: white;
+    padding: 15px 30px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-links {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    max-width: 1400px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.navbar-links a.btn {
+    background-color: transparent;
+    color: #34495e;
+    transition: all 0.2s ease;
+}
+
+.navbar-links a.btn:hover {
+    background-color: #f0f4f8;
+    color: #007EFD;
+}
+
+.navbar-links a.active {
+    background-color: #e5f1ff;
+    color: #007EFD;
+}
+
+/* Update logo styles */
+.navbar .logo {
+    margin-right: 40px;
+}
+
+.navbar .logo img {
+    height: 40px;
+    margin-top: 5px;
+    object-fit: contain;
+}

@@ -3,23 +3,25 @@ from collections import defaultdict
 import os
 import fnmatch
 
-LAYOUT = """---
-layout: default
----
-<body>
-{}
-</body>
-"""
+def load_template():
+    template_path = os.path.join('docs', 'index.template.html')
+    try:
+        with open(template_path, 'r') as f:
+            return f.read()
+    except FileNotFoundError:
+        raise FileNotFoundError(f"Template file not found: {template_path}")
 
 LANG_CODES = ("en", "uk", "ru", "ro")
 
 IGNORE_PATTERNS = (
     "./index.html",
-    "./_config.yml",
     "./mask_codes_example.json",
     ".DS_Store",
     "README.md",
     "CNAME",
+    "*.html",
+    "*.js",
+    "*.css",
     "*.py",
     "*.txt",
     ".*",
@@ -29,37 +31,18 @@ IGNORE_PATTERNS = (
 def find_versions(file_names):
     versions = defaultdict(list)
     for name, full_name in file_names:
-        options = []
-        name_parts = name.split(".")
-
-        name = ".".join(name_parts[:-1])
-        options.extend(name_parts[-1:])
-
-        if name.endswith("_pretty"):
-            name = name[:-7]
-            options.append("pretty")
-
-        if name.endswith("_annotated"):
-            name = name[:-10]
-            options.append("annotated")
-
-        if name[-2:] in LANG_CODES:
-            options.append(name[-2:])
-            name = name[:-2]
-
         versions[name].append(
-            (".".join(reversed(options)), full_name)
+            (name, full_name)
         )
     return versions
 
 
 def convert_to_list(strings):
-    if strings:
-        return "<ul><li>{}</li></ul>".format("</li><li>".join(strings))
+    return "<ul><li>{}</li></ul>".format("</li><li>".join(strings))
 
 
 def versions_to_html(args):
-    response = " ".join(
+    response = "|".join(
         '<a href="{}" target="_blank">{}</a>'.format(full_name, v_name)
         for v_name, full_name in args
     )
@@ -93,23 +76,23 @@ def get_files(path):
         else:
             files.append((f_name, full_name))
 
-    file_versions = find_versions(files)
+    # Process directories first
     items = []
+    # Add directories
+    items.extend(dirs)
+    
+    # Then add files
+    file_versions = find_versions(files)
     for f_name, versions in sorted(file_versions.items()):
         items.append(
-            "{} [ {} ]".format(
-                f_name,
+            "{}".format(
                 versions_to_html(versions)
             )
         )
 
-    items.extend(dirs)
     response = ""
     if items:
-        if len(items) > 1:
-            response = convert_to_list(items)
-        else:
-            response = items[0]
+        response = convert_to_list(items)
 
     return response
 
@@ -129,6 +112,7 @@ def format_html(html):
 
 
 if __name__ == "__main__":
-    data = format_html(get_files("."))
+    content = format_html(get_files("."))
+    template = load_template()
     with open("index.html", "w") as f:
-        f.write(LAYOUT.format(data))
+        f.write(template.format(content=content))
