@@ -8,7 +8,7 @@
 
 .file-section h2 {
     background-color: #f0f4f8;  
-    padding: 20px;
+    padding: 20px 50px 20px 20px;
     margin: 0;
     border-radius: 4px;
     border-left: 4px solid #34495e;
@@ -109,6 +109,7 @@
     gap: 10px;
     align-items: center;
     transition: opacity 0.2s ease;
+    word-break: auto-phrase;
 }
 
 .period-dates .arrow {
