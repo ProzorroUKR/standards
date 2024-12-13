@@ -38,12 +38,15 @@
         .file-section {
             margin: 10px 0;
         }
+        .file-section h2 + .content > .period-header:first-child {
+            margin-top: 25px;
+        }
         .period-header {
             background-color: #e6f3ff;
             padding: 15px;
             margin: 10px 0;
             border-radius: 4px;
-            border-left: 4px solid #2196F3;
+            border-left: 4px solid #007EFD;
             cursor: pointer;
             user-select: none;
             position: relative;
@@ -68,7 +71,7 @@
         }
         .period-number {
             font-size: 1.1em;
-            color: #1976D2;
+            color: #007EFD;
             margin-bottom: 8px;
         }
         .period-dates {
@@ -92,7 +95,6 @@
         }
         h2 {
             color: #333;
-            border-bottom: 2px solid #eee;
             padding-bottom: 10px;
         }
         .loading {
@@ -145,7 +147,7 @@
             padding-right: 40px;
         }
         h1 {
-            color: #2196F3;
+            color: #007EFD;
             margin-bottom: 30px;
             padding-bottom: 15px;
             text-align: center;
@@ -158,22 +160,157 @@
         .view-toggle button {
             padding: 10px 20px;
             margin: 0 5px;
-            border: 1px solid #2196F3;
+            border: 1px solid #007EFD;
             background: white;
-            color: #2196F3;
+            color: #007EFD;
             border-radius: 4px;
             cursor: pointer;
         }
         
         .view-toggle button.active {
-            background: #2196F3;
+            background: #007EFD;
             color: white;
+        }
+
+        /* Add these new dark theme styles */
+        body.dark-theme {
+            background-color: #1a1a1a;
+            color: #e0e0e0;
+        }
+
+        body.dark-theme table {
+            box-shadow: 0 1px 2px rgba(255,255,255,0.05);
+        }
+
+        body.dark-theme th, body.dark-theme td {
+            border-color: #404040;
+        }
+
+        body.dark-theme th {
+            background-color: #2d2d2d;
+            color: #e0e0e0;
+        }
+
+        body.dark-theme tr:nth-child(even) {
+            background-color: #2a2a2a;
+        }
+
+        body.dark-theme td {
+            color: #b0b0b0;
+        }
+
+        body.dark-theme .period-header {
+            background-color: #2d2d2d;
+            border-left-color: #4a4a4a;
+        }
+
+        body.dark-theme h2 {
+            color: #e0e0e0;
+        }
+
+        /* Add theme toggle button styles */
+        .theme-toggle {
+            padding: 10px 20px;
+            border: 1px solid #007EFD;
+            background: white;
+            color: #007EFD;
+            border-radius: 4px;
+            cursor: pointer;
+            position: absolute;
+            top: 20px;
+            right: 20px;
+        }
+
+        body.dark-theme .theme-toggle {
+            background: #2d2d2d;
+            color: #e0e0e0;
+            border-color: #4a4a4a;
+        }
+
+        body.dark-theme .file-section h2 {
+            background-color: #2d2d2d;
+            border-left-color: #4a4a4a;
+            color: #e0e0e0;
+        }
+
+        body.dark-theme .file-section h2 small {
+            color: #b0b0b0;
+        }
+
+        body.dark-theme .view-toggle button {
+            background: #2d2d2d;
+            color: #e0e0e0;
+            border-color: #4a4a4a;
+        }
+
+        body.dark-theme .view-toggle button.active {
+            background: #007EFD;
+            color: #e0e0e0;
+            border-color: #007EFD;
+        }
+
+        body.dark-theme .view-toggle button:hover {
+            background: #3d3d3d;
+        }
+
+        body.dark-theme .view-toggle button.active:hover {
+            background: #0065cc;
+        }
+
+        body.dark-theme .period-constant {
+            color: #e0e0e0;
+        }
+
+        body.dark-theme .period-value {
+            color: #b0b0b0;
+        }
+
+        body.dark-theme .period-header small {
+            color: #b0b0b0;
+        }
+
+        .file-section .content p {
+            padding: 8px 12px;
+            margin: 10px 0;
+            color: #666;
+            background-color: #f8f9fa;
+            border: 1px solid #e6e6e6;
+            border-radius: 4px;
+        }
+
+        body.dark-theme .file-section .content p {
+            color: #b0b0b0;
+            background-color: #2a2a2a;
+            border-color: #404040;
+        }
+
+        #content {
+            position: relative;
+        }
+
+        .logo {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .logo img {
+            height: 100px;
+            width: 300px;
+            object-fit: contain;
+        }
+
+        body.dark-theme .logo img {
+            filter: invert(1) brightness(100%);
         }
     </style>
 </head>
 <body>
     <div id="content">
+        <div class="logo">
+            <img src="https://prozorro.gov.ua/img/landing/brand/logo/logo_1.png" alt="Prozorro Logo">
+        </div>
         <h1>Criteria Rules</h1>
+        <button class="theme-toggle" id="themeToggle">Toggle Theme</button>
         <div class="view-toggle">
             <button id="fileView" class="active">Group by File</button>
             <button id="criterionView">Group by Criterion</button>
@@ -436,8 +573,38 @@
                 document.querySelectorAll('.file-section').forEach(section => {
                     section.classList.add('collapsed');
                 });
+                document.querySelectorAll('.period-header').forEach(header => {
+                    header.classList.add('collapsed');
+                });
             }, 100);
+
+            // Initialize theme from cookie
+            const darkTheme = getCookie('darkTheme');
+            if (darkTheme === '1') {
+                document.body.classList.add('dark-theme');
+            }
+
+            // Add theme toggle handler
+            document.getElementById('themeToggle').addEventListener('click', toggleTheme);
         });
+
+        function setCookie(name, value, days) {
+            const expires = new Date();
+            expires.setTime(expires.getTime() + days * 24 * 60 * 60 * 1000);
+            document.cookie = `${name}=${value};expires=${expires.toUTCString()};path=/`;
+        }
+
+        function getCookie(name) {
+            const value = `; ${document.cookie}`;
+            const parts = value.split(`; ${name}=`);
+            if (parts.length === 2) return parts.pop().split(';').shift();
+        }
+
+        function toggleTheme() {
+            document.body.classList.toggle('dark-theme');
+            const isDark = document.body.classList.contains('dark-theme');
+            setCookie('darkTheme', isDark ? '1' : '0', 365);
+        }
     </script>
 </body>
 </html>
