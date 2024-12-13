@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Criteria Rules Viewer</title>
+    <link rel="stylesheet" href="/docs/assets/common.css">
+    <link rel="stylesheet" href="assets/criteria.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-links">
+            <div class="logo">
+                <img src="https://prozorro.gov.ua/img/landing/brand/logo/logo_1.png" alt="Prozorro Logo">
+            </div>
+            <a href="/" class="btn">Standards</a>
+            <a href="/criteria/rules/docs" class="btn active">Criteria</a>
+        </div>
+    </nav>
+    <div id="content">
+        <h1>Criteria</h1>
+        
+        <div class="view-toggle">
+            <button id="fileView" class="active">By Type</button>
+            <button id="criterionView">By Criterion</button>
+        </div>
+        <div id="fileContent" class="view-content"></div>
+        <div id="criterionContent" class="view-content" style="display: none;"></div>
+        <div class="loading">Loading criteria rules...</div>
+    </div>
+
+    <script src="assets/criteria.js"></script>
+</body>
+</html>

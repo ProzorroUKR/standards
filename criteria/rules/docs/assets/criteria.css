@@ -1,0 +1,201 @@
+.file-section {
+    margin: 10px 0;
+}
+
+.file-section h2 + .content > .period-header:first-child {
+    margin-top: 25px;
+}
+
+.file-section h2 {
+    background-color: #f0f4f8;  
+    padding: 20px;
+    margin: 0;
+    border-radius: 4px;
+    border-left: 4px solid #34495e;
+    color: #34495e;
+    font-size: 1.3em;
+    font-weight: 500;
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    transition: all 0.2s ease;
+}
+
+.file-section h2::after {
+    content: '▼';
+    position: absolute;
+    right: 15px;
+    transition: transform 0.2s ease;
+}
+
+.file-section.collapsed h2::after {
+    transform: rotate(-90deg);
+}
+
+.file-section .content {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    overflow: hidden;
+    max-height: 10000px;
+}
+
+.file-section.collapsed .content {
+    max-height: 0;
+    overflow: hidden;
+}
+
+.file-section h2 small {
+    color: #666
+}
+
+.file-section h2.align-right {
+    text-align: right;
+    padding-right: 40px;
+}
+
+.file-section h2.align-center {
+    text-align: center;
+    padding-right: 40px;
+}
+
+.period-header {
+    background-color: #e6f3ff;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 4px;
+    border-left: 4px solid #007EFD;
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    transition: all 0.2s ease;
+}
+
+.period-header::after {
+    content: '▼';
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: transform 0.2s ease;
+}
+
+.period-header.collapsed::after {
+    transform: translateY(-50%) rotate(-90deg);
+}
+
+.period-header small {
+    color: #666
+}
+
+.period-content {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    overflow: hidden;
+    max-height: 10000px;
+}
+
+.period-header.collapsed + .period-content {
+    max-height: 0;
+    overflow: hidden;
+}
+
+.period-number {
+    font-size: 1.1em;
+    color: #007EFD;
+    margin-bottom: 8px;
+}
+
+.period-dates {
+    display: grid;
+    grid-template-columns: min-content 30px min-content;
+    gap: 10px;
+    align-items: center;
+    transition: opacity 0.2s ease;
+}
+
+.period-dates .arrow {
+    text-align: center;
+    color: #666;
+}
+
+.period-constant {
+    font-weight: 500;
+    color: #333;
+}
+
+.period-value {
+    color: #666;
+    font-size: 0.9em;
+    margin-top: 4px;
+}
+
+.view-toggle {
+    margin: 0 0 40px;
+    display: flex;
+    gap: 2px;
+    padding: 4px;
+    background: #f0f4f8;
+    border-radius: 6px;
+}
+
+.view-toggle button {
+    flex: 1;
+    font-size: 0.95em;
+    padding: 8px 20px;
+    border: none;
+    background: transparent;
+    color: #666;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.view-toggle button:hover {
+    color: #333;
+}
+
+.view-toggle button.active {
+    background: white;
+    color: #34495e;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.period-content table {
+    min-width: max-content;
+    border-collapse: collapse;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid #eee;
+}
+
+.period-content th {
+    background: #f8f9fa;
+    padding: 12px 16px;
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+.period-content td {
+    padding: 12px 16px;
+    line-height: 1.5;
+}
+
+.period-content tr:hover {
+    background-color: #f8f9fa;
+}
+
+.file-section h2:hover {
+    background-color: #e8eef4;
+}
+
+.period-header:hover {
+    background-color: #dceeff;
+}
+
+.period-header:hover .period-dates {
+    opacity: 0.8;
+}
+
+.view-content {
+    background: white;
+    color: #007EFD;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
