@@ -1,110 +1,116 @@
-#content > ul {
-    padding: 15px;
-    margin: 0;
-    border-radius: 4px;
-    color: #34495e;
-    font-size: 1.2em;
-    font-weight: 500;
-    cursor: pointer;
-    user-select: none;
-    position: relative;
-    padding: 10px 30px;
-}
-
-/* Basic list styling */
-ul {
+/* Reset and base styles */
+#content ul {
     list-style: none;
-    padding-left: 20px;
-    margin: 6px 0;
+    padding: 8px 0 0 0;
+    margin: 0;
 }
 
-/* Main list items */
-ul > li {
-    margin: 6px 0;
-    font-weight: 500;
-    color: #333;
+#content li {
+    padding: 8px 0 8px 24px;
     position: relative;
-    padding-left: 15px;
-    transition: all 0.2s ease;
+    font-size: 14px;
+    color: #333;
 }
 
-/* Collapse/expand arrow for items with nested lists */
-ul > li:has(> ul)::after {
-    content: '▼';
+/* Folder items */
+li:has(> ul) {
+    font-weight: 500;
+}
+
+/* Arrow for folders */
+li:has(> ul)::before {
+    content: "›";
     position: absolute;
-    left: -5px;
-    top: 5px;
-    font-size: 0.7em;
+    left: 8px;
+    color: #666;
+    transition: transform 0.2s;
+}
+
+li.collapsed:has(> ul)::before {
+    transform: rotate(0deg);
+}
+
+li:has(> ul):not(.collapsed)::before {
+    transform: rotate(90deg);
+}
+
+/* Dot for files */
+li:not(:has(> ul))::before {
+    content: "•";
+    position: absolute;
+    left: 8px;
     color: #007EFD;
-    transition: transform 0.2s ease;
 }
 
-ul > li.collapsed::after {
-    transform: rotate(-90deg);
+/* Nested items */
+ul ul {
+    padding-left: 20px;
 }
 
-/* Hide nested lists when collapsed */
-ul > li.collapsed > ul {
+/* Hide collapsed items */
+li.collapsed > ul {
     display: none;
 }
 
-/* For items without nested elements, keep bullet centered */
-ul > li:not(:has(ul))::before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 50%;
-    width: 4px;
-    height: 4px;
-    background: #007EFD;
-    border-radius: 50%;
-    transform: translateY(-50%);
-}
-
-/* Nested lists with connecting lines */
-ul ul {
-    margin-left: 12px;
-    position: relative;
-}
-
-ul ul::before {
-    content: '';
-    position: absolute;
-    left: -8px;
-    top: 0;
-    bottom: 0;
-    width: 1px;
-    background: linear-gradient(to bottom, 
-        transparent 0%,
-        #e0e0e0 15%,
-        #e0e0e0 85%,
-        transparent 100%
-    );
-}
-
-/* Links styling */
-ul a {
-    text-decoration: none;
+/* Links */
+#content a {
     color: #007EFD;
-    border-radius: 3px;
-    transition: all 0.2s ease;
+    text-decoration: none;
+    padding: 2px 6px;
+    margin: -2px -6px;
+    border-radius: 4px;
 }
 
-ul a:hover {
-    background-color: #007EFD;
-    color: white;
-    transform: translateY(-1px);
-    box-shadow: 0 2px 4px rgba(0, 126, 253, 0.2);
+#content a:hover {
+    background: #f0f7ff;
 }
 
-/* Hover effects for list items */
-ul > li:hover::before {
-    transform: translateY(-50%) scale(1.2);
+/* Search and filters */
+.search-container {
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
 }
 
-/* Make parent items clickable */
-ul > li:has(> ul) {
+.search-input {
+    width: 100%;
+    padding: 10px 16px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: #007EFD;
+}
+
+.filter-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.tag {
+    padding: 6px 12px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 13px;
     cursor: pointer;
+    transition: all 0.2s;
+}
+
+.tag:hover {
+    border-color: #007EFD;
+}
+
+.tag.active {
+    background: #007EFD;
+    color: white;
+    border-color: #007EFD;
 }
 
 /* Expand/Collapse All button styling */

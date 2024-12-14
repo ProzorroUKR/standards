@@ -1,4 +1,4 @@
-name: Check index.html
+name: Check docs
 
 on:
   [push,pull_request]
@@ -16,9 +16,9 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: ${{ matrix.python-version }}
-    - name: Build index.html
+    - name: Build docs
       run: |
-        python index_build.py
-    - name: Check index.html changes
+        python docs/build.py
+    - name: Check docs changes
       run: |
         (set -e; [[ $(git diff) ]] && { git diff; exit 1; } || exit 0)

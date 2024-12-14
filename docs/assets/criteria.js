@@ -14,25 +14,32 @@ async function loadJSON(url) {
 }
 
 function createTable(criteria) {
-    const table = document.createElement('table');
-    const thead = document.createElement('thead');
-    const tbody = document.createElement('tbody');
+    const table = document.createElement('div');
+    table.className = 'table';
+    
+    const thead = document.createElement('div');
+    thead.className = 'thead';
+    
+    const tbody = document.createElement('div');
+    tbody.className = 'tbody';
 
-    const headerRow = document.createElement('tr');
+    const headerRow = document.createElement('div');
+    headerRow.className = 'tr';
     headerRow.innerHTML = `
-        <th>#</th>
-        <th>Criterion</th>
-        <th>Rules</th>
+        <div class="th">#</div>
+        <div class="th">Criterion</div>
+        <div class="th">Rules</div>
     `;
     thead.appendChild(headerRow);
 
     let rowNumber = 1;
     for (const [criterion, data] of Object.entries(criteria)) {
-        const row = document.createElement('tr');
+        const row = document.createElement('div');
+        row.className = 'tr';
         row.innerHTML = `
-            <td>${rowNumber}</td>
-            <td>${criterion}</td>
-            <td>${data.rules.join(', ')}</td>
+            <div class="td">${rowNumber}</div>
+            <div class="td th-criterion">${criterion}</div>
+            <div class="td">${data.rules.join(', ')}</div>
         `;
         tbody.appendChild(row);
         rowNumber++;
@@ -44,27 +51,33 @@ function createTable(criteria) {
 }
 
 function createCriterionTable(fileData) {
-    const table = document.createElement('table');
-    const thead = document.createElement('thead');
-    const tbody = document.createElement('tbody');
+    const table = document.createElement('div');
+    table.className = 'table';
+    
+    const thead = document.createElement('div');
+    thead.className = 'thead';
+    
+    const tbody = document.createElement('div');
+    tbody.className = 'tbody';
 
-    const headerRow = document.createElement('tr');
+    const headerRow = document.createElement('div');
+    headerRow.className = 'tr';
     headerRow.innerHTML = `
-        <th>#</th>
-        <th>File</th>
-        <th>Rules</th>
+        <div class="th">#</div>
+        <div class="th">File</div>
+        <div class="th">Rules</div>
     `;
     thead.appendChild(headerRow);
 
     let rowNumber = 1;
     for (const [file, periods] of Object.entries(fileData)) {
-        // Get the most recent period's rules
         const latestPeriod = periods[periods.length - 1];
-        const row = document.createElement('tr');
+        const row = document.createElement('div');
+        row.className = 'tr';
         row.innerHTML = `
-            <td>${rowNumber}</td>
-            <td>${file}</td>
-            <td>${latestPeriod.rules.join(', ')}</td>
+            <div class="td">${rowNumber}</div>
+            <div class="td">${file}</div>
+            <div class="td">${latestPeriod.rules.join(', ')}</div>
         `;
         tbody.appendChild(row);
         rowNumber++;
@@ -81,24 +94,24 @@ async function displayRules() {
     document.querySelector('.loading').style.display = 'none';
 
     const files = {
-        'aboveThreshold': await loadJSON('../aboveThreshold.json'),
-        'aboveThresholdEU': await loadJSON('../aboveThresholdEU.json'),
-        'aboveThresholdUA': await loadJSON('../aboveThresholdUA.json'),
-        'aboveThresholdUA.defense': await loadJSON('../aboveThresholdUA.defense.json'),
-        'belowThreshold': await loadJSON('../belowThreshold.json'),
-        'closeFrameworkAgreementUA': await loadJSON('../closeFrameworkAgreementUA.json'),
-        'closeFrameworkAgreementSelectionUA': await loadJSON('../closeFrameworkAgreementSelectionUA.json'),
-        'competitiveDialogueEU': await loadJSON('../competitiveDialogueEU.json'),
-        'competitiveDialogueEU.stage2': await loadJSON('../competitiveDialogueEU.stage2.json'),
-        'competitiveDialogueUA': await loadJSON('../competitiveDialogueUA.json'),
-        'competitiveDialogueUA.stage2': await loadJSON('../competitiveDialogueUA.stage2.json'),
-        'competitiveOrdering': await loadJSON('../competitiveOrdering.json'),
-        'esco': await loadJSON('../esco.json'),
-        'negotiation': await loadJSON('../negotiation.json'),
-        'negotiation.quick': await loadJSON('../negotiation.quick.json'),
-        'priceQuotation': await loadJSON('../priceQuotation.json'),
-        'reporting': await loadJSON('../reporting.json'),
-        'simple.defense': await loadJSON('../simple.defense.json')
+        'aboveThreshold': await loadJSON('../criteria/rules/aboveThreshold.json'),
+        'aboveThresholdEU': await loadJSON('../criteria/rules/aboveThresholdEU.json'),
+        'aboveThresholdUA': await loadJSON('../criteria/rules/aboveThresholdUA.json'),
+        'aboveThresholdUA.defense': await loadJSON('../criteria/rules/aboveThresholdUA.defense.json'),
+        'belowThreshold': await loadJSON('../criteria/rules/belowThreshold.json'),
+        'closeFrameworkAgreementUA': await loadJSON('../criteria/rules/closeFrameworkAgreementUA.json'),
+        'closeFrameworkAgreementSelectionUA': await loadJSON('../criteria/rules/closeFrameworkAgreementSelectionUA.json'),
+        'competitiveDialogueEU': await loadJSON('../criteria/rules/competitiveDialogueEU.json'),
+        'competitiveDialogueEU.stage2': await loadJSON('../criteria/rules/competitiveDialogueEU.stage2.json'),
+        'competitiveDialogueUA': await loadJSON('../criteria/rules/competitiveDialogueUA.json'),
+        'competitiveDialogueUA.stage2': await loadJSON('../criteria/rules/competitiveDialogueUA.stage2.json'),
+        'competitiveOrdering': await loadJSON('../criteria/rules/competitiveOrdering.json'),
+        'esco': await loadJSON('../criteria/rules/esco.json'),
+        'negotiation': await loadJSON('../criteria/rules/negotiation.json'),
+        'negotiation.quick': await loadJSON('../criteria/rules/negotiation.quick.json'),
+        'priceQuotation': await loadJSON('../criteria/rules/priceQuotation.json'),
+        'reporting': await loadJSON('../criteria/rules/reporting.json'),
+        'simple.defense': await loadJSON('../criteria/rules/simple.defense.json')
     };
 
     // Display file view
@@ -117,7 +130,7 @@ async function displayRules() {
         sectionContent.className = 'content';
 
         if (!rules.length) {
-            sectionContent.innerHTML = '<p>No rules defined</p>';
+            sectionContent.innerHTML = '<div class="no-rules-message">No rules defined</div>';
         } else {
             rules.forEach((period, index) => {
                 const periodHeader = document.createElement('div');
@@ -206,7 +219,7 @@ async function displayRules() {
         sectionContent.className = 'content';
 
         if (fileData.size === 0) {
-            sectionContent.innerHTML = '<p>No rules defined</p>';
+            sectionContent.innerHTML = '<div class="no-rules-message">No rules defined</div>';
         } else {
             sectionContent.appendChild(createCriterionTable(Object.fromEntries(fileData)));
         }
