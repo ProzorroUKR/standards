@@ -4,7 +4,7 @@ import os
 import fnmatch
 
 def load_template():
-    template_path = os.path.join('docs', 'index.template.html')
+    template_path = os.path.join('docs', 'templates', 'index.template.html')
     try:
         with open(template_path, 'r') as f:
             return f.read()
@@ -114,5 +114,5 @@ def format_html(html):
 if __name__ == "__main__":
     content = format_html(get_files("."))
     template = load_template()
-    with open("index.html", "w") as f:
-        f.write(template.format(content=content))
+    with open(os.path.join('docs', 'index.html'), "w") as f:
+        f.write(template.format(content=content, root_path=""))

@@ -1,7 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // Existing collapse/expand functionality
-    initializeCollapseExpand();
-    
     // Add file counts to folders
     addFileCounts();
     
@@ -9,49 +6,18 @@ document.addEventListener('DOMContentLoaded', () => {
     initializeFolderTags();
 });
 
-function initializeCollapseExpand() {
-    // Existing collapse/expand code...
-    const navbarLinks = document.querySelector('.navbar-links');
-    const button = document.createElement('button');
-    button.className = 'btn expand-collapse-btn';
-    button.textContent = 'Collapse All';
-    navbarLinks.appendChild(button);
-
-    let isExpanded = true;
-    button.addEventListener('click', () => {
-        const items = document.querySelectorAll('li:has(> ul)');
-        const collapsedItems = document.querySelectorAll('li.collapsed');
-        
-        if (collapsedItems.length > 0) {
-            items.forEach(item => item.classList.remove('collapsed'));
-            button.textContent = 'Collapse All';
-            isExpanded = true;
-        } else {
-            items.forEach(item => item.classList.add('collapsed'));
-            button.textContent = 'Expand All';
-            isExpanded = false;
-        }
-        saveCollapsedState();
-    });
-
-    const parentItems = document.querySelectorAll('li:has(> ul)');
-    parentItems.forEach(item => {
-        item.addEventListener('click', (e) => {
-            if (e.target.tagName === 'A') return;
-            e.stopPropagation();
-            item.classList.toggle('collapsed');
-            saveCollapsedState();
-        });
-    });
-
-    restoreCollapsedState();
-}
-
 function addFileCounts() {
     const folders = document.querySelectorAll('li:has(> ul)');
     folders.forEach(folder => {
         const fileCount = folder.querySelectorAll('a').length;
         folder.setAttribute('data-count', fileCount);
+        
+        // Add count display next to folder name
+        const folderText = folder.childNodes[0];
+        const countSpan = document.createElement('span');
+        countSpan.className = 'file-count';
+        countSpan.textContent = ` (${fileCount})`;
+        folderText.after(countSpan);
     });
 }
 
@@ -210,58 +176,4 @@ function debounce(func, wait) {
         clearTimeout(timeout);
         timeout = setTimeout(later, wait);
     };
-}
-
-// Keep existing save/restore state functions
-function saveCollapsedState() {
-    const collapsed = Array.from(document.querySelectorAll('li.collapsed')).map(item => {
-        let path = [];
-        let current = item;
-        while (current && current.tagName === 'LI') {
-            let index = Array.from(current.parentElement.children).indexOf(current);
-            path.unshift(index);
-            current = current.parentElement.closest('li');
-        }
-        return path.join('-');
-    });
-    localStorage.setItem('collapsedItems', JSON.stringify(collapsed));
-}
-
-function restoreCollapsedState() {
-    try {
-        const collapsed = JSON.parse(localStorage.getItem('collapsedItems') || '[]');
-        collapsed.forEach(path => {
-            const indices = path.split('-').map(Number);
-            let current = document.querySelector('ul');
-            indices.forEach(index => {
-                if (current) {
-                    current = current.children[index];
-                    if (current) {
-                        current = current.querySelector('ul');
-                    }
-                }
-            });
-            if (current && current.parentElement) {
-                current.parentElement.classList.add('collapsed');
-            }
-        });
-
-        const items = document.querySelectorAll('li:has(> ul)');
-        const collapsedItems = document.querySelectorAll('li.collapsed');
-        const button = document.querySelector('.expand-collapse-btn');
-        
-        const allCollapsed = collapsedItems.length === items.length;
-        isExpanded = !allCollapsed;
-        
-        if (allCollapsed) {
-            button.textContent = 'Expand All';
-        } else {
-            button.textContent = 'Collapse All';
-        }
-    } catch (e) {
-        console.error('Error restoring collapsed state:', e);
-        isExpanded = true;
-        const button = document.querySelector('.expand-collapse-btn');
-        if (button) button.textContent = 'Collapse All';
-    }
 }

@@ -18,7 +18,6 @@ body {
     margin: 100px 0 40px;
     max-width: 1400px;
     width: calc(100% - 80px);
-    word-break: break-word;
 }
 
 h1 {
