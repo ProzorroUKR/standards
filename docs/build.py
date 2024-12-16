@@ -43,7 +43,7 @@ def convert_to_list(strings):
 
 def versions_to_html(args):
     response = "|".join(
-        '<a href="{}" target="_blank">{}</a>'.format(full_name, v_name)
+        '<a href="{}" target="_blank">{}</a>'.format(full_name.replace('./', '../'), v_name)
         for v_name, full_name in args
     )
     return response
