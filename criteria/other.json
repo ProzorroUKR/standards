@@ -264,7 +264,7 @@
         "article": "25"
       }
     ],
-     "requirementGroups": [
+    "requirementGroups": [
       {
         "description": "Підтверджується, що",
         "requirements": [
@@ -273,7 +273,7 @@
             "dataType": "number",
             "minValue": 0.5,
             "maxValue": 3.0,
-            "unit":{
+            "unit": {
               "name": "відсоток",
               "code": "P1"
             }
@@ -399,7 +399,7 @@
             "title": "Обсяг залучення спроможностей інших суб’єктів господарювання як субпідрядників/співвиконавців складає % від вартості договору про закупівлю",
             "dataType": "integer",
             "minValue": 1,
-            "unit":{
+            "unit": {
               "name": "відсоток",
               "code": "P1"
             }
