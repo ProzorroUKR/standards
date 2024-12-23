@@ -12,8 +12,7 @@
     "hasAwardingOrder": {
       "type": "boolean",
       "enum": [
-        true,
-        false
+        true
       ],
       "default": true
     },
@@ -28,15 +27,13 @@
     "valueCurrencyEquality": {
       "type": "boolean",
       "enum": [
-        true,
-        false
+        true
       ],
       "default": true
     },
     "hasPrequalification": {
       "type": "boolean",
       "enum": [
-        true,
         false
       ],
       "default": false
@@ -44,7 +41,7 @@
     "minBidsNumber": {
       "type": "integer",
       "minimum": 1,
-      "maximum": 9,
+      "maximum": 1,
       "default": 1
     },
     "hasPreSelectionAgreement": {
@@ -78,8 +75,7 @@
     "hasValueEstimation": {
       "type": "boolean",
       "enum": [
-        true,
-        false
+        true
       ],
       "default": true
     },
@@ -98,9 +94,9 @@
     },
     "qualificationComplainDuration": {
       "type": "integer",
-      "minimum": 10,
-      "maximum": 10,
-      "default": 10
+      "minimum": 0,
+      "maximum": 0,
+      "default": 0
     },
     "awardComplainDuration": {
       "type": "integer",
@@ -122,9 +118,9 @@
     },
     "qualificationDuration": {
       "type": "integer",
-      "minimum": 20,
-      "maximum": 20,
-      "default": 20
+      "minimum": 0,
+      "maximum": 0,
+      "default": 0
     },
     "restricted": {
       "type": "boolean",
