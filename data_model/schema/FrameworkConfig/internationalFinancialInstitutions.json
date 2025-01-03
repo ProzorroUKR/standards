@@ -4,7 +4,6 @@
     "restrictedDerivatives": {
       "type": "boolean",
       "enum": [
-        true,
         false
       ],
       "default": false
