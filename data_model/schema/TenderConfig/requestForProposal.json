@@ -101,7 +101,7 @@
       "type": "integer",
       "minimum": 0,
       "maximum": 0,
-      "default": 10
+      "default": 0
     },
     "awardComplainDuration": {
       "type": "integer",
