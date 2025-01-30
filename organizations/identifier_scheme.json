@@ -1195,7 +1195,7 @@
       "name": "National Business Center (NBC) of Albania",
       "public-database": true,
       "url": "https://qkb.gov.al/"
-     },
+    },
     {
       "category": "TH",
       "code": "TH-MOI",
@@ -1203,7 +1203,7 @@
       "name": "Thailand Chart of Accounts",
       "public-database": true,
       "url": "https://gov-id-finder.codeforiati.org/countries/TH/"
-     },
+    },
     {
       "category": "VG",
       "code": "VG-COA",
