@@ -239,10 +239,10 @@
             "dataType": "string",
             "expectedMinItems": 1,
             "expectedValues": [
-              "UA",
-              "EN",
-              "FR",
-              "ES"
+              "ukr",
+              "eng",
+              "fra",
+              "spa"
             ]
           }
         ]
