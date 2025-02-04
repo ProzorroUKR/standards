@@ -1,0 +1,119 @@
+/* Reset and base styles */
+#content ul {
+    list-style: none;
+    padding: 8px 0 0 0;
+    margin: 0;
+}
+
+#content li {
+    padding: 8px 0 8px 24px;
+    position: relative;
+    font-size: 14px;
+    color: #333;
+}
+
+/* Folder items */
+li:has(> ul) {
+    font-weight: 500;
+}
+
+/* Arrow for folders */
+li:has(> ul)::before {
+    content: "›";
+    position: absolute;
+    left: 8px;
+    color: #666;
+    transition: transform 0.2s;
+}
+
+li.collapsed:has(> ul)::before {
+    transform: rotate(0deg);
+}
+
+li:has(> ul):not(.collapsed)::before {
+    transform: rotate(90deg);
+}
+
+/* Dot for files */
+li:not(:has(> ul))::before {
+    content: "•";
+    position: absolute;
+    left: 8px;
+    color: #007EFD;
+}
+
+/* Nested items */
+ul ul {
+    padding-left: 20px;
+}
+
+/* Hide collapsed items */
+li.collapsed > ul {
+    display: none;
+}
+
+/* Links */
+#content a {
+    color: #007EFD;
+    text-decoration: none;
+    padding: 2px 6px;
+    margin: -2px -6px;
+    border-radius: 4px;
+}
+
+#content a:hover {
+    background: #f0f7ff;
+}
+
+/* Search and filters */
+.search-container {
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.search-input {
+    width: 100%;
+    padding: 10px 16px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: #007EFD;
+}
+
+.filter-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.tag {
+    padding: 6px 12px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.tag:hover {
+    border-color: #007EFD;
+}
+
+.tag.active {
+    background: #007EFD;
+    color: white;
+    border-color: #007EFD;
+}
+
+/* Expand/Collapse All button styling */
+.expand-collapse-btn {
+    margin-left: auto;
+}

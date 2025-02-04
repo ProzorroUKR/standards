@@ -20,12 +20,21 @@
       "minimum": 0,
       "maximum": 0,
       "default": 0
+    },
+    "hasItems": {
+      "type": "boolean",
+      "enum": [
+        true,
+        false
+      ],
+      "default": false
     }
   },
   "required": [
     "restrictedDerivatives",
     "clarificationUntilDuration",
-    "qualificationComplainDuration"
+    "qualificationComplainDuration",
+    "hasItems"
   ],
   "additionalProperties": false
 }

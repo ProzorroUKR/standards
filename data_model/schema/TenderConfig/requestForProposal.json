@@ -7,7 +7,7 @@
         true,
         false
       ],
-      "default": true
+      "default": false
     },
     "hasAwardingOrder": {
       "type": "boolean",
@@ -15,7 +15,7 @@
         true,
         false
       ],
-      "default": true
+      "default": false
     },
     "hasValueRestriction": {
       "type": "boolean",
@@ -23,7 +23,7 @@
         true,
         false
       ],
-      "default": true
+      "default": false
     },
     "valueCurrencyEquality": {
       "type": "boolean",
@@ -31,7 +31,7 @@
         true,
         false
       ],
-      "default": true
+      "default": false
     },
     "hasPrequalification": {
       "type": "boolean",
@@ -50,6 +50,7 @@
     "hasPreSelectionAgreement": {
       "type": "boolean",
       "enum": [
+        true,
         false
       ],
       "default": false
@@ -81,7 +82,7 @@
         true,
         false
       ],
-      "default": true
+      "default": false
     },
     "hasQualificationComplaints": {
       "type": "boolean",
@@ -98,8 +99,7 @@
     },
     "qualificationComplainDuration": {
       "type": "integer",
-      "minimum": 10,
-      "maximum": 10,
+      "minimum": 0,
       "default": 10
     },
     "awardComplainDuration": {
@@ -116,9 +116,9 @@
     },
     "clarificationUntilDuration": {
       "type": "integer",
-      "minimum": 1,
-      "maximum": 1,
-      "default": 1
+      "minimum": 4,
+      "maximum": 4,
+      "default": 4
     },
     "qualificationDuration": {
       "type": "integer",

@@ -437,6 +437,12 @@
     "name_uk": "банка",
     "symbol_uk": "банк"
   },
+  "K5": {
+    "name_en": "kilovolt ampere (reactive)",
+    "symbol_en": "kvar",
+    "name_uk": "Кіловольт-ампер реактивний",
+    "symbol_uk": "кВАр"
+  },
   "KEL": {
     "name_en": "kelvin",
     "symbol_en": "K",

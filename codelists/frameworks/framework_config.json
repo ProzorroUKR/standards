@@ -11,6 +11,12 @@
     "name_en": "The number of days to provide explanations for the request",
     "description_en": "The parameter that sets the number of days for the customer to respond to the request"
   },
+  "hasItems": {
+    "name_uk": "Деталізація предмету закупівлі",
+    "description_uk": "Параметр, що визначає наявність або відсутність у відборі деталізації предмету закупівлі (номенклатури)",
+    "name_en": "Details of the subject of purchase",
+    "description_en": "The parameter that determines the presence or absence in the selection of details of the item of purchase (items)"
+  },
   "qualificationComplainDuration": {
     "name_uk": "Тривалість оскарження результатів кваліфікації",
     "description_uk": "Параметр, що визначає тривалість періоду оскарження результатів проведення кваліфікації учасників",
