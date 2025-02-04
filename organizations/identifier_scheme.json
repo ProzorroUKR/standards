@@ -1187,6 +1187,30 @@
       "name": "Registro de Personas Jurídicas, Sección Registro Nacional de Comercio",
       "public-database": false,
       "url": "https://portal.dgr.gub.uy/"
+    },
+    {
+      "category": "AL",
+      "code": "AL-QKB",
+      "description": "The main purpose of the National Business Center is facilitating the procedures and registration of the subjects set forth in the law regulating business registration for the purposes of fiscal registration, social and health insurance, and inspection of labor relations.",
+      "name": "National Business Center (NBC) of Albania",
+      "public-database": true,
+      "url": "https://qkb.gov.al/"
+    },
+    {
+      "category": "TH",
+      "code": "TH-MOI",
+      "description": "A government's budget (or 'Chart of Accounts') often refers to government agencies, departments and ministries with stable codes. These can be reliably used in open data publications as identifiers. This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] from Development Initiatives. Where available, Gov Org ID Finder extracts and makes  Chart of Accounts codes available for the convenience of users. The authoritative source remains the government's budget or Chart of Accounts.",
+      "name": "Thailand Chart of Accounts",
+      "public-database": true,
+      "url": "https://gov-id-finder.codeforiati.org/countries/TH/"
+    },
+    {
+      "category": "VG",
+      "code": "VG-COA",
+      "description": "A government's budget (or 'Chart of Accounts') often refers to government agencies, departments and ministries with stable codes. These can be reliably used in open data publications as identifiers. This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] from Development Initiatives. Where available, Gov Org ID Finder extracts and makes Chart of Accounts codes available for the convenience of users. The authoritative source remains the government's budget or Chart of Accounts.",
+      "name": "Virgin Islands (British) Chart of Accounts",
+      "public-database": true,
+      "url": "https://gov-id-finder.codeforiati.org/countries/VG/"
     }
   ]
 }
