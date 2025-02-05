@@ -37,7 +37,13 @@
           {
             "title": "",
             "dataType": "boolean",
-            "expectedValue": true
+            "expectedValue": true,
+            "eligibleEvidences": [
+              {
+                "title": "",
+                "documentType": "document"
+              }
+            ]
           }
         ]
       }
@@ -81,7 +87,13 @@
           {
             "title": "",
             "dataType": "boolean",
-            "expectedValue": true
+            "expectedValue": true,
+            "eligibleEvidences": [
+              {
+                "title": "",
+                "documentType": "document"
+              }
+            ]
           }
         ]
       }
@@ -115,7 +127,13 @@
           {
             "title": "",
             "dataType": "boolean",
-            "expectedValue": true
+            "expectedValue": true,
+            "eligibleEvidences": [
+              {
+                "title": "",
+                "documentType": "document"
+              }
+            ]
           }
         ]
       }
@@ -159,7 +177,13 @@
           {
             "title": "",
             "dataType": "boolean",
-            "expectedValue": true
+            "expectedValue": true,
+            "eligibleEvidences": [
+              {
+                "title": "",
+                "documentType": "document"
+              }
+            ]
           }
         ]
       }
