@@ -221,6 +221,12 @@
     "name_uk": "блок",
     "symbol_uk": "бл"
   },
+  "D82": {
+    "name_en": "microvolt",
+    "symbol_en": "µV",
+    "name_uk": "мікровольт",
+    "symbol_uk": "µV"
+  },
   "DAY": {
     "name_en": "day",
     "symbol_en": "d",
@@ -622,6 +628,12 @@
     "symbol_en": "MW·h",
     "name_uk": "Мегават-година",
     "symbol_uk": "МВт·год"
+  },
+  "NH": {
+    "name_en": "norm/hr",
+    "symbol_en": "n/h",
+    "name_uk": "норм/год",
+    "symbol_uk": "н/г"
   },
   "NEW": {
     "name_en": "newton",
