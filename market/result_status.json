@@ -1,0 +1,14 @@
+{
+  "publishing": {
+    "title_uk": "Публікується",
+    "title_en": "Publishing"
+  },
+  "done": {
+    "title_uk": "Виконано",
+    "title_en": "Done"
+  },
+  "unsuccessful": {
+    "title_uk": "Неуспішно",
+    "title_en": "Unsuccessful"
+  }
+}
