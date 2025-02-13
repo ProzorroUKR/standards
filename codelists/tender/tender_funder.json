@@ -258,5 +258,31 @@
     },
     "name_en": "Ukraine facility",
     "name_uk": "Ukraine facility"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Poland",
+      "locality": "Warsaw",
+      "postalCode": "00-926",
+      "region": "Masovian",
+      "streetAddress": "2 Wspólna St., 4"
+    },
+    "contactPoint": {
+      "email": "kancelaria@mfipr.gov.pl",
+      "faxNumber": "+48222500130",
+      "telephone": "+48222500130",
+      "url": "https://www.gov.pl/web/funds-regional-policy",
+      "name_en": "NEXT Poland – Ukraine 2021-2027",
+      "name_uk": "NEXT Польща — Україна 2021-2027"
+    },
+    "identifier": {
+      "id": "140315583",
+      "scheme": "PL-REGON",
+      "legalName_en": "The Minister of Development Funds and Regional Policy of the Republic of Poland acting as a Managing Authority for the Interreg NEXT Poland – Ukraine 2021-2027 Programme of the European Union",
+      "legalName_uk": "Міністр фондів розвитку та регіональної політики Республіки Польща як Орган управління Програми Interreg NEXT Польща — Україна 2021-2027 Європейського Союзу"
+    },
+    "name_en": "NEXT Poland – Ukraine 2021-2027 Programme of the European Union",
+    "name_uk": "Програма Interreg NEXT Польща — Україна 2021-2027 Європейського Союзу"
   }
 ]
