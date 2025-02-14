@@ -526,7 +526,7 @@
             "minValue": 0.0,
             "unit": {
               "name": "одиниця",
-              "code": "unit"
+              "code": "E50"
             }
           }
         ]
