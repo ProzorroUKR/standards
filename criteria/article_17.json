@@ -30,7 +30,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           }
@@ -80,7 +80,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           },
@@ -91,7 +91,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           }
@@ -107,7 +107,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           }
@@ -211,7 +211,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           }
@@ -227,7 +227,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           }
@@ -266,7 +266,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           }
@@ -306,7 +306,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           }
@@ -433,7 +433,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           }
@@ -449,7 +449,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           }
@@ -489,7 +489,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           }
@@ -505,7 +505,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           },
@@ -575,7 +575,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           }
