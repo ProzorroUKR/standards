@@ -45,7 +45,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           }
@@ -110,7 +110,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           }
@@ -293,7 +293,7 @@
             "eligibleEvidences": [
               {
                 "title": "Банківська гарантія забезпечення тендерної пропозиції/пропозиції",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           },
@@ -353,7 +353,7 @@
             "eligibleEvidences": [
               {
                 "title": "Банківська гарантія забезпечення договору",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           },
@@ -378,7 +378,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           },
@@ -451,7 +451,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           }
@@ -491,7 +491,7 @@
             "eligibleEvidences": [
               {
                 "title": "",
-                "documentType": "document"
+                "type": "document"
               }
             ]
           }
