@@ -1,0 +1,18 @@
+{
+  "ukr": {
+    "name_uk": "Українська",
+    "name_en": "Ukrainian"
+  },
+  "eng": {
+    "name_uk": "Англійська",
+    "name_en": "English"
+  },
+  "fra": {
+    "name_uk": "Французька",
+    "name_en": "French"
+  },
+  "spa": {
+    "name_uk": "Іспанська",
+    "name_en": "Spanish"
+  }
+}
