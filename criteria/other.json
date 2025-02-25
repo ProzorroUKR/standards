@@ -57,7 +57,6 @@
           {
             "title": "Товар походить з однієї з країн, що підписала Угоду про державні закупівлі Світової Організації торгівлі (GPA) або іншої країни з якою Україна має міжнародні договори про державні закупівлі",
             "dataType": "string",
-            "dataSchema": "ISO 3166-1 alpha-2",
             "expectedMinItems": 1,
             "expectedValues": [
               "AM",
@@ -238,13 +237,9 @@
           {
             "title": "Мова тендерної пропозиції",
             "dataType": "string",
-            "dataSchema": "ISO 639-3",
             "expectedMinItems": 1,
             "expectedValues": [
-              "ukr",
-              "eng",
-              "fra",
-              "spa"
+              "Українська"
             ]
           }
         ]
