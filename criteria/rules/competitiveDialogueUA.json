@@ -304,6 +304,17 @@
         "rules": [
           "required_article_16"
         ]
+      },
+      "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.MANAGEMENT.SUBCONTRACTING_PROPORTION": {
+        "rules": [
+          "required_works",
+          "required_services"
+        ]
+      },
+      "CRITERION.OTHER.BID.VALIDITY_PERIOD": {
+        "rules": [
+          "required"
+        ]
       }
     },
     "period": {
