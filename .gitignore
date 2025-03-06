@@ -8,3 +8,4 @@
 __pycache__
 /media
 docs/_build
+*.egg-info
