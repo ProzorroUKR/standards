@@ -14,6 +14,8 @@ def load_template():
 LANG_CODES = ("en", "uk", "ru", "ro")
 
 IGNORE_PATTERNS = (
+    "./__pycache__/*",
+    "./standards.egg-info/*",
     "./index.html",
     "./mask_codes_example.json",
     ".DS_Store",
