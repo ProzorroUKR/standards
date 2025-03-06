@@ -6,5 +6,25 @@
   "invalidCharacteristics": {
     "title_en": "Incorrectly specified product characteristics",
     "title_uk": "Невірно вказані характеристики товару"
+  },
+  "alreadyAvailable": {
+    "title_en": "Product is already available in the Market",
+    "title_uk": "Товар вже є наявний в Маркеті"
+  },
+  "wrongCategory": {
+    "title_en": "Product is submitted to the wrong category",
+    "title_uk": "Товар подано в невірну категорію"
+  },
+  "missedCharacteristicFields": {
+    "title_en": "Characteristic fields not fully filled",
+    "title_uk": "Не заповнені всі поля характеристик"
+  },
+  "irrelevantProduct": {
+    "title_en": "Product is outdated/irrelevant",
+    "title_uk": "Товар застарілий/неактуальний"
+  },
+  "wrongCompleteness": {
+    "title_en": "Completeness of the product does not correspond to the completeness of the manufacturer",
+    "title_uk": "Комплектація товару не відповідає комплектації виробника"
   }
 }
