@@ -55,7 +55,14 @@
   {
     "criteria": {},
     "period": {
-      "start_date": "NEW_ARTICLE_17_CRITERIA_REQUIRED"
+      "start_date": "NEW_ARTICLE_17_CRITERIA_REQUIRED",
+      "end_date": "NEW_REQUIREMENTS_RULES_FROM"
+    }
+  },
+  {
+    "criteria": {},
+    "period": {
+      "start_date": "NEW_REQUIREMENTS_RULES_FROM"
     }
   }
 ]
