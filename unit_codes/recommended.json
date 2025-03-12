@@ -11,6 +11,12 @@
     "name_uk": "вольт DC",
     "symbol_uk": "В"
   },
+  "2L: {
+    "name_en": "cubic foot per minute",
+    "symbol_en": "ft³/min",
+    "name_uk": "кубічний фут на хвилину",
+    "symbol_uk": "фт³/хв "
+  },
   "2N": {
     "name_en": "decibel",
     "symbol_en": "dB",
@@ -70,6 +76,12 @@
     "symbol_en": "cd/m²",
     "name_uk": "кандела на квадратний метр",
     "symbol_uk": "кд/м²"
+  },
+  "A86": {
+    "name_en": "gigahertz",
+    "symbol_en": "GHz",
+    "name_uk": "гігагерц",
+    "symbol_uk": "ГГц"
   },
   "A93": {
     "name_en": "gram per cubic metre",
@@ -155,11 +167,29 @@
     "name_uk": "ящик",
     "symbol_uk": "ящ"
   },
+  "C26": {
+    "name_en": "millisecond",
+    "symbol_en": "ms",
+    "name_uk": "мілісекунда",
+    "symbol_uk": "мс"
+  },
   "C31": {
     "name_en": "milliwatt",
     "symbol_en": "mW",
     "name_uk": "міліват",
     "symbol_uk": "мВт"
+  },
+  "C45": {
+    "name_en": "nanometre",
+    "symbol_en": "nm",
+    "name_uk": "нанометр",
+    "symbol_uk": "нм"
+  },
+  "C62": {
+    "name_en": "one",
+    "symbol_en": "1",
+    "name_uk": "один",
+    "symbol_uk": "1"
   },
   "CA": {
     "name_en": "can",
@@ -231,7 +261,7 @@
     "name_en": "microvolt",
     "symbol_en": "µV",
     "name_uk": "мікровольт",
-    "symbol_uk": "µV"
+    "symbol_uk": "мкВ"
   },
   "DAY": {
     "name_en": "day",
@@ -262,6 +292,12 @@
     "symbol_en": "MW·h/h",
     "name_uk": "мегават-година на годину",
     "symbol_uk": "МВт·год/год"
+  },
+  "E09": {
+    "name_en": "milliampere hour",
+    "symbol_en": "mA·h",
+    "name_uk": "мілліампер год",
+    "symbol_uk": "мА·г"
   },
   "E11": {
     "name_en": "gigacalorie",
@@ -382,6 +418,12 @@
     "symbol_en": "l/s",
     "name_uk": "літр на секунду",
     "symbol_uk": "л/с"
+  },
+  "G53": {
+    "name_en": "cubic metre per minute",
+    "symbol_en": "m³/min",
+    "name_uk": "кубічний метр за хвилину",
+    "symbol_uk": "куб.м/хв"
   },
   "GF": {
     "name_en": "gram per metre (gram per 100 centimetres)",
@@ -820,6 +862,12 @@
     "symbol_en": "ch",
     "name_uk": "коробка",
     "symbol_uk": "кор"
+  },
+  "ZP": {
+    "name_en": "page",
+    "symbol_en": "page",
+    "name_uk": "сторінка",
+    "symbol_uk": "стор"
   },
   "K3": {
     "name_en": "kilovolt ampere reactive hour",
