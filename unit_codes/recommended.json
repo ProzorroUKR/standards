@@ -155,6 +155,12 @@
     "name_uk": "ящик",
     "symbol_uk": "ящ"
   },
+  "C31": {
+    "name_en": "milliwatt",
+    "symbol_en": "mW",
+    "name_uk": "міліват",
+    "symbol_uk": "мВт"
+  },
   "CA": {
     "name_en": "can",
     "symbol_en": "can",
@@ -316,6 +322,12 @@
     "symbol_en": "dpi",
     "name_uk": "точок на дюйм",
     "symbol_uk": "dpi"
+  },
+  "E42": {
+    "name_en": "kilogram-force per square centimetre",
+    "symbol_en": "kgf/cm²",
+    "name_uk": "Кілограм на квадратний сантиметр",
+    "symbol_uk": "кг/см²"
   },
   "E48": {
     "name_en": "service unit",
@@ -586,6 +598,12 @@
     "symbol_en": "mo",
     "name_uk": "місяць",
     "symbol_uk": "міс"
+  },
+  "MPA": {
+    "name_en": "megapascal",
+    "symbol_en": "MPa",
+    "name_uk": "мегапаскаль",
+    "symbol_uk": "МПа"
   },
   "MQH": {
     "name_en": "cubic metre per hour",
