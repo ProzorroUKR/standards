@@ -55,7 +55,26 @@
   {
     "criteria": {},
     "period": {
-      "start_date": "NEW_ARTICLE_17_CRITERIA_REQUIRED"
+      "start_date": "NEW_ARTICLE_17_CRITERIA_REQUIRED",
+      "end_date": "NEW_REQUIREMENTS_RULES_FROM"
+    }
+  },
+  {
+    "criteria": {
+      "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.MANAGEMENT.SUBCONTRACTING_PROPORTION": {
+        "rules": [
+          "required_works",
+          "required_services"
+        ]
+      },
+      "CRITERION.OTHER.BID.VALIDITY_PERIOD": {
+        "rules": [
+          "required"
+        ]
+      }
+    },
+    "period": {
+      "start_date": "NEW_REQUIREMENTS_RULES_FROM"
     }
   }
 ]
