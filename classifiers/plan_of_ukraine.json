@@ -25,6 +25,11 @@
     "name_en": "1.5 Full-fledged launch and usage of the human resources management information system (HRMIS)"
   },
   {
+    "id": "14537026-d044-4c66-86e8-72d16cd381e8",
+    "name_uk": "2. bridge. Схвалення Національної стратегії доходів на 2024–2030 роки",
+    "name_en": "2. bridge Adoption of the National Revenue Strategy for 2024-2030"
+  }, 
+  {
     "id": "6934e754-8195-4dd8-a946-689b345b6d44",
     "name_uk": "2.1 Схвалення стратегічного плану цифровізації Державної податкової служби",
     "name_en": "2.1 Adoption of the strategic plan for digitalisation of the State Tax Service"
@@ -68,6 +73,11 @@
     "id": "8ffa10fa-0b28-4f5f-b379-56b51f3bd7c0",
     "name_uk": "2.9 Ухвалення та набрання чинності змін до постанов Кабінету Міністрів щодо державного фінансового контролю",
     "name_en": "2.9 Adoption and entry into force amendments to the resolutions of the Cabinet of Ministers on state financial control"
+  },
+  {
+    "id": "3f63ede5-a1f9-4cd4-947b-20b7187ef4af",
+    "name_uk": "3. bridge. Початок роботи відбіркової комісії з проведення конкурсу до Вищої ради правосуддя Служби дисциплінарних інспекторів. Розпочато та триває в установленому порядку конкурс на посади його керівника, заступника та дисциплінарного інспектора",
+    "name_en": "3. bridge Start of work of the Selection Commission on Conducting Competition to the High Council of Justice Service of Disciplinary Inspectors. Competition for its Head, Deputy Head and Disciplinary Inspectors has launched and continues according to established procedure"
   },
   {
     "id": "23e3377e-ca37-4d7b-b672-6bee9c44ed69",
@@ -138,6 +148,11 @@
     "id": "281d06bd-d356-4156-9139-d84d19aca872",
     "name_uk": "3.14 Запроваджено систему електронного документообігу в системі кримінальної юстиції",
     "name_en": "3.14 An e-Case Management System in the criminal justice is in place"
+  },
+  {
+    "id": "1ef8442d-04c5-43d8-ab10-33be409fe202",
+    "name_uk": "4. bridge. Схвалення Плану заходів щодо подолання ризиків, визначених у третьому раунді Національної оцінки ризиків",
+    "name_en": "4. bridge Adoption of the Action Plan for addressing the risks identified in the third round of the National Risk Assessment"
   },
   {
     "id": "0aa779eb-113f-4a28-a768-32356b52f71f",
@@ -360,6 +375,11 @@
     "name_en": "7.19 Providing compensation providing housing for: - persons with disabilities of I-II groups who defended the independence, sovereignty, and territorial integrity of Ukraine. - Family members of the deceased defenders. Internally displaced persons who defended the independence, sovereignty and territorial integrity of Ukraine and their family members"
   },
   {
+    "id": "272dfef3-a29d-4a5d-b555-92fbd7b7b0c1",
+    "name_uk": "8. bridge. Набрання чинності законодавством про запровадження підтримки індустріальних парків",
+    "name_en": "8.bridge Entry into force of the legislation on the introduction of industrial parks support"
+  },
+  {
     "id": "ab276cd9-885c-43ca-931f-dc43063eed90",
     "name_uk": "8.1 Прийняття Плану заходів з дерегуляції",
     "name_en": "8.1 Adoption of the Action Plan on deregulation"
@@ -578,6 +598,11 @@
     "id": "2487be19-601a-490f-b357-9f988623d069",
     "name_uk": "11.7 Інвестування не менше 350 млн євро в транспортну інфраструктуру",
     "name_en": "11.7 Investments of at least EUR 350 million in transport infrastructure"
+  },
+  {
+    "id": "1c72b711-ba84-4114-b079-aa21311a1366",
+    "name_uk": "12. bridge. Впровадження автоматичного обміну даними між Державним земельним кадастром та Державним реєстром речових прав на нерухоме майно",
+    "name_en": "12. bridge Implementation of automatic data transfer between the State Land Cadastre and the State Register of Property Rights on Real Estate"
   },
   {
     "id": "0c038611-dbb9-4d33-a3f5-e5e3731d66a9",
