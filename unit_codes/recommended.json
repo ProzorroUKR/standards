@@ -613,9 +613,9 @@
   },
   "LR": {
     "name_en": "layer",
-    "symbol_en": "",
+    "symbol_en": "layer",
     "name_uk": "шар",
-    "symbol_uk": ""
+    "symbol_uk": "шар"
   },
   "LM": {
     "name_en": "linear metre",
