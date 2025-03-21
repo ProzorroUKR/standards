@@ -41,6 +41,12 @@
     "name_uk": "бобіна",
     "symbol_uk": ""
   },
+  "4G": {
+    "name_en": "microlitre",
+    "symbol_en": "µl",
+    "name_uk": "мікролітр",
+    "symbol_uk": "мкл"
+  },
   "4H": {
     "name_en": "micrometre",
     "symbol_en": "µm",
@@ -287,6 +293,12 @@
     "name_uk": "кубічний дециметр",
     "symbol_uk": "дц³"
   },
+  "E01": {
+    "name_en": "newton per square centimetre",
+    "symbol_en": "N/cm²",
+    "name_uk": "ньютон на квадратний метр",
+    "symbol_uk": "Н/см²"
+  },
   "E07": {
     "name_en": "megawatt hour per hour",
     "symbol_en": "MW·h/h",
@@ -449,6 +461,18 @@
     "name_uk": "грам",
     "symbol_uk": "г"
   },
+  "H78": {
+    "name_en": "conventional centimetre of water",
+    "symbol_en": "cm H₂O",
+    "name_uk": "стандартний сантиметр водяного стовпа",
+    "symbol_uk": "см вод.ст"
+  },
+  "H79": {
+    "name_en": "French gauge",
+    "symbol_en": "Fg",
+    "name_uk": "Французька шкала",
+    "symbol_uk": "Фш"
+  },
   "H87": {
     "name_en": "piece",
     "symbol_en": "p",
@@ -460,6 +484,12 @@
     "symbol_en": "ha",
     "name_uk": "гектар",
     "symbol_uk": "га"
+  },
+  "HN": {
+    "name_en": "conventional millimetre of mercury",
+    "symbol_en": "mm Hg",
+    "name_uk": "стандартний міліметр ртутного стовпа",
+    "symbol_uk": "мм рт.ст"
   },
   "HTZ": {
     "name_en": "hertz",
@@ -581,6 +611,12 @@
     "name_uk": "літр на хвилину",
     "symbol_uk": "л/хв"
   },
+  "LR": {
+    "name_en": "layer",
+    "symbol_en": "",
+    "name_uk": "шар",
+    "symbol_uk": ""
+  },
   "LM": {
     "name_en": "linear metre",
     "symbol_en": "",
@@ -604,6 +640,18 @@
     "symbol_en": "lm",
     "name_uk": "люмен",
     "symbol_uk": "лм"
+  },
+  "M1": {
+    "name_en": "milligram per litre",
+    "symbol_en": "mmol/l",
+    "name_uk": "мілімоль на літр",
+    "symbol_uk": "ммоль/л"
+  },
+  "M33": {
+    "name_en": "millimole per litre",
+    "symbol_en": "mg/l",
+    "name_uk": "міліграм на літр",
+    "symbol_uk": "мг/л"
   },
   "MGM": {
     "name_en": "milligram",
