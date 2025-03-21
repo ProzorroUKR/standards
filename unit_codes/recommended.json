@@ -11,6 +11,12 @@
     "name_uk": "вольт DC",
     "symbol_uk": "В"
   },
+  "2L": {
+    "name_en": "cubic foot per minute",
+    "symbol_en": "ft³/min",
+    "name_uk": "кубічний фут на хвилину",
+    "symbol_uk": "фт³/хв "
+  },
   "2N": {
     "name_en": "decibel",
     "symbol_en": "dB",
@@ -34,6 +40,12 @@
     "symbol_en": "",
     "name_uk": "бобіна",
     "symbol_uk": ""
+  },
+  "4G": {
+    "name_en": "microlitre",
+    "symbol_en": "µl",
+    "name_uk": "мікролітр",
+    "symbol_uk": "мкл"
   },
   "4H": {
     "name_en": "micrometre",
@@ -70,6 +82,12 @@
     "symbol_en": "cd/m²",
     "name_uk": "кандела на квадратний метр",
     "symbol_uk": "кд/м²"
+  },
+  "A86": {
+    "name_en": "gigahertz",
+    "symbol_en": "GHz",
+    "name_uk": "гігагерц",
+    "symbol_uk": "ГГц"
   },
   "A93": {
     "name_en": "gram per cubic metre",
@@ -155,6 +173,30 @@
     "name_uk": "ящик",
     "symbol_uk": "ящ"
   },
+  "C26": {
+    "name_en": "millisecond",
+    "symbol_en": "ms",
+    "name_uk": "мілісекунда",
+    "symbol_uk": "мс"
+  },
+  "C31": {
+    "name_en": "milliwatt",
+    "symbol_en": "mW",
+    "name_uk": "міліват",
+    "symbol_uk": "мВт"
+  },
+  "C45": {
+    "name_en": "nanometre",
+    "symbol_en": "nm",
+    "name_uk": "нанометр",
+    "symbol_uk": "нм"
+  },
+  "C62": {
+    "name_en": "one",
+    "symbol_en": "1",
+    "name_uk": "один",
+    "symbol_uk": "1"
+  },
   "CA": {
     "name_en": "can",
     "symbol_en": "can",
@@ -221,6 +263,12 @@
     "name_uk": "блок",
     "symbol_uk": "бл"
   },
+  "D82": {
+    "name_en": "microvolt",
+    "symbol_en": "µV",
+    "name_uk": "мікровольт",
+    "symbol_uk": "мкВ"
+  },
   "DAY": {
     "name_en": "day",
     "symbol_en": "d",
@@ -245,11 +293,23 @@
     "name_uk": "кубічний дециметр",
     "symbol_uk": "дц³"
   },
+  "E01": {
+    "name_en": "newton per square centimetre",
+    "symbol_en": "N/cm²",
+    "name_uk": "ньютон на квадратний метр",
+    "symbol_uk": "Н/см²"
+  },
   "E07": {
     "name_en": "megawatt hour per hour",
     "symbol_en": "MW·h/h",
     "name_uk": "мегават-година на годину",
     "symbol_uk": "МВт·год/год"
+  },
+  "E09": {
+    "name_en": "milliampere hour",
+    "symbol_en": "mA·h",
+    "name_uk": "мілліампер год",
+    "symbol_uk": "мА·г"
   },
   "E11": {
     "name_en": "gigacalorie",
@@ -311,6 +371,12 @@
     "name_uk": "точок на дюйм",
     "symbol_uk": "dpi"
   },
+  "E42": {
+    "name_en": "kilogram-force per square centimetre",
+    "symbol_en": "kgf/cm²",
+    "name_uk": "кілограм на квадратний сантиметр",
+    "symbol_uk": "кг/см²"
+  },
   "E48": {
     "name_en": "service unit",
     "symbol_en": "serv",
@@ -365,6 +431,12 @@
     "name_uk": "літр на секунду",
     "symbol_uk": "л/с"
   },
+  "G53": {
+    "name_en": "cubic metre per minute",
+    "symbol_en": "m³/min",
+    "name_uk": "кубічний метр за хвилину",
+    "symbol_uk": "куб.м/хв"
+  },
   "GF": {
     "name_en": "gram per metre (gram per 100 centimetres)",
     "symbol_en": "g/m",
@@ -389,6 +461,18 @@
     "name_uk": "грам",
     "symbol_uk": "г"
   },
+  "H78": {
+    "name_en": "conventional centimetre of water",
+    "symbol_en": "cm H₂O",
+    "name_uk": "стандартний сантиметр водяного стовпа",
+    "symbol_uk": "см вод.ст"
+  },
+  "H79": {
+    "name_en": "French gauge",
+    "symbol_en": "Fg",
+    "name_uk": "Французька шкала",
+    "symbol_uk": "Фш"
+  },
   "H87": {
     "name_en": "piece",
     "symbol_en": "p",
@@ -400,6 +484,12 @@
     "symbol_en": "ha",
     "name_uk": "гектар",
     "symbol_uk": "га"
+  },
+  "HN": {
+    "name_en": "conventional millimetre of mercury",
+    "symbol_en": "mm Hg",
+    "name_uk": "стандартний міліметр ртутного стовпа",
+    "symbol_uk": "мм рт.ст"
   },
   "HTZ": {
     "name_en": "hertz",
@@ -521,6 +611,12 @@
     "name_uk": "літр на хвилину",
     "symbol_uk": "л/хв"
   },
+  "LR": {
+    "name_en": "layer",
+    "symbol_en": "layer",
+    "name_uk": "шар",
+    "symbol_uk": "шар"
+  },
   "LM": {
     "name_en": "linear metre",
     "symbol_en": "",
@@ -544,6 +640,18 @@
     "symbol_en": "lm",
     "name_uk": "люмен",
     "symbol_uk": "лм"
+  },
+  "M1": {
+    "name_en": "milligram per litre",
+    "symbol_en": "mmol/l",
+    "name_uk": "мілімоль на літр",
+    "symbol_uk": "ммоль/л"
+  },
+  "M33": {
+    "name_en": "millimole per litre",
+    "symbol_en": "mg/l",
+    "name_uk": "міліграм на літр",
+    "symbol_uk": "мг/л"
   },
   "MGM": {
     "name_en": "milligram",
@@ -580,6 +688,12 @@
     "symbol_en": "mo",
     "name_uk": "місяць",
     "symbol_uk": "міс"
+  },
+  "MPA": {
+    "name_en": "megapascal",
+    "symbol_en": "MPa",
+    "name_uk": "мегапаскаль",
+    "symbol_uk": "МПа"
   },
   "MQH": {
     "name_en": "cubic metre per hour",
@@ -622,6 +736,12 @@
     "symbol_en": "MW·h",
     "name_uk": "Мегават-година",
     "symbol_uk": "МВт·год"
+  },
+  "NH": {
+    "name_en": "norm/hr",
+    "symbol_en": "n/h",
+    "name_uk": "норм/год",
+    "symbol_uk": "н/г"
   },
   "NEW": {
     "name_en": "newton",
@@ -790,6 +910,12 @@
     "symbol_en": "ch",
     "name_uk": "коробка",
     "symbol_uk": "кор"
+  },
+  "ZP": {
+    "name_en": "page",
+    "symbol_en": "page",
+    "name_uk": "сторінка",
+    "symbol_uk": "стор"
   },
   "K3": {
     "name_en": "kilovolt ampere reactive hour",
