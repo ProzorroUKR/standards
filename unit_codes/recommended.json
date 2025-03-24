@@ -643,15 +643,15 @@
   },
   "M1": {
     "name_en": "milligram per litre",
-    "symbol_en": "mmol/l",
-    "name_uk": "мілімоль на літр",
-    "symbol_uk": "ммоль/л"
-  },
-  "M33": {
-    "name_en": "millimole per litre",
     "symbol_en": "mg/l",
     "name_uk": "міліграм на літр",
     "symbol_uk": "мг/л"
+  },
+  "M33": {
+    "name_en": "millimole per litre",
+    "symbol_en": "mmol/l",
+    "name_uk": "мілімоль на літр",
+    "symbol_uk": "ммоль/л"
   },
   "MGM": {
     "name_en": "milligram",
