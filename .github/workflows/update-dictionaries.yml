@@ -54,4 +54,4 @@ jobs:
           git commit -m "Update dictionaries JSON data from API" -a
           git push origin $BRANCH_NAME
           echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
-          gh pr create -B master -H ${{ env.BRANCH_NAME }} --title "Update dictionary JSON data" --body "Automated pull request to update JSON data from API."
+          gh pr create -B master -H ${{ env.BRANCH_NAME }} --title Update dictionary JSON data --body Automated pull request to update JSON data from API.
