@@ -1,10 +1,9 @@
 name: Update dictionaries JSON Data
 
 on:
-  [push,pull_request]
-#  schedule:
-#    - cron: '*/3 * * * *'
-#  workflow_dispatch: # Availability to run manually
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Availability to run manually
 
 jobs:
   update-json:
@@ -30,7 +29,6 @@ jobs:
       - name: fetch data from API
         run: |
           python scripts/get_openbudget_dictionaries.py
-          git add --all
 
       - name: Check for Changes
         id: check_changes
@@ -54,4 +52,9 @@ jobs:
           git commit -m "Update dictionaries JSON data from API" -a
           git push origin $BRANCH_NAME
           echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
-          gh pr create -B master -H ${{ env.BRANCH_NAME }} --title 'Update dictionary JSON data' --body 'Automated pull request to update JSON data from API.'
+
+      - name: Create Pull Request
+        if: env.changed == 'true'
+        run: gh pr create -B master -H ${{ env.BRANCH_NAME }} --title "Update dictionary JSON data" --body "Automated pull request to update JSON data from API."
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
