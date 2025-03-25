@@ -1,9 +1,10 @@
 name: Update dictionaries JSON Data
 
 on:
-  schedule:
-    - cron: '*/3 * * * *'
-  workflow_dispatch: # Availability to run manually
+  [push,pull_request]
+#  schedule:
+#    - cron: '*/3 * * * *'
+#  workflow_dispatch: # Availability to run manually
 
 jobs:
   update-json:
