@@ -30,11 +30,11 @@ jobs:
       - name: fetch data from API
         run: |
           python scripts/get_openbudget_dictionaries.py
+          git add --all
 
       - name: Check for Changes
         id: check_changes
         run: |
-          git add --all
           if git diff --cached --quiet; then
             echo "No changes detected."
             echo "changed=false" >> $GITHUB_ENV
@@ -50,6 +50,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           BRANCH_NAME="update-dictionaries-json-$(date +%Y-%m-%d-%H-%M-%S)"
           git checkout -b $BRANCH_NAME
+          git status
           git commit -m "Update dictionaries JSON data from API" -a
           git push origin $BRANCH_NAME
           echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
