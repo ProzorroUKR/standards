@@ -48,9 +48,11 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b update-dictionaries-json-$(date +%Y-%m-%d)
+          BRANCH_NAME="update-dictionaries-json-$(date +%Y-%m-%d)"
+          git checkout -b $BRANCH_NAME
           git commit -m "Update dictionaries JSON data from API" -a
-          git push origin update-dictionaries-json-$(date +%Y-%m-%d)
+          git push origin $BRANCH_NAME
+          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
 
       - name: Create Pull Request
         if: env.changed == 'true'
@@ -58,6 +60,6 @@ jobs:
         with:
           title: "Update dictionary JSON data"
           body: "Automated pull request to update JSON data from API."
-          branch: update-dictionaries-json-$(date +%Y-%m-%d)
+          branch: ${{ env.BRANCH_NAME }}
           base: master
           labels: "automation, update"
