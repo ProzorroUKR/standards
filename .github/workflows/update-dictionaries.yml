@@ -30,6 +30,7 @@ jobs:
       - name: fetch data from API
         run: |
           python scripts/get_openbudget_dictionaries.py
+          git add -all
 
       - name: Check for Changes
         id: check_changes
