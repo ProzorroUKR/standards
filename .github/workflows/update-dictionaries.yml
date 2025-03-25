@@ -57,10 +57,6 @@ jobs:
 
       - name: Create Pull Request
         if: env.changed == 'true'
-        uses: peter-evans/create-pull-request@v6
-        with:
-          title: "Update dictionary JSON data"
-          body: "Automated pull request to update JSON data from API."
-          branch: ${{ env.BRANCH_NAME }}
-          base: master
-          labels: "automation, update"
+        run: gh pr create -B master -H ${{ env.BRANCH_NAME }} --title "Update dictionary JSON data" --body "Automated pull request to update JSON data from API."
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
