@@ -4,7 +4,7 @@ import requests
 KPK_RESOURCE_API = "https://api.openbudget.gov.ua/items"
 
 
-def get_kpk_dictionary():
+def get_openbudget_dictionary():
     for dict_name in ("KPK", "TKPKMB"):
         resource_url = f"{KPK_RESOURCE_API}/{dict_name}"
         response = requests.get(resource_url)
@@ -18,4 +18,4 @@ def get_kpk_dictionary():
 
 
 if __name__ == "__main__":
-    get_kpk_dictionary()
+    get_openbudget_dictionary()

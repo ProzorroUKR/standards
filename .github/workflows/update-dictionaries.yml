@@ -46,7 +46,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          BRANCH_NAME="update-dictionaries-json-$(date +%Y-%m-%d-%H-%M-%S)"
+          BRANCH_NAME="update-dictionaries-json-$(date +%Y-%m-%d)"
           git checkout -b $BRANCH_NAME
           git status
           git commit -m "Update dictionaries JSON data from API" -a
