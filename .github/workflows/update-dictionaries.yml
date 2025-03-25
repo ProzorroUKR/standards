@@ -1,10 +1,9 @@
 name: Update dictionaries JSON Data
 
 on:
-  [push]
-#  schedule:
-#    - cron: '0 0 * * *'
-#  workflow_dispatch: # Availability to run manually
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Availability to run manually
 
 jobs:
   update-json:
@@ -57,6 +56,6 @@ jobs:
 
       - name: Create Pull Request
         if: env.changed == 'true'
-        run: gh pr create -B actions -H ${{ env.BRANCH_NAME }} --title "Update dictionary JSON data" --body "Automated pull request to update JSON data from API."
+        run: gh pr create -B master -H ${{ env.BRANCH_NAME }} --title "Update dictionary JSON data" --body "Automated pull request to update JSON data from API."
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
