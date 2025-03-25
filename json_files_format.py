@@ -17,6 +17,7 @@ def get_files_paths(root):
             files.append(path)
     return files
 
+
 def format_json_files(path):
     for file_path in get_files_paths("."):
         if file_path.endswith(".json"):
