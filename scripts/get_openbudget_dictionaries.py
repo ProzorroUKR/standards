@@ -13,6 +13,7 @@ def get_openbudget_dictionary():
             json_object = json.dumps(data, indent=2, ensure_ascii=False)
             with open(f'./classifiers/{dict_name.lower()}.json', 'w') as outfile:
                 outfile.write(json_object)
+                outfile.write("\n")  # empty line in the end of file for json validation
         else:
             print(f"Response from resource {resource_url}: {response.status_code} - {response.text}")
 
