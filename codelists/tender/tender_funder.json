@@ -284,5 +284,31 @@
     },
     "name_en": "NEXT Poland – Ukraine 2021-2027 Programme of the European Union",
     "name_uk": "Програма Interreg NEXT Польща — Україна 2021-2027 Європейського Союзу"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Люксембург",
+      "locality": "Luxembourg",
+      "postalCode": "L-2950",
+      "region": "Luxembourg",
+      "streetAddress": "98-100, Boulevard Konrad Adenauer"
+    },
+    "contactPoint": {
+      "email": "kyiv@eib.org",
+      "faxNumber": "+380443908018",
+      "telephone": "+380443908018",
+      "url": "www.eib.org",
+      "name_en": "EIB Regional Hub for Eastern Europe",
+      "name_uk": "Регіональний хаб ЄІБ для Східної Європи"
+    },
+    "identifier": {
+      "id": "33000",
+      "scheme": "XM-DAC",
+      "legalName_en": "European Investment Bank",
+      "legalName_uk": "Європейський інвестиційний банк"
+    },
+    "name_en": "EIB",
+    "name_uk": "ЄІБ"
   }
 ]
