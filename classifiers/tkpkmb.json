@@ -1,8 +1,7 @@
-[
-  {
+{
+  "2161": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "2161",
     "parentCode": "2160",
     "level": 4,
     "endDate": null,
@@ -13,10 +12,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2170": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "2170",
     "parentCode": "2000",
     "level": 3,
     "endDate": null,
@@ -27,10 +25,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3070": {
     "codeKfk": "1070",
     "beginDate": "2025-02-18",
-    "code": "3070",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -41,10 +38,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3242": {
     "codeKfk": "1090",
     "beginDate": "2025-02-18",
-    "code": "3242",
     "parentCode": "3240",
     "level": 4,
     "endDate": null,
@@ -55,10 +51,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "4020": {
     "codeKfk": "0822",
     "beginDate": "2025-02-18",
-    "code": "4020",
     "parentCode": "4000",
     "level": 3,
     "endDate": null,
@@ -69,10 +64,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5011": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5011",
     "parentCode": "5010",
     "level": 4,
     "endDate": null,
@@ -83,10 +77,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5020": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "5020",
     "parentCode": "5000",
     "level": 3,
     "endDate": null,
@@ -97,10 +90,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5021": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5021",
     "parentCode": "5020",
     "level": 4,
     "endDate": null,
@@ -111,10 +103,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5044": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5044",
     "parentCode": "5040",
     "level": 4,
     "endDate": null,
@@ -125,10 +116,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5049": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5049",
     "parentCode": "5040",
     "level": 4,
     "endDate": null,
@@ -139,10 +129,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6017": {
     "codeKfk": "0620",
     "beginDate": "2025-02-18",
-    "code": "6017",
     "parentCode": "6010",
     "level": 4,
     "endDate": null,
@@ -153,10 +142,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6080": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "6080",
     "parentCode": "6000",
     "level": 3,
     "endDate": null,
@@ -167,10 +155,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6082": {
     "codeKfk": "0610",
     "beginDate": "2025-02-18",
-    "code": "6082",
     "parentCode": "6080",
     "level": 4,
     "endDate": null,
@@ -181,10 +168,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6092": {
     "codeKfk": "0610",
     "beginDate": "2025-02-18",
-    "code": "6092",
     "parentCode": "6000",
     "level": 4,
     "endDate": null,
@@ -195,10 +181,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7130": {
     "codeKfk": "0421",
     "beginDate": "2025-02-18",
-    "code": "7130",
     "parentCode": "7100",
     "level": 3,
     "endDate": null,
@@ -209,10 +194,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7351": {
     "codeKfk": "0443",
     "beginDate": "2025-02-18",
-    "code": "7351",
     "parentCode": "7300",
     "level": 4,
     "endDate": null,
@@ -223,10 +207,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7365": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7365",
     "parentCode": null,
     "level": 4,
     "endDate": null,
@@ -237,10 +220,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7368": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7368",
     "parentCode": null,
     "level": 4,
     "endDate": null,
@@ -251,10 +233,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7381": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7381",
     "parentCode": "7300",
     "level": 4,
     "endDate": null,
@@ -265,10 +246,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7383": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7383",
     "parentCode": "7300",
     "level": 4,
     "endDate": null,
@@ -279,10 +259,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7400": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "7400",
     "parentCode": "7000",
     "level": 2,
     "endDate": null,
@@ -293,10 +272,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7413": {
     "codeKfk": "0451",
     "beginDate": "2025-02-18",
-    "code": "7413",
     "parentCode": "7410",
     "level": 4,
     "endDate": null,
@@ -307,10 +285,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7423": {
     "codeKfk": "0453",
     "beginDate": "2025-02-18",
-    "code": "7423",
     "parentCode": "7420",
     "level": 4,
     "endDate": null,
@@ -321,10 +298,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7442": {
     "codeKfk": "0456",
     "beginDate": "2025-02-18",
-    "code": "7442",
     "parentCode": "7440",
     "level": 4,
     "endDate": null,
@@ -335,10 +311,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7461": {
     "codeKfk": "0456",
     "beginDate": "2025-02-18",
-    "code": "7461",
     "parentCode": "7460",
     "level": 4,
     "endDate": null,
@@ -349,10 +324,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7463": {
     "codeKfk": "0456",
     "beginDate": "2025-02-18",
-    "code": "7463",
     "parentCode": "7460",
     "level": 4,
     "endDate": null,
@@ -363,10 +337,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7680": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7680",
     "parentCode": "7600",
     "level": 3,
     "endDate": null,
@@ -377,10 +350,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7691": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7691",
     "parentCode": "7690",
     "level": 4,
     "endDate": null,
@@ -391,10 +363,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7693": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7693",
     "parentCode": "7690",
     "level": 4,
     "endDate": null,
@@ -405,10 +376,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8311": {
     "codeKfk": "0511",
     "beginDate": "2025-02-18",
-    "code": "8311",
     "parentCode": "8310",
     "level": 4,
     "endDate": null,
@@ -419,10 +389,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8734": {
     "codeKfk": "0460",
     "beginDate": "2025-02-18",
-    "code": "8734",
     "parentCode": "8730",
     "level": 4,
     "endDate": null,
@@ -433,10 +402,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8762": {
     "codeKfk": "0540",
     "beginDate": "2025-02-18",
-    "code": "8762",
     "parentCode": "8760",
     "level": 4,
     "endDate": null,
@@ -447,10 +415,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3103": {
     "codeKfk": "1010",
     "beginDate": "2025-02-18",
-    "code": "3103",
     "parentCode": "3100",
     "level": 4,
     "endDate": null,
@@ -461,10 +428,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3133": {
     "codeKfk": "1040",
     "beginDate": "2025-02-18",
-    "code": "3133",
     "parentCode": "3130",
     "level": 4,
     "endDate": null,
@@ -475,10 +441,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8872": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "8872",
     "parentCode": "8870",
     "level": 4,
     "endDate": null,
@@ -489,10 +454,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8900": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8900",
     "parentCode": null,
     "level": 2,
     "endDate": null,
@@ -503,10 +467,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9150": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9150",
     "parentCode": "9100",
     "level": 3,
     "endDate": null,
@@ -517,10 +480,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9200": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "9200",
     "parentCode": "9000",
     "level": 2,
     "endDate": null,
@@ -531,10 +493,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9311": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9311",
     "parentCode": "9300",
     "level": 4,
     "endDate": null,
@@ -545,10 +506,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9314": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9314",
     "parentCode": "9300",
     "level": 4,
     "endDate": null,
@@ -559,10 +519,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9518": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9518",
     "parentCode": "9500",
     "level": 4,
     "endDate": null,
@@ -573,10 +532,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9810": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9810",
     "parentCode": "9000",
     "level": 3,
     "endDate": null,
@@ -587,10 +545,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "0120": {
     "codeKfk": "0112",
     "beginDate": "2025-02-18",
-    "code": "0120",
     "parentCode": "0100",
     "level": 3,
     "endDate": null,
@@ -601,10 +558,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "0150": {
     "codeKfk": "0111",
     "beginDate": "2025-02-18",
-    "code": "0150",
     "parentCode": "0100",
     "level": 3,
     "endDate": null,
@@ -615,10 +571,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "0180": {
     "codeKfk": "0133",
     "beginDate": "2025-02-18",
-    "code": "0180",
     "parentCode": "0100",
     "level": 3,
     "endDate": null,
@@ -629,10 +584,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1010": {
     "codeKfk": "0910",
     "beginDate": "2025-02-18",
-    "code": "1010",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -643,10 +597,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1035": {
     "codeKfk": "0922",
     "beginDate": "2025-02-18",
-    "code": "1035",
     "parentCode": "1030",
     "level": 4,
     "endDate": null,
@@ -657,10 +610,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1046": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1046",
     "parentCode": "1040",
     "level": 4,
     "endDate": null,
@@ -671,10 +623,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1090": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1090",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -685,10 +636,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1094": {
     "codeKfk": "0930",
     "beginDate": "2025-02-18",
-    "code": "1094",
     "parentCode": "1090",
     "level": 4,
     "endDate": null,
@@ -699,10 +649,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1100": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1100",
     "parentCode": "1000",
     "level": 2,
     "endDate": null,
@@ -713,10 +662,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1154": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1154",
     "parentCode": "1150",
     "level": 4,
     "endDate": null,
@@ -727,10 +675,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1160": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1160",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -741,10 +688,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8841": {
     "codeKfk": "1060",
     "beginDate": "2025-02-18",
-    "code": "8841",
     "parentCode": "8840",
     "level": 4,
     "endDate": null,
@@ -755,10 +701,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1201": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1201",
     "parentCode": "1000",
     "level": 4,
     "endDate": null,
@@ -769,10 +714,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1240": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1240",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -783,10 +727,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1271": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1271",
     "parentCode": "1270",
     "level": 4,
     "endDate": null,
@@ -797,10 +740,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2010": {
     "codeKfk": "0731",
     "beginDate": "2025-02-18",
-    "code": "2010",
     "parentCode": "2000",
     "level": 3,
     "endDate": null,
@@ -811,10 +753,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2111": {
     "codeKfk": "0726",
     "beginDate": "2025-02-18",
-    "code": "2111",
     "parentCode": "2110",
     "level": 4,
     "endDate": null,
@@ -825,10 +766,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2112": {
     "codeKfk": "0725",
     "beginDate": "2025-02-18",
-    "code": "2112",
     "parentCode": "2110",
     "level": 4,
     "endDate": null,
@@ -839,10 +779,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2120": {
     "codeKfk": "0740",
     "beginDate": "2025-02-18",
-    "code": "2120",
     "parentCode": "2000",
     "level": 3,
     "endDate": null,
@@ -853,10 +792,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2150": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "2150",
     "parentCode": "2000",
     "level": 3,
     "endDate": null,
@@ -867,10 +805,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2151": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "2151",
     "parentCode": "2150",
     "level": 4,
     "endDate": null,
@@ -881,10 +818,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3090": {
     "codeKfk": "1030",
     "beginDate": "2025-02-18",
-    "code": "3090",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -895,10 +831,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3104": {
     "codeKfk": "1020",
     "beginDate": "2025-02-18",
-    "code": "3104",
     "parentCode": "3100",
     "level": 4,
     "endDate": null,
@@ -909,10 +844,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3105": {
     "codeKfk": "1010",
     "beginDate": "2025-02-18",
-    "code": "3105",
     "parentCode": "3100",
     "level": 4,
     "endDate": null,
@@ -923,10 +857,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3114": {
     "codeKfk": "1040",
     "beginDate": "2025-02-18",
-    "code": "3114",
     "parentCode": "3110",
     "level": 4,
     "endDate": null,
@@ -937,10 +870,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3120": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "3120",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -951,10 +883,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3134": {
     "codeKfk": "1040",
     "beginDate": "2025-02-18",
-    "code": "3134",
     "parentCode": "3130",
     "level": 4,
     "endDate": null,
@@ -965,10 +896,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3194": {
     "codeKfk": "1030",
     "beginDate": "2025-02-18",
-    "code": "3194",
     "parentCode": "3190",
     "level": 4,
     "endDate": null,
@@ -979,10 +909,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3240": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "3240",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -993,10 +922,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "4060": {
     "codeKfk": "0828",
     "beginDate": "2025-02-18",
-    "code": "4060",
     "parentCode": "4000",
     "level": 3,
     "endDate": null,
@@ -1007,10 +935,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5010": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "5010",
     "parentCode": "5000",
     "level": 3,
     "endDate": null,
@@ -1021,10 +948,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5051": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5051",
     "parentCode": "5050",
     "level": 4,
     "endDate": null,
@@ -1035,10 +961,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5062": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5062",
     "parentCode": "5060",
     "level": 4,
     "endDate": null,
@@ -1049,10 +974,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5070": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5070",
     "parentCode": "5000",
     "level": 3,
     "endDate": null,
@@ -1063,10 +987,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6084": {
     "codeKfk": "0610",
     "beginDate": "2025-02-18",
-    "code": "6084",
     "parentCode": "6080",
     "level": 4,
     "endDate": null,
@@ -1077,10 +1000,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1600": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1600",
     "parentCode": "1000",
     "level": 2,
     "endDate": null,
@@ -1091,10 +1013,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6087": {
     "codeKfk": "0610",
     "beginDate": "2025-02-18",
-    "code": "6087",
     "parentCode": "6080",
     "level": 4,
     "endDate": null,
@@ -1105,10 +1026,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7440": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "7440",
     "parentCode": "7400",
     "level": 3,
     "endDate": null,
@@ -1119,10 +1039,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7510": {
     "codeKfk": "0460",
     "beginDate": "2025-02-18",
-    "code": "7510",
     "parentCode": "7500",
     "level": 3,
     "endDate": null,
@@ -1133,10 +1052,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7520": {
     "codeKfk": "0460",
     "beginDate": "2025-02-18",
-    "code": "7520",
     "parentCode": "7500",
     "level": 3,
     "endDate": null,
@@ -1147,10 +1065,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7640": {
     "codeKfk": "0470",
     "beginDate": "2025-02-18",
-    "code": "7640",
     "parentCode": "7600",
     "level": 3,
     "endDate": null,
@@ -1161,10 +1078,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7690": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "7690",
     "parentCode": "7600",
     "level": 3,
     "endDate": null,
@@ -1175,10 +1091,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8230": {
     "codeKfk": "0380",
     "beginDate": "2025-02-18",
-    "code": "8230",
     "parentCode": "8200",
     "level": 3,
     "endDate": null,
@@ -1189,10 +1104,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8240": {
     "codeKfk": "0380",
     "beginDate": "2025-02-18",
-    "code": "8240",
     "parentCode": "8200",
     "level": 3,
     "endDate": null,
@@ -1203,10 +1117,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8310": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8310",
     "parentCode": "8300",
     "level": 3,
     "endDate": null,
@@ -1217,10 +1130,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8320": {
     "codeKfk": "0520",
     "beginDate": "2025-02-18",
-    "code": "8320",
     "parentCode": "8300",
     "level": 3,
     "endDate": null,
@@ -1231,10 +1143,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8723": {
     "codeKfk": "0829",
     "beginDate": "2025-02-18",
-    "code": "8723",
     "parentCode": "8720",
     "level": 4,
     "endDate": null,
@@ -1245,10 +1156,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8810": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8810",
     "parentCode": "8800",
     "level": 3,
     "endDate": null,
@@ -1259,10 +1169,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8832": {
     "codeKfk": "1060",
     "beginDate": "2025-02-18",
-    "code": "8832",
     "parentCode": "8830",
     "level": 4,
     "endDate": null,
@@ -1273,10 +1182,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8850": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8850",
     "parentCode": "8800",
     "level": 3,
     "endDate": null,
@@ -1287,10 +1195,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8861": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "8861",
     "parentCode": "8860",
     "level": 4,
     "endDate": null,
@@ -1301,10 +1208,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8862": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "8862",
     "parentCode": "8860",
     "level": 4,
     "endDate": null,
@@ -1315,10 +1221,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9130": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9130",
     "parentCode": "9100",
     "level": 3,
     "endDate": null,
@@ -1329,10 +1234,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9243": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9243",
     "parentCode": "9240",
     "level": 4,
     "endDate": null,
@@ -1343,10 +1247,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9300": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "9300",
     "parentCode": "9000",
     "level": 2,
     "endDate": null,
@@ -1357,10 +1260,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9330": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9330",
     "parentCode": "9300",
     "level": 3,
     "endDate": null,
@@ -1371,10 +1273,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9400": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "9400",
     "parentCode": "9000",
     "level": 2,
     "endDate": null,
@@ -1385,10 +1286,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9500": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "9500",
     "parentCode": "9000",
     "level": 2,
     "endDate": null,
@@ -1399,10 +1299,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9820": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9820",
     "parentCode": "9000",
     "level": 3,
     "endDate": null,
@@ -1413,10 +1312,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "0193": {
     "codeKfk": "0160",
     "beginDate": "2025-02-18",
-    "code": "0193",
     "parentCode": "0190",
     "level": 4,
     "endDate": null,
@@ -1427,10 +1325,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1021": {
     "codeKfk": "0921",
     "beginDate": "2025-02-18",
-    "code": "1021",
     "parentCode": "1020",
     "level": 4,
     "endDate": null,
@@ -1441,10 +1338,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1024": {
     "codeKfk": "0910",
     "beginDate": "2025-02-18",
-    "code": "1024",
     "parentCode": "1020",
     "level": 4,
     "endDate": null,
@@ -1455,10 +1351,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1026": {
     "codeKfk": "0921",
     "beginDate": "2025-02-18",
-    "code": "1026",
     "parentCode": "1020",
     "level": 4,
     "endDate": null,
@@ -1469,10 +1364,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1030": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1030",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -1483,10 +1377,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1032": {
     "codeKfk": "0922",
     "beginDate": "2025-02-18",
-    "code": "1032",
     "parentCode": "1030",
     "level": 4,
     "endDate": null,
@@ -1497,10 +1390,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1061": {
     "codeKfk": "0921",
     "beginDate": "2025-02-18",
-    "code": "1061",
     "parentCode": "1060",
     "level": 4,
     "endDate": null,
@@ -1511,10 +1403,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1103": {
     "codeKfk": "0941",
     "beginDate": "2025-02-18",
-    "code": "1103",
     "parentCode": "1100",
     "level": 4,
     "endDate": null,
@@ -1525,10 +1416,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1180": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1180",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -1539,10 +1429,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1210": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1210",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -1553,10 +1442,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1220": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1220",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -1567,10 +1455,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1222": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1222",
     "parentCode": "1220",
     "level": 4,
     "endDate": null,
@@ -1581,10 +1468,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1231": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1231",
     "parentCode": "1230",
     "level": 4,
     "endDate": null,
@@ -1595,10 +1481,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1281": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1281",
     "parentCode": "1280",
     "level": 4,
     "endDate": null,
@@ -1609,10 +1494,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1282": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1282",
     "parentCode": "1280",
     "level": 4,
     "endDate": null,
@@ -1623,10 +1507,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1401": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1401",
     "parentCode": "1400",
     "level": 4,
     "endDate": null,
@@ -1637,10 +1520,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1700": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1700",
     "parentCode": "1000",
     "level": 2,
     "endDate": null,
@@ -1651,10 +1533,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2142": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "2142",
     "parentCode": "2140",
     "level": 4,
     "endDate": null,
@@ -1665,10 +1546,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2143": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "2143",
     "parentCode": "2140",
     "level": 4,
     "endDate": null,
@@ -1679,10 +1559,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1211": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1211",
     "parentCode": "1000",
     "level": 4,
     "endDate": null,
@@ -1693,10 +1572,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1261": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1261",
     "parentCode": "1260",
     "level": 4,
     "endDate": null,
@@ -1707,10 +1585,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1290": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1290",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -1721,10 +1598,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2080": {
     "codeKfk": "0721",
     "beginDate": "2025-02-18",
-    "code": "2080",
     "parentCode": "2000",
     "level": 3,
     "endDate": null,
@@ -1735,10 +1611,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2130": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "2130",
     "parentCode": "2000",
     "level": 3,
     "endDate": null,
@@ -1749,10 +1624,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2145": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "2145",
     "parentCode": "2140",
     "level": 4,
     "endDate": null,
@@ -1763,10 +1637,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2146": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "2146",
     "parentCode": "2140",
     "level": 4,
     "endDate": null,
@@ -1777,10 +1650,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2174": {
     "codeKfk": "0721",
     "beginDate": "2025-02-18",
-    "code": "2174",
     "parentCode": "2000",
     "level": 4,
     "endDate": null,
@@ -1791,10 +1663,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3000": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "3000",
     "parentCode": null,
     "level": 1,
     "endDate": null,
@@ -1805,10 +1676,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3030": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "3030",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -1819,10 +1689,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3035": {
     "codeKfk": "1070",
     "beginDate": "2025-02-18",
-    "code": "3035",
     "parentCode": "3030",
     "level": 4,
     "endDate": null,
@@ -1833,10 +1702,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3130": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "3130",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -1847,10 +1715,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3160": {
     "codeKfk": "1010",
     "beginDate": "2025-02-18",
-    "code": "3160",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -1861,10 +1728,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3180": {
     "codeKfk": "1060",
     "beginDate": "2025-02-18",
-    "code": "3180",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -1875,10 +1741,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3190": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "3190",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -1889,10 +1754,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3192": {
     "codeKfk": "1030",
     "beginDate": "2025-02-18",
-    "code": "3192",
     "parentCode": "3190",
     "level": 4,
     "endDate": null,
@@ -1903,10 +1767,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3210": {
     "codeKfk": "1050",
     "beginDate": "2025-02-18",
-    "code": "3210",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -1917,10 +1780,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3221": {
     "codeKfk": "1060",
     "beginDate": "2025-02-18",
-    "code": "3221",
     "parentCode": "3220",
     "level": 4,
     "endDate": null,
@@ -1931,10 +1793,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7220": {
     "codeKfk": "0432",
     "beginDate": "2025-02-18",
-    "code": "7220",
     "parentCode": "7200",
     "level": 3,
     "endDate": null,
@@ -1945,10 +1806,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7330": {
     "codeKfk": "0443",
     "beginDate": "2025-02-18",
-    "code": "7330",
     "parentCode": "7300",
     "level": 3,
     "endDate": null,
@@ -1959,10 +1819,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7366": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7366",
     "parentCode": null,
     "level": 4,
     "endDate": null,
@@ -1973,10 +1832,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7387": {
     "codeKfk": "0731",
     "beginDate": "2025-02-18",
-    "code": "7387",
     "parentCode": "7300",
     "level": 4,
     "endDate": null,
@@ -1987,10 +1845,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7422": {
     "codeKfk": "0453",
     "beginDate": "2025-02-18",
-    "code": "7422",
     "parentCode": "7420",
     "level": 4,
     "endDate": null,
@@ -2001,10 +1858,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7460": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "7460",
     "parentCode": "7400",
     "level": 3,
     "endDate": null,
@@ -2015,10 +1871,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7600": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "7600",
     "parentCode": "7000",
     "level": 2,
     "endDate": null,
@@ -2029,10 +1884,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7692": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7692",
     "parentCode": "7690",
     "level": 4,
     "endDate": null,
@@ -2043,10 +1897,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8220": {
     "codeKfk": "0380",
     "beginDate": "2025-02-18",
-    "code": "8220",
     "parentCode": "8200",
     "level": 3,
     "endDate": null,
@@ -2057,10 +1910,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8410": {
     "codeKfk": "0830",
     "beginDate": "2025-02-18",
-    "code": "8410",
     "parentCode": "8400",
     "level": 3,
     "endDate": null,
@@ -2071,10 +1923,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3222": {
     "codeKfk": "1060",
     "beginDate": "2025-02-18",
-    "code": "3222",
     "parentCode": "3220",
     "level": 4,
     "endDate": null,
@@ -2085,10 +1936,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3230": {
     "codeKfk": "1070",
     "beginDate": "2025-02-18",
-    "code": "3230",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -2099,10 +1949,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "4080": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "4080",
     "parentCode": "4000",
     "level": 3,
     "endDate": null,
@@ -2113,10 +1962,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "4082": {
     "codeKfk": "0829",
     "beginDate": "2025-02-18",
-    "code": "4082",
     "parentCode": "4080",
     "level": 4,
     "endDate": null,
@@ -2127,10 +1975,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5031": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5031",
     "parentCode": "5030",
     "level": 4,
     "endDate": null,
@@ -2141,10 +1988,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5033": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5033",
     "parentCode": "5030",
     "level": 4,
     "endDate": null,
@@ -2155,10 +2001,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5040": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "5040",
     "parentCode": "5000",
     "level": 3,
     "endDate": null,
@@ -2169,10 +2014,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5041": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5041",
     "parentCode": "5040",
     "level": 4,
     "endDate": null,
@@ -2183,10 +2027,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5045": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5045",
     "parentCode": "5040",
     "level": 4,
     "endDate": null,
@@ -2197,10 +2040,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5046": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5046",
     "parentCode": "5040",
     "level": 4,
     "endDate": null,
@@ -2211,10 +2053,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6030": {
     "codeKfk": "0620",
     "beginDate": "2025-02-18",
-    "code": "6030",
     "parentCode": "6000",
     "level": 3,
     "endDate": null,
@@ -2225,10 +2066,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6094": {
     "codeKfk": "0620",
     "beginDate": "2025-02-18",
-    "code": "6094",
     "parentCode": "6000",
     "level": 4,
     "endDate": null,
@@ -2239,10 +2079,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8720": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8720",
     "parentCode": "8700",
     "level": 3,
     "endDate": null,
@@ -2253,10 +2092,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8724": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "8724",
     "parentCode": "8720",
     "level": 4,
     "endDate": null,
@@ -2267,10 +2105,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8741": {
     "codeKfk": "0610",
     "beginDate": "2025-02-18",
-    "code": "8741",
     "parentCode": "8740",
     "level": 4,
     "endDate": null,
@@ -2281,10 +2118,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8750": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8750",
     "parentCode": "8700",
     "level": 3,
     "endDate": null,
@@ -2295,10 +2131,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8752": {
     "codeKfk": "1060",
     "beginDate": "2025-02-18",
-    "code": "8752",
     "parentCode": "8750",
     "level": 4,
     "endDate": null,
@@ -2309,10 +2144,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1044": {
     "codeKfk": "0910",
     "beginDate": "2025-02-18",
-    "code": "1044",
     "parentCode": "1040",
     "level": 4,
     "endDate": null,
@@ -2323,10 +2157,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1092": {
     "codeKfk": "0930",
     "beginDate": "2025-02-18",
-    "code": "1092",
     "parentCode": "1090",
     "level": 4,
     "endDate": null,
@@ -2337,10 +2170,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1102": {
     "codeKfk": "0941",
     "beginDate": "2025-02-18",
-    "code": "1102",
     "parentCode": "1100",
     "level": 4,
     "endDate": null,
@@ -2351,10 +2183,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1150": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1150",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -2365,10 +2196,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1184": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1184",
     "parentCode": "1180",
     "level": 4,
     "endDate": null,
@@ -2379,10 +2209,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1200": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1200",
     "parentCode": "1000",
     "level": 2,
     "endDate": null,
@@ -2393,10 +2222,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1250": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1250",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -2407,10 +2235,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8755": {
     "codeKfk": "1070",
     "beginDate": "2025-02-18",
-    "code": "8755",
     "parentCode": "8750",
     "level": 4,
     "endDate": null,
@@ -2421,10 +2248,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8760": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8760",
     "parentCode": "8700",
     "level": 3,
     "endDate": null,
@@ -2435,10 +2261,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8772": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "8772",
     "parentCode": "8770",
     "level": 4,
     "endDate": null,
@@ -2449,10 +2274,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8812": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "8812",
     "parentCode": "8810",
     "level": 4,
     "endDate": null,
@@ -2463,10 +2287,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8820": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8820",
     "parentCode": "8800",
     "level": 3,
     "endDate": null,
@@ -2477,10 +2300,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8822": {
     "codeKfk": "1060",
     "beginDate": "2025-02-18",
-    "code": "8822",
     "parentCode": "8820",
     "level": 4,
     "endDate": null,
@@ -2491,10 +2313,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8860": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8860",
     "parentCode": "8800",
     "level": 3,
     "endDate": null,
@@ -2505,10 +2326,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8881": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "8881",
     "parentCode": "8880",
     "level": 4,
     "endDate": null,
@@ -2519,10 +2339,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9312": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9312",
     "parentCode": "9300",
     "level": 4,
     "endDate": null,
@@ -2533,10 +2352,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9381": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9381",
     "parentCode": "9300",
     "level": 4,
     "endDate": null,
@@ -2547,10 +2365,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9533": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9533",
     "parentCode": "9500",
     "level": 4,
     "endDate": null,
@@ -2561,10 +2378,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9560": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9560",
     "parentCode": "9500",
     "level": 3,
     "endDate": null,
@@ -2575,10 +2391,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9710": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9710",
     "parentCode": "9700",
     "level": 3,
     "endDate": null,
@@ -2589,10 +2404,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9800": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9800",
     "parentCode": "9000",
     "level": 2,
     "endDate": null,
@@ -2603,10 +2417,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "0140": {
     "codeKfk": "0111",
     "beginDate": "2025-02-18",
-    "code": "0140",
     "parentCode": "0100",
     "level": 3,
     "endDate": null,
@@ -2617,10 +2430,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1023": {
     "codeKfk": "0922",
     "beginDate": "2025-02-18",
-    "code": "1023",
     "parentCode": "1020",
     "level": 4,
     "endDate": null,
@@ -2631,10 +2443,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1025": {
     "codeKfk": "0922",
     "beginDate": "2025-02-18",
-    "code": "1025",
     "parentCode": "1020",
     "level": 4,
     "endDate": null,
@@ -2645,10 +2456,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3113": {
     "codeKfk": "1040",
     "beginDate": "2025-02-18",
-    "code": "3113",
     "parentCode": "3110",
     "level": 4,
     "endDate": null,
@@ -2659,10 +2469,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1022": {
     "codeKfk": "0922",
     "beginDate": "2025-02-18",
-    "code": "1022",
     "parentCode": "1020",
     "level": 4,
     "endDate": null,
@@ -2673,10 +2482,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1040": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1040",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -2687,10 +2495,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1043": {
     "codeKfk": "0922",
     "beginDate": "2025-02-18",
-    "code": "1043",
     "parentCode": "1040",
     "level": 4,
     "endDate": null,
@@ -2701,10 +2508,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1060": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1060",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -2715,10 +2521,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1062": {
     "codeKfk": "0922",
     "beginDate": "2025-02-18",
-    "code": "1062",
     "parentCode": "1060",
     "level": 4,
     "endDate": null,
@@ -2729,10 +2534,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1101": {
     "codeKfk": "0941",
     "beginDate": "2025-02-18",
-    "code": "1101",
     "parentCode": "1100",
     "level": 4,
     "endDate": null,
@@ -2743,10 +2547,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1120": {
     "codeKfk": "0950",
     "beginDate": "2025-02-18",
-    "code": "1120",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -2757,10 +2560,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1182": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1182",
     "parentCode": "1180",
     "level": 4,
     "endDate": null,
@@ -2771,10 +2573,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1183": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1183",
     "parentCode": "1180",
     "level": 4,
     "endDate": null,
@@ -2785,10 +2586,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1232": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1232",
     "parentCode": "1230",
     "level": 4,
     "endDate": null,
@@ -2799,10 +2599,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1251": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1251",
     "parentCode": "1250",
     "level": 4,
     "endDate": null,
@@ -2813,10 +2612,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1260": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1260",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -2827,10 +2625,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1270": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1270",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -2841,10 +2638,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1272": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1272",
     "parentCode": "1270",
     "level": 4,
     "endDate": null,
@@ -2855,10 +2651,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1292": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1292",
     "parentCode": "1290",
     "level": 4,
     "endDate": null,
@@ -2869,10 +2664,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2070": {
     "codeKfk": "0724",
     "beginDate": "2025-02-18",
-    "code": "2070",
     "parentCode": "2000",
     "level": 3,
     "endDate": null,
@@ -2883,10 +2677,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2110": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "2110",
     "parentCode": "2000",
     "level": 3,
     "endDate": null,
@@ -2897,10 +2690,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2152": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "2152",
     "parentCode": "2150",
     "level": 4,
     "endDate": null,
@@ -2911,10 +2703,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2173": {
     "codeKfk": "0731",
     "beginDate": "2025-02-18",
-    "code": "2173",
     "parentCode": "2000",
     "level": 4,
     "endDate": null,
@@ -2925,10 +2716,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3101": {
     "codeKfk": "1010",
     "beginDate": "2025-02-18",
-    "code": "3101",
     "parentCode": "3100",
     "level": 4,
     "endDate": null,
@@ -2939,10 +2729,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3224": {
     "codeKfk": "1060",
     "beginDate": "2025-02-18",
-    "code": "3224",
     "parentCode": "3220",
     "level": 4,
     "endDate": null,
@@ -2953,10 +2742,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3245": {
     "codeKfk": "1040",
     "beginDate": "2025-02-18",
-    "code": "3245",
     "parentCode": "3240",
     "level": 4,
     "endDate": null,
@@ -2967,10 +2755,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5030": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "5030",
     "parentCode": "5000",
     "level": 3,
     "endDate": null,
@@ -2981,10 +2768,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5032": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5032",
     "parentCode": "5030",
     "level": 4,
     "endDate": null,
@@ -2995,10 +2781,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5063": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5063",
     "parentCode": "5060",
     "level": 4,
     "endDate": null,
@@ -3009,10 +2794,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6015": {
     "codeKfk": "0620",
     "beginDate": "2025-02-18",
-    "code": "6015",
     "parentCode": "6010",
     "level": 4,
     "endDate": null,
@@ -3023,10 +2807,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6083": {
     "codeKfk": "0610",
     "beginDate": "2025-02-18",
-    "code": "6083",
     "parentCode": "6080",
     "level": 4,
     "endDate": null,
@@ -3037,10 +2820,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6085": {
     "codeKfk": "0610",
     "beginDate": "2025-02-18",
-    "code": "6085",
     "parentCode": "6080",
     "level": 4,
     "endDate": null,
@@ -3051,10 +2833,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6095": {
     "codeKfk": "0640",
     "beginDate": "2025-02-18",
-    "code": "6095",
     "parentCode": "6000",
     "level": 4,
     "endDate": null,
@@ -3065,10 +2846,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7000": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "7000",
     "parentCode": null,
     "level": 1,
     "endDate": null,
@@ -3079,10 +2859,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7100": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "7100",
     "parentCode": "7000",
     "level": 2,
     "endDate": null,
@@ -3093,10 +2872,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7140": {
     "codeKfk": "0421",
     "beginDate": "2025-02-18",
-    "code": "7140",
     "parentCode": "7100",
     "level": 3,
     "endDate": null,
@@ -3107,10 +2885,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7210": {
     "codeKfk": "0432",
     "beginDate": "2025-02-18",
-    "code": "7210",
     "parentCode": "7200",
     "level": 3,
     "endDate": null,
@@ -3121,10 +2898,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7364": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7364",
     "parentCode": null,
     "level": 4,
     "endDate": null,
@@ -3135,10 +2911,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7384": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7384",
     "parentCode": "7300",
     "level": 4,
     "endDate": null,
@@ -3149,10 +2924,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7410": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "7410",
     "parentCode": "7400",
     "level": 3,
     "endDate": null,
@@ -3163,10 +2937,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8400": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8400",
     "parentCode": "8000",
     "level": 2,
     "endDate": null,
@@ -3177,10 +2950,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8732": {
     "codeKfk": "0453",
     "beginDate": "2025-02-18",
-    "code": "8732",
     "parentCode": "8730",
     "level": 4,
     "endDate": null,
@@ -3191,10 +2963,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8733": {
     "codeKfk": "0456",
     "beginDate": "2025-02-18",
-    "code": "8733",
     "parentCode": "8730",
     "level": 4,
     "endDate": null,
@@ -3205,10 +2976,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9532": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9532",
     "parentCode": "9500",
     "level": 4,
     "endDate": null,
@@ -3219,10 +2989,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9600": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "9600",
     "parentCode": "9000",
     "level": 2,
     "endDate": null,
@@ -3233,10 +3002,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9610": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9610",
     "parentCode": "9600",
     "level": 3,
     "endDate": null,
@@ -3247,10 +3015,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9730": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9730",
     "parentCode": "9700",
     "level": 3,
     "endDate": null,
@@ -3261,10 +3028,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9740": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9740",
     "parentCode": "9700",
     "level": 3,
     "endDate": null,
@@ -3275,10 +3041,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3171": {
     "codeKfk": "1010",
     "beginDate": "2025-02-18",
-    "code": "3171",
     "parentCode": "3170",
     "level": 4,
     "endDate": null,
@@ -3289,10 +3054,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3193": {
     "codeKfk": "1030",
     "beginDate": "2025-02-18",
-    "code": "3193",
     "parentCode": "3190",
     "level": 4,
     "endDate": null,
@@ -3303,10 +3067,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3200": {
     "codeKfk": "1090",
     "beginDate": "2025-02-18",
-    "code": "3200",
     "parentCode": "3000",
     "level": 2,
     "endDate": null,
@@ -3317,10 +3080,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3220": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "3220",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -3331,10 +3093,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3225": {
     "codeKfk": "1060",
     "beginDate": "2025-02-18",
-    "code": "3225",
     "parentCode": "3220",
     "level": 4,
     "endDate": null,
@@ -3345,10 +3106,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3260": {
     "codeKfk": "1090",
     "beginDate": "2025-02-18",
-    "code": "3260",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -3359,10 +3119,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "4040": {
     "codeKfk": "0824",
     "beginDate": "2025-02-18",
-    "code": "4040",
     "parentCode": "4000",
     "level": 3,
     "endDate": null,
@@ -3373,10 +3132,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "4081": {
     "codeKfk": "0829",
     "beginDate": "2025-02-18",
-    "code": "4081",
     "parentCode": "4080",
     "level": 4,
     "endDate": null,
@@ -3387,10 +3145,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5000": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "5000",
     "parentCode": null,
     "level": 1,
     "endDate": null,
@@ -3401,10 +3158,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5022": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5022",
     "parentCode": "5020",
     "level": 4,
     "endDate": null,
@@ -3415,10 +3171,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5050": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "5050",
     "parentCode": "5000",
     "level": 3,
     "endDate": null,
@@ -3429,10 +3184,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5053": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5053",
     "parentCode": "5050",
     "level": 4,
     "endDate": null,
@@ -3443,10 +3197,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6012": {
     "codeKfk": "0620",
     "beginDate": "2025-02-18",
-    "code": "6012",
     "parentCode": "6010",
     "level": 4,
     "endDate": null,
@@ -3457,10 +3210,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6050": {
     "codeKfk": "0620",
     "beginDate": "2025-02-18",
-    "code": "6050",
     "parentCode": "6000",
     "level": 3,
     "endDate": null,
@@ -3471,10 +3223,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6090": {
     "codeKfk": "0640",
     "beginDate": "2025-02-18",
-    "code": "6090",
     "parentCode": "6000",
     "level": 3,
     "endDate": null,
@@ -3485,10 +3236,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7200": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "7200",
     "parentCode": "7000",
     "level": 2,
     "endDate": null,
@@ -3499,10 +3249,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7370": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7370",
     "parentCode": "7300",
     "level": 3,
     "endDate": null,
@@ -3513,10 +3262,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7470": {
     "codeKfk": "0456",
     "beginDate": "2025-02-18",
-    "code": "7470",
     "parentCode": "7400",
     "level": 3,
     "endDate": null,
@@ -3527,10 +3275,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7530": {
     "codeKfk": "0460",
     "beginDate": "2025-02-18",
-    "code": "7530",
     "parentCode": "7500",
     "level": 3,
     "endDate": null,
@@ -3541,10 +3288,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7611": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7611",
     "parentCode": "7600",
     "level": 4,
     "endDate": null,
@@ -3555,10 +3301,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7694": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7694",
     "parentCode": "7690",
     "level": 4,
     "endDate": null,
@@ -3569,10 +3314,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8420": {
     "codeKfk": "0830",
     "beginDate": "2025-02-18",
-    "code": "8420",
     "parentCode": "8400",
     "level": 3,
     "endDate": null,
@@ -3583,10 +3327,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8725": {
     "codeKfk": "0133",
     "beginDate": "2025-02-18",
-    "code": "8725",
     "parentCode": "8720",
     "level": 4,
     "endDate": null,
@@ -3597,10 +3340,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8730": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8730",
     "parentCode": "8700",
     "level": 3,
     "endDate": null,
@@ -3611,10 +3353,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8743": {
     "codeKfk": "0620",
     "beginDate": "2025-02-18",
-    "code": "8743",
     "parentCode": "8740",
     "level": 4,
     "endDate": null,
@@ -3625,10 +3366,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8744": {
     "codeKfk": "0620",
     "beginDate": "2025-02-18",
-    "code": "8744",
     "parentCode": "8740",
     "level": 4,
     "endDate": null,
@@ -3639,10 +3379,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8745": {
     "codeKfk": "0640",
     "beginDate": "2025-02-18",
-    "code": "8745",
     "parentCode": "8740",
     "level": 4,
     "endDate": null,
@@ -3653,10 +3392,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8774": {
     "codeKfk": "0320",
     "beginDate": "2025-02-18",
-    "code": "8774",
     "parentCode": "8770",
     "level": 4,
     "endDate": null,
@@ -3667,10 +3405,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8800": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8800",
     "parentCode": "8000",
     "level": 2,
     "endDate": null,
@@ -3681,10 +3418,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8811": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "8811",
     "parentCode": "8810",
     "level": 4,
     "endDate": null,
@@ -3695,10 +3431,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8821": {
     "codeKfk": "1060",
     "beginDate": "2025-02-18",
-    "code": "8821",
     "parentCode": "8820",
     "level": 4,
     "endDate": null,
@@ -3709,10 +3444,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8840": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8840",
     "parentCode": "8800",
     "level": 3,
     "endDate": null,
@@ -3723,10 +3457,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8852": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "8852",
     "parentCode": "8850",
     "level": 4,
     "endDate": null,
@@ -3737,10 +3470,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8880": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8880",
     "parentCode": "8800",
     "level": 3,
     "endDate": null,
@@ -3751,10 +3483,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8882": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "8882",
     "parentCode": "8880",
     "level": 4,
     "endDate": null,
@@ -3765,10 +3496,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9140": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9140",
     "parentCode": "9100",
     "level": 3,
     "endDate": null,
@@ -3779,10 +3509,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9244": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9244",
     "parentCode": "9240",
     "level": 4,
     "endDate": null,
@@ -3793,10 +3522,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9245": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9245",
     "parentCode": "9240",
     "level": 4,
     "endDate": null,
@@ -3807,10 +3535,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9246": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9246",
     "parentCode": "9240",
     "level": 4,
     "endDate": null,
@@ -3821,10 +3548,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9280": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9280",
     "parentCode": "9200",
     "level": 3,
     "endDate": null,
@@ -3835,10 +3561,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9316": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9316",
     "parentCode": "9300",
     "level": 4,
     "endDate": null,
@@ -3849,10 +3574,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9360": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9360",
     "parentCode": "9300",
     "level": 3,
     "endDate": null,
@@ -3863,10 +3587,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9547": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9547",
     "parentCode": "9500",
     "level": 4,
     "endDate": null,
@@ -3877,10 +3600,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9620": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9620",
     "parentCode": "9600",
     "level": 3,
     "endDate": null,
@@ -3891,10 +3613,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "0170": {
     "codeKfk": "0131",
     "beginDate": "2025-02-18",
-    "code": "0170",
     "parentCode": "0100",
     "level": 3,
     "endDate": null,
@@ -3905,10 +3626,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "0190": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "0190",
     "parentCode": "0100",
     "level": 3,
     "endDate": null,
@@ -3919,10 +3639,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "0192": {
     "codeKfk": "0160",
     "beginDate": "2025-02-18",
-    "code": "0192",
     "parentCode": "0190",
     "level": 4,
     "endDate": null,
@@ -3933,10 +3652,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1402": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1402",
     "parentCode": "1400",
     "level": 4,
     "endDate": null,
@@ -3947,10 +3665,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1500": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1500",
     "parentCode": "1000",
     "level": 2,
     "endDate": null,
@@ -3961,10 +3678,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1501": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1501",
     "parentCode": "1500",
     "level": 4,
     "endDate": null,
@@ -3975,10 +3691,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2030": {
     "codeKfk": "0733",
     "beginDate": "2025-02-18",
-    "code": "2030",
     "parentCode": "2000",
     "level": 3,
     "endDate": null,
@@ -3989,10 +3704,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2040": {
     "codeKfk": "0734",
     "beginDate": "2025-02-18",
-    "code": "2040",
     "parentCode": "2000",
     "level": 3,
     "endDate": null,
@@ -4003,10 +3717,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3111": {
     "codeKfk": "1040",
     "beginDate": "2025-02-18",
-    "code": "3111",
     "parentCode": "3110",
     "level": 4,
     "endDate": null,
@@ -4017,10 +3730,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3123": {
     "codeKfk": "1040",
     "beginDate": "2025-02-18",
-    "code": "3123",
     "parentCode": "3120",
     "level": 4,
     "endDate": null,
@@ -4031,10 +3743,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3124": {
     "codeKfk": "1040",
     "beginDate": "2025-02-18",
-    "code": "3124",
     "parentCode": "3120",
     "level": 4,
     "endDate": null,
@@ -4045,10 +3756,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3131": {
     "codeKfk": "1040",
     "beginDate": "2025-02-18",
-    "code": "3131",
     "parentCode": "3130",
     "level": 4,
     "endDate": null,
@@ -4059,10 +3769,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3150": {
     "codeKfk": "1070",
     "beginDate": "2025-02-18",
-    "code": "3150",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -4073,10 +3782,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3170": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "3170",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -4087,10 +3795,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3172": {
     "codeKfk": "1010",
     "beginDate": "2025-02-18",
-    "code": "3172",
     "parentCode": "3170",
     "level": 4,
     "endDate": null,
@@ -4101,10 +3808,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3223": {
     "codeKfk": "1060",
     "beginDate": "2025-02-18",
-    "code": "3223",
     "parentCode": "3220",
     "level": 4,
     "endDate": null,
@@ -4115,10 +3821,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "4010": {
     "codeKfk": "0821",
     "beginDate": "2025-02-18",
-    "code": "4010",
     "parentCode": "4000",
     "level": 3,
     "endDate": null,
@@ -4129,10 +3834,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "4050": {
     "codeKfk": "0827",
     "beginDate": "2025-02-18",
-    "code": "4050",
     "parentCode": "4000",
     "level": 3,
     "endDate": null,
@@ -4143,10 +3847,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "4083": {
     "codeKfk": "0829",
     "beginDate": "2025-02-18",
-    "code": "4083",
     "parentCode": "4080",
     "level": 4,
     "endDate": null,
@@ -4157,10 +3860,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5043": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5043",
     "parentCode": "5040",
     "level": 4,
     "endDate": null,
@@ -4171,10 +3873,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5048": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5048",
     "parentCode": "5040",
     "level": 4,
     "endDate": null,
@@ -4185,10 +3886,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5060": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "5060",
     "parentCode": "5000",
     "level": 3,
     "endDate": null,
@@ -4199,10 +3899,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6071": {
     "codeKfk": "0640",
     "beginDate": "2025-02-18",
-    "code": "6071",
     "parentCode": "6070",
     "level": 4,
     "endDate": null,
@@ -4213,10 +3912,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6072": {
     "codeKfk": "0640",
     "beginDate": "2025-02-18",
-    "code": "6072",
     "parentCode": "6070",
     "level": 4,
     "endDate": null,
@@ -4227,10 +3925,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7160": {
     "codeKfk": "0423",
     "beginDate": "2025-02-18",
-    "code": "7160",
     "parentCode": "7100",
     "level": 3,
     "endDate": null,
@@ -4241,10 +3938,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7350": {
     "codeKfk": "0443",
     "beginDate": "2025-02-18",
-    "code": "7350",
     "parentCode": "7300",
     "level": 3,
     "endDate": null,
@@ -4255,10 +3951,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7367": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7367",
     "parentCode": "7300",
     "level": 4,
     "endDate": null,
@@ -4269,10 +3964,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7411": {
     "codeKfk": "0451",
     "beginDate": "2025-02-18",
-    "code": "7411",
     "parentCode": "7410",
     "level": 4,
     "endDate": null,
@@ -4283,10 +3977,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7420": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "7420",
     "parentCode": "7400",
     "level": 3,
     "endDate": null,
@@ -4297,10 +3990,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7421": {
     "codeKfk": "0453",
     "beginDate": "2025-02-18",
-    "code": "7421",
     "parentCode": "7420",
     "level": 4,
     "endDate": null,
@@ -4311,10 +4003,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7424": {
     "codeKfk": "0453",
     "beginDate": "2025-02-18",
-    "code": "7424",
     "parentCode": "7420",
     "level": 4,
     "endDate": null,
@@ -4325,10 +4016,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7425": {
     "codeKfk": "0453",
     "beginDate": "2025-02-18",
-    "code": "7425",
     "parentCode": "7420",
     "level": 4,
     "endDate": null,
@@ -4339,10 +4029,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7430": {
     "codeKfk": "0454",
     "beginDate": "2025-02-18",
-    "code": "7430",
     "parentCode": "7400",
     "level": 3,
     "endDate": null,
@@ -4353,10 +4042,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7450": {
     "codeKfk": "0456",
     "beginDate": "2025-02-18",
-    "code": "7450",
     "parentCode": "7400",
     "level": 3,
     "endDate": null,
@@ -4367,10 +4055,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7621": {
     "codeKfk": "0470",
     "beginDate": "2025-02-18",
-    "code": "7621",
     "parentCode": "7620",
     "level": 4,
     "endDate": null,
@@ -4381,10 +4068,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8000": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8000",
     "parentCode": null,
     "level": 1,
     "endDate": null,
@@ -4395,10 +4081,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8110": {
     "codeKfk": "0320",
     "beginDate": "2025-02-18",
-    "code": "8110",
     "parentCode": "8100",
     "level": 3,
     "endDate": null,
@@ -4409,10 +4094,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8120": {
     "codeKfk": "0320",
     "beginDate": "2025-02-18",
-    "code": "8120",
     "parentCode": "8100",
     "level": 3,
     "endDate": null,
@@ -4423,10 +4107,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8300": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8300",
     "parentCode": "8000",
     "level": 2,
     "endDate": null,
@@ -4437,10 +4120,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8721": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "8721",
     "parentCode": "8720",
     "level": 4,
     "endDate": null,
@@ -4451,10 +4133,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8731": {
     "codeKfk": "0451",
     "beginDate": "2025-02-18",
-    "code": "8731",
     "parentCode": "8730",
     "level": 4,
     "endDate": null,
@@ -4465,10 +4146,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8754": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "8754",
     "parentCode": "8750",
     "level": 4,
     "endDate": null,
@@ -4479,10 +4159,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8761": {
     "codeKfk": "0540",
     "beginDate": "2025-02-18",
-    "code": "8761",
     "parentCode": "8760",
     "level": 4,
     "endDate": null,
@@ -4493,10 +4172,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8775": {
     "codeKfk": "0133",
     "beginDate": "2025-02-18",
-    "code": "8775",
     "parentCode": "8770",
     "level": 4,
     "endDate": null,
@@ -4507,10 +4185,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8871": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "8871",
     "parentCode": "8870",
     "level": 4,
     "endDate": null,
@@ -4521,10 +4198,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8920": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8920",
     "parentCode": "8900",
     "level": 3,
     "endDate": null,
@@ -4535,10 +4211,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9210": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9210",
     "parentCode": "9200",
     "level": 3,
     "endDate": null,
@@ -4549,10 +4224,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9240": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "9240",
     "parentCode": "9200",
     "level": 3,
     "endDate": null,
@@ -4563,10 +4237,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9315": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9315",
     "parentCode": "9300",
     "level": 4,
     "endDate": null,
@@ -4577,10 +4250,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9390": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9390",
     "parentCode": "9300",
     "level": 3,
     "endDate": null,
@@ -4591,10 +4263,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9420": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9420",
     "parentCode": "9400",
     "level": 3,
     "endDate": null,
@@ -4605,10 +4276,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9534": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9534",
     "parentCode": "9500",
     "level": 4,
     "endDate": null,
@@ -4619,10 +4289,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9550": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9550",
     "parentCode": "9500",
     "level": 3,
     "endDate": null,
@@ -4633,10 +4302,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9580": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9580",
     "parentCode": "9500",
     "level": 3,
     "endDate": null,
@@ -4647,10 +4315,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9590": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9590",
     "parentCode": "9500",
     "level": 3,
     "endDate": null,
@@ -4661,10 +4328,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9750": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9750",
     "parentCode": "9700",
     "level": 3,
     "endDate": null,
@@ -4675,10 +4341,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1042": {
     "codeKfk": "0922",
     "beginDate": "2025-02-18",
-    "code": "1042",
     "parentCode": "1040",
     "level": 4,
     "endDate": null,
@@ -4689,10 +4354,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1080": {
     "codeKfk": "0960",
     "beginDate": "2025-02-18",
-    "code": "1080",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -4703,10 +4367,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1142": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1142",
     "parentCode": "1140",
     "level": 4,
     "endDate": null,
@@ -4717,10 +4380,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1152": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1152",
     "parentCode": "1150",
     "level": 4,
     "endDate": null,
@@ -4731,10 +4393,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1153": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1153",
     "parentCode": "1150",
     "level": 4,
     "endDate": null,
@@ -4745,10 +4406,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8330": {
     "codeKfk": "0540",
     "beginDate": "2025-02-18",
-    "code": "8330",
     "parentCode": "8300",
     "level": 3,
     "endDate": null,
@@ -4759,10 +4419,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8500": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "8500",
     "parentCode": "8000",
     "level": 2,
     "endDate": null,
@@ -4773,10 +4432,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8600": {
     "codeKfk": "0170",
     "beginDate": "2025-02-18",
-    "code": "8600",
     "parentCode": "8000",
     "level": 2,
     "endDate": null,
@@ -4787,10 +4445,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8710": {
     "codeKfk": "0133",
     "beginDate": "2025-02-18",
-    "code": "8710",
     "parentCode": "8700",
     "level": 3,
     "endDate": null,
@@ -4801,10 +4458,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8742": {
     "codeKfk": "0620",
     "beginDate": "2025-02-18",
-    "code": "8742",
     "parentCode": "8740",
     "level": 4,
     "endDate": null,
@@ -4815,10 +4471,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8773": {
     "codeKfk": "0160",
     "beginDate": "2025-02-18",
-    "code": "8773",
     "parentCode": "8770",
     "level": 4,
     "endDate": null,
@@ -4829,10 +4484,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8842": {
     "codeKfk": "1060",
     "beginDate": "2025-02-18",
-    "code": "8842",
     "parentCode": "8840",
     "level": 4,
     "endDate": null,
@@ -4843,10 +4497,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8870": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8870",
     "parentCode": "8800",
     "level": 3,
     "endDate": null,
@@ -4857,10 +4510,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9000": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "9000",
     "parentCode": null,
     "level": 1,
     "endDate": null,
@@ -4871,10 +4523,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9220": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9220",
     "parentCode": "9200",
     "level": 3,
     "endDate": null,
@@ -4885,10 +4536,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9242": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9242",
     "parentCode": "9240",
     "level": 4,
     "endDate": null,
@@ -4899,10 +4549,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9260": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9260",
     "parentCode": "9200",
     "level": 3,
     "endDate": null,
@@ -4913,10 +4562,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9313": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9313",
     "parentCode": "9300",
     "level": 4,
     "endDate": null,
@@ -4927,10 +4575,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9340": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9340",
     "parentCode": "9300",
     "level": 3,
     "endDate": null,
@@ -4941,10 +4588,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9350": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9350",
     "parentCode": "9300",
     "level": 3,
     "endDate": null,
@@ -4955,10 +4601,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9517": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9517",
     "parentCode": "9500",
     "level": 4,
     "endDate": null,
@@ -4969,10 +4614,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9561": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9561",
     "parentCode": "9500",
     "level": 4,
     "endDate": null,
@@ -4983,10 +4627,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9770": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9770",
     "parentCode": "9700",
     "level": 3,
     "endDate": null,
@@ -4997,10 +4640,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "0110": {
     "codeKfk": "0111",
     "beginDate": "2025-02-18",
-    "code": "0110",
     "parentCode": "0100",
     "level": 3,
     "endDate": null,
@@ -5011,10 +4653,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "0130": {
     "codeKfk": "0111",
     "beginDate": "2025-02-18",
-    "code": "0130",
     "parentCode": "0100",
     "level": 3,
     "endDate": null,
@@ -5025,10 +4666,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "0160": {
     "codeKfk": "0111",
     "beginDate": "2025-02-18",
-    "code": "0160",
     "parentCode": "0100",
     "level": 3,
     "endDate": null,
@@ -5039,10 +4679,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "0191": {
     "codeKfk": "0160",
     "beginDate": "2025-02-18",
-    "code": "0191",
     "parentCode": "0190",
     "level": 4,
     "endDate": null,
@@ -5053,10 +4692,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1000": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1000",
     "parentCode": null,
     "level": 1,
     "endDate": null,
@@ -5067,10 +4705,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1020": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1020",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -5081,10 +4718,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1034": {
     "codeKfk": "0910",
     "beginDate": "2025-02-18",
-    "code": "1034",
     "parentCode": "1030",
     "level": 4,
     "endDate": null,
@@ -5095,10 +4731,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1045": {
     "codeKfk": "0922",
     "beginDate": "2025-02-18",
-    "code": "1045",
     "parentCode": "1040",
     "level": 4,
     "endDate": null,
@@ -5109,10 +4744,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1063": {
     "codeKfk": "0922",
     "beginDate": "2025-02-18",
-    "code": "1063",
     "parentCode": "1060",
     "level": 4,
     "endDate": null,
@@ -5123,10 +4757,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1070": {
     "codeKfk": "0960",
     "beginDate": "2025-02-18",
-    "code": "1070",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -5137,10 +4770,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1091": {
     "codeKfk": "0930",
     "beginDate": "2025-02-18",
-    "code": "1091",
     "parentCode": "1090",
     "level": 4,
     "endDate": null,
@@ -5151,10 +4783,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1242": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1242",
     "parentCode": "1240",
     "level": 4,
     "endDate": null,
@@ -5165,10 +4796,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1300": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1300",
     "parentCode": "1000",
     "level": 2,
     "endDate": null,
@@ -5179,10 +4809,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2000": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "2000",
     "parentCode": null,
     "level": 1,
     "endDate": null,
@@ -5193,10 +4822,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2141": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "2141",
     "parentCode": "2140",
     "level": 4,
     "endDate": null,
@@ -5207,10 +4835,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2162": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "2162",
     "parentCode": "2160",
     "level": 4,
     "endDate": null,
@@ -5221,10 +4848,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3032": {
     "codeKfk": "1070",
     "beginDate": "2025-02-18",
-    "code": "3032",
     "parentCode": "3030",
     "level": 4,
     "endDate": null,
@@ -5235,10 +4861,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3050": {
     "codeKfk": "1070",
     "beginDate": "2025-02-18",
-    "code": "3050",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -5249,10 +4874,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3100": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "3100",
     "parentCode": "3000",
     "level": 2,
     "endDate": null,
@@ -5263,10 +4887,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3110": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "3110",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -5277,10 +4900,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3191": {
     "codeKfk": "1030",
     "beginDate": "2025-02-18",
-    "code": "3191",
     "parentCode": "3190",
     "level": 4,
     "endDate": null,
@@ -5291,10 +4913,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3241": {
     "codeKfk": "1090",
     "beginDate": "2025-02-18",
-    "code": "3241",
     "parentCode": "3240",
     "level": 4,
     "endDate": null,
@@ -5305,10 +4926,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3244": {
     "codeKfk": "1090",
     "beginDate": "2025-02-18",
-    "code": "3244",
     "parentCode": "3240",
     "level": 4,
     "endDate": null,
@@ -5319,10 +4939,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3250": {
     "codeKfk": "1090",
     "beginDate": "2025-02-18",
-    "code": "3250",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -5333,10 +4952,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "4000": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "4000",
     "parentCode": null,
     "level": 1,
     "endDate": null,
@@ -5347,10 +4965,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "4030": {
     "codeKfk": "0824",
     "beginDate": "2025-02-18",
-    "code": "4030",
     "parentCode": "4000",
     "level": 3,
     "endDate": null,
@@ -5361,10 +4978,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5012": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5012",
     "parentCode": "5010",
     "level": 4,
     "endDate": null,
@@ -5375,10 +4991,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5042": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5042",
     "parentCode": "5040",
     "level": 4,
     "endDate": null,
@@ -5389,10 +5004,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5052": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5052",
     "parentCode": "5050",
     "level": 4,
     "endDate": null,
@@ -5403,10 +5017,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "5061": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "5061",
     "parentCode": "5060",
     "level": 4,
     "endDate": null,
@@ -5417,10 +5030,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6010": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "6010",
     "parentCode": "6000",
     "level": 3,
     "endDate": null,
@@ -5431,10 +5043,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6013": {
     "codeKfk": "0620",
     "beginDate": "2025-02-18",
-    "code": "6013",
     "parentCode": "6010",
     "level": 4,
     "endDate": null,
@@ -5445,10 +5056,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6060": {
     "codeKfk": "0640",
     "beginDate": "2025-02-18",
-    "code": "6060",
     "parentCode": "6000",
     "level": 3,
     "endDate": null,
@@ -5459,10 +5069,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6086": {
     "codeKfk": "0610",
     "beginDate": "2025-02-18",
-    "code": "6086",
     "parentCode": "6080",
     "level": 4,
     "endDate": null,
@@ -5473,10 +5082,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6093": {
     "codeKfk": "0640",
     "beginDate": "2025-02-18",
-    "code": "6093",
     "parentCode": "6000",
     "level": 4,
     "endDate": null,
@@ -5487,10 +5095,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7150": {
     "codeKfk": "0422",
     "beginDate": "2025-02-18",
-    "code": "7150",
     "parentCode": "7100",
     "level": 3,
     "endDate": null,
@@ -5501,10 +5108,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7300": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "7300",
     "parentCode": "7000",
     "level": 2,
     "endDate": null,
@@ -5515,10 +5121,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7377": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7377",
     "parentCode": "7300",
     "level": 4,
     "endDate": null,
@@ -5529,10 +5134,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7385": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7385",
     "parentCode": "7300",
     "level": 4,
     "endDate": null,
@@ -5543,10 +5147,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7426": {
     "codeKfk": "0455",
     "beginDate": "2025-02-18",
-    "code": "7426",
     "parentCode": "7420",
     "level": 4,
     "endDate": null,
@@ -5557,10 +5160,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7462": {
     "codeKfk": "0456",
     "beginDate": "2025-02-18",
-    "code": "7462",
     "parentCode": "7460",
     "level": 4,
     "endDate": null,
@@ -5571,10 +5173,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7464": {
     "codeKfk": "0456",
     "beginDate": "2025-02-18",
-    "code": "7464",
     "parentCode": "7460",
     "level": 4,
     "endDate": null,
@@ -5585,10 +5186,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7500": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "7500",
     "parentCode": "7000",
     "level": 2,
     "endDate": null,
@@ -5599,10 +5199,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7660": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7660",
     "parentCode": "7600",
     "level": 3,
     "endDate": null,
@@ -5613,10 +5212,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7670": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7670",
     "parentCode": "7600",
     "level": 3,
     "endDate": null,
@@ -5627,10 +5225,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7700": {
     "codeKfk": "0133",
     "beginDate": "2025-02-18",
-    "code": "7700",
     "parentCode": "7000",
     "level": 2,
     "endDate": null,
@@ -5641,10 +5238,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8340": {
     "codeKfk": "0540",
     "beginDate": "2025-02-18",
-    "code": "8340",
     "parentCode": "8300",
     "level": 3,
     "endDate": null,
@@ -5655,10 +5251,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8700": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8700",
     "parentCode": "8000",
     "level": 2,
     "endDate": null,
@@ -5669,10 +5264,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8722": {
     "codeKfk": "0810",
     "beginDate": "2025-02-18",
-    "code": "8722",
     "parentCode": "8720",
     "level": 4,
     "endDate": null,
@@ -5683,10 +5277,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8746": {
     "codeKfk": "0640",
     "beginDate": "2025-02-18",
-    "code": "8746",
     "parentCode": "8740",
     "level": 4,
     "endDate": null,
@@ -5697,10 +5290,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8751": {
     "codeKfk": "1070",
     "beginDate": "2025-02-18",
-    "code": "8751",
     "parentCode": "8750",
     "level": 4,
     "endDate": null,
@@ -5711,10 +5303,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8753": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "8753",
     "parentCode": "8750",
     "level": 4,
     "endDate": null,
@@ -5725,10 +5316,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8770": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8770",
     "parentCode": "8700",
     "level": 3,
     "endDate": null,
@@ -5739,10 +5329,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8830": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8830",
     "parentCode": "8800",
     "level": 3,
     "endDate": null,
@@ -5753,10 +5342,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8831": {
     "codeKfk": "1060",
     "beginDate": "2025-02-18",
-    "code": "8831",
     "parentCode": "8830",
     "level": 4,
     "endDate": null,
@@ -5767,10 +5355,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9310": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9310",
     "parentCode": "9300",
     "level": 3,
     "endDate": null,
@@ -5781,10 +5368,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9320": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9320",
     "parentCode": "9300",
     "level": 3,
     "endDate": null,
@@ -5795,10 +5381,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9380": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9380",
     "parentCode": "9300",
     "level": 3,
     "endDate": null,
@@ -5809,10 +5394,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9430": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9430",
     "parentCode": "9400",
     "level": 3,
     "endDate": null,
@@ -5823,10 +5407,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9530": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9530",
     "parentCode": "9500",
     "level": 3,
     "endDate": null,
@@ -5837,10 +5420,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9531": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9531",
     "parentCode": "9500",
     "level": 4,
     "endDate": null,
@@ -5851,10 +5433,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9700": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "9700",
     "parentCode": "9000",
     "level": 2,
     "endDate": null,
@@ -5865,10 +5446,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9760": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9760",
     "parentCode": "9700",
     "level": 3,
     "endDate": null,
@@ -5879,10 +5459,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1041": {
     "codeKfk": "0921",
     "beginDate": "2025-02-18",
-    "code": "1041",
     "parentCode": "1040",
     "level": 4,
     "endDate": null,
@@ -5893,10 +5472,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1093": {
     "codeKfk": "0930",
     "beginDate": "2025-02-18",
-    "code": "1093",
     "parentCode": "1090",
     "level": 4,
     "endDate": null,
@@ -5907,10 +5485,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1104": {
     "codeKfk": "0941",
     "beginDate": "2025-02-18",
-    "code": "1104",
     "parentCode": "1100",
     "level": 4,
     "endDate": null,
@@ -5921,10 +5498,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1110": {
     "codeKfk": "0942",
     "beginDate": "2025-02-18",
-    "code": "1110",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -5935,10 +5511,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1140": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1140",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -5949,10 +5524,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1151": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1151",
     "parentCode": "1150",
     "level": 4,
     "endDate": null,
@@ -5963,10 +5537,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1230": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1230",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -5977,10 +5550,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1241": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1241",
     "parentCode": "1240",
     "level": 4,
     "endDate": null,
@@ -5991,10 +5563,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1252": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1252",
     "parentCode": "1250",
     "level": 4,
     "endDate": null,
@@ -6005,10 +5576,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1400": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1400",
     "parentCode": "1000",
     "level": 2,
     "endDate": null,
@@ -6019,10 +5589,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1403": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1403",
     "parentCode": "1400",
     "level": 4,
     "endDate": null,
@@ -6033,10 +5602,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1502": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1502",
     "parentCode": "1500",
     "level": 4,
     "endDate": null,
@@ -6047,10 +5615,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2020": {
     "codeKfk": "0732",
     "beginDate": "2025-02-18",
-    "code": "2020",
     "parentCode": "2000",
     "level": 3,
     "endDate": null,
@@ -6061,10 +5628,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2050": {
     "codeKfk": "0761",
     "beginDate": "2025-02-18",
-    "code": "2050",
     "parentCode": "2000",
     "level": 3,
     "endDate": null,
@@ -6075,10 +5641,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2060": {
     "codeKfk": "0762",
     "beginDate": "2025-02-18",
-    "code": "2060",
     "parentCode": "2000",
     "level": 3,
     "endDate": null,
@@ -6089,10 +5654,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2113": {
     "codeKfk": "0721",
     "beginDate": "2025-02-18",
-    "code": "2113",
     "parentCode": "2110",
     "level": 4,
     "endDate": null,
@@ -6103,10 +5667,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2140": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "2140",
     "parentCode": "2000",
     "level": 3,
     "endDate": null,
@@ -6117,10 +5680,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2171": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "2171",
     "parentCode": "2000",
     "level": 4,
     "endDate": null,
@@ -6131,10 +5693,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2175": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "2175",
     "parentCode": "2000",
     "level": 4,
     "endDate": null,
@@ -6145,10 +5706,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3033": {
     "codeKfk": "1070",
     "beginDate": "2025-02-18",
-    "code": "3033",
     "parentCode": "3030",
     "level": 4,
     "endDate": null,
@@ -6159,10 +5719,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3034": {
     "codeKfk": "1070",
     "beginDate": "2025-02-18",
-    "code": "3034",
     "parentCode": "3030",
     "level": 4,
     "endDate": null,
@@ -6173,10 +5732,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3036": {
     "codeKfk": "1070",
     "beginDate": "2025-02-18",
-    "code": "3036",
     "parentCode": "3030",
     "level": 4,
     "endDate": null,
@@ -6187,10 +5745,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3060": {
     "codeKfk": "1070",
     "beginDate": "2025-02-18",
-    "code": "3060",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -6201,10 +5758,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3102": {
     "codeKfk": "1020",
     "beginDate": "2025-02-18",
-    "code": "3102",
     "parentCode": "3100",
     "level": 4,
     "endDate": null,
@@ -6215,10 +5771,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3121": {
     "codeKfk": "1040",
     "beginDate": "2025-02-18",
-    "code": "3121",
     "parentCode": "3120",
     "level": 4,
     "endDate": null,
@@ -6229,10 +5784,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3122": {
     "codeKfk": "1040",
     "beginDate": "2025-02-18",
-    "code": "3122",
     "parentCode": "3120",
     "level": 4,
     "endDate": null,
@@ -6243,10 +5797,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3132": {
     "codeKfk": "1040",
     "beginDate": "2025-02-18",
-    "code": "3132",
     "parentCode": "3130",
     "level": 4,
     "endDate": null,
@@ -6257,10 +5810,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8740": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8740",
     "parentCode": "8700",
     "level": 3,
     "endDate": null,
@@ -6271,10 +5823,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8771": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "8771",
     "parentCode": "8770",
     "level": 4,
     "endDate": null,
@@ -6285,10 +5836,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8851": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "8851",
     "parentCode": "8850",
     "level": 4,
     "endDate": null,
@@ -6299,10 +5849,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8910": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8910",
     "parentCode": "8900",
     "level": 3,
     "endDate": null,
@@ -6313,10 +5862,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9100": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "9100",
     "parentCode": "9000",
     "level": 2,
     "endDate": null,
@@ -6327,10 +5875,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9110": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9110",
     "parentCode": "9100",
     "level": 3,
     "endDate": null,
@@ -6341,10 +5888,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9241": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9241",
     "parentCode": "9240",
     "level": 4,
     "endDate": null,
@@ -6355,10 +5901,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9270": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9270",
     "parentCode": "9200",
     "level": 3,
     "endDate": null,
@@ -6369,10 +5914,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9331": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9331",
     "parentCode": "9300",
     "level": 4,
     "endDate": null,
@@ -6383,10 +5927,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9470": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9470",
     "parentCode": "9400",
     "level": 3,
     "endDate": null,
@@ -6397,10 +5940,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9514": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9514",
     "parentCode": "9500",
     "level": 4,
     "endDate": null,
@@ -6411,10 +5953,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9540": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9540",
     "parentCode": "9500",
     "level": 3,
     "endDate": null,
@@ -6425,10 +5966,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "9720": {
     "codeKfk": "0180",
     "beginDate": "2025-02-18",
-    "code": "9720",
     "parentCode": "9700",
     "level": 3,
     "endDate": null,
@@ -6439,10 +5979,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "0100": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "0100",
     "parentCode": null,
     "level": 2,
     "endDate": null,
@@ -6453,10 +5992,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1031": {
     "codeKfk": "0921",
     "beginDate": "2025-02-18",
-    "code": "1031",
     "parentCode": "1030",
     "level": 4,
     "endDate": null,
@@ -6467,10 +6005,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1033": {
     "codeKfk": "0922",
     "beginDate": "2025-02-18",
-    "code": "1033",
     "parentCode": "1030",
     "level": 4,
     "endDate": null,
@@ -6481,10 +6018,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1064": {
     "codeKfk": "0910",
     "beginDate": "2025-02-18",
-    "code": "1064",
     "parentCode": "1060",
     "level": 4,
     "endDate": null,
@@ -6495,10 +6031,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1065": {
     "codeKfk": "0922",
     "beginDate": "2025-02-18",
-    "code": "1065",
     "parentCode": "1060",
     "level": 4,
     "endDate": null,
@@ -6509,10 +6044,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1130": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1130",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -6523,10 +6057,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1141": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1141",
     "parentCode": "1140",
     "level": 4,
     "endDate": null,
@@ -6537,10 +6070,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1181": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1181",
     "parentCode": "1180",
     "level": 4,
     "endDate": null,
@@ -6551,10 +6083,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1221": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1221",
     "parentCode": "1220",
     "level": 4,
     "endDate": null,
@@ -6565,10 +6096,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1262": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1262",
     "parentCode": "1260",
     "level": 4,
     "endDate": null,
@@ -6579,10 +6109,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1280": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "1280",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -6593,10 +6122,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1291": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1291",
     "parentCode": "1290",
     "level": 4,
     "endDate": null,
@@ -6607,10 +6135,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "1310": {
     "codeKfk": "0990",
     "beginDate": "2025-02-18",
-    "code": "1310",
     "parentCode": "1000",
     "level": 3,
     "endDate": null,
@@ -6621,10 +6148,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2090": {
     "codeKfk": "0722",
     "beginDate": "2025-02-18",
-    "code": "2090",
     "parentCode": "2000",
     "level": 3,
     "endDate": null,
@@ -6635,10 +6161,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2100": {
     "codeKfk": "0722",
     "beginDate": "2025-02-18",
-    "code": "2100",
     "parentCode": "2000",
     "level": 2,
     "endDate": null,
@@ -6649,10 +6174,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2144": {
     "codeKfk": "0763",
     "beginDate": "2025-02-18",
-    "code": "2144",
     "parentCode": "2140",
     "level": 4,
     "endDate": null,
@@ -6663,10 +6187,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3020": {
     "codeKfk": "1060",
     "beginDate": "2025-02-18",
-    "code": "3020",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -6677,10 +6200,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3031": {
     "codeKfk": "1030",
     "beginDate": "2025-02-18",
-    "code": "3031",
     "parentCode": "3030",
     "level": 4,
     "endDate": null,
@@ -6691,10 +6213,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3112": {
     "codeKfk": "1040",
     "beginDate": "2025-02-18",
-    "code": "3112",
     "parentCode": "3110",
     "level": 4,
     "endDate": null,
@@ -6705,10 +6226,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3140": {
     "codeKfk": "1040",
     "beginDate": "2025-02-18",
-    "code": "3140",
     "parentCode": "3000",
     "level": 3,
     "endDate": null,
@@ -6719,10 +6239,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "3243": {
     "codeKfk": "1090",
     "beginDate": "2025-02-18",
-    "code": "3243",
     "parentCode": "3240",
     "level": 4,
     "endDate": null,
@@ -6733,10 +6252,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "4070": {
     "codeKfk": "0823",
     "beginDate": "2025-02-18",
-    "code": "4070",
     "parentCode": "4000",
     "level": 3,
     "endDate": null,
@@ -6747,10 +6265,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "4084": {
     "codeKfk": "0829",
     "beginDate": "2025-02-18",
-    "code": "4084",
     "parentCode": "4080",
     "level": 4,
     "endDate": null,
@@ -6761,10 +6278,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6000": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "6000",
     "parentCode": null,
     "level": 1,
     "endDate": null,
@@ -6775,10 +6291,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6011": {
     "codeKfk": "0610",
     "beginDate": "2025-02-18",
-    "code": "6011",
     "parentCode": "6010",
     "level": 4,
     "endDate": null,
@@ -6789,10 +6304,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6014": {
     "codeKfk": "0620",
     "beginDate": "2025-02-18",
-    "code": "6014",
     "parentCode": "6010",
     "level": 4,
     "endDate": null,
@@ -6803,10 +6317,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6016": {
     "codeKfk": "0620",
     "beginDate": "2025-02-18",
-    "code": "6016",
     "parentCode": "6010",
     "level": 4,
     "endDate": null,
@@ -6817,10 +6330,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6020": {
     "codeKfk": "0620",
     "beginDate": "2025-02-18",
-    "code": "6020",
     "parentCode": "6000",
     "level": 3,
     "endDate": null,
@@ -6831,10 +6343,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6040": {
     "codeKfk": "0620",
     "beginDate": "2025-02-18",
-    "code": "6040",
     "parentCode": "6000",
     "level": 3,
     "endDate": null,
@@ -6845,10 +6356,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6070": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "6070",
     "parentCode": "6000",
     "level": 3,
     "endDate": null,
@@ -6859,10 +6369,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6081": {
     "codeKfk": "0610",
     "beginDate": "2025-02-18",
-    "code": "6081",
     "parentCode": "6080",
     "level": 4,
     "endDate": null,
@@ -6873,10 +6382,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "6091": {
     "codeKfk": "0640",
     "beginDate": "2025-02-18",
-    "code": "6091",
     "parentCode": "6000",
     "level": 4,
     "endDate": null,
@@ -6887,10 +6395,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7110": {
     "codeKfk": "0421",
     "beginDate": "2025-02-18",
-    "code": "7110",
     "parentCode": "7100",
     "level": 3,
     "endDate": null,
@@ -6901,10 +6408,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7380": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7380",
     "parentCode": "7300",
     "level": 3,
     "endDate": null,
@@ -6915,10 +6421,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7386": {
     "codeKfk": "0731",
     "beginDate": "2025-02-18",
-    "code": "7386",
     "parentCode": "7300",
     "level": 4,
     "endDate": null,
@@ -6929,10 +6434,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7412": {
     "codeKfk": "0451",
     "beginDate": "2025-02-18",
-    "code": "7412",
     "parentCode": "7410",
     "level": 4,
     "endDate": null,
@@ -6943,10 +6447,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7441": {
     "codeKfk": "0456",
     "beginDate": "2025-02-18",
-    "code": "7441",
     "parentCode": "7440",
     "level": 4,
     "endDate": null,
@@ -6957,10 +6460,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7610": {
     "codeKfk": "0411",
     "beginDate": "2025-02-18",
-    "code": "7610",
     "parentCode": "7600",
     "level": 3,
     "endDate": null,
@@ -6971,10 +6473,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "2160": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "2160",
     "parentCode": "2000",
     "level": 3,
     "endDate": null,
@@ -6985,10 +6486,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7620": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "7620",
     "parentCode": "7600",
     "level": 3,
     "endDate": null,
@@ -6999,10 +6499,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7622": {
     "codeKfk": "0470",
     "beginDate": "2025-02-18",
-    "code": "7622",
     "parentCode": "7620",
     "level": 4,
     "endDate": null,
@@ -7013,10 +6512,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7630": {
     "codeKfk": "0470",
     "beginDate": "2025-02-18",
-    "code": "7630",
     "parentCode": "7600",
     "level": 3,
     "endDate": null,
@@ -7027,10 +6525,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "7650": {
     "codeKfk": "0490",
     "beginDate": "2025-02-18",
-    "code": "7650",
     "parentCode": "7600",
     "level": 3,
     "endDate": null,
@@ -7041,10 +6538,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8100": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8100",
     "parentCode": "8000",
     "level": 2,
     "endDate": null,
@@ -7055,10 +6551,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8130": {
     "codeKfk": "0320",
     "beginDate": "2025-02-18",
-    "code": "8130",
     "parentCode": "8100",
     "level": 3,
     "endDate": null,
@@ -7069,10 +6564,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8200": {
     "codeKfk": null,
     "beginDate": "2025-02-18",
-    "code": "8200",
     "parentCode": "8000",
     "level": 2,
     "endDate": null,
@@ -7083,10 +6577,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8210": {
     "codeKfk": "0380",
     "beginDate": "2025-02-18",
-    "code": "8210",
     "parentCode": "8200",
     "level": 3,
     "endDate": null,
@@ -7097,10 +6590,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8312": {
     "codeKfk": "0512",
     "beginDate": "2025-02-18",
-    "code": "8312",
     "parentCode": "8310",
     "level": 4,
     "endDate": null,
@@ -7111,10 +6603,9 @@
     "endDoc": null,
     "version": 25
   },
-  {
+  "8313": {
     "codeKfk": "0513",
     "beginDate": "2025-02-18",
-    "code": "8313",
     "parentCode": "8310",
     "level": 4,
     "endDate": null,
@@ -7125,4 +6616,4 @@
     "endDoc": null,
     "version": 25
   }
-]
+}
