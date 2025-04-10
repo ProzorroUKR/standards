@@ -374,5 +374,29 @@
     },
     "name_en": "UA \"ORBSMP\"",
     "name_uk": "КУ \"ООБСМП\""
+  },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Київ",
+      "postalCode": "03118",
+      "region": "м. Київ",
+      "streetAddress": "вул. Хотівська, 4а"
+    },
+    "contactPoint": {
+      "email": "cpo@restoration.gov.ua",
+      "telephone": "+380444563415",
+      "name_en": "Bezuglyi Artem Oleksandrovich",
+      "name_uk": "Безуглий Артем Олександрович"
+    },
+    "identifier": {
+      "id": "38684046",
+      "scheme": "UA-EDR",
+      "legalName_en": "STATE ENTERPRISE \"INFRASTRUCTURE PROJECTS\"",
+      "legalName_uk": "ДЕРЖАВНА ПІДПРИЄМСТВО \"ІНФРАСТРУКТУРНІ ПРОЕКТИ\""
+    },
+    "name_en": "SE \"INFRAPROJECT\"",
+    "name_uk": "ДП \"ІНФРАПРОЕКТ\""
   }
 ]
