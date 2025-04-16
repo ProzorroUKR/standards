@@ -14,8 +14,7 @@ def get_openbudget_dictionary():
             data = response.json()
             if dict_name == "KPK":
                 export_kpk(dict_name, data)
-            else:
-                write_json_dict(dict_name, data)
+            write_json_dict(dict_name, data)
         else:
             print(f"Response from resource {resource_url}: {response.status_code} - {response.text}")
 
@@ -39,6 +38,8 @@ def export_kpk(dict_name, dict_data):
         year_from = datetime.strptime(kpk_row.get("datefrom"), "%Y-%m-%d").year
         # By default, we take current year, if there wasn't `dateto` in dictionary that means that code is still using
         year_to = datetime.now().year
+        if year_from > year_to:
+            year_to = year_from  # in case there will be codes the for next year
         if date_to := kpk_row.get("dateto"):
             year_to = datetime.strptime(date_to, "%Y-%m-%d").year
         dict_year = year_from
