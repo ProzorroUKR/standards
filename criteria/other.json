@@ -41,13 +41,7 @@
             "unit": {
               "name": "відсоток",
               "code": "P1"
-            },
-            "eligibleEvidences": [
-              {
-                "title": "",
-                "type": "document"
-              }
-            ]
+            }
           }
         ]
       },
