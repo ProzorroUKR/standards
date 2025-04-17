@@ -1,0 +1,66 @@
+name: Update dictionaries JSON Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Availability to run manually
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [ 3.11 ]
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v1
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 openpyxl
+
+      - name: fetch data from API
+        run: |
+          python scripts/get_openbudget_dictionaries.py
+          git add --all
+
+      - name: fetch data from Excel file
+        run: |
+          python scripts/get_katottg.py
+          git add --all
+
+      - name: Check for Changes
+        id: check_changes
+        run: |
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+            echo "changed=false" >> $GITHUB_ENV
+          else
+            echo "Changes detected!"
+            echo "changed=true" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and Push Changes
+        if: env.changed == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          BRANCH_NAME="update-dictionaries-json-$(date +%Y-%m-%d)"
+          git checkout -b $BRANCH_NAME
+          git status
+          git commit -m "Update dictionaries JSON data from API" -a
+          git push origin $BRANCH_NAME
+          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
+
+      - name: Create Pull Request
+        if: env.changed == 'true'
+        run: gh pr create -B master -H ${{ env.BRANCH_NAME }} --title "Update dictionary JSON data" --body "Automated pull request to update JSON data from API."
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
