@@ -50,6 +50,16 @@
     "sign": "NKr",
     "archive": false
   },
+  "SEK": {
+    "num": "752",
+    "code": "SEK",
+    "currency": "Swedish Krona",
+    "title": "Swedish Krona",
+    "name_en": "Swedish Krona",
+    "name_uk": "Шведська крона",
+    "sign": "kr",
+    "archive": false
+  },
   "RUB": {
     "num": "643",
     "code": "RUB",
