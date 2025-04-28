@@ -6251,30 +6251,6 @@
     ]
   },
   {
-    "idFkv": 310,
-    "programType": 1,
-    "code": "3901100",
-    "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3901000",
-    "actyvPr": 1,
-    "name": "Заходи щодо створення систем та баз даних з питань реінтеграції",
-    "dateto": "2025-01-10",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2021-01-01",
-    "id": 1525,
-    "inputbase": "Закон",
-    "years": [
-      2021,
-      2022,
-      2023,
-      2024,
-      2025
-    ]
-  },
-  {
     "idFkv": 317,
     "programType": 1,
     "code": "2311450",
@@ -17406,27 +17382,6 @@
     ]
   },
   {
-    "idFkv": 333,
-    "programType": 1,
-    "code": "3901050",
-    "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3901000",
-    "actyvPr": 1,
-    "name": "Заходи щодо соціального і правового захисту осіб, стосовно яких встановлено факт позбавлення особистої свободи внаслідок збройної агресії проти України, членів їхніх сімей, заходи з реінтеграції населення тимчасово окупованих територій, виплати державних стипендій імені Левка Лук’яненка",
-    "dateto": "2025-01-10",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2024-01-01",
-    "id": 2011,
-    "inputbase": "Закон",
-    "years": [
-      2024,
-      2025
-    ]
-  },
-  {
     "idFkv": 546,
     "programType": 1,
     "code": "3901080",
@@ -17444,27 +17399,6 @@
     "inputbase": "Закон",
     "years": [
       2024
-    ]
-  },
-  {
-    "idFkv": 333,
-    "programType": 1,
-    "code": "3901090",
-    "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3901000",
-    "actyvPr": 1,
-    "name": "Забезпечення захисту прав і свобод громадян України, що проживають на тимчасово окупованій території України, допомоги громадянам України з гуманітарно-кризових питань",
-    "dateto": "2025-01-10",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2024-01-01",
-    "id": 2013,
-    "inputbase": "Закон",
-    "years": [
-      2024,
-      2025
     ]
   },
   {
@@ -30419,26 +30353,6 @@
     ]
   },
   {
-    "idFkv": 305,
-    "programType": 1,
-    "code": "1201410",
-    "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "1201000",
-    "actyvPr": 1,
-    "name": "Забезпечення виконання завдань і заходів із підтримки українців за кордоном та сприяння їх поверненню в Україну",
-    "dateto": "2025-03-04",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-01-01",
-    "id": 2317,
-    "inputbase": "Закон",
-    "years": [
-      2025
-    ]
-  },
-  {
     "idFkv": 372,
     "programType": 1,
     "code": "1201580",
@@ -42275,6 +42189,26 @@
     ]
   },
   {
+    "idFkv": 345,
+    "programType": 1,
+    "code": "2601700",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2601000",
+    "actyvPr": 0,
+    "name": "Кошти для Міністерства з питань стратегічних галузей промисловості України",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-03-11",
+    "id": 2503,
+    "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
     "idFkv": 310,
     "programType": 1,
     "code": "3601700",
@@ -42395,51 +42329,6 @@
     ]
   },
   {
-    "idFkv": 532,
-    "programType": 1,
-    "code": "3901080",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "3901000",
-    "actyvPr": 1,
-    "name": "Забезпечення інформаційного суверенітету України на тимчасово окупованій території, а також прилеглих до неї територіях, інформування населення про небезпеки вибухонебезпечних предметів",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-01-01",
-    "id": 2393,
-    "inputbase": "Закон",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 440,
-    "programType": 1,
-    "code": "3901010",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "3901000",
-    "actyvPr": 1,
-    "name": "Керівництво та управління з питань  реінтеграції тимчасово окупованих територій",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2020-01-01",
-    "id": 1277,
-    "inputbase": "Закон",
-    "years": [
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025
-    ]
-  },
-  {
     "idFkv": 440,
     "programType": 1,
     "code": "3901010",
@@ -42454,26 +42343,6 @@
     "comment": null,
     "datefrom": "2026-01-01",
     "id": 2492,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 372,
-    "programType": 1,
-    "code": "3501100",
-    "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3501000",
-    "actyvPr": 1,
-    "name": "Забезпечення надання медичних послуг Центром інноваційних медичних технологій Національної академії наук України",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2491,
     "inputbase": "Закон",
     "years": [
       2026
@@ -42540,56 +42409,6 @@
     ]
   },
   {
-    "idFkv": 445,
-    "programType": 2,
-    "code": "3901610",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "3901000",
-    "actyvPr": 1,
-    "name": "Надання пільгових іпотечних кредитів внутрішньо переміщеним особам",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2020-01-01",
-    "id": 1282,
-    "inputbase": "Закон",
-    "years": [
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025
-    ]
-  },
-  {
-    "idFkv": 445,
-    "programType": 3,
-    "code": "3901620",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "3901000",
-    "actyvPr": 1,
-    "name": "Повернення кредитів, наданих із спеціального фонду державного бюджету внутрішньо переміщеним особам на придбання житла",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2020-01-01",
-    "id": 1283,
-    "inputbase": "Закон",
-    "years": [
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025
-    ]
-  },
-  {
     "idFkv": 0,
     "programType": 0,
     "code": "9001000",
@@ -42627,6 +42446,512 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 350,
+    "programType": 1,
+    "code": "3101110",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 0,
+    "name": "Створення містобудівного кадастру на державному рівні",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2023-01-01",
+    "id": 1785,
+    "inputbase": "Закон",
+    "years": [
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "6521000",
+    "level": 2,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "6520000",
+    "actyvPr": 0,
+    "name": "Центральне управління Служби безпеки України",
+    "dateto": "2025-12-31",
+    "details": 0,
+    "comment": null,
+    "datefrom": "2019-01-01",
+    "id": 767,
+    "inputbase": "Закон",
+    "years": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "idFkv": 532,
+    "programType": 1,
+    "code": "3901080",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3901000",
+    "actyvPr": 0,
+    "name": "Забезпечення інформаційного суверенітету України на тимчасово окупованій території, а також прилеглих до неї територіях, інформування населення про небезпеки вибухонебезпечних предметів",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-01-01",
+    "id": 2393,
+    "inputbase": "Закон",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "idFkv": 434,
+    "programType": 1,
+    "code": "6121020",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "6121000",
+    "actyvPr": 0,
+    "name": "Професійне навчання державних службовців та посадових осіб місцевого самоврядування",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2019-01-01",
+    "id": 726,
+    "inputbase": "Закон",
+    "years": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "idFkv": 354,
+    "programType": 1,
+    "code": "3103010",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3103000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління у сферах морського та річкового транспорту",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2019-01-01",
+    "id": 571,
+    "inputbase": "Закон",
+    "years": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "3501100",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3501000",
+    "actyvPr": 0,
+    "name": "Наукове і науково-методичне забезпечення у сфері виробництва і використання дорогоцінного і напівдорогоцінного каміння та забезпечення виробничих та соціально-культурних потреб у дорогоцінних металах і дорогоцінному камінні",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2019-01-01",
+    "id": 623,
+    "inputbase": "Закон",
+    "years": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "idFkv": 354,
+    "programType": 1,
+    "code": "3103010",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3103000",
+    "actyvPr": 1,
+    "name": "Керівництво та управління у сферах морського і внутрішнього водного транспорту та судноплавства",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2495,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 350,
+    "programType": 1,
+    "code": "3101110",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 1,
+    "name": "Розвиток та забезпечення функціонування містобудівного кадастру на державному рівні",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2494,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "3901000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3900000",
+    "actyvPr": 1,
+    "name": "Апарат Міністерство національної єдності України",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2498,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 333,
+    "programType": 1,
+    "code": "3901050",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3901000",
+    "actyvPr": 0,
+    "name": "Заходи щодо соціального і правового захисту осіб, стосовно яких встановлено факт позбавлення особистої свободи внаслідок збройної агресії проти України, членів їхніх сімей, заходи з реінтеграції населення тимчасово окупованих територій, виплати державних стипендій імені Левка Лук’яненка",
+    "dateto": "2025-01-10",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2024-01-01",
+    "id": 2011,
+    "inputbase": "Закон",
+    "years": [
+      2024,
+      2025
+    ]
+  },
+  {
+    "idFkv": 333,
+    "programType": 1,
+    "code": "3901090",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3901000",
+    "actyvPr": 0,
+    "name": "Забезпечення захисту прав і свобод громадян України, що проживають на тимчасово окупованій території України, допомоги громадянам України з гуманітарно-кризових питань",
+    "dateto": "2025-01-10",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2024-01-01",
+    "id": 2013,
+    "inputbase": "Закон",
+    "years": [
+      2024,
+      2025
+    ]
+  },
+  {
+    "idFkv": 305,
+    "programType": 1,
+    "code": "1201410",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 0,
+    "name": "Забезпечення виконання завдань і заходів із підтримки українців за кордоном та сприяння їх поверненню в Україну",
+    "dateto": "2025-03-04",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-01-01",
+    "id": 2317,
+    "inputbase": "Закон",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "idFkv": 410,
+    "programType": 1,
+    "code": "0419030",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "0419000",
+    "actyvPr": 0,
+    "name": "Державна підтримка кінематографії, у тому числі документування воєнних злочинів",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2024-01-01",
+    "id": 1930,
+    "inputbase": "Закон",
+    "years": [
+      2024,
+      2025
+    ]
+  },
+  {
+    "idFkv": 395,
+    "programType": 1,
+    "code": "6541100",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "6541000",
+    "actyvPr": 0,
+    "name": "Медичне обслуговування працівників Національної академії наук України",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2023-01-01",
+    "id": 1881,
+    "inputbase": "Закон",
+    "years": [
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "idFkv": 310,
+    "programType": 1,
+    "code": "3901100",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3901000",
+    "actyvPr": 0,
+    "name": "Заходи щодо створення систем та баз даних з питань реінтеграції",
+    "dateto": "2025-01-10",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2021-01-01",
+    "id": 1525,
+    "inputbase": "Закон",
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "0419000",
+    "level": 2,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "0410000",
+    "actyvPr": 0,
+    "name": "Державне агентство України з питань кіно",
+    "dateto": "2025-12-31",
+    "details": 0,
+    "comment": null,
+    "datefrom": "2022-01-01",
+    "id": 1554,
+    "inputbase": "Закон",
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "idFkv": 410,
+    "programType": 1,
+    "code": "0419010",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "0419000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління у сфері кінематографії",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2022-01-01",
+    "id": 1555,
+    "inputbase": "Закон",
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "3900000",
+    "level": 1,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": null,
+    "actyvPr": 0,
+    "name": "Міністерство з питань  реінтеграції тимчасово окупованих територій України",
+    "dateto": "2025-12-31",
+    "details": 0,
+    "comment": null,
+    "datefrom": "2020-01-01",
+    "id": 1275,
+    "inputbase": "Закон",
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "3901000",
+    "level": 2,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3900000",
+    "actyvPr": 0,
+    "name": "Апарат Міністерства з питань  реінтеграції тимчасово окупованих територій України",
+    "dateto": "2025-12-31",
+    "details": 0,
+    "comment": null,
+    "datefrom": "2020-01-01",
+    "id": 1276,
+    "inputbase": "Закон",
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "idFkv": 440,
+    "programType": 1,
+    "code": "3901010",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3901000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління з питань  реінтеграції тимчасово окупованих територій",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2020-01-01",
+    "id": 1277,
+    "inputbase": "Закон",
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "idFkv": 445,
+    "programType": 2,
+    "code": "3901610",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3901000",
+    "actyvPr": 0,
+    "name": "Надання пільгових іпотечних кредитів внутрішньо переміщеним особам",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2020-01-01",
+    "id": 1282,
+    "inputbase": "Закон",
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
+    "idFkv": 445,
+    "programType": 3,
+    "code": "3901620",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3901000",
+    "actyvPr": 0,
+    "name": "Повернення кредитів, наданих із спеціального фонду державного бюджету внутрішньо переміщеним особам на придбання житла",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2020-01-01",
+    "id": 1283,
+    "inputbase": "Закон",
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
     ]
   },
   {
@@ -45062,32 +45387,6 @@
     "programType": 1,
     "code": "6121020",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "6121000",
-    "actyvPr": 1,
-    "name": "Професійне навчання державних службовців та посадових осіб місцевого самоврядування",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2019-01-01",
-    "id": 726,
-    "inputbase": "Закон",
-    "years": [
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025
-    ]
-  },
-  {
-    "idFkv": 434,
-    "programType": 1,
-    "code": "6121020",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "6121000",
@@ -45101,28 +45400,6 @@
     "inputbase": "Закон",
     "years": [
       2026
-    ]
-  },
-  {
-    "idFkv": 350,
-    "programType": 1,
-    "code": "3101110",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "3101000",
-    "actyvPr": 1,
-    "name": "Створення містобудівного кадастру на державному рівні",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2023-01-01",
-    "id": 1785,
-    "inputbase": "Закон",
-    "years": [
-      2023,
-      2024,
-      2025
     ]
   },
   {
@@ -45148,72 +45425,6 @@
     ]
   },
   {
-    "idFkv": 354,
-    "programType": 1,
-    "code": "3103010",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "3103000",
-    "actyvPr": 1,
-    "name": "Керівництво та управління у сферах морського та річкового транспорту",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2019-01-01",
-    "id": 571,
-    "inputbase": "Закон",
-    "years": [
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025
-    ]
-  },
-  {
-    "idFkv": 354,
-    "programType": 1,
-    "code": "3103010",
-    "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3103000",
-    "actyvPr": 0,
-    "name": "Керівництво та управління у сферах морського і внутрішнього водного транспорту та судноплавства",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2495,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 350,
-    "programType": 1,
-    "code": "3101110",
-    "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3101000",
-    "actyvPr": 0,
-    "name": "Розвиток та забезпечення функціонування містобудівного кадастру на державному рівні",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2494,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
     "idFkv": 532,
     "programType": 1,
     "code": "3901080",
@@ -45234,50 +45445,42 @@
     ]
   },
   {
-    "idFkv": 372,
+    "idFkv": 404,
     "programType": 1,
-    "code": "3501100",
+    "code": "2301530",
     "level": 3,
     "isactive": 1,
     "outputbase": null,
-    "parentCode": "3501000",
-    "actyvPr": 1,
-    "name": "Наукове і науково-методичне забезпечення у сфері виробництва і використання дорогоцінного і напівдорогоцінного каміння та забезпечення виробничих та соціально-культурних потреб у дорогоцінних металах і дорогоцінному камінні",
+    "parentCode": "2301000",
+    "actyvPr": 0,
+    "name": "Трансформація охорони здоров’я шляхом реформи та інвестицій в ефективність",
     "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
-    "datefrom": "2019-01-01",
-    "id": 623,
-    "inputbase": "Закон",
+    "datefrom": "2025-03-14",
+    "id": 2504,
+    "inputbase": "Розпис",
     "years": [
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
       2025
     ]
   },
   {
-    "idFkv": 395,
+    "idFkv": 372,
     "programType": 1,
-    "code": "6541100",
+    "code": "3111360",
     "level": 3,
     "isactive": 1,
     "outputbase": null,
-    "parentCode": "6541000",
-    "actyvPr": 1,
-    "name": "Медичне обслуговування працівників Національної академії наук України",
+    "parentCode": "3111000",
+    "actyvPr": 0,
+    "name": "Будівництво та відновлення об'єктів інфраструктури, житлового та громадського призначення, громадських будинків та споруд",
     "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
-    "datefrom": "2023-01-01",
-    "id": 1881,
-    "inputbase": "Закон",
+    "datefrom": "2025-04-11",
+    "id": 2505,
+    "inputbase": "Розпис",
     "years": [
-      2023,
-      2024,
       2025
     ]
   },
@@ -45296,169 +45499,6 @@
     "comment": null,
     "datefrom": "2026-01-01",
     "id": 2490,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 410,
-    "programType": 1,
-    "code": "0419030",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "0419000",
-    "actyvPr": 1,
-    "name": "Державна підтримка кінематографії, у тому числі документування воєнних злочинів",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2024-01-01",
-    "id": 1930,
-    "inputbase": "Закон",
-    "years": [
-      2024,
-      2025
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "0419000",
-    "level": 2,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "0410000",
-    "actyvPr": 1,
-    "name": "Державне агентство України з питань кіно",
-    "dateto": "2025-12-31",
-    "details": 0,
-    "comment": null,
-    "datefrom": "2022-01-01",
-    "id": 1554,
-    "inputbase": "Закон",
-    "years": [
-      2022,
-      2023,
-      2024,
-      2025
-    ]
-  },
-  {
-    "idFkv": 410,
-    "programType": 1,
-    "code": "0419010",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "0419000",
-    "actyvPr": 1,
-    "name": "Керівництво та управління у сфері кінематографії",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2022-01-01",
-    "id": 1555,
-    "inputbase": "Закон",
-    "years": [
-      2022,
-      2023,
-      2024,
-      2025
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "6521000",
-    "level": 2,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "6520000",
-    "actyvPr": 1,
-    "name": "Центральне управління Служби безпеки України",
-    "dateto": "2025-12-31",
-    "details": 0,
-    "comment": null,
-    "datefrom": "2019-01-01",
-    "id": 767,
-    "inputbase": "Закон",
-    "years": [
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "3900000",
-    "level": 1,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": null,
-    "actyvPr": 1,
-    "name": "Міністерство з питань  реінтеграції тимчасово окупованих територій України",
-    "dateto": "2025-12-31",
-    "details": 0,
-    "comment": null,
-    "datefrom": "2020-01-01",
-    "id": 1275,
-    "inputbase": "Закон",
-    "years": [
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "3901000",
-    "level": 2,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "3900000",
-    "actyvPr": 1,
-    "name": "Апарат Міністерства з питань  реінтеграції тимчасово окупованих територій України",
-    "dateto": "2025-12-31",
-    "details": 0,
-    "comment": null,
-    "datefrom": "2020-01-01",
-    "id": 1276,
-    "inputbase": "Закон",
-    "years": [
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "3901000",
-    "level": 2,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3900000",
-    "actyvPr": 0,
-    "name": "Апарат Міністерство національної єдності України",
-    "dateto": null,
-    "details": 0,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2498,
     "inputbase": "Закон",
     "years": [
       2026
@@ -47345,6 +47385,26 @@
     "years": [
       2020,
       2021
+    ]
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "3501100",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3501000",
+    "actyvPr": 1,
+    "name": "Забезпечення діяльності установ у сфері використання та зберігання дорогоцінних металів,  дорогоцінного і напівдорогоцінного каміння",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2491,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {

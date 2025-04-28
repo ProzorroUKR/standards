@@ -175,22 +175,6 @@
     "id": 2492,
     "inputbase": "Закон"
   },
-  "3501100": {
-    "idFkv": 372,
-    "programType": 1,
-    "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3501000",
-    "actyvPr": 1,
-    "name": "Забезпечення надання медичних послуг Центром інноваційних медичних технологій Національної академії наук України",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2491,
-    "inputbase": "Закон"
-  },
   "9001050": {
     "idFkv": 372,
     "programType": 1,
@@ -255,6 +239,54 @@
     "id": 2472,
     "inputbase": "Закон"
   },
+  "3103010": {
+    "idFkv": 354,
+    "programType": 1,
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3103000",
+    "actyvPr": 1,
+    "name": "Керівництво та управління у сферах морського і внутрішнього водного транспорту та судноплавства",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2495,
+    "inputbase": "Закон"
+  },
+  "3101110": {
+    "idFkv": 350,
+    "programType": 1,
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 1,
+    "name": "Розвиток та забезпечення функціонування містобудівного кадастру на державному рівні",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2494,
+    "inputbase": "Закон"
+  },
+  "3901000": {
+    "idFkv": 0,
+    "programType": 0,
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3900000",
+    "actyvPr": 1,
+    "name": "Апарат Міністерство національної єдності України",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2498,
+    "inputbase": "Закон"
+  },
   "6521000": {
     "idFkv": 0,
     "programType": 0,
@@ -303,38 +335,6 @@
     "id": 2489,
     "inputbase": "Закон"
   },
-  "3103010": {
-    "idFkv": 354,
-    "programType": 1,
-    "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3103000",
-    "actyvPr": 0,
-    "name": "Керівництво та управління у сферах морського і внутрішнього водного транспорту та судноплавства",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2495,
-    "inputbase": "Закон"
-  },
-  "3101110": {
-    "idFkv": 350,
-    "programType": 1,
-    "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3101000",
-    "actyvPr": 0,
-    "name": "Розвиток та забезпечення функціонування містобудівного кадастру на державному рівні",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2494,
-    "inputbase": "Закон"
-  },
   "3901080": {
     "idFkv": 532,
     "programType": 1,
@@ -365,22 +365,6 @@
     "comment": null,
     "datefrom": "2026-01-01",
     "id": 2490,
-    "inputbase": "Закон"
-  },
-  "3901000": {
-    "idFkv": 0,
-    "programType": 0,
-    "level": 2,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3900000",
-    "actyvPr": 0,
-    "name": "Апарат Міністерство національної єдності України",
-    "dateto": null,
-    "details": 0,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2498,
     "inputbase": "Закон"
   },
   "3900000": {
@@ -429,6 +413,22 @@
     "comment": null,
     "datefrom": "2026-01-01",
     "id": 2478,
+    "inputbase": "Закон"
+  },
+  "3501100": {
+    "idFkv": 372,
+    "programType": 1,
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3501000",
+    "actyvPr": 1,
+    "name": "Забезпечення діяльності установ у сфері використання та зберігання дорогоцінних металів,  дорогоцінного і напівдорогоцінного каміння",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2491,
     "inputbase": "Закон"
   }
 }
