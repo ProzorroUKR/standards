@@ -161,6 +161,12 @@
     "name_uk": "бар [одиниця тиску]",
     "symbol_uk": "бар"
   },
+  "BG": {
+    "name_en": "bag",
+    "symbol_en": "",
+    "name_uk": "мішок",
+    "symbol_uk": ""
+  },
   "BO": {
     "name_en": "bottle",
     "symbol_en": "bot",
@@ -640,6 +646,12 @@
     "symbol_en": "lm",
     "name_uk": "люмен",
     "symbol_uk": "лм"
+  },
+  "LUX": {
+    "name_en": "lux",
+    "symbol_en": "lx",
+    "name_uk": "люкс",
+    "symbol_uk": "лк"
   },
   "M1": {
     "name_en": "milligram per litre",
