@@ -1,0 +1,34 @@
+{
+  "O": {
+    "name_uk": "Автономна Республіка Крим, область",
+    "name_en": "Autonomous Republic of Crimea, region"
+  },
+  "K": {
+    "name_uk": "місто, що має спеціальний статус",
+    "name_en": "city with special status"
+  },
+  "P": {
+    "name_uk": "район в Автономній Республіці Крим, області",
+    "name_en": "district in the Autonomous Republic of Crimea, region"
+  },
+  "H": {
+    "name_uk": "територіальна громада",
+    "name_en": "territorial community"
+  },
+  "M": {
+    "name_uk": "місто",
+    "name_en": "city"
+  },
+  "X": {
+    "name_uk": "селище",
+    "name_en": "settlement"
+  },
+  "C": {
+    "name_uk": "село",
+    "name_en": "village"
+  },
+  "B": {
+    "name_uk": "район у місті",
+    "name_en": "city district"
+  }
+}
