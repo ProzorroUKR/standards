@@ -17,19 +17,20 @@ def get_openbudget_dictionary():
             if dict_name == "KPK":
                 export_kpk(dict_name, data)
             else:
-                write_json_dict(dict_name, data)
+                write_json_dict(dict_name, data, split_by_code=True)
         else:
             print(f"Response from resource {resource_url}: {response.status_code} - {response.text}")
 
 
-def write_json_dict(dict_name, dict_data, split_by_code=True):
+def write_json_dict(dict_name, dict_data, split_by_code=False):
+    sorted_dict_data = sorted(dict_data, key=lambda x: x["code"])
     if split_by_code:
         result = {
             item["code"]: {k: v for k, v in item.items() if k != "code"}
-            for item in dict_data
+            for item in sorted_dict_data
         }
     else:
-        result = dict_data
+        result = sorted_dict_data
     json_object = json.dumps(result, indent=2, ensure_ascii=False)
     with open(f'./classifiers/{dict_name.lower()}.json', 'w') as outfile:
         outfile.write(json_object)
@@ -59,7 +60,7 @@ def export_kpk(dict_name, dict_data):
 
     for year in kpk_years.keys():
         write_json_dict(f"{dict_name}_{year}", kpk_years[year])
-    write_json_dict(dict_name, kpk_general, split_by_code=False)
+    write_json_dict(dict_name, kpk_general)
 
 
 if __name__ == "__main__":
