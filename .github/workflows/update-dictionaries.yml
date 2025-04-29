@@ -24,7 +24,7 @@ jobs:
       - name: Install requests
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 openpyxl
+          pip install requests beautifulsoup4 openpyxl cloudscraper
 
       - name: fetch data from API
         run: |

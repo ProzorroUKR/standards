@@ -1,3 +1,4 @@
+import cloudscraper
 import json
 import re
 import requests
@@ -11,7 +12,8 @@ KATOTTG_RESOURCE = f"{MINDEV_RESOURCE}/diialnist/rozvytok-mistsevoho-samovriaduv
 
 
 def get_katottg():
-    response = requests.get(KATOTTG_RESOURCE)
+    scraper = cloudscraper.create_scraper()  # emulate browser
+    response = scraper.get(KATOTTG_RESOURCE)
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         katottg_link = soup.find("a", attrs={"class": "fr-file", "data-extension": "xlsx"}).get("href")
