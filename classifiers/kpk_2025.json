@@ -1151,38 +1151,6 @@
     "id": 939,
     "inputbase": "Закон"
   },
-  "0418000": {
-    "idFkv": 0,
-    "programType": 0,
-    "level": 2,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "0410000",
-    "actyvPr": 1,
-    "name": "Комісія з регулювання азартних ігор та лотерей",
-    "dateto": null,
-    "details": 0,
-    "comment": null,
-    "datefrom": "2020-01-01",
-    "id": 940,
-    "inputbase": "Закон"
-  },
-  "0418010": {
-    "idFkv": 303,
-    "programType": 1,
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "0418000",
-    "actyvPr": 1,
-    "name": "Керівництво та управління у сфері регулювання азартних ігор та лотерей",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2020-01-01",
-    "id": 941,
-    "inputbase": "Закон"
-  },
   "0900000": {
     "idFkv": 0,
     "programType": 0,
@@ -7231,22 +7199,6 @@
     "id": 2313,
     "inputbase": "Закон"
   },
-  "0418020": {
-    "idFkv": 360,
-    "programType": 1,
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "0418000",
-    "actyvPr": 1,
-    "name": "Створення і впровадження Державної системи онлайн-моніторингу та електронних реєстрів у сфері організації та проведення азартних ігор",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-01-01",
-    "id": 2314,
-    "inputbase": "Закон"
-  },
   "1002030": {
     "idFkv": 326,
     "programType": 1,
@@ -10335,6 +10287,22 @@
     "id": 2503,
     "inputbase": "Розпис"
   },
+  "0418000": {
+    "idFkv": 0,
+    "programType": 0,
+    "level": 2,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "0410000",
+    "actyvPr": 0,
+    "name": "Комісія з регулювання азартних ігор та лотерей",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2020-01-01",
+    "id": 940,
+    "inputbase": "Закон"
+  },
   "3601700": {
     "idFkv": 310,
     "programType": 1,
@@ -10350,6 +10318,38 @@
     "datefrom": "2025-04-08",
     "id": 2501,
     "inputbase": "Розпис"
+  },
+  "0418020": {
+    "idFkv": 360,
+    "programType": 1,
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "0418000",
+    "actyvPr": 0,
+    "name": "Створення і впровадження Державної системи онлайн-моніторингу та електронних реєстрів у сфері організації та проведення азартних ігор",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-01-01",
+    "id": 2314,
+    "inputbase": "Закон"
+  },
+  "0418010": {
+    "idFkv": 303,
+    "programType": 1,
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "0418000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління у сфері регулювання азартних ігор та лотерей",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2020-01-01",
+    "id": 941,
+    "inputbase": "Закон"
   },
   "7781710": {
     "idFkv": 320,
