@@ -45,7 +45,8 @@ def export_katottg(katottg_link):
                 print(f"ERROR: caught {type(e).__name__}.")
 
         if katottg_dict:
-            json_object = json.dumps(katottg_dict, indent=2, ensure_ascii=False)
+            sorted_data = dict(sorted(katottg_dict.items()))
+            json_object = json.dumps(sorted_data, indent=2, ensure_ascii=False)
             with open(f'./classifiers/katottg.json', 'w') as outfile:
                 outfile.write(json_object)
                 outfile.write("\n")  # empty line in the end of file for json validation
