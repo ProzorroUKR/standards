@@ -310,5 +310,31 @@
     },
     "name_en": "EIB",
     "name_uk": "ЄІБ"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Україна",
+      "locality": "м. Київ",
+      "postalCode": "01135",
+      "region": "м. Київ",
+      "streetAddress": "Берестейський проспект, 6"
+    },
+    "contactPoint": {
+      "email": "contact@ohmatdytfund.org",
+      "faxNumber": "+380673717110",
+      "telephone": "+380673717110",
+      "url": "https://www.ohmatdytfund.org",
+      "name_en": "Vember Yevhen",
+      "name_uk": "Вембер Євген Володимирович"
+    },
+    "identifier": {
+      "id": "44751319",
+      "scheme": "UA-EDR",
+      "legalName_en": "OHMATDYT – IS HEALTHY CHILDHOOD",
+      "legalName_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ \"БЛАГОДІЙНИЙ ФОНД \"ОХМАТДИТ – ЗДОРОВЕ ДИТИНСТВО\"\""
+    },
+    "name_en": "OHMATDYT – IS HEALTHY CHILDHOOD",
+    "name_uk": "БФ \"ОХМАТДИТ – ЗДОРОВЕ ДИТИНСТВО\""
   }
 ]
