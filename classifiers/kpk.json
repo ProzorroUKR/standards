@@ -31231,7 +31231,7 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3121000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Державний фонд регіонального розвитку",
     "dateto": null,
     "details": 1,
@@ -44808,6 +44808,26 @@
     "inputbase": "Розпис",
     "years": [
       2022
+    ]
+  },
+  {
+    "idFkv": 359,
+    "programType": 1,
+    "code": "6641700",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "6641000",
+    "actyvPr": 0,
+    "name": "Кошти для Адміністрації Державної служби спеціального зв’язку та захисту інформації України",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-05-06",
+    "id": 2506,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
