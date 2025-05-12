@@ -14187,6 +14187,26 @@
   {
     "idFkv": 317,
     "programType": 1,
+    "code": "2211390",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2211000",
+    "actyvPr": 0,
+    "name": "Субвенція з державного бюджету місцевим бюджетам на придбання обладнання, інвентарю та устаткування для шкільних їдалень (харчоблоків)",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-05-09",
+    "id": 2509,
+    "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
     "code": "2211800",
     "level": 3,
     "isactive": 1,
@@ -26795,7 +26815,7 @@
     "outputbase": null,
     "parentCode": "2902000",
     "actyvPr": 1,
-    "name": "Керівництво та управління у сфері регулювання азартних ігор та лотарей",
+    "name": "Керівництво та управління у сфері регулювання азартних ігор та лотерей",
     "dateto": null,
     "details": 1,
     "comment": null,
@@ -30895,6 +30915,26 @@
     "inputbase": "Розпис",
     "years": [
       2023
+    ]
+  },
+  {
+    "idFkv": 358,
+    "programType": 1,
+    "code": "3111700",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3111000",
+    "actyvPr": 0,
+    "name": "Виконання робіт з поточного ремонту та експлуатаційного утримання зруйнованих (пошкоджених) автомобільних доріг загального користування державного значення",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-05-09",
+    "id": 2508,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -38636,26 +38676,6 @@
     "programType": 0,
     "code": "3901000",
     "level": 2,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3900000",
-    "actyvPr": 1,
-    "name": "Апарат Міністерство національної єдності України",
-    "dateto": null,
-    "details": 0,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2498,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "3901000",
-    "level": 2,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3900000",
@@ -38674,6 +38694,26 @@
       2023,
       2024,
       2025
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "3901000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3900000",
+    "actyvPr": 1,
+    "name": "Апарат Міністерства національної єдності України",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2498,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -46664,6 +46704,26 @@
     "inputbase": "Розпис",
     "years": [
       2024
+    ]
+  },
+  {
+    "idFkv": 358,
+    "programType": 1,
+    "code": "7781720",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "7781000",
+    "actyvPr": 0,
+    "name": "Виконання робіт з експлуатаційного утримання зруйнованих (пошкоджених) автомобільних доріг загального користування місцевого значення",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-05-07",
+    "id": 2507,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
