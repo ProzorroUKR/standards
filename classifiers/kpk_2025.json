@@ -1496,6 +1496,23 @@
     "inputbase": "Розпис"
   },
   {
+    "idFkv": 326,
+    "programType": 1,
+    "code": "1002710",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1002000",
+    "actyvPr": 0,
+    "name": "Здійснення заходів, пов’язаних із зміцненням обороноздатності держави",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-05-14",
+    "id": 2511,
+    "inputbase": "Розпис"
+  },
+  {
     "idFkv": 0,
     "programType": 0,
     "code": "1003000",
@@ -1562,6 +1579,23 @@
     "datefrom": "2019-01-01",
     "id": 87,
     "inputbase": "Закон"
+  },
+  {
+    "idFkv": 326,
+    "programType": 1,
+    "code": "1003700",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1003000",
+    "actyvPr": 0,
+    "name": "Здійснення заходів, пов’язаних із зміцненням обороноздатності держави",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-05-14",
+    "id": 2512,
+    "inputbase": "Розпис"
   },
   {
     "idFkv": 0,
@@ -1783,6 +1817,23 @@
     "datefrom": "2022-01-01",
     "id": 1563,
     "inputbase": "Закон"
+  },
+  {
+    "idFkv": 326,
+    "programType": 1,
+    "code": "1007700",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1007000",
+    "actyvPr": 0,
+    "name": "Здійснення заходів, пов’язаних із зміцненням обороноздатності держави",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-05-14",
+    "id": 2513,
+    "inputbase": "Розпис"
   },
   {
     "idFkv": 0,
@@ -3874,6 +3925,23 @@
     "datefrom": "2023-01-01",
     "id": 2230,
     "inputbase": "Закон"
+  },
+  {
+    "idFkv": 404,
+    "programType": 1,
+    "code": "2301260",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2301000",
+    "actyvPr": 0,
+    "name": "Медичні заходи за рахунок коштів, отриманих на рахунок у Національному банку України для задоволення потреб охорони здоров’я",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-05-14",
+    "id": 2514,
+    "inputbase": "Розпис"
   },
   {
     "idFkv": 404,
@@ -12138,6 +12206,23 @@
     "inputbase": "Розпис"
   },
   {
+    "idFkv": 358,
+    "programType": 1,
+    "code": "7741710",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "7741000",
+    "actyvPr": 0,
+    "name": "Виконання робіт з поточного ремонту зруйнованих (пошкоджених) автомобільних доріг загального користування місцевого значення",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-05-14",
+    "id": 2515,
+    "inputbase": "Розпис"
+  },
+  {
     "idFkv": 0,
     "programType": 0,
     "code": "7750000",
@@ -12799,6 +12884,23 @@
     "datefrom": "2019-01-01",
     "id": 888,
     "inputbase": "Закон"
+  },
+  {
+    "idFkv": 358,
+    "programType": 1,
+    "code": "7841700",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "7841000",
+    "actyvPr": 0,
+    "name": "Виконання робіт з експлуатаційного утримання зруйнованих (пошкоджених) автомобільних доріг загального користування місцевого значення",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-05-14",
+    "id": 2516,
+    "inputbase": "Розпис"
   },
   {
     "idFkv": 0,
