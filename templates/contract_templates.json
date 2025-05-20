@@ -15,7 +15,7 @@
         "title": "Нафта і дистиляти",
         "name": "09130000-9.0002.01",
         "deprecated": true,
-        "active": true
+        "active": false
       },
       {
         "title": "Нафта і дистиляти",
@@ -41,7 +41,7 @@
         "title": "Зернові культури, картопля, овочі, фрукти та горіхи",
         "name": "03220000-9.0002.01",
         "deprecated": true,
-        "active": true
+        "active": false
       },
       {
         "title": "Зернові культури, картопля, овочі, фрукти та горіхи",
@@ -62,7 +62,7 @@
         "title": "Продукти харчування, напої, тютюн та супутня продукція",
         "name": "15000000-9.0001.01",
         "deprecated": true,
-        "active": true
+        "active": false
       }
     ]
   },
@@ -82,7 +82,7 @@
         "title": "Фармацевтична продукція",
         "name": "33600000-6.0002.01",
         "deprecated": true,
-        "active": true
+        "active": false
       },
       {
         "title": "Фармацевтична продукція",
@@ -108,7 +108,7 @@
         "title": "Медичні вироби",
         "name": "33190000-8.0002.01",
         "deprecated": true,
-        "active": true
+        "active": false
       },
       {
         "title": "Медичні вироби",
@@ -134,7 +134,7 @@
         "title": "Машини для обробки даних",
         "name": "30210000-4.0002.01",
         "deprecated": true,
-        "active": true
+        "active": false
       },
       {
         "title": "Машини для обробки даних",
@@ -163,7 +163,7 @@
         "title": "Загальний шаблон",
         "name": "00000000-0.0002.01",
         "deprecated": true,
-        "active": true
+        "active": false
       },
       {
         "title": "Загальний шаблон",
