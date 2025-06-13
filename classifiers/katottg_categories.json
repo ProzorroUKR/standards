@@ -1,15 +1,15 @@
 {
   "O": {
-    "name_uk": "Автономна Республіка Крим, область",
-    "name_en": "Autonomous Republic of Crimea, region"
+    "name_uk": "область",
+    "name_en": "region"
   },
   "K": {
     "name_uk": "місто, що має спеціальний статус",
     "name_en": "city with special status"
   },
   "P": {
-    "name_uk": "район в Автономній Республіці Крим, області",
-    "name_en": "district in the Autonomous Republic of Crimea, region"
+    "name_uk": "район в області",
+    "name_en": "district in region"
   },
   "H": {
     "name_uk": "територіальна громада",
