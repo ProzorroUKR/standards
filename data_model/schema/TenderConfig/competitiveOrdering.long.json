@@ -56,26 +56,23 @@
     "hasTenderComplaints": {
       "type": "boolean",
       "enum": [
-        false,
         true
       ],
-      "default": false
+      "default": true
     },
     "hasAwardComplaints": {
       "type": "boolean",
       "enum": [
-        false,
         true
       ],
-      "default": false
+      "default": true
     },
     "hasCancellationComplaints": {
       "type": "boolean",
       "enum": [
-        false,
         true
       ],
-      "default": false
+      "default": true
     },
     "hasValueEstimation": {
       "type": "boolean",
@@ -93,10 +90,8 @@
     },
     "tenderComplainRegulation": {
       "type": "integer",
-      "enum": [
-        0,
-        3
-      ],
+      "minimum": 3,
+      "maximum": 3,
       "default": 0
     },
     "qualificationComplainDuration": {
@@ -113,11 +108,9 @@
     },
     "cancellationComplainDuration": {
       "type": "integer",
-      "enum": [
-        0,
-        10
-      ],
-      "default": 0
+      "minimum": 10,
+      "maximum": 10,
+      "default": 10
     },
     "clarificationUntilDuration": {
       "type": "integer",

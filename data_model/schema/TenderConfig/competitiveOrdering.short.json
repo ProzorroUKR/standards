@@ -7,7 +7,7 @@
         true,
         false
       ],
-      "default": true
+      "default": false
     },
     "hasAwardingOrder": {
       "type": "boolean",
@@ -56,24 +56,21 @@
     "hasTenderComplaints": {
       "type": "boolean",
       "enum": [
-        false,
-        true
+        false
       ],
       "default": false
     },
     "hasAwardComplaints": {
       "type": "boolean",
       "enum": [
-        false,
-        true
+        false
       ],
       "default": false
     },
     "hasCancellationComplaints": {
       "type": "boolean",
       "enum": [
-        false,
-        true
+        false
       ],
       "default": false
     },
@@ -93,10 +90,8 @@
     },
     "tenderComplainRegulation": {
       "type": "integer",
-      "enum": [
-        0,
-        3
-      ],
+      "minimum": 0,
+      "maximum": 0,
       "default": 0
     },
     "qualificationComplainDuration": {
@@ -113,10 +108,8 @@
     },
     "cancellationComplainDuration": {
       "type": "integer",
-      "enum": [
-        0,
-        10
-      ],
+      "minimum": 0,
+      "maximum": 0,
       "default": 0
     },
     "clarificationUntilDuration": {
