@@ -122,6 +122,12 @@
       "maximum": 0,
       "default": 0
     },
+    "minTenderingDuration": {
+      "type": "integer",
+      "minimum": 2,
+      "maximum": 2,
+      "default": 2
+    },
     "restricted": {
       "type": "boolean",
       "enum": [
@@ -149,6 +155,7 @@
     "cancellationComplainDuration",
     "clarificationUntilDuration",
     "qualificationDuration",
+    "minTenderingDuration",
     "restricted"
   ],
   "additionalProperties": false
