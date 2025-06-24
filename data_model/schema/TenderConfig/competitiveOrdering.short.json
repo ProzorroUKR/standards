@@ -114,9 +114,9 @@
     },
     "clarificationUntilDuration": {
       "type": "integer",
-      "minimum": 3,
-      "maximum": 3,
-      "default": 3
+      "minimum": 0,
+      "maximum": 0,
+      "default": 0
     },
     "qualificationDuration": {
       "type": "integer",
