@@ -139,6 +139,12 @@
       ],
       "default": true
     },
+    "minEnquiriesDuration": {
+      "type": "integer",
+      "minimum": 3,
+      "maximum": 3,
+      "default": 3
+    },
     "restricted": {
       "type": "boolean",
       "enum": [
@@ -168,6 +174,7 @@
     "qualificationDuration",
     "minTenderingDuration",
     "hasEnquiries",
+    "minEnquiriesDuration",
     "restricted"
   ],
   "additionalProperties": false
