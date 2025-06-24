@@ -145,6 +145,12 @@
       "maximum": 3,
       "default": 3
     },
+    "enquiryPeriodRegulation": {
+      "type": "integer",
+      "minimum": 3,
+      "maximum": 3,
+      "default": 3
+    },
     "restricted": {
       "type": "boolean",
       "enum": [
@@ -175,6 +181,7 @@
     "minTenderingDuration",
     "hasEnquiries",
     "minEnquiriesDuration",
+    "enquiryPeriodRegulation",
     "restricted"
   ],
   "additionalProperties": false
