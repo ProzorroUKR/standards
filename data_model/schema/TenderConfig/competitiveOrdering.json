@@ -121,9 +121,11 @@
     },
     "clarificationUntilDuration": {
       "type": "integer",
-      "minimum": 3,
-      "maximum": 3,
-      "default": 3
+      "enum": [
+        0,
+        3
+      ],
+      "default": 0
     },
     "qualificationDuration": {
       "type": "integer",
