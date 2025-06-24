@@ -126,6 +126,13 @@
       "maximum": 3,
       "default": 3
     },
+    "hasEnquiries": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
+    },
     "restricted": {
       "type": "boolean",
       "enum": [
@@ -154,6 +161,7 @@
     "clarificationUntilDuration",
     "qualificationDuration",
     "minTenderingDuration",
+    "hasEnquiries",
     "restricted"
   ],
   "additionalProperties": false
