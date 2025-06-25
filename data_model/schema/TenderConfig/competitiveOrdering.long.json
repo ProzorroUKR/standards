@@ -92,7 +92,7 @@
       "type": "integer",
       "minimum": 3,
       "maximum": 3,
-      "default": 0
+      "default": 3
     },
     "qualificationComplainDuration": {
       "type": "integer",
