@@ -142,9 +142,9 @@
     },
     "enquiryPeriodRegulation": {
       "type": "integer",
-      "minimum": 5,
-      "maximum": 5,
-      "default": 5
+      "minimum": 3,
+      "maximum": 3,
+      "default": 3
     },
     "restricted": {
       "type": "boolean",
