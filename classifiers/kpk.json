@@ -14305,6 +14305,26 @@
   },
   {
     "idFkv": 317,
+    "programType": 2,
+    "code": "2211350",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2211000",
+    "actyvPr": 0,
+    "name": "Субвенція з державного бюджету місцевим бюджетам на задоволення потреб у забезпеченні безпечного освітнього середовища",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-07-01",
+    "id": 2538,
+    "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "idFkv": 317,
     "programType": 1,
     "code": "2211360",
     "level": 3,
@@ -30940,6 +30960,26 @@
     "inputbase": "Закон",
     "years": [
       2024
+    ]
+  },
+  {
+    "idFkv": 358,
+    "programType": 1,
+    "code": "3111390",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3111000",
+    "actyvPr": 0,
+    "name": "Відновлення критично важливої логістичної інфраструктури та мережевого сполучення (RELINC), ключові автомобільні сполучення",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-07-01",
+    "id": 2539,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
