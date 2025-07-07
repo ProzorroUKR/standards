@@ -1,9 +1,7 @@
 name: Update dictionaries JSON Data
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Availability to run manually
+  [push,pull_request]
 
 jobs:
   update-json:
@@ -79,7 +77,7 @@ jobs:
           git push --force origin $BRANCH_NAME
 
       - name: Create Pull Request
-        if: env.create_pr == 'true'
-        run: gh pr create -B master -H ${{ env.BRANCH_NAME }} --title "Update dictionary JSON data" --body "Automated pull request to update JSON data from API."
+        if: env.changed == 'true'
+        run: gh pr create -B master -H ${{ env.BRANCH_NAME }} --title "Update dictionary JSON data" --body "Automated pull request to update JSON data from API." --assignee "ozamirets"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
