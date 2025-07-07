@@ -9876,6 +9876,26 @@
   {
     "idFkv": 442,
     "programType": 1,
+    "code": "1501710",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1501000",
+    "actyvPr": 0,
+    "name": "Здійснення заходів, пов’язаних з початком проведення поховань на Національному військовому меморіальному кладовищі невпізнаних тіл (останків) військовослужбовців, поліцейських, які загинули (померли) внаслідок збройної агресії проти України",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-06-24",
+    "id": 2536,
+    "inputbase": "Закон",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "idFkv": 442,
+    "programType": 1,
     "code": "1501800",
     "level": 3,
     "isactive": 1,
@@ -14286,6 +14306,26 @@
   {
     "idFkv": 317,
     "programType": 1,
+    "code": "2211350",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2211000",
+    "actyvPr": 0,
+    "name": "Субвенція з державного бюджету місцевим бюджетам на задоволення потреб у забезпеченні безпечного освітнього середовища",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-07-01",
+    "id": 2538,
+    "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
     "code": "2211360",
     "level": 3,
     "isactive": 1,
@@ -15439,6 +15479,26 @@
     "inputbase": "Розпис",
     "years": [
       2023
+    ]
+  },
+  {
+    "idFkv": 404,
+    "programType": 1,
+    "code": "2301290",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2301000",
+    "actyvPr": 0,
+    "name": "Придбання медичного обладнання за рахунок гранту JICA для реалізації Програми екстреного відновлення",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-07-02",
+    "id": 2540,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -30923,6 +30983,26 @@
     ]
   },
   {
+    "idFkv": 358,
+    "programType": 1,
+    "code": "3111390",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3111000",
+    "actyvPr": 0,
+    "name": "Відновлення критично важливої логістичної інфраструктури та мережевого сполучення (RELINC), ключові автомобільні сполучення",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-07-01",
+    "id": 2539,
+    "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
     "idFkv": 372,
     "programType": 1,
     "code": "3111400",
@@ -31215,6 +31295,26 @@
     "inputbase": "Розпис",
     "years": [
       2022
+    ]
+  },
+  {
+    "idFkv": 346,
+    "programType": 1,
+    "code": "3111710",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3111000",
+    "actyvPr": 0,
+    "name": "Кошти для Державного агентства відновлення та розвитку інфраструктури України",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-06-27",
+    "id": 2537,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
