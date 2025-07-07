@@ -71,7 +71,7 @@ jobs:
             BRANCH_NAME="update-dictionaries-json-$(date +%Y-%m-%d)"
             echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
           fi
-          BRANCH_NAME="update-dictionaries-json-$(date +%Y-%m)"
+          BRANCH_NAME="update-dictionaries-json-$(date +%Y)"
           echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
           git checkout -b $BRANCH_NAME
           git status
