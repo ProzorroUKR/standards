@@ -1,7 +1,9 @@
 name: Update dictionaries JSON Data
 
 on:
-  [push,pull_request]
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Availability to run manually
 
 jobs:
   update-json:
@@ -24,12 +26,45 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 openpyxl cloudscraper
 
-      - name: fetch data from API
+      - name: Configure Git User
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Check existed PRs
+        id: check_prs
+        run: |
+          PR_BRANCH=$(gh pr list --author github-actions[bot] --state open --limit 1 --json headRefName --jq '.[0].headRefName' || echo "")
+          echo "BRANCH_NAME=${PR_BRANCH}" >> $GITHUB_ENV
+          if [ -n "$PR_BRANCH" ]; then
+            echo "PR existed"
+            echo "create_pr=false" >> $GITHUB_ENV
+          else
+            echo "PR not found"
+            echo "create_pr=true" >> $GITHUB_ENV
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Prepare branch
+        run: |
+          BRANCH_NAME=${{ env.BRANCH_NAME }}
+          if [ -z "$BRANCH_NAME" ] || [ "$BRANCH_NAME" == "null" ]; then
+            BRANCH_NAME="update-dictionaries-json-$(date +%Y-%m-%d)"
+            echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
+            git checkout -b $BRANCH_NAME
+          else
+            git fetch origin $BRANCH_NAME
+            git checkout $BRANCH_NAME
+            git pull origin $BRANCH_NAME
+          fi
+
+      - name: Fetch data from API
         run: |
           python scripts/get_openbudget_dictionaries.py
           git add --all
 
-      - name: fetch data from Excel file
+      - name: Fetch data from Excel file
         run: |
           python scripts/get_katottg.py
           git add --all
@@ -45,43 +80,15 @@ jobs:
             echo "changed=true" >> $GITHUB_ENV
           fi
 
-      - name: Check existed PRs
-        id: check_prs
-        if: env.changed == 'true'
-        run: |
-          PR_BRANCH=$(gh pr list --author github-actions[bot] --state open --limit 1 --json headRefName --jq '.[0].headRefName' || echo "")
-          echo "BRANCH_NAME=${PR_BRANCH}" >> $GITHUB_ENV
-          if [ -n "$PR_BRANCH" ]; then
-            echo "PR existed"
-            echo "create_pr=false" >> $GITHUB_ENV
-          else
-            echo "PR not found"
-            echo "create_pr=true" >> $GITHUB_ENV
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit and Push Changes
         if: env.changed == 'true'
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          BRANCH_NAME=${{ env.BRANCH_NAME }}
-          if [ -z "$BRANCH_NAME" ] || [ "$BRANCH_NAME" == "null" ]; then
-            BRANCH_NAME="update-dictionaries-json-$(date +%Y-%m-%d)"
-            echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
-            git checkout -b $BRANCH_NAME
-          else
-            git fetch origin $BRANCH_NAME
-            git checkout $BRANCH_NAME
-            git pull origin $BRANCH_NAME
-          fi
           git status
           git commit -m "Update dictionaries JSON data from API" -a || echo "No changes to commit"
           git push origin $BRANCH_NAME
 
       - name: Create Pull Request
-        if: env.create_pr == 'true'
+        if: env.create_pr == 'true' && env.changed == 'true'
         run: gh pr create -B master -H ${{ env.BRANCH_NAME }} --title "Update dictionary JSON data" --body "Automated pull request to update JSON data from API." --assignee "ozamirets"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
