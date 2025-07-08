@@ -1,9 +1,7 @@
 name: Update dictionaries JSON Data
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Availability to run manually
+  [push,pull_request]
 
 jobs:
   update-json:
@@ -72,11 +70,15 @@ jobs:
           if [ -z "$BRANCH_NAME" ] || [ "$BRANCH_NAME" == "null" ]; then
             BRANCH_NAME="update-dictionaries-json-$(date +%Y-%m-%d)"
             echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
+            git checkout -b $BRANCH_NAME
+          else
+            git fetch origin $BRANCH_NAME
+            git checkout $BRANCH_NAME
+            git pull origin $BRANCH_NAME
           fi
-          git checkout -b $BRANCH_NAME
           git status
-          git commit -m "Update dictionaries JSON data from API" -a
-          git push --force origin $BRANCH_NAME
+          git commit -m "Update dictionaries JSON data from API" -a || echo "No changes to commit"
+          git push origin $BRANCH_NAME
 
       - name: Create Pull Request
         if: env.create_pr == 'true'
