@@ -7447,6 +7447,23 @@
   },
   {
     "idFkv": 358,
+    "programType": 1,
+    "code": "3111390",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3111000",
+    "actyvPr": 0,
+    "name": "Відновлення критично важливої логістичної інфраструктури та мережевого сполучення (RELINC), ключові автомобільні сполучення",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-07-01",
+    "id": 2539,
+    "inputbase": "Розпис"
+  },
+  {
+    "idFkv": 358,
     "programType": 2,
     "code": "3111600",
     "level": 3,
