@@ -38307,6 +38307,26 @@
     ]
   },
   {
+    "idFkv": 546,
+    "programType": 1,
+    "code": "3802500",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3801000",
+    "actyvPr": 0,
+    "name": "Придбання обладнання за рахунок гранту JICA для акціонерного товариства «Національна суспільна телерадіокомпанія України»",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-07-09",
+    "id": 2541,
+    "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
     "idFkv": 0,
     "programType": 0,
     "code": "3803000",
