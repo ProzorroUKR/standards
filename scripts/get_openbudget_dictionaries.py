@@ -1,4 +1,5 @@
 import json
+import time
 from copy import deepcopy
 
 import requests
@@ -9,10 +10,10 @@ KPK_RESOURCE_API = "https://api.openbudget.gov.ua/items"
 
 
 def get_openbudget_dictionary():
-    headers = {"User-Agent": "Mozilla/5.0"}
     for dict_name in ("KPK", "TKPKMB"):
+        time.sleep(0.01)
         resource_url = f"{KPK_RESOURCE_API}/{dict_name}"
-        response = requests.get(resource_url, headers=headers, timeout=10)
+        response = requests.get(resource_url)
         if response.status_code == 200:
             data = response.json()
             if dict_name == "KPK":
