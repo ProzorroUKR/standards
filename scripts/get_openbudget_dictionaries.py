@@ -1,5 +1,6 @@
 import json
 import httpx
+import time
 from copy import deepcopy
 
 from datetime import datetime
@@ -11,8 +12,21 @@ def get_openbudget_dictionary():
     for dict_name in ("KPK", "TKPKMB"):
         headers = {"User-Agent": "Mozilla/5.0"}
         resource_url = f"{KPK_RESOURCE_API}/{dict_name}"
-        with httpx.Client(http2=False, headers=headers) as client:
-            response = client.get(resource_url)
+        for attempt in range(3):
+            try:
+                with httpx.Client(http2=False, headers=headers, timeout=10.0) as client:
+                    response = client.get(resource_url)
+                    response.raise_for_status()
+                    break
+            except httpx.HTTPStatusError as e:
+                print(f"HTTP помилка при завантаженні {dict_name}: {e.response.status_code}")
+                break
+            except httpx.RequestError as e:
+                print(f"Помилка мережі (спроба {attempt + 1}/3): {e}")
+                time.sleep(2)
+            except Exception as e:
+                print(f"Інша помилка: {e}")
+                break
         if response.status_code == 200:
             data = response.json()
             if dict_name == "KPK":
