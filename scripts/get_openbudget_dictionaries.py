@@ -1,8 +1,6 @@
 import json
-import time
+import httpx
 from copy import deepcopy
-
-import requests
 
 from datetime import datetime
 
@@ -11,9 +9,9 @@ KPK_RESOURCE_API = "https://api.openbudget.gov.ua/items"
 
 def get_openbudget_dictionary():
     for dict_name in ("KPK", "TKPKMB"):
-        time.sleep(0.01)
         resource_url = f"{KPK_RESOURCE_API}/{dict_name}"
-        response = requests.get(resource_url)
+        with httpx.Client(http2=False) as client:
+            response = client.get(resource_url)
         if response.status_code == 200:
             data = response.json()
             if dict_name == "KPK":
