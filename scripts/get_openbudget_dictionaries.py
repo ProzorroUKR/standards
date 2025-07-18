@@ -9,9 +9,10 @@ KPK_RESOURCE_API = "https://api.openbudget.gov.ua/items"
 
 
 def get_openbudget_dictionary():
+    headers = {"User-Agent": "Mozilla/5.0"}
     for dict_name in ("KPK", "TKPKMB"):
         resource_url = f"{KPK_RESOURCE_API}/{dict_name}"
-        response = requests.get(resource_url)
+        response = requests.get(resource_url, headers=headers)
         if response.status_code == 200:
             data = response.json()
             if dict_name == "KPK":
