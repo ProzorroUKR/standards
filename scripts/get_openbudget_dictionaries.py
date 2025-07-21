@@ -11,7 +11,7 @@ KPK_RESOURCE_API = "https://api.openbudget.gov.ua/items"
 
 def get_openbudget_dictionary():
     for dict_name in ("KPK", "TKPKMB"):
-        headers = {"User-Agent": "Mozilla/5.0"}
+        headers = {"User-Agent": "Mozilla/5.0"}  # GitHub actions bot user-agent is being blocked by API
         resource_url = f"{KPK_RESOURCE_API}/{dict_name}"
         for attempt in range(3):
             try:
