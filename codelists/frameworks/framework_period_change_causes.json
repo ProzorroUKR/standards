@@ -1,0 +1,14 @@
+{
+  "noDemandFramework": {
+    "title_uk": "Відсутня подальша потреба в закупівлі з використанням рамкової угоди",
+    "title_en": "There is no further need for procurement using a framework agreement"
+  },
+  "forceMajeureFramework": {
+    "title_uk": "Здійснення кваліфікаційного відбору кандидатів до рамкової угоди стало неможливим внаслідок дії непереборної сили",
+    "title_en": "The qualification selection of candidates for the framework agreement became impossible due to force majeure"
+  },
+  "other": {
+    "title_uk": "Інше",
+    "title_en": "Other"
+  }
+}
