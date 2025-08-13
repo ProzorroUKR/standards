@@ -11496,6 +11496,46 @@
     ]
   },
   {
+    "idFkv": 349,
+    "programType": 1,
+    "code": "2101470",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2101000",
+    "actyvPr": 1,
+    "name": "Здійснення заходів з реформування та розвитку обороннопромислового комплексу, розроблення, освоєння і впровадження нових технологій, нарощування наявних виробничих потужностей для виготовлення продукції оборонного призначення",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2546,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "2101480",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2101000",
+    "actyvPr": 1,
+    "name": "Надання державної фінансової підтримки підприємствам у сфері оборонно-промислового комплексу",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2547,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 319,
     "programType": 1,
     "code": "2101510",
@@ -11553,6 +11593,26 @@
     "inputbase": "Закон",
     "years": [
       2023
+    ]
+  },
+  {
+    "idFkv": 319,
+    "programType": 1,
+    "code": "2101540",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2101000",
+    "actyvPr": 0,
+    "name": "Здійснення заходів з реформування та розвитку оборонно-промислового комплексу, розроблення, освоєння і впровадження нових технологій, нарощування наявних виробничих потужностей для виготовлення продукції оборонного призначення, закупівлі озброєння, військової (спеціальної) техніки, засобів та обладнання",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-07-31",
+    "id": 2545,
+    "inputbase": "Закон",
+    "years": [
+      2025
     ]
   },
   {
@@ -19455,9 +19515,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": null,
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Міністерство соціальної політики України",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 0,
     "comment": null,
     "datefrom": "2019-01-01",
@@ -19476,14 +19536,34 @@
   {
     "idFkv": 0,
     "programType": 0,
+    "code": "2500000",
+    "level": 1,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": null,
+    "actyvPr": 1,
+    "name": "Міністерство соціальної політики, сім’ї та єдності України",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2548,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
     "code": "2501000",
     "level": 2,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2500000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Апарат Міністерства соціальної політики України",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 0,
     "comment": null,
     "datefrom": "2019-01-01",
@@ -19500,6 +19580,26 @@
     ]
   },
   {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "2501000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2500000",
+    "actyvPr": 1,
+    "name": "Апарат Міністерства соціальної політики, сім’ї та єдності України",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2549,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 337,
     "programType": 1,
     "code": "2501010",
@@ -19507,9 +19607,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2501000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Керівництво та управління у сфері соціальної політики",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2019-01-01",
@@ -19523,6 +19623,26 @@
       2023,
       2024,
       2025
+    ]
+  },
+  {
+    "idFkv": 337,
+    "programType": 1,
+    "code": "2501010",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2501000",
+    "actyvPr": 1,
+    "name": "Керівництво та управління у сфері соціальної політики, сім’ї та єдності",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2550,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -21371,9 +21491,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": null,
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Міністерство соціальної політики України (загальнодержавні видатки та кредитування)",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 0,
     "comment": null,
     "datefrom": "2019-01-01",
@@ -21392,14 +21512,34 @@
   {
     "idFkv": 0,
     "programType": 0,
+    "code": "2510000",
+    "level": 1,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": null,
+    "actyvPr": 1,
+    "name": "Міністерство соціальної політики, сім’ї та єдності України (загальнодержавні видатки та кредитування)",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2551,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
     "code": "2511000",
     "level": 2,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2510000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Міністерство соціальної політики України (загальнодержавні видатки та кредитування)",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 0,
     "comment": null,
     "datefrom": "2019-01-01",
@@ -21413,6 +21553,26 @@
       2023,
       2024,
       2025
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "2511000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2510000",
+    "actyvPr": 1,
+    "name": "Міністерство соціальної політики, сім’ї та єдності України  (загальнодержавні видатки та кредитування)",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2552,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -21767,9 +21927,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2601000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Виконання державних цільових програм реформування та розвитку оборонно-промислового комплексу, розроблення, освоєння і впровадження нових технологій, нарощування наявних виробничих потужностей для виготовлення продукції оборонного призначення",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2021-01-01",
@@ -21811,9 +21971,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2601000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Надання державної фінансової підтримки підприємствам у сфері оборонно-промислового комплексу",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
@@ -33672,6 +33832,26 @@
     ]
   },
   {
+    "idFkv": 310,
+    "programType": 1,
+    "code": "3501490",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3501000",
+    "actyvPr": 0,
+    "name": "Забезпечення реалізації Частини 3 (а) проекту «Екстрений проект надання інклюзивної підтримки для відновлення сільського господарства України (ARISE)»",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-07-31",
+    "id": 2544,
+    "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
     "idFkv": 513,
     "programType": 1,
     "code": "3501500",
@@ -39399,7 +39579,7 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "3901000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Забезпечення інформаційної політики єдності України, розвитку національної ідентичності та спільного розвитку",
     "dateto": null,
     "details": 1,
