@@ -2244,7 +2244,7 @@
     "parentCode": "0410000",
     "actyvPr": 0,
     "name": "Комісія з регулювання азартних ігор та лотерей",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 0,
     "comment": null,
     "datefrom": "2020-01-01",
@@ -2269,7 +2269,7 @@
     "parentCode": "0418000",
     "actyvPr": 0,
     "name": "Керівництво та управління у сфері регулювання азартних ігор та лотерей",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2020-01-01",
@@ -2294,7 +2294,7 @@
     "parentCode": "0418000",
     "actyvPr": 0,
     "name": "Створення і впровадження Державної системи онлайн-моніторингу та електронних реєстрів у сфері організації та проведення азартних ігор",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
@@ -6662,7 +6662,7 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1201000",
-    "actyvPr": 0,
+    "actyvPr": 1,
     "name": "Підвищення кваліфікації фахівців агропромислового комплексу та перепідготовка кадрів у сфері екології, природних ресурсів та водного господарства, підготовка наукових та науково-педагогічних кадрів",
     "dateto": null,
     "details": 1,
@@ -6738,6 +6738,26 @@
     "inputbase": "Закон",
     "years": [
       2019
+    ]
+  },
+  {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "1201100",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Підтримка фермерських господарств та інших виробників сільськогосподарської продукції",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2592,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -6887,6 +6907,26 @@
   },
   {
     "idFkv": 339,
+    "programType": 1,
+    "code": "1201150",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Фінансова підтримка сільгосптоваровиробників",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2593,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 339,
     "programType": 3,
     "code": "1201160",
     "level": 3,
@@ -6906,6 +6946,26 @@
       2020,
       2021,
       2022
+    ]
+  },
+  {
+    "idFkv": 339,
+    "programType": 3,
+    "code": "1201160",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Повернення коштів, наданих на формування Аграрним фондом державного інтервенційного фонду, а також для закупівлі матеріально-технічних ресурсів для потреб сільськогосподарських товаровиробників",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2587,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -6984,6 +7044,26 @@
   },
   {
     "idFkv": 339,
+    "programType": 3,
+    "code": "1201190",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Повернення кредитів, наданих з державного бюджету фермерським господарствам",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2590,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 339,
     "programType": 2,
     "code": "1201200",
     "level": 3,
@@ -7002,6 +7082,26 @@
       2019,
       2020,
       2021
+    ]
+  },
+  {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "1201200",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Надання кредитів фермерським господарствам",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2591,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -7914,6 +8014,46 @@
     ]
   },
   {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "1201470",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Створення та функціонування Групи управління Проектом «Екстрений проект надання інклюзивної підтримки для відновлення сільського господарства України (ARISE)»",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2588,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "1201480",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Організація і регулювання діяльності установ в системі агропромислового комплексу",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2589,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 348,
     "programType": 1,
     "code": "1201480",
@@ -8291,6 +8431,26 @@
     ]
   },
   {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "1202000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1200000",
+    "actyvPr": 1,
+    "name": "Державна служба України з питань геодезії, картографії та кадастру",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2594,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 339,
     "programType": 1,
     "code": "1202010",
@@ -8310,6 +8470,26 @@
       2019,
       2020,
       2021
+    ]
+  },
+  {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "1202010",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1202000",
+    "actyvPr": 1,
+    "name": "Керівництво та управління у сфері геодезії, картографії та кадастру",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2595,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -8335,6 +8515,26 @@
     ]
   },
   {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "1202020",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1202000",
+    "actyvPr": 1,
+    "name": "Проведення земельної реформи",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2596,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 336,
     "programType": 1,
     "code": "1202030",
@@ -8354,6 +8554,46 @@
       2019,
       2020,
       2021
+    ]
+  },
+  {
+    "idFkv": 336,
+    "programType": 1,
+    "code": "1202030",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1202000",
+    "actyvPr": 1,
+    "name": "Загальнодержавні топографо-геодезичні та картографічні роботи, демаркація та делімітація державного кордону",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2597,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "1202620",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1202000",
+    "actyvPr": 1,
+    "name": "Проведення інвентаризації земель та оновлення картографічної основи Державного земельного кадастру",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2598,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -8795,6 +9035,26 @@
     ]
   },
   {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "1207000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1200000",
+    "actyvPr": 1,
+    "name": "Державне агентство України з розвитку меліорації, рибного господарства та продовольчих програм",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2599,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 309,
     "programType": 1,
     "code": "1207010",
@@ -8812,6 +9072,26 @@
     "inputbase": "Закон",
     "years": [
       2019
+    ]
+  },
+  {
+    "idFkv": 341,
+    "programType": 1,
+    "code": "1207010",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1207000",
+    "actyvPr": 1,
+    "name": "Керівництво та управління у сфері розвитку меліорації, рибного господарства та продовольчих програм",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2601,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -8835,6 +9115,26 @@
     ]
   },
   {
+    "idFkv": 341,
+    "programType": 1,
+    "code": "1207020",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1207000",
+    "actyvPr": 1,
+    "name": "Організація діяльності рибовідтворювальних комплексів та інших бюджетних установ  у сфері рибного господарства",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2600,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 450,
     "programType": 1,
     "code": "1207030",
@@ -8852,6 +9152,26 @@
     "inputbase": "Закон",
     "years": [
       2019
+    ]
+  },
+  {
+    "idFkv": 518,
+    "programType": 1,
+    "code": "1207030",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1207000",
+    "actyvPr": 1,
+    "name": "Наукова і науково-технічна діяльність у сфері рибного господарства",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2602,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -8892,6 +9212,46 @@
     "inputbase": "Закон",
     "years": [
       2019
+    ]
+  },
+  {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "1207120",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1207000",
+    "actyvPr": 1,
+    "name": "Експлуатація державного водогосподарсько-меліоративного комплексу",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2603,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 341,
+    "programType": 1,
+    "code": "1207140",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1207000",
+    "actyvPr": 1,
+    "name": "Заходи із вселення водних біоресурсів у рибогосподарські водні об’єкти (їх частини)",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2604,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -8970,6 +9330,26 @@
     ]
   },
   {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "1209000",
+    "level": 2,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1200000",
+    "actyvPr": 1,
+    "name": "Державне агентство лісових ресурсів України",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2025-08-13",
+    "id": 2584,
+    "inputbase": "Закон",
+    "years": [
+      2025
+    ]
+  },
+  {
     "idFkv": 336,
     "programType": 1,
     "code": "1209010",
@@ -8990,6 +9370,26 @@
       2020,
       2021,
       2022
+    ]
+  },
+  {
+    "idFkv": 340,
+    "programType": 1,
+    "code": "1209010",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1209000",
+    "actyvPr": 1,
+    "name": "Керівництво та управління у сфері лісового господарства",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2585,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -9062,6 +9462,26 @@
     ]
   },
   {
+    "idFkv": 340,
+    "programType": 1,
+    "code": "1209060",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1209000",
+    "actyvPr": 1,
+    "name": "Ведення лісового і мисливського господарства, охорона і захист лісів в лісовому фонді",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2586,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 339,
     "programType": 1,
     "code": "1209610",
@@ -9110,12 +9530,32 @@
     "programType": 0,
     "code": "1210000",
     "level": 1,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": null,
     "actyvPr": 1,
-    "name": "Міністерство економіки України (загальнодержавні видатки та кредитування)",
+    "name": "Міністерство економіки, довкілля та сільського господарства України (загальнодержавні видатки та кредитування)",
     "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2605,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "1210000",
+    "level": 1,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": null,
+    "actyvPr": 0,
+    "name": "Міністерство економіки України (загальнодержавні видатки та кредитування)",
+    "dateto": "2025-12-31",
     "details": 0,
     "comment": null,
     "datefrom": "2022-01-01",
@@ -9133,12 +9573,32 @@
     "programType": 0,
     "code": "1211000",
     "level": 2,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "1210000",
     "actyvPr": 1,
-    "name": "Міністерство економіки України (загальнодержавні видатки та кредитування)",
+    "name": "Міністерство економіки, довкілля та сільського господарства України (загальнодержавні видатки та кредитування)",
     "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2606,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "1211000",
+    "level": 2,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1210000",
+    "actyvPr": 0,
+    "name": "Міністерство економіки України (загальнодержавні видатки та кредитування)",
+    "dateto": "2025-12-31",
     "details": 0,
     "comment": null,
     "datefrom": "2022-01-01",
@@ -9178,12 +9638,32 @@
     "programType": 1,
     "code": "1211050",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "1211000",
     "actyvPr": 1,
     "name": "Мобілізаційна підготовка галузей національної економіки України",
     "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2607,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 320,
+    "programType": 1,
+    "code": "1211050",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1211000",
+    "actyvPr": 0,
+    "name": "Мобілізаційна підготовка галузей національної економіки України",
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2019-01-01",
@@ -12043,7 +12523,7 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2101000",
-    "actyvPr": 0,
+    "actyvPr": 1,
     "name": "Здійснення заходів з реформування та розвитку оборонно-промислового комплексу, розроблення, освоєння і впровадження нових технологій, нарощування наявних виробничих потужностей для виготовлення продукції оборонного призначення, закупівлі озброєння, військової (спеціальної) техніки, засобів та обладнання",
     "dateto": null,
     "details": 1,
@@ -18403,6 +18883,26 @@
     ]
   },
   {
+    "idFkv": 346,
+    "programType": 1,
+    "code": "2401510",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2401000",
+    "actyvPr": 0,
+    "name": "Грантова підтримка відповідно до грантових угод між Японським агентством міжнародного співробітництва (JICA) та Урядом України на реалізацію Програми екстреного відновлення (першої, другої та третьої фаз)",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-08-13",
+    "id": 2608,
+    "inputbase": "Закон",
+    "years": [
+      2025
+    ]
+  },
+  {
     "idFkv": 380,
     "programType": 1,
     "code": "2401520",
@@ -19595,6 +20095,26 @@
     ]
   },
   {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "2408000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2400000",
+    "actyvPr": 1,
+    "name": "Державне агентство України з управління зоною відчуження",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2577,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 377,
     "programType": 1,
     "code": "2408010",
@@ -19613,6 +20133,26 @@
     "years": [
       2019,
       2020
+    ]
+  },
+  {
+    "idFkv": 377,
+    "programType": 1,
+    "code": "2408010",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2408000",
+    "actyvPr": 1,
+    "name": "Керівництво та управління діяльністю у зоні відчуження",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2578,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -19637,6 +20177,26 @@
     ]
   },
   {
+    "idFkv": 377,
+    "programType": 1,
+    "code": "2408070",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2408000",
+    "actyvPr": 1,
+    "name": "Радіологічний захист населення та екологічне оздоровлення території, що зазнала радіоактивного забруднення",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2579,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 524,
     "programType": 1,
     "code": "2408080",
@@ -19658,6 +20218,26 @@
     ]
   },
   {
+    "idFkv": 524,
+    "programType": 1,
+    "code": "2408080",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2408000",
+    "actyvPr": 1,
+    "name": "Збереження етнокультурної спадщини регіонів, постраждалих від наслідків Чорнобильської катастрофи",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2580,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 376,
     "programType": 1,
     "code": "2408090",
@@ -19676,6 +20256,26 @@
     "years": [
       2019,
       2020
+    ]
+  },
+  {
+    "idFkv": 376,
+    "programType": 1,
+    "code": "2408090",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2408000",
+    "actyvPr": 1,
+    "name": "Виконання робіт у сфері поводження з радіоактивними відходами неядерного циклу, будівництво комплексу \"Вектор\" та експлуатація його об'єктів",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2581,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -19702,6 +20302,26 @@
   {
     "idFkv": 377,
     "programType": 1,
+    "code": "2408110",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2408000",
+    "actyvPr": 1,
+    "name": "Підтримка екологічно безпечного стану у зонах відчуження і безумовного (обов'язкового) відселення",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2582,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 377,
+    "programType": 1,
     "code": "2408120",
     "level": 3,
     "isactive": 0,
@@ -19718,6 +20338,26 @@
     "years": [
       2019,
       2020
+    ]
+  },
+  {
+    "idFkv": 377,
+    "programType": 1,
+    "code": "2408120",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2408000",
+    "actyvPr": 1,
+    "name": "Підтримка у безпечному стані  блоків та об'єкта \"Укриття\" та заходи щодо зняття з експлуатації Чорнобильської АЕС",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2583,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -23432,9 +24072,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2700000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Державне агентство України з управління зоною відчуження",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 0,
     "comment": null,
     "datefrom": "2020-01-01",
@@ -23445,27 +24085,6 @@
       2021,
       2022,
       2023,
-      2024,
-      2025
-    ]
-  },
-  {
-    "idFkv": 377,
-    "programType": 1,
-    "code": "2708010",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2708000",
-    "actyvPr": 1,
-    "name": "Керівництво та управління діяльністю у зоні відчуження",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2024-01-01",
-    "id": 1974,
-    "inputbase": "Закон",
-    "years": [
       2024,
       2025
     ]
@@ -23496,14 +24115,35 @@
   {
     "idFkv": 377,
     "programType": 1,
+    "code": "2708010",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2708000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління діяльністю у зоні відчуження",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2024-01-01",
+    "id": 1974,
+    "inputbase": "Закон",
+    "years": [
+      2024,
+      2025
+    ]
+  },
+  {
+    "idFkv": 377,
+    "programType": 1,
     "code": "2708070",
     "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2708000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Радіологічний захист населення та екологічне оздоровлення території, що зазнала радіоактивного забруднення",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2020-01-01",
@@ -23526,9 +24166,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2708000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Збереження етнокультурної спадщини регіонів, постраждалих від наслідків Чорнобильської катастрофи",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2020-01-01",
@@ -23551,9 +24191,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2708000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Виконання робіт у сфері поводження з радіоактивними відходами неядерного циклу, будівництво комплексу \"Вектор\" та експлуатація його об'єктів",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2020-01-01",
@@ -23576,9 +24216,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2708000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Підтримка екологічно безпечного стану у зонах відчуження і безумовного (обов'язкового) відселення",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2020-01-01",
@@ -23622,9 +24262,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2708000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Підтримка у безпечному стані  блоків та об'єкта \"Укриття\" та заходи щодо зняття з експлуатації Чорнобильської АЕС",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2022-01-01",
@@ -23745,9 +24385,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2700000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Державне агентство лісових ресурсів України",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 0,
     "comment": null,
     "datefrom": "2020-01-01",
@@ -23770,9 +24410,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2709000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Керівництво та управління у сфері лісового господарства",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2020-01-01",
@@ -23795,9 +24435,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2709000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Ведення лісового і мисливського господарства, охорона і захист лісів в лісовому фонді",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2020-01-01",
@@ -25827,9 +26467,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": null,
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Міністерство аграрної політики та продовольства України",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 0,
     "comment": null,
     "datefrom": "2021-01-01",
@@ -25871,9 +26511,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2800000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Апарат Міністерства аграрної політики та продовольства України",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 0,
     "comment": null,
     "datefrom": "2021-01-01",
@@ -25915,9 +26555,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2801000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Керівництво та управління у сфері агропромислового комплексу",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2021-01-01",
@@ -25976,30 +26616,6 @@
     "programType": 1,
     "code": "2801050",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2801000",
-    "actyvPr": 1,
-    "name": "Наукова і науково-технічна діяльність у сфері розвитку агропромислового комплексу,  стандартизації та сертифікації сільськогосподарської продукції",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2021-01-01",
-    "id": 1444,
-    "inputbase": "Закон",
-    "years": [
-      2021,
-      2022,
-      2023,
-      2024,
-      2025
-    ]
-  },
-  {
-    "idFkv": 518,
-    "programType": 1,
-    "code": "2801050",
-    "level": 3,
     "isactive": 0,
     "outputbase": "2020",
     "parentCode": "2801000",
@@ -26013,6 +26629,30 @@
     "inputbase": "Закон",
     "years": [
       2019
+    ]
+  },
+  {
+    "idFkv": 518,
+    "programType": 1,
+    "code": "2801050",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2801000",
+    "actyvPr": 0,
+    "name": "Наукова і науково-технічна діяльність у сфері розвитку агропромислового комплексу,  стандартизації та сертифікації сільськогосподарської продукції",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2021-01-01",
+    "id": 1444,
+    "inputbase": "Закон",
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
     ]
   },
   {
@@ -26040,28 +26680,6 @@
     "programType": 3,
     "code": "2801120",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2801000",
-    "actyvPr": 1,
-    "name": "Повернення коштів, наданих на формування Аграрним фондом державного інтервенційного фонду, а також для закупівлі матеріально-технічних ресурсів для потреб сільськогосподарських товаровиробників",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2023-01-01",
-    "id": 2231,
-    "inputbase": "Закон",
-    "years": [
-      2023,
-      2024,
-      2025
-    ]
-  },
-  {
-    "idFkv": 339,
-    "programType": 3,
-    "code": "2801120",
-    "level": 3,
     "isactive": 0,
     "outputbase": "2023",
     "parentCode": "2801000",
@@ -26078,24 +26696,22 @@
     ]
   },
   {
-    "idFkv": 434,
-    "programType": 1,
-    "code": "2801130",
+    "idFkv": 339,
+    "programType": 3,
+    "code": "2801120",
     "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2801000",
-    "actyvPr": 1,
-    "name": "Підвищення кваліфікації фахівців агропромислового комплексу",
-    "dateto": null,
+    "actyvPr": 0,
+    "name": "Повернення коштів, наданих на формування Аграрним фондом державного інтервенційного фонду, а також для закупівлі матеріально-технічних ресурсів для потреб сільськогосподарських товаровиробників",
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
-    "datefrom": "2021-01-01",
-    "id": 1445,
+    "datefrom": "2023-01-01",
+    "id": 2231,
     "inputbase": "Закон",
     "years": [
-      2021,
-      2022,
       2023,
       2024,
       2025
@@ -26119,6 +26735,30 @@
     "inputbase": "Закон",
     "years": [
       2019
+    ]
+  },
+  {
+    "idFkv": 434,
+    "programType": 1,
+    "code": "2801130",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2801000",
+    "actyvPr": 0,
+    "name": "Підвищення кваліфікації фахівців агропромислового комплексу",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2021-01-01",
+    "id": 1445,
+    "inputbase": "Закон",
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
     ]
   },
   {
@@ -26191,7 +26831,7 @@
     "parentCode": "2801000",
     "actyvPr": 0,
     "name": "Створення та функціонування Групи управління Проектом «Екстрений проект надання інклюзивної підтримки для відновлення сільського господарства України (ARISE)» при Мінагрополітики",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
@@ -26246,28 +26886,6 @@
     "programType": 1,
     "code": "2801250",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2801000",
-    "actyvPr": 1,
-    "name": "Витрати Аграрного фонду пов'язані з комплексом заходів із  зберігання, перевезення, переробки та експортом об'єктів державного цінового регулювання державного інтервенційного фонду",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2023-01-01",
-    "id": 2232,
-    "inputbase": "Закон",
-    "years": [
-      2023,
-      2024,
-      2025
-    ]
-  },
-  {
-    "idFkv": 339,
-    "programType": 1,
-    "code": "2801250",
-    "level": 3,
     "isactive": 0,
     "outputbase": "2023",
     "parentCode": "2801000",
@@ -26286,22 +26904,20 @@
   {
     "idFkv": 339,
     "programType": 1,
-    "code": "2801310",
+    "code": "2801250",
     "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2801000",
-    "actyvPr": 1,
-    "name": "Організація і регулювання діяльності установ в системі агропромислового комплексу",
-    "dateto": null,
+    "actyvPr": 0,
+    "name": "Витрати Аграрного фонду пов'язані з комплексом заходів із  зберігання, перевезення, переробки та експортом об'єктів державного цінового регулювання державного інтервенційного фонду",
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
-    "datefrom": "2021-01-01",
-    "id": 1446,
+    "datefrom": "2023-01-01",
+    "id": 2232,
     "inputbase": "Закон",
     "years": [
-      2021,
-      2022,
       2023,
       2024,
       2025
@@ -26325,6 +26941,30 @@
     "inputbase": "Закон",
     "years": [
       2019
+    ]
+  },
+  {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "2801310",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2801000",
+    "actyvPr": 0,
+    "name": "Організація і регулювання діяльності установ в системі агропромислового комплексу",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2021-01-01",
+    "id": 1446,
+    "inputbase": "Закон",
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
     ]
   },
   {
@@ -26433,30 +27073,6 @@
     "programType": 3,
     "code": "2801400",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2801000",
-    "actyvPr": 1,
-    "name": "Повернення кредитів, наданих з державного бюджету фермерським господарствам",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2021-01-01",
-    "id": 1447,
-    "inputbase": "Закон",
-    "years": [
-      2021,
-      2022,
-      2023,
-      2024,
-      2025
-    ]
-  },
-  {
-    "idFkv": 339,
-    "programType": 3,
-    "code": "2801400",
-    "level": 3,
     "isactive": 0,
     "outputbase": "2020",
     "parentCode": "2801000",
@@ -26473,6 +27089,30 @@
     ]
   },
   {
+    "idFkv": 339,
+    "programType": 3,
+    "code": "2801400",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2801000",
+    "actyvPr": 0,
+    "name": "Повернення кредитів, наданих з державного бюджету фермерським господарствам",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2021-01-01",
+    "id": 1447,
+    "inputbase": "Закон",
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ]
+  },
+  {
     "idFkv": 310,
     "programType": 1,
     "code": "2801410",
@@ -26480,39 +27120,15 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2801000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Виконання рішень суду",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2024-01-01",
     "id": 1975,
     "inputbase": "Закон",
     "years": [
-      2024,
-      2025
-    ]
-  },
-  {
-    "idFkv": 339,
-    "programType": 2,
-    "code": "2801460",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2801000",
-    "actyvPr": 1,
-    "name": "Надання кредитів фермерським господарствам",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2021-01-01",
-    "id": 1448,
-    "inputbase": "Закон",
-    "years": [
-      2021,
-      2022,
-      2023,
       2024,
       2025
     ]
@@ -26535,6 +27151,30 @@
     "inputbase": "Закон",
     "years": [
       2019
+    ]
+  },
+  {
+    "idFkv": 339,
+    "programType": 2,
+    "code": "2801460",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2801000",
+    "actyvPr": 0,
+    "name": "Надання кредитів фермерським господарствам",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2021-01-01",
+    "id": 1448,
+    "inputbase": "Закон",
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
     ]
   },
   {
@@ -26587,7 +27227,7 @@
     "parentCode": "2801000",
     "actyvPr": 0,
     "name": "Підтримка фермерських господарств та інших виробників сільськогосподарської продукції",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2024-01-01",
@@ -26707,9 +27347,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2801000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Фінансова підтримка сільгосптоваровиробників",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2021-01-01",
@@ -26831,9 +27471,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2800000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Державна служба України з питань геодезії, картографії та кадастру",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 0,
     "comment": null,
     "datefrom": "2021-01-01",
@@ -26875,9 +27515,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2803000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Керівництво та управління у сфері геодезії, картографії та кадастру",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2021-01-01",
@@ -26919,9 +27559,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2803000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Проведення земельної реформи",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2021-01-01",
@@ -26963,9 +27603,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2803000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Загальнодержавні топографо-геодезичні та картографічні роботи, демаркація та делімітація державного кордону",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2021-01-01",
@@ -26987,9 +27627,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2803000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Проведення інвентаризації земель та оновлення картографічної основи Державного земельного кадастру",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2021-01-01",
@@ -27069,26 +27709,6 @@
     "programType": 0,
     "code": "2804000",
     "level": 2,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2800000",
-    "actyvPr": 1,
-    "name": "Державне агентство України з розвитку меліорації, рибного господарства та продовольчих програм",
-    "dateto": null,
-    "details": 0,
-    "comment": null,
-    "datefrom": "2025-01-01",
-    "id": 2349,
-    "inputbase": "Закон",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "2804000",
-    "level": 2,
     "isactive": 0,
     "outputbase": "2022",
     "parentCode": "2800000",
@@ -27102,6 +27722,26 @@
     "inputbase": "Закон",
     "years": [
       2021
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "2804000",
+    "level": 2,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2800000",
+    "actyvPr": 0,
+    "name": "Державне агентство України з розвитку меліорації, рибного господарства та продовольчих програм",
+    "dateto": "2025-12-31",
+    "details": 0,
+    "comment": null,
+    "datefrom": "2025-01-01",
+    "id": 2349,
+    "inputbase": "Закон",
+    "years": [
+      2025
     ]
   },
   {
@@ -27150,27 +27790,6 @@
     "programType": 1,
     "code": "2804010",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2804000",
-    "actyvPr": 1,
-    "name": "Керівництво та управління у сфері розвитку меліорації, рибного господарства та продовольчих програм",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2024-01-01",
-    "id": 2134,
-    "inputbase": "Закон",
-    "years": [
-      2024,
-      2025
-    ]
-  },
-  {
-    "idFkv": 341,
-    "programType": 1,
-    "code": "2804010",
-    "level": 3,
     "isactive": 0,
     "outputbase": "2020",
     "parentCode": "2804000",
@@ -27184,6 +27803,27 @@
     "inputbase": "Закон",
     "years": [
       2019
+    ]
+  },
+  {
+    "idFkv": 341,
+    "programType": 1,
+    "code": "2804010",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2804000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління у сфері розвитку меліорації, рибного господарства та продовольчих програм",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2024-01-01",
+    "id": 2134,
+    "inputbase": "Закон",
+    "years": [
+      2024,
+      2025
     ]
   },
   {
@@ -27214,9 +27854,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2804000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Організація діяльності рибовідтворювальних комплексів та інших бюджетних установ  у сфері рибного господарства",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2021-01-01",
@@ -27258,9 +27898,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2804000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Наукова і науково-технічна діяльність у сфері рибного господарства",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2021-01-01",
@@ -27322,9 +27962,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2804000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Міжнародна діяльність у галузі рибного  господарства",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2021-01-01",
@@ -27346,9 +27986,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2804000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Експлуатація державного водогосподарсько-меліоративного комплексу",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2023-01-01",
@@ -27388,9 +28028,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2804000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Заходи із вселення водних біоресурсів у рибогосподарські водні об’єкти (їх частини)",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
