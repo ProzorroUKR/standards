@@ -4,6 +4,7 @@
     "hasAuction": {
       "type": "boolean",
       "enum": [
+        true,
         false
       ],
       "default": false
@@ -11,21 +12,24 @@
     "hasAwardingOrder": {
       "type": "boolean",
       "enum": [
-        true
+        true,
+        false
       ],
       "default": true
     },
     "hasValueRestriction": {
       "type": "boolean",
       "enum": [
-        true
+        true,
+        false
       ],
-      "default": true
+      "default": false
     },
     "valueCurrencyEquality": {
       "type": "boolean",
       "enum": [
-        true
+        true,
+        false
       ],
       "default": true
     },
@@ -45,9 +49,9 @@
     "hasPreSelectionAgreement": {
       "type": "boolean",
       "enum": [
-        false
+        true
       ],
-      "default": false
+      "default": true
     },
     "hasTenderComplaints": {
       "type": "boolean",
@@ -98,9 +102,9 @@
     },
     "awardComplainDuration": {
       "type": "integer",
-      "minimum": 0,
-      "maximum": 0,
-      "default": 0
+      "minimum": 5,
+      "maximum": 5,
+      "default": 5
     },
     "cancellationComplainDuration": {
       "type": "integer",
@@ -122,9 +126,9 @@
     },
     "minTenderingDuration": {
       "type": "integer",
-      "minimum": 0,
-      "maximum": 0,
-      "default": 0
+      "minimum": 2,
+      "maximum": 2,
+      "default": 2
     },
     "hasEnquiries": {
       "type": "boolean",
@@ -148,7 +152,8 @@
     "restricted": {
       "type": "boolean",
       "enum": [
-        false
+        false,
+        true
       ],
       "default": false
     }

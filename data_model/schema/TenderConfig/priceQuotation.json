@@ -120,6 +120,31 @@
       "maximum": 0,
       "default": 0
     },
+    "minTenderingDuration": {
+      "type": "integer",
+      "minimum": 2,
+      "maximum": 2,
+      "default": 2
+    },
+    "hasEnquiries": {
+      "type": "boolean",
+      "enum": [
+        false
+      ],
+      "default": false
+    },
+    "minEnquiriesDuration": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 0,
+      "default": 0
+    },
+    "enquiryPeriodRegulation": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 0,
+      "default": 0
+    },
     "restricted": {
       "type": "boolean",
       "enum": [
@@ -148,6 +173,10 @@
     "cancellationComplainDuration",
     "clarificationUntilDuration",
     "qualificationDuration",
+    "minTenderingDuration",
+    "hasEnquiries",
+    "minEnquiriesDuration",
+    "enquiryPeriodRegulation",
     "restricted"
   ],
   "additionalProperties": false
