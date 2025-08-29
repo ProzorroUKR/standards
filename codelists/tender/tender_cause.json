@@ -9,6 +9,16 @@
     "title_en": "Natural gas is purchased by a natural gas market subject, which the Cabinet of Ministers of Ukraine, in accordance with the Law of Ukraine \"On the Natural Gas Market\", has assigned special duties to ensure public interests in the process of functioning of the natural gas market",
     "archive": false
   },
+  "defenceRecruitment": {
+    "title_uk": "Здійснюється закупівля послуг, пов’язаних з перевезенням (оформлення документів, що посвідчують особу, віз, проїзних документів, страхування, транспортування тощо) кандидатів для проходження військової служби з числа іноземців або осіб без громадянства з території іноземних держав, їх харчуванням та проживанням",
+    "title_en": "The procurement of services related to the transportation (including processing of identity documents, visas, travel documents, insurance, and logistics) of candidates for military service from among foreign nationals or stateless persons from foreign countries, as well as their accommodation and meals, is being carried out",
+    "archive": false
+  },
+  "defenceVehicles": {
+    "title_uk": "Здійснюється закупівля транспортних засобів, що були в користуванні (з типом кузова пікап, мотовсюдиходів (квадроциклів, у тому числі квадроциклів типу багі) та мотоциклів), військовими частинами, що уповноважені згідно з рішеннями державних замовників у сфері оборони на здійснення закупівель та укладення державних контрактів (договорів), за умови наявності штатно-табельної потреби. Вартість таких транспортних засобів визначається на підставі висновку експерта (висновку експертного дослідження) або звіту про оцінку майна",
+    "title_en": "Military units are conducting the procurement of used transport vehicles, including pickup trucks, all-terrain vehicles (such as quad bikes and buggy-type ATVs), and motorcycles",
+    "archive": false
+  },
   "hematopoieticStemCells": {
     "title_uk": "Гемопоетичні стовбурові клітини, роботи та послуги, що пов’язані з їх придбанням",
     "title_en": "Hematopoietic stem cells, works and services related to their acquisition",
