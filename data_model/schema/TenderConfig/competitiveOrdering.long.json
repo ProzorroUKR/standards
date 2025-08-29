@@ -4,28 +4,32 @@
     "hasAuction": {
       "type": "boolean",
       "enum": [
+        true,
         false
       ],
-      "default": false
+      "default": true
     },
     "hasAwardingOrder": {
       "type": "boolean",
       "enum": [
-        true
+        true,
+        false
       ],
       "default": true
     },
     "hasValueRestriction": {
       "type": "boolean",
       "enum": [
-        true
+        true,
+        false
       ],
-      "default": true
+      "default": false
     },
     "valueCurrencyEquality": {
       "type": "boolean",
       "enum": [
-        true
+        true,
+        false
       ],
       "default": true
     },
@@ -45,30 +49,30 @@
     "hasPreSelectionAgreement": {
       "type": "boolean",
       "enum": [
-        false
+        true
       ],
-      "default": false
+      "default": true
     },
     "hasTenderComplaints": {
       "type": "boolean",
       "enum": [
-        false
+        true
       ],
-      "default": false
+      "default": true
     },
     "hasAwardComplaints": {
       "type": "boolean",
       "enum": [
-        false
+        true
       ],
-      "default": false
+      "default": true
     },
     "hasCancellationComplaints": {
       "type": "boolean",
       "enum": [
-        false
+        true
       ],
-      "default": false
+      "default": true
     },
     "hasValueEstimation": {
       "type": "boolean",
@@ -86,9 +90,9 @@
     },
     "tenderComplainRegulation": {
       "type": "integer",
-      "minimum": 0,
-      "maximum": 0,
-      "default": 0
+      "minimum": 3,
+      "maximum": 3,
+      "default": 3
     },
     "qualificationComplainDuration": {
       "type": "integer",
@@ -98,21 +102,21 @@
     },
     "awardComplainDuration": {
       "type": "integer",
-      "minimum": 0,
-      "maximum": 0,
-      "default": 0
+      "minimum": 5,
+      "maximum": 5,
+      "default": 5
     },
     "cancellationComplainDuration": {
       "type": "integer",
-      "minimum": 0,
-      "maximum": 0,
-      "default": 0
+      "minimum": 10,
+      "maximum": 10,
+      "default": 10
     },
     "clarificationUntilDuration": {
       "type": "integer",
-      "minimum": 0,
-      "maximum": 0,
-      "default": 0
+      "minimum": 3,
+      "maximum": 3,
+      "default": 3
     },
     "qualificationDuration": {
       "type": "integer",
@@ -122,9 +126,9 @@
     },
     "minTenderingDuration": {
       "type": "integer",
-      "minimum": 0,
-      "maximum": 0,
-      "default": 0
+      "minimum": 7,
+      "maximum": 7,
+      "default": 7
     },
     "hasEnquiries": {
       "type": "boolean",
@@ -141,14 +145,15 @@
     },
     "enquiryPeriodRegulation": {
       "type": "integer",
-      "minimum": 0,
-      "maximum": 0,
-      "default": 0
+      "minimum": 3,
+      "maximum": 3,
+      "default": 3
     },
     "restricted": {
       "type": "boolean",
       "enum": [
-        false
+        false,
+        true
       ],
       "default": false
     }
