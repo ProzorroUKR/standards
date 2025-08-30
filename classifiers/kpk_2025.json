@@ -2006,6 +2006,23 @@
     "inputbase": "Закон"
   },
   {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "1201300",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 0,
+    "name": "Забезпечення функціонування офісу із залучення та підтримки інвестицій",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-08-28",
+    "id": 2611,
+    "inputbase": "Розпис"
+  },
+  {
     "idFkv": 360,
     "programType": 1,
     "code": "1201310",
