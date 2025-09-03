@@ -71,6 +71,12 @@
     "name_uk": "мікрофарад",
     "symbol_uk": "мкФ"
   },
+  "41": {
+    "name_en": "millilitre per minute",
+    "symbol_en": "ml/min",
+    "name_uk": "мілілітр за хвилину",
+    "symbol_uk": "мл/хв"
+  },
   "5K": {
     "name_en": "count per minute",
     "symbol_en": "cpm",
