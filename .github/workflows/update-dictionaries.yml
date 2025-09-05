@@ -88,7 +88,7 @@ jobs:
           git push origin $BRANCH_NAME
 
       - name: Create Pull Request
-        if: env.create_pr == 'true' && env.changed == 'true'
+        if: env.create_pr == 'true' && env.changed == 'true' && github.repository_owner == 'ProzorroUKR'
         run: gh pr create -B master -H ${{ env.BRANCH_NAME }} --title "Update dictionary JSON data" --body "Automated pull request to update JSON data from API." --assignee "ozamirets"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
