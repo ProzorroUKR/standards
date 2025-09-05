@@ -81,7 +81,7 @@ jobs:
           fi
 
       - name: Commit and Push Changes
-        if: env.changed == 'true'
+        if: env.changed == 'true' && github.repository_owner == 'ProzorroUKR'
         run: |
           git status
           git commit -m "Update dictionaries JSON data from API" -a || echo "No changes to commit"
