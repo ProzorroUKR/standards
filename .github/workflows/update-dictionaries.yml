@@ -7,6 +7,7 @@ on:
 
 jobs:
   update-json:
+    if: github.repository_owner == 'ProzorroUKR'
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -81,14 +82,14 @@ jobs:
           fi
 
       - name: Commit and Push Changes
-        if: env.changed == 'true' && github.repository_owner == 'ProzorroUKR'
+        if: env.changed == 'true'
         run: |
           git status
           git commit -m "Update dictionaries JSON data from API" -a || echo "No changes to commit"
           git push origin $BRANCH_NAME
 
       - name: Create Pull Request
-        if: env.create_pr == 'true' && env.changed == 'true' && github.repository_owner == 'ProzorroUKR'
+        if: env.create_pr == 'true' && env.changed == 'true'
         run: gh pr create -B master -H ${{ env.BRANCH_NAME }} --title "Update dictionary JSON data" --body "Automated pull request to update JSON data from API." --assignee "ozamirets"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
