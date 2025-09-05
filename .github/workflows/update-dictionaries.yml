@@ -14,6 +14,9 @@ jobs:
         python-version: [ 3.11 ]
 
     steps:
+      - name: Show repository owner
+        run: echo "Owner is ${{ github.repository_owner }}"
+
       - name: Checkout Repository
         uses: actions/checkout@v4
 
