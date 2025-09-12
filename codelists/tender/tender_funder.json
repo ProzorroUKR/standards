@@ -28,6 +28,32 @@
   {
     "additionalIdentifiers": [],
     "address": {
+      "countryName": "Україна",
+      "locality": "Київ",
+      "postalCode": "01001",
+      "region": "",
+      "streetAddress": "вул. Бориса Грінченка, 1"
+    },
+    "contactPoint": {
+      "email": "nrfu@nrfu.org.ua",
+      "faxNumber": "",
+      "telephone": "+380442981629",
+      "url": "https://nrfu.org.ua/",
+      "name_en": "Andrii KUZNETSOV (First Deputy Executive Director for Grant Support)",
+      "name_uk": "КУЗНЕЦОВ Андрій Олегович (Перший заступник виконавчого директора з питань грантової підтримки)"
+    },
+    "identifier": {
+      "id": "42734019",
+      "scheme": "ЄДР",
+      "legalName_en": "National Research Foundation of Ukraine",
+      "legalName_uk": "Національний фонд досліджень України"
+    },
+    "name_en": "National Research Foundation of Ukraine",
+    "name_uk": "Національний фонд досліджень України"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
       "countryName": "Швейцарська Конфедерація",
       "locality": "Женева",
       "postalCode": "1218",
