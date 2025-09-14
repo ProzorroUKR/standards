@@ -6984,7 +6984,7 @@
     ]
   },
   {
-    "idFkv": 378,
+    "idFkv": 380,
     "programType": 1,
     "code": "1201120",
     "level": 3,
@@ -6992,7 +6992,7 @@
     "outputbase": null,
     "parentCode": "1201000",
     "actyvPr": 1,
-    "name": "Збереження природно-заповідного фонду",
+    "name": "Збереження природно-заповідного фонду та здійснення природоохоронних заходів",
     "dateto": null,
     "details": 1,
     "comment": null,
@@ -7620,6 +7620,26 @@
     ]
   },
   {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "1201290",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Реалізація Угоди між Урядом України та Урядом Сполучених Штатів Америки про створення Американсько-Українського інвестиційного фонду відбудови",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2638,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 339,
     "programType": 1,
     "code": "1201300",
@@ -7938,7 +7958,7 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1201000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Здійснення природоохоронних заходів, зокрема з покращення стану довкілля",
     "dateto": null,
     "details": 1,
@@ -8784,7 +8804,7 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1202000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Проведення інвентаризації земель та оновлення картографічної основи Державного земельного кадастру",
     "dateto": null,
     "details": 1,
@@ -9048,7 +9068,7 @@
     "outputbase": null,
     "parentCode": "1205000",
     "actyvPr": 1,
-    "name": "Експлуатація державного водогосподарського комплексу та управління водними ресурсами",
+    "name": "Розвиток водного господарства та експлуатація державного водогосподарського комплексу",
     "dateto": null,
     "details": 1,
     "comment": null,
@@ -9067,7 +9087,7 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1205000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Захист від шкідливої дії вод сільських населених пунктів та сільськогосподарських угідь, в тому числі в басейні р. Тиса у Закарпатській області",
     "dateto": null,
     "details": 1,
@@ -9087,7 +9107,7 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1205000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Першочергове забезпечення сільських населених пунктів централізованим водопостачанням",
     "dateto": null,
     "details": 1,
@@ -9215,6 +9235,26 @@
     ]
   },
   {
+    "idFkv": 351,
+    "programType": 1,
+    "code": "1206040",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1206000",
+    "actyvPr": 1,
+    "name": "Розвиток мінерально-сировинної бази України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2637,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 0,
     "programType": 0,
     "code": "1207000",
@@ -9323,7 +9363,7 @@
     "outputbase": null,
     "parentCode": "1207000",
     "actyvPr": 1,
-    "name": "Організація діяльності рибовідтворювальних комплексів та інших бюджетних установ  у сфері рибного господарства",
+    "name": "Діяльність у сфері рибного господарства та експлуатація водогосподарсько-меліоративного комплексу",
     "dateto": null,
     "details": 1,
     "comment": null,
@@ -9422,7 +9462,7 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1207000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Експлуатація державного водогосподарсько-меліоративного комплексу",
     "dateto": null,
     "details": 1,
@@ -9442,7 +9482,7 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1207000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Заходи із вселення водних біоресурсів у рибогосподарські водні об’єкти (їх частини)",
     "dateto": null,
     "details": 1,
@@ -15665,6 +15705,26 @@
     ]
   },
   {
+    "idFkv": 438,
+    "programType": 1,
+    "code": "2211410",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2211000",
+    "actyvPr": 1,
+    "name": "Підвищення престижності праці у сфері освіти",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2632,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 317,
     "programType": 1,
     "code": "2211800",
@@ -15989,6 +16049,26 @@
       2023,
       2024,
       2025
+    ]
+  },
+  {
+    "idFkv": 404,
+    "programType": 1,
+    "code": "2301050",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2301000",
+    "actyvPr": 1,
+    "name": "Скринінг здоров’я для громадян з підвищеним ризиком розвитку захворювань",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2634,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -22834,6 +22914,26 @@
       2023,
       2024,
       2025
+    ]
+  },
+  {
+    "idFkv": 448,
+    "programType": 1,
+    "code": "2507120",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2507000",
+    "actyvPr": 1,
+    "name": "Державний фонд соціального захисту осіб з інвалідністю для здійснення програм і заходів соціального захисту осіб з інвалідністю, їх зайнятості та працевлаштування",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2636,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -33709,6 +33809,26 @@
   {
     "idFkv": 317,
     "programType": 1,
+    "code": "3121490",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3121000",
+    "actyvPr": 1,
+    "name": "Субвенція з державного бюджету місцевим бюджетам на компенсацію різниці в тарифах на виробництво, транспортування та постачання теплової енергії, послуг з централізованого опалення, постачання гарячої води, що складається в поточному періоді",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2631,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
     "code": "3121600",
     "level": 3,
     "isactive": 1,
@@ -36896,6 +37016,26 @@
     "inputbase": "Закон",
     "years": [
       2024
+    ]
+  },
+  {
+    "idFkv": 319,
+    "programType": 1,
+    "code": "3511220",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3511000",
+    "actyvPr": 1,
+    "name": "Резерв коштів для сектору безпеки і оборони",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2633,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -42520,15 +42660,35 @@
   },
   {
     "idFkv": 0,
-    "programType": 0,
+    "programType": 1,
+    "code": "5990000",
+    "level": 1,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": null,
+    "actyvPr": 1,
+    "name": "Уповноважений Верховної Ради України з прав людини",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2635,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 1,
     "code": "5990000",
     "level": 1,
     "isactive": 1,
     "outputbase": null,
     "parentCode": null,
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Секретаріат Уповноваженого Верховної Ради України з прав людини",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 0,
     "comment": null,
     "datefrom": "2019-01-01",
