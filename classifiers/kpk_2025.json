@@ -1649,6 +1649,23 @@
     "inputbase": "Розпис"
   },
   {
+    "idFkv": 326,
+    "programType": 1,
+    "code": "1002720",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1002000",
+    "actyvPr": 0,
+    "name": "Забезпечення фінансування нагальних потреб оборони",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-10-09",
+    "id": 2713,
+    "inputbase": "Закон"
+  },
+  {
     "idFkv": 0,
     "programType": 0,
     "code": "1003000",
