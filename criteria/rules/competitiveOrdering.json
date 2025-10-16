@@ -74,7 +74,20 @@
       }
     },
     "period": {
-      "start_date": "NEW_REQUIREMENTS_RULES_FROM"
+      "start_date": "NEW_REQUIREMENTS_RULES_FROM",
+      "end_date": "UNIFIED_CRITERIA_LOGIC_FROM"
+    }
+  },
+  {
+    "criteria": {
+      "CRITERION.OTHER.BID.VALIDITY_PERIOD": {
+        "rules": [
+          "required"
+        ]
+      }
+    },
+    "period": {
+      "start_date": "UNIFIED_CRITERIA_LOGIC_FROM"
     }
   }
 ]
