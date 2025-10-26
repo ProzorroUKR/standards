@@ -11035,6 +11035,23 @@
   {
     "idFkv": 0,
     "programType": 0,
+    "code": "3810000",
+    "level": 1,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": null,
+    "actyvPr": 0,
+    "name": "Міністерство культури та стратегічних комунікацій України  (загальнодержавні видатки та кредитування)",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-10-24",
+    "id": 2722,
+    "inputbase": "Розпис"
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
     "code": "3900000",
     "level": 1,
     "isactive": 1,
