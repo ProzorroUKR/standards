@@ -1,4 +1,10 @@
 {
+  "23": {
+    "name_en": "gram per cubic centimetre",
+    "symbol_en": "g/cm³",
+    "name_uk": "грам на кубічний сантиметр",
+    "symbol_uk": "г/куб.см"
+  },
   "2G": {
     "name_en": "volt AC",
     "symbol_en": "V",
@@ -184,6 +190,12 @@
     "symbol_en": "box",
     "name_uk": "ящик",
     "symbol_uk": "ящ"
+  },
+  "C24": {
+    "name_en": "millipascal second",
+    "symbol_en": "mPa·s",
+    "name_uk": "міліпаскаль секунда",
+    "symbol_uk": "мПа·c"
   },
   "C26": {
     "name_en": "millisecond",
