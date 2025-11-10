@@ -2235,6 +2235,26 @@
     ]
   },
   {
+    "idFkv": 0,
+    "programType": 1,
+    "code": "0417000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "0410000",
+    "actyvPr": 1,
+    "name": "Державна служба України з питань геодезії, картографії та кадастру",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2738,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 304,
     "programType": 1,
     "code": "0417010",
@@ -2252,6 +2272,66 @@
     "inputbase": "Закон",
     "years": [
       2019
+    ]
+  },
+  {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "0417010",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "0417000",
+    "actyvPr": 1,
+    "name": "Керівництво та управління у сфері геодезії, картографії та кадастру",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2741,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "0417020",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "0417000",
+    "actyvPr": 1,
+    "name": "Проведення земельної реформи",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2740,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 336,
+    "programType": 1,
+    "code": "0417030",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "0417000",
+    "actyvPr": 1,
+    "name": "Загальнодержавні топографо-геодезичні та картографічні роботи, демаркація та делімітація державного кордону",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2742,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -15527,6 +15607,26 @@
     ]
   },
   {
+    "idFkv": 544,
+    "programType": 1,
+    "code": "2201560",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2201000",
+    "actyvPr": 0,
+    "name": "Придбання обладнання для надання освітніх послуг, видання, доставку підручників і посібників для учнів і педагогічних працівників закладів загальної середньої освіти за рахунок гранту JICA для реалізації Програми екстреного відновлення",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-11-07",
+    "id": 2737,
+    "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
     "idFkv": 372,
     "programType": 1,
     "code": "2201570",
@@ -22671,26 +22771,6 @@
     "programType": 1,
     "code": "2501250",
     "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "2501000",
-    "actyvPr": 1,
-    "name": "Здійснення виплат із соціальної підтримки окремих категорій населення",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2642,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 442,
-    "programType": 1,
-    "code": "2501250",
-    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2501000",
@@ -22705,6 +22785,26 @@
     "years": [
       2024,
       2025
+    ]
+  },
+  {
+    "idFkv": 448,
+    "programType": 1,
+    "code": "2501250",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2501000",
+    "actyvPr": 1,
+    "name": "Здійснення виплат із соціальної підтримки окремих категорій населення",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2642,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -30713,7 +30813,7 @@
     ]
   },
   {
-    "idFkv": 328,
+    "idFkv": 310,
     "programType": 1,
     "code": "3101100",
     "level": 3,
@@ -35479,6 +35579,26 @@
       2021,
       2022,
       2023
+    ]
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
+    "code": "3131100",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3131000",
+    "actyvPr": 0,
+    "name": "Субвенція з державного бюджету місцевим бюджетам на фінансове забезпечення будівництва, реконструкції, ремонту і утримання автомобільних доріг загального користування місцевого значення, вулиць і доріг комунальної власності у населених пунктах для обласного бюджету Харківської області",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-11-07",
+    "id": 2739,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
