@@ -575,6 +575,12 @@
     "name_uk": "кілогерц",
     "symbol_uk": "кГц"
   },
+  "KJO": {
+    "name_en": "kilojoule",
+    "symbol_en": "kJ",
+    "name_uk": "кілоджоуль",
+    "symbol_uk": "кДж"
+  },
   "KMQ": {
     "name_en": "kilogram per cubic metre",
     "symbol_en": "kg/m³",
