@@ -1,0 +1,14 @@
+{
+  "contractBreach": {
+    "title_uk": "Не підписав договір на умовах, визначених замовником",
+    "title_en": "Did not sign the contract on the terms specified by the customer"
+  },
+  "goodsNonCompliance": {
+    "title_uk": "Не виконав свої зобов’язання за раніше укладеним договором",
+    "title_en": "Does not fulfill its obligations under a previously signed contract"
+  },
+  "signingRefusal": {
+    "title_uk": "Письмово відмовився від укладення договору на умовах, визначених замовником",
+    "title_en": "Refused in writing to sign the contract on the terms specified by the customer"
+  }
+}
