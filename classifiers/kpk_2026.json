@@ -1,5 +1,22 @@
 [
   {
+    "idFkv": 404,
+    "programType": 1,
+    "code": "0411180",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "0411000",
+    "actyvPr": 1,
+    "name": "Забезпечення функціонування Національної комісії з питань психічного здоров’я",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2750,
+    "inputbase": "Закон"
+  },
+  {
     "idFkv": 372,
     "programType": 1,
     "code": "0411260",
@@ -133,6 +150,23 @@
     "comment": null,
     "datefrom": "2026-01-01",
     "id": 2742,
+    "inputbase": "Закон"
+  },
+  {
+    "idFkv": 375,
+    "programType": 1,
+    "code": "1006600",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1006000",
+    "actyvPr": 1,
+    "name": "Покращення можливостей національної гідрометеорологічної служби",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2748,
     "inputbase": "Закон"
   },
   {
@@ -376,6 +410,23 @@
   {
     "idFkv": 372,
     "programType": 1,
+    "code": "1201230",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Часткова компенсація майнових втрат суб’єктів господарювання внаслідок реалізації воєнних ризиків та страхових премій за договорами страхування від воєнних ризиків",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2745,
+    "inputbase": "Закон"
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
     "code": "1201290",
     "level": 3,
     "isactive": 0,
@@ -459,6 +510,23 @@
     "inputbase": "Закон"
   },
   {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "1201420",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Гуманітарне розмінування",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2746,
+    "inputbase": "Закон"
+  },
+  {
     "idFkv": 375,
     "programType": 1,
     "code": "1201440",
@@ -473,6 +541,23 @@
     "comment": null,
     "datefrom": "2026-01-01",
     "id": 2566,
+    "inputbase": "Закон"
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "1201450",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Забезпечення функціонування Національної установи розвитку",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2743,
     "inputbase": "Закон"
   },
   {
@@ -1447,6 +1532,23 @@
   {
     "idFkv": 317,
     "programType": 1,
+    "code": "2511250",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2511000",
+    "actyvPr": 1,
+    "name": "Субвенція з державного бюджету місцевим бюджетам на  формування фондів житла для тимчасового проживання або підтриманого проживання евакуйованих та внутрішньо переміщених осіб і заходів щодо забезпечення їх житлом у сільській місцевості",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2749,
+    "inputbase": "Закон"
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
     "code": "2511800",
     "level": 3,
     "isactive": 0,
@@ -1785,6 +1887,23 @@
     "inputbase": "Закон"
   },
   {
+    "idFkv": 317,
+    "programType": 1,
+    "code": "3511170",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3511000",
+    "actyvPr": 1,
+    "name": "Субвенція з державного бюджету місцевим бюджетам на компенсацію різниці в тарифах на виробництво, транспортування та постачання теплової енергії, послуг з централізованого опалення, постачання гарячої води, що складається в поточному періоді",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2744,
+    "inputbase": "Закон"
+  },
+  {
     "idFkv": 319,
     "programType": 1,
     "code": "3511220",
@@ -1799,6 +1918,23 @@
     "comment": null,
     "datefrom": "2026-01-01",
     "id": 2633,
+    "inputbase": "Закон"
+  },
+  {
+    "idFkv": 310,
+    "programType": 1,
+    "code": "3609820",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3609000",
+    "actyvPr": 1,
+    "name": "Реалізація публічного інвестиційного проекту \"Капітальний ремонт, модернізація інфраструктури приміщень бази зберігання страхового фонду документації України та введення її в експлуатацію\"",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2751,
     "inputbase": "Закон"
   },
   {
