@@ -6,5 +6,18 @@
   "pending": {
     "title_uk": "Очікує розгляду",
     "title_en": "Awaiting"
+  },
+  "satisfied": {
+    "title_uk": "Затверджено",
+    "title_en": "Satisfied"
+  },
+  "declinedNoViolation": {
+    "title_uk": "Відхилено",
+    "title_en": "Declined"
+  },
+  "declinedLackEvidence": {
+    "title_uk": "Розгляд припинено",
+    "title_en": "Review is terminated"
   }
+}
 }
