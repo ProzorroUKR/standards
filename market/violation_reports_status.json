@@ -1,0 +1,10 @@
+{
+  "draft": {
+    "title_uk": "Неактивоване звернення",
+    "title_en": "Inactive report"
+  },
+  "pending": {
+    "title_uk": "Очікує розгляду",
+    "title_en": "Awaiting"
+  }
+}
