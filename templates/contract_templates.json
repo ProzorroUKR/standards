@@ -121,6 +121,11 @@
   "3021": {
     "templates": [
       {
+        "title": "НУШ",
+        "name": "NUSH.0001.01",
+        "active": true
+      },
+      {
         "title": "Машини для обробки даних",
         "name": "30210000.0002.01",
         "active": true
@@ -141,6 +146,24 @@
         "name": "30210000-4.0001.01",
         "deprecated": true,
         "active": false
+      }
+    ]
+  },
+  "3023": {
+    "templates": [
+      {
+        "title": "НУШ",
+        "name": "NUSH.0001.01",
+        "active": true
+      }
+    ]
+  },
+  "3232": {
+    "templates": [
+      {
+        "title": "НУШ",
+        "name": "NUSH.0001.01",
+        "active": true
       }
     ]
   },
