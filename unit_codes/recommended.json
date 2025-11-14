@@ -107,6 +107,12 @@
     "name_uk": "грам на кубічний метр",
     "symbol_uk": "г/м³"
   },
+  "A99": {
+    "name_en": "bit",
+    "symbol_en": "bit",
+    "name_uk": "біт",
+    "symbol_uk": "біт"
+  },
   "AM": {
     "name_en": "ampoule",
     "symbol_en": "amp",
