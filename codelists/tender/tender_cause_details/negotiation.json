@@ -1,0 +1,110 @@
+{
+  "twiceUnsuccessful": {
+    "title_uk": "Пункт 4 частини 2 статті 35",
+    "title_en": "Clause 4, Part 2, Article 35",
+    "description_uk": "Двічі відмінено процедуру відкритих торгів, у тому числі частково (за лотом), через відсутність достатньої кількості тендерних пропозицій, визначеної цим Законом",
+    "description_en": "If procuring entity twicely cancelled a tender due to lack of suppliers",
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20191201#n548",
+    "scheme": "LAW922",
+    "archive": true
+  },
+  "noCompetition": {
+    "title_uk": "Пункт 2 частини 2 статті 35",
+    "title_en": "Clause 2, Part 2, Article 35",
+    "description_uk": "Роботи, товари чи послуги можуть бути виконані, поставлені чи надані виключно певним суб’єктом господарювання",
+    "description_en": "Lack of competition on suited market because of which procurement contract can be established only with one supplier",
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20191201#n548",
+    "scheme": "LAW922",
+    "archive": true
+  },
+  "additionalPurchase": {
+    "title_uk": "Пункт 4 частини 2 статті 40",
+    "title_en": "Clause 4, Part 2, Article 40",
+    "description_uk": "Якщо після укладення договору про закупівлю у замовника виникла необхідність у постачанні додаткового обсягу товару у того самого постачальника, якщо в разі зміни постачальника замовник був би вимушений придбати товар з іншими технічними характеристиками, що призвело б до виникнення несумісності, пов’язаної з експлуатацією і технічним обслуговуванням. Закупівля додаткового обсягу товару у того самого постачальника здійснюється протягом трьох років після укладення договору про закупівлю, якщо загальна вартість такого постачання не перевищує 50 відсотків ціни договору про закупівлю",
+    "description_en": "If, after concluding a procurement contract, the customer needs to purchase additional goods from the same supplier, because changing suppliers would require purchasing goods with different technical characteristics, which would lead to incompatibility issues related to operation and maintenance. The purchase of additional goods from the same supplier shall be carried out within three years after the conclusion of the procurement contract, if the total cost of such supply does not exceed 50 percent of the price of the procurement contract",
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
+    "scheme": "LAW922",
+    "archive": false
+  },
+  "additionalConstruction": {
+    "title_uk": "Пункт 5 частини 2 статті 40",
+    "title_en": "Clause 5, Part 2, Article 40",
+    "description_uk": "Якщо після укладення договору про закупівлю у замовника виникла необхідність у закупівлі додаткових аналогічних робіт чи послуг у того самого учасника. Можливість і умови таких додаткових робіт чи послуг можуть бути передбачені в основному договорі про закупівлю, який укладений за результатами проведення тендера. Закупівля додаткових аналогічних робіт чи послуг у того самого учасника здійснюється протягом трьох років після укладення договору про закупівлю, якщо загальна вартість таких робіт чи послуг не перевищує 50 відсотків ціни основного договору про закупівлю, укладеного за результатами проведення тендера",
+    "description_en": "If, after concluding a procurement contract, the customer needs to purchase additional similar works or services from the same participant. The possibility and conditions for such additional works or services may be provided for in the main procurement contract concluded following the results of the tender. The procurement of additional similar works or services from the same participant shall be carried out within three years after the conclusion of the procurement contract, if the total cost of such works or services does not exceed 50 percent of the price of the main procurement contract concluded based on the results of the tender",
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
+    "scheme": "LAW922",
+    "archive": false
+  },
+  "resolvingInsolvency": {
+    "title_uk": "Пункт 6 частини 2 статті 40",
+    "title_en": "Clause 6, Part 2, Article 40",
+    "description_uk": "Закупівля товарів за процедурою відновлення платоспроможності боржника згідно із законодавством",
+    "description_en": "Purchase of goods under the procedure for restoring the debtor's solvency in accordance with the legislation",
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
+    "scheme": "LAW922",
+    "archive": true
+  },
+  "stateLegalServices": {
+    "title_uk": "Пункт 7 частини 2 статті 40",
+    "title_en": "Clause 7, Part 2, Article 40",
+    "description_uk": "Закупівля юридичних послуг, пов’язаних із захистом прав та інтересів України, у тому числі з метою захисту національної безпеки і оборони, під час врегулювання спорів щодо розгляду в закордонних юрисдикційних органах справ за участю іноземного суб’єкта та України, на підставі рішення Кабінету Міністрів України або рішень Ради національної безпеки і оборони України, введених в дію в порядку, визначеному законом, а також закупівлі товарів, робіт і послуг у разі участі замовника на підставі рішення Кабінету Міністрів України в міжнародних виставкових заходах",
+    "description_en": "Procurement of legal services related to the protection of Ukraine's rights and interests, including for the purpose of protecting national security and defense, during the settlement of disputes over cases involving foreign entities and Ukraine in foreign courts, based on a decision of the Cabinet of Ministers of Ukraine or decisions of the National Security and Defense Council of Ukraine, enacted in accordance with the procedure established by law, as well as the procurement of goods, works, and services in the event of the customer's participation, based on a decision of the Cabinet of Ministers of Ukraine, in international exhibition events",
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
+    "scheme": "LAW922",
+    "archive": false
+  },
+  "artContestIP": {
+    "title_uk": "Пункт 1 частини 2 статті 35",
+    "title_en": "Clause 1, Part 2, Article 35",
+    "description_uk": "Закупівля творів мистецтва або закупівля, пов’язана із захистом прав інтелектуальної власності, або укладення договору про закупівлю з переможцем архітектурного чи мистецького конкурсу",
+    "description_en": "Procurement of works of art or procurement related to the protection of intellectual property rights, or conclusion of a procurement contract with the winner of an architectural or artistic competition",
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20191201#n548",
+    "scheme": "LAW922",
+    "archive": true
+  },
+  "artPurchase": {
+    "title_uk": "Абзац 2 пункту 2 частини 2 статті 40",
+    "title_en": "Paragraph 2, Clause 2, Part 2, Article 40",
+    "description_uk": "Предмет закупівлі полягає у створенні або придбанні витвору мистецтва або художнього виконання",
+    "description_en": "The subject of the procurement is the creation or acquisition of a work of art or artistic performance",
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
+    "scheme": "LAW922",
+    "archive": false
+  },
+  "contestWinner": {
+    "title_uk": "Абзац 3 пункту 2 частини 2 статті 40",
+    "title_en": "Paragraph 3, Clause 2, Part 2, Article 40",
+    "description_uk": "Укладення договору про закупівлю з переможцем архітектурного або мистецького конкурсу",
+    "description_en": "Conclusion of a procurement contract with the winner of an architectural or art competition",
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
+    "scheme": "LAW922",
+    "archive": false
+  },
+  "technicalReasons": {
+    "title_uk": "Абзац 4 пункту 2 частини 2 статті 40",
+    "title_en": "Paragraph 4, Clause 2, Part 2, Article 40",
+    "description_uk": "Відсутність конкуренції з технічних причин, яка має бути документально підтверджена замовником",
+    "description_en": "Absence of competition for technical reasons, which must be documented by the customer",
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
+    "scheme": "LAW922",
+    "archive": false
+  },
+  "intProperty": {
+    "title_uk": "Абзац 5 пункту 2 частини 2 статті 40",
+    "title_en": "Paragraph 5, Clause 2, Part 2, Article 40",
+    "description_uk": "Існує необхідність захисту прав інтелектуальної власності",
+    "description_en": "There is a need to protect intellectual property rights",
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
+    "scheme": "LAW922",
+    "archive": false
+  },
+  "lastHope": {
+    "title_uk": "Абзац 6 пункту 2 частини 2 статті 40",
+    "title_en": "Paragraph 6, subparagraph 2, paragraph 2, Article 40",
+    "description_uk": "Укладення договору про закупівлю з постачальником \"останньої надії\" на постачання електричної енергії або природного газу",
+    "description_en": "Conclusion of a purchase agreement with a supplier of \"last resort\" for the supply of electricity or natural gas",
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
+    "scheme": "LAW922",
+    "archive": false
+  }
+}
