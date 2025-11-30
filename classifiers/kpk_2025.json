@@ -2873,6 +2873,23 @@
     "inputbase": "Розпис"
   },
   {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "1202000",
+    "level": 2,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1200000",
+    "actyvPr": 0,
+    "name": "Державна служба геології та надр України",
+    "dateto": "2025-12-31",
+    "details": 0,
+    "comment": null,
+    "datefrom": "2025-11-28",
+    "id": 2785,
+    "inputbase": "Розпис"
+  },
+  {
     "idFkv": 339,
     "programType": 1,
     "code": "1202010",
@@ -2888,6 +2905,23 @@
     "datefrom": "2025-09-22",
     "id": 2678,
     "inputbase": "Розпис"
+  },
+  {
+    "idFkv": 380,
+    "programType": 1,
+    "code": "1202010",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1202000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління у сфері геологічного вивчення та використання надр",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-11-28",
+    "id": 2786,
+    "inputbase": "Закон"
   },
   {
     "idFkv": 339,
