@@ -1,0 +1,120 @@
+{
+  "belowThreshold": [
+    "authority",
+    "social",
+    "central",
+    "general",
+    "defense",
+    "other",
+    "special"
+  ],
+  "aboveThreshold": [
+    "authority",
+    "social",
+    "central",
+    "general",
+    "defense",
+    "special"
+  ],
+  "aboveThresholdUA": [
+    "authority",
+    "social",
+    "central",
+    "general",
+    "defense",
+    "special"
+  ],
+  "aboveThresholdEU": [
+    "authority",
+    "social",
+    "central",
+    "general",
+    "defense",
+    "special"
+  ],
+  "competitiveDialogueUA": [
+    "authority",
+    "social",
+    "central",
+    "general",
+    "defense",
+    "special"
+  ],
+  "competitiveDialogueEU": [
+    "authority",
+    "social",
+    "central",
+    "general",
+    "defense",
+    "special"
+  ],
+  "esco": [
+    "authority",
+    "social",
+    "central",
+    "general",
+    "defense",
+    "other",
+    "special"
+  ],
+  "closeFrameworkAgreementUA": [
+    "authority",
+    "social",
+    "central",
+    "general",
+    "defense",
+    "special"
+  ],
+  "closeFrameworkAgreementSelectionUA": [
+    "authority",
+    "social",
+    "central",
+    "general",
+    "defense",
+    "special"
+  ],
+  "competitiveDialogueUA.stage2": [
+    "authority",
+    "social",
+    "central",
+    "general",
+    "defense",
+    "special"
+  ],
+  "competitiveDialogueEU.stage2": [
+    "authority",
+    "social",
+    "central",
+    "general",
+    "defense",
+    "special"
+  ],
+  "competitiveOrdering": [
+    "authority",
+    "social",
+    "central",
+    "general",
+    "defense",
+    "special"
+  ],
+  "priceQuotation": [
+    "authority",
+    "social",
+    "general",
+    "defense",
+    "other",
+    "special"
+  ],
+  "reporting": [
+    "authority",
+    "social",
+    "central",
+    "general",
+    "defense",
+    "other",
+    "special"
+  ],
+  "requestForProposal": [
+    "other"
+  ]
+}
