@@ -856,16 +856,17 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "0301000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Реалізація публічних інвестиційних проектів  Державного управління справами у сфері охорони здоров'я",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
     "id": 2307,
     "inputbase": "Закон",
     "years": [
-      2025
+      2025,
+      2026
     ]
   },
   {
@@ -1283,7 +1284,7 @@
     "parentCode": "0411000",
     "actyvPr": 0,
     "name": "Забезпечення функціонування офісу із залучення та підтримки інвестицій",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2019-01-01",
@@ -1505,7 +1506,7 @@
     "parentCode": "0411000",
     "actyvPr": 0,
     "name": "Забезпечення функціонування державної установи \"Офіс перекладів\"",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -2142,9 +2143,9 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "0410000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Державна служба з питань праці",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 0,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -2182,9 +2183,9 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "0416000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Керівництво та управління у сфері промислової безпеки, охорони та гігієни праці, нагляду за додержанням законодавства про працю",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -2202,9 +2203,9 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "0416000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Наукова і науково-технічна діяльність у сфері промислової безпеки та охорони праці",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -2275,6 +2276,26 @@
     ]
   },
   {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "0417000",
+    "level": 2,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "0410000",
+    "actyvPr": 0,
+    "name": "Державна служба України з питань геодезії, картографії та кадастру",
+    "dateto": "2025-12-31",
+    "details": 0,
+    "comment": null,
+    "datefrom": "2025-11-26",
+    "id": 2780,
+    "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
     "idFkv": 304,
     "programType": 1,
     "code": "0417010",
@@ -2317,6 +2338,26 @@
   {
     "idFkv": 339,
     "programType": 1,
+    "code": "0417010",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "0417000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління у сфері геодезії, картографії та кадастру",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-11-26",
+    "id": 2783,
+    "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "idFkv": 339,
+    "programType": 1,
     "code": "0417020",
     "level": 3,
     "isactive": 0,
@@ -2332,6 +2373,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "0417020",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "0417000",
+    "actyvPr": 0,
+    "name": "Проведення земельної реформи",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-11-26",
+    "id": 2781,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -2352,6 +2413,46 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 336,
+    "programType": 1,
+    "code": "0417030",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "0417000",
+    "actyvPr": 0,
+    "name": "Загальнодержавні топографо-геодезичні та картографічні роботи, демаркація та делімітація державного кордону",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-11-26",
+    "id": 2784,
+    "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "0417620",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "0417000",
+    "actyvPr": 0,
+    "name": "Проведення інвентаризації земель та оновлення картографічної основи Державного земельного кадастру",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-11-26",
+    "id": 2782,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -6532,6 +6633,26 @@
   },
   {
     "idFkv": 0,
+    "programType": 1,
+    "code": "1200000",
+    "level": 1,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": null,
+    "actyvPr": 1,
+    "name": "Міністерство економіки, довкілля та сільського господарства України",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2555,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 0,
     "programType": 0,
     "code": "1200000",
     "level": 1,
@@ -6552,26 +6673,6 @@
       2023,
       2024,
       2025
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 1,
-    "code": "1200000",
-    "level": 1,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": null,
-    "actyvPr": 1,
-    "name": "Міністерство економіки, довкілля та сільського господарства України",
-    "dateto": null,
-    "details": 0,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2555,
-    "inputbase": "Закон",
-    "years": [
-      2026
     ]
   },
   {
@@ -6597,6 +6698,26 @@
   },
   {
     "idFkv": 0,
+    "programType": 0,
+    "code": "1201000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1200000",
+    "actyvPr": 1,
+    "name": "Апарат Міністерства економіки, довкілля та сільського господарства України",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2556,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 0,
     "programType": 1,
     "code": "1201000",
     "level": 2,
@@ -6617,26 +6738,6 @@
       2023,
       2024,
       2025
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "1201000",
-    "level": 2,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "1200000",
-    "actyvPr": 1,
-    "name": "Апарат Міністерства економіки, довкілля та сільського господарства України",
-    "dateto": null,
-    "details": 0,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2556,
-    "inputbase": "Закон",
-    "years": [
-      2026
     ]
   },
   {
@@ -6685,6 +6786,26 @@
     "programType": 1,
     "code": "1201010",
     "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Керівництво та управління у сфері економіки, довкілля та сільського господарства",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2557,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 309,
+    "programType": 1,
+    "code": "1201010",
+    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "1201000",
@@ -6701,26 +6822,6 @@
       2023,
       2024,
       2025
-    ]
-  },
-  {
-    "idFkv": 309,
-    "programType": 1,
-    "code": "1201010",
-    "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "1201000",
-    "actyvPr": 1,
-    "name": "Керівництво та управління у сфері економіки, довкілля та сільського господарства",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2557,
-    "inputbase": "Закон",
-    "years": [
-      2026
     ]
   },
   {
@@ -6840,7 +6941,7 @@
     "parentCode": "1201000",
     "actyvPr": 0,
     "name": "Наукова і науково-технічна діяльність у сфері захисту довкілля та природних ресурсів",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -6916,26 +7017,6 @@
     "programType": 1,
     "code": "1201050",
     "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "1201000",
-    "actyvPr": 0,
-    "name": "Наукова і науково-технічна діяльність у сфері розвитку агропромислового комплексу, стандартизації та сертифікації сільськогосподарської продукції",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2609,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 518,
-    "programType": 1,
-    "code": "1201050",
-    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "1201000",
@@ -6949,6 +7030,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 518,
+    "programType": 1,
+    "code": "1201050",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 0,
+    "name": "Наукова і науково-технічна діяльність у сфері розвитку агропромислового комплексу, стандартизації та сертифікації сільськогосподарської продукції",
+    "dateto": "2026-01-01",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2609,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -7168,26 +7269,6 @@
     "programType": 1,
     "code": "1201110",
     "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "1201000",
-    "actyvPr": 1,
-    "name": "Витрати Аграрного фонду пов'язані з комплексом заходів із  зберігання, перевезення, переробки та експортом об'єктів державного цінового регулювання державного інтервенційного фонду",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2610,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 339,
-    "programType": 1,
-    "code": "1201110",
-    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "1201000",
@@ -7201,6 +7282,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "1201110",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Витрати Аграрного фонду пов'язані з комплексом заходів із  зберігання, перевезення, переробки та експортом об'єктів державного цінового регулювання державного інтервенційного фонду",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2610,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -7251,9 +7352,9 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1201000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Збереження природно-заповідного фонду та здійснення природоохоронних заходів",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -7281,6 +7382,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 378,
+    "programType": 1,
+    "code": "1201120",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Збереження природно-заповідного фонду",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2773,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -8398,7 +8519,7 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1201000",
-    "actyvPr": 0,
+    "actyvPr": 1,
     "name": "Здійснення природоохоронних заходів, зокрема з покращення стану довкілля",
     "dateto": null,
     "details": 1,
@@ -8431,27 +8552,6 @@
     ]
   },
   {
-    "idFkv": 445,
-    "programType": 1,
-    "code": "1201380",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1201000",
-    "actyvPr": 0,
-    "name": "Реалізація приватним акціонерним товариством «Українська фінансова житлова компанія» житлової політики держави шляхом забезпечення громадян України житлом",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2024-01-01",
-    "id": 1940,
-    "inputbase": "Закон",
-    "years": [
-      2024,
-      2025
-    ]
-  },
-  {
     "idFkv": 310,
     "programType": 1,
     "code": "1201380",
@@ -8469,6 +8569,27 @@
     "inputbase": "Розпис",
     "years": [
       2019
+    ]
+  },
+  {
+    "idFkv": 445,
+    "programType": 1,
+    "code": "1201380",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Реалізація приватним акціонерним товариством «Українська фінансова житлова компанія» житлової політики держави шляхом забезпечення громадян України житлом",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2024-01-01",
+    "id": 1940,
+    "inputbase": "Закон",
+    "years": [
+      2024,
+      2025
     ]
   },
   {
@@ -8778,26 +8899,6 @@
     "programType": 1,
     "code": "1201460",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1201000",
-    "actyvPr": 0,
-    "name": "Забезпечення діяльності Національної комісії з радіаційного захисту населення України",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-09-22",
-    "id": 2675,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 380,
-    "programType": 1,
-    "code": "1201460",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1201000",
@@ -8811,6 +8912,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 380,
+    "programType": 1,
+    "code": "1201460",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 0,
+    "name": "Забезпечення діяльності Національної комісії з радіаційного захисту населення України",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-09-22",
+    "id": 2675,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -8854,6 +8975,26 @@
     ]
   },
   {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "1201480",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 0,
+    "name": "Організація і регулювання діяльності установ в системі агропромислового комплексу",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-09-22",
+    "id": 2692,
+    "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
     "idFkv": 348,
     "programType": 1,
     "code": "1201480",
@@ -8872,26 +9013,6 @@
     "years": [
       2019,
       2020
-    ]
-  },
-  {
-    "idFkv": 339,
-    "programType": 1,
-    "code": "1201480",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1201000",
-    "actyvPr": 0,
-    "name": "Організація і регулювання діяльності установ в системі агропромислового комплексу",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-09-22",
-    "id": 2692,
-    "inputbase": "Розпис",
-    "years": [
-      2025
     ]
   },
   {
@@ -9298,9 +9419,9 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1200000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Державна служба України з питань геодезії, картографії та кадастру",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 0,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -9325,6 +9446,46 @@
     "comment": null,
     "datefrom": "2025-09-22",
     "id": 2677,
+    "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 1,
+    "code": "1202000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1200000",
+    "actyvPr": 1,
+    "name": "Державна служба геології та надр України",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2758,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "1202000",
+    "level": 2,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1200000",
+    "actyvPr": 0,
+    "name": "Державна служба геології та надр України",
+    "dateto": "2025-12-31",
+    "details": 0,
+    "comment": null,
+    "datefrom": "2025-11-28",
+    "id": 2785,
     "inputbase": "Розпис",
     "years": [
       2025
@@ -9360,9 +9521,9 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1202000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Керівництво та управління у сфері геодезії, картографії та кадастру",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -9388,6 +9549,46 @@
     "datefrom": "2025-09-22",
     "id": 2678,
     "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "idFkv": 380,
+    "programType": 1,
+    "code": "1202010",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1202000",
+    "actyvPr": 1,
+    "name": "Керівництво та управління у сфері геологічного вивчення та використання надр",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2759,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 380,
+    "programType": 1,
+    "code": "1202010",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1202000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління у сфері геологічного вивчення та використання надр",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-11-28",
+    "id": 2786,
+    "inputbase": "Закон",
     "years": [
       2025
     ]
@@ -9422,9 +9623,9 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1202000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Проведення земельної реформи",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -9484,13 +9685,33 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1202000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Загальнодержавні топографо-геодезичні та картографічні роботи, демаркація та делімітація державного кордону",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
     "id": 2597,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 351,
+    "programType": 1,
+    "code": "1202040",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1202000",
+    "actyvPr": 1,
+    "name": "Розвиток мінерально-сировинної бази України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2760,
     "inputbase": "Закон",
     "years": [
       2026
@@ -9521,6 +9742,26 @@
     "programType": 1,
     "code": "1202620",
     "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1202000",
+    "actyvPr": 0,
+    "name": "Проведення інвентаризації земель та оновлення картографічної основи Державного земельного кадастру",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-09-22",
+    "id": 2698,
+    "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "1202620",
+    "level": 3,
     "isactive": 0,
     "outputbase": "2022",
     "parentCode": "1202000",
@@ -9535,26 +9776,6 @@
     "years": [
       2020,
       2021
-    ]
-  },
-  {
-    "idFkv": 339,
-    "programType": 1,
-    "code": "1202620",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1202000",
-    "actyvPr": 0,
-    "name": "Проведення інвентаризації земель та оновлення картографічної основи Державного земельного кадастру",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-09-22",
-    "id": 2698,
-    "inputbase": "Розпис",
-    "years": [
-      2025
     ]
   },
   {
@@ -9701,26 +9922,6 @@
   },
   {
     "idFkv": 0,
-    "programType": 0,
-    "code": "1204000",
-    "level": 2,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1200000",
-    "actyvPr": 0,
-    "name": "Державна екологічна інспекція України",
-    "dateto": "2025-12-31",
-    "details": 0,
-    "comment": null,
-    "datefrom": "2025-09-22",
-    "id": 2679,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 0,
     "programType": 1,
     "code": "1204000",
     "level": 2,
@@ -9740,20 +9941,20 @@
     ]
   },
   {
-    "idFkv": 380,
-    "programType": 1,
-    "code": "1204010",
-    "level": 3,
+    "idFkv": 0,
+    "programType": 0,
+    "code": "1204000",
+    "level": 2,
     "isactive": 1,
     "outputbase": null,
-    "parentCode": "1204000",
+    "parentCode": "1200000",
     "actyvPr": 0,
-    "name": "Керівництво та управління у сфері екологічного контролю",
+    "name": "Державна екологічна інспекція України",
     "dateto": "2025-12-31",
-    "details": 1,
+    "details": 0,
     "comment": null,
     "datefrom": "2025-09-22",
-    "id": 2680,
+    "id": 2679,
     "inputbase": "Розпис",
     "years": [
       2025
@@ -9780,20 +9981,20 @@
     ]
   },
   {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "1205000",
-    "level": 2,
+    "idFkv": 380,
+    "programType": 1,
+    "code": "1204010",
+    "level": 3,
     "isactive": 1,
     "outputbase": null,
-    "parentCode": "1200000",
+    "parentCode": "1204000",
     "actyvPr": 0,
-    "name": "Державне агентство водних ресурсів України",
+    "name": "Керівництво та управління у сфері екологічного контролю",
     "dateto": "2025-12-31",
-    "details": 0,
+    "details": 1,
     "comment": null,
     "datefrom": "2025-09-22",
-    "id": 2681,
+    "id": 2680,
     "inputbase": "Розпис",
     "years": [
       2025
@@ -9820,20 +10021,20 @@
     ]
   },
   {
-    "idFkv": 380,
-    "programType": 1,
-    "code": "1205010",
-    "level": 3,
+    "idFkv": 0,
+    "programType": 0,
+    "code": "1205000",
+    "level": 2,
     "isactive": 1,
     "outputbase": null,
-    "parentCode": "1205000",
+    "parentCode": "1200000",
     "actyvPr": 0,
-    "name": "Керівництво та управління у сфері водного господарства",
+    "name": "Державне агентство водних ресурсів України",
     "dateto": "2025-12-31",
-    "details": 1,
+    "details": 0,
     "comment": null,
     "datefrom": "2025-09-22",
-    "id": 2683,
+    "id": 2681,
     "inputbase": "Розпис",
     "years": [
       2025
@@ -9860,6 +10061,26 @@
     ]
   },
   {
+    "idFkv": 380,
+    "programType": 1,
+    "code": "1205010",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1205000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління у сфері водного господарства",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-09-22",
+    "id": 2683,
+    "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
     "idFkv": 375,
     "programType": 1,
     "code": "1205050",
@@ -9867,9 +10088,9 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1205000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Розвиток водного господарства та експлуатація державного водогосподарського комплексу",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -9902,13 +10123,33 @@
   {
     "idFkv": 375,
     "programType": 1,
+    "code": "1205050",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1205000",
+    "actyvPr": 1,
+    "name": "Експлуатація державного водогосподарського комплексу та управління водними ресурсами",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2763,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 375,
+    "programType": 1,
     "code": "1205070",
     "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1205000",
-    "actyvPr": 0,
-    "name": "Захист від шкідливої дії вод сільських населених пунктів та сільськогосподарських угідь, в тому числі в басейні р. Тиса у Закарпатській області",
+    "actyvPr": 1,
+    "name": "Захист від шкідливої дії вод сільських населених пунктів і сільськогосподарських угідь та першочергове забезпечення сільських населених пунктів централізованим водопостачанням",
     "dateto": null,
     "details": 1,
     "comment": null,
@@ -9949,7 +10190,7 @@
     "parentCode": "1205000",
     "actyvPr": 0,
     "name": "Першочергове забезпечення сільських населених пунктів централізованим водопостачанням",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -9987,9 +10228,9 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1200000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Державна служба геології та надр України",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 0,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -10025,6 +10266,26 @@
     ]
   },
   {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "1206000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1200000",
+    "actyvPr": 1,
+    "name": "Державна служба з питань праці",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2755,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 380,
     "programType": 1,
     "code": "1206010",
@@ -10032,9 +10293,9 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1206000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Керівництво та управління у сфері геологічного вивчення та використання надр",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -10070,6 +10331,26 @@
     ]
   },
   {
+    "idFkv": 337,
+    "programType": 1,
+    "code": "1206010",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1206000",
+    "actyvPr": 1,
+    "name": "Керівництво та управління у сфері промислової безпеки, охорони та гігієни праці, нагляду за додержанням законодавства про працю",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2756,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 517,
     "programType": 1,
     "code": "1206020",
@@ -10095,6 +10376,26 @@
     ]
   },
   {
+    "idFkv": 517,
+    "programType": 1,
+    "code": "1206020",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1206000",
+    "actyvPr": 1,
+    "name": "Наукова і науково-технічна діяльність у сфері промислової безпеки та охорони праці",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2757,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 351,
     "programType": 1,
     "code": "1206040",
@@ -10102,9 +10403,9 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1206000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Розвиток мінерально-сировинної бази України",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -10139,26 +10440,6 @@
     "programType": 0,
     "code": "1207000",
     "level": 2,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1200000",
-    "actyvPr": 0,
-    "name": "Державне агентство України з розвитку меліорації, рибного господарства та продовольчих програм",
-    "dateto": "2025-12-31",
-    "details": 0,
-    "comment": null,
-    "datefrom": "2025-09-22",
-    "id": 2682,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "1207000",
-    "level": 2,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1200000",
@@ -10172,6 +10453,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "1207000",
+    "level": 2,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1200000",
+    "actyvPr": 0,
+    "name": "Державне агентство України з розвитку меліорації, рибного господарства та продовольчих програм",
+    "dateto": "2025-12-31",
+    "details": 0,
+    "comment": null,
+    "datefrom": "2025-09-22",
+    "id": 2682,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -10199,26 +10500,6 @@
     "programType": 1,
     "code": "1207010",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1207000",
-    "actyvPr": 0,
-    "name": "Керівництво та управління у сфері розвитку меліорації, рибного господарства та продовольчих програм",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-09-22",
-    "id": 2684,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 341,
-    "programType": 1,
-    "code": "1207010",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1207000",
@@ -10232,6 +10513,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 341,
+    "programType": 1,
+    "code": "1207010",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1207000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління у сфері розвитку меліорації, рибного господарства та продовольчих програм",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-09-22",
+    "id": 2684,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -10262,9 +10563,9 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1207000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Діяльність у сфері рибного господарства та експлуатація водогосподарсько-меліоративного комплексу",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -10292,6 +10593,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 341,
+    "programType": 1,
+    "code": "1207020",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1207000",
+    "actyvPr": 1,
+    "name": "Діяльність у сфері рибного господарства",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2770,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -10375,6 +10696,26 @@
     ]
   },
   {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "1207050",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1207000",
+    "actyvPr": 1,
+    "name": "Експлуатація державних водогосподарсько-меліоративних комплексів і будівництво та реконструкція меліоративних систем",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2771,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 433,
     "programType": 1,
     "code": "1207090",
@@ -10424,7 +10765,7 @@
     "parentCode": "1207000",
     "actyvPr": 0,
     "name": "Експлуатація державного водогосподарсько-меліоративного комплексу",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -10464,7 +10805,7 @@
     "parentCode": "1207000",
     "actyvPr": 0,
     "name": "Заходи із вселення водних біоресурсів у рибогосподарські водні об’єкти (їх частини)",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -10790,26 +11131,6 @@
     "programType": 0,
     "code": "1210000",
     "level": 1,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": null,
-    "actyvPr": 1,
-    "name": "Міністерство економіки, довкілля та сільського господарства України (загальнодержавні видатки та кредитування)",
-    "dateto": null,
-    "details": 0,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2605,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "1210000",
-    "level": 1,
     "isactive": 1,
     "outputbase": null,
     "parentCode": null,
@@ -10831,18 +11152,18 @@
   {
     "idFkv": 0,
     "programType": 0,
-    "code": "1211000",
-    "level": 2,
+    "code": "1210000",
+    "level": 1,
     "isactive": 0,
     "outputbase": null,
-    "parentCode": "1210000",
+    "parentCode": null,
     "actyvPr": 1,
     "name": "Міністерство економіки, довкілля та сільського господарства України (загальнодержавні видатки та кредитування)",
     "dateto": null,
     "details": 0,
     "comment": null,
     "datefrom": "2026-01-01",
-    "id": 2606,
+    "id": 2605,
     "inputbase": "Закон",
     "years": [
       2026
@@ -10877,6 +11198,26 @@
     "code": "1211000",
     "level": 2,
     "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1210000",
+    "actyvPr": 1,
+    "name": "Міністерство економіки, довкілля та сільського господарства України (загальнодержавні видатки та кредитування)",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2606,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "1211000",
+    "level": 2,
+    "isactive": 0,
     "outputbase": "2022",
     "parentCode": "1210000",
     "actyvPr": 0,
@@ -10891,26 +11232,6 @@
       2019,
       2020,
       2021
-    ]
-  },
-  {
-    "idFkv": 320,
-    "programType": 1,
-    "code": "1211050",
-    "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "1211000",
-    "actyvPr": 1,
-    "name": "Мобілізаційна підготовка галузей національної економіки України",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2607,
-    "inputbase": "Закон",
-    "years": [
-      2026
     ]
   },
   {
@@ -10937,6 +11258,26 @@
       2023,
       2024,
       2025
+    ]
+  },
+  {
+    "idFkv": 320,
+    "programType": 1,
+    "code": "1211050",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1211000",
+    "actyvPr": 1,
+    "name": "Мобілізаційна підготовка галузей національної економіки України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2607,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -12034,26 +12375,6 @@
     ]
   },
   {
-    "idFkv": 327,
-    "programType": 1,
-    "code": "1501700",
-    "level": 3,
-    "isactive": 0,
-    "outputbase": "2020",
-    "parentCode": "1501000",
-    "actyvPr": 0,
-    "name": "Надання одноразової грошової допомоги членам сімей осіб, які загинули (померли) під час участі в антитерористичній операції, та особам, які стали особами з інвалідністю внаслідок поранення, контузії, каліцтва або захворювання, одержаних під час участі в зазначеній операції",
-    "dateto": "2019-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2019-01-01",
-    "id": 211,
-    "inputbase": "Розпис",
-    "years": [
-      2019
-    ]
-  },
-  {
     "idFkv": 448,
     "programType": 1,
     "code": "1501700",
@@ -12071,6 +12392,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 327,
+    "programType": 1,
+    "code": "1501700",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": "2020",
+    "parentCode": "1501000",
+    "actyvPr": 0,
+    "name": "Надання одноразової грошової допомоги членам сімей осіб, які загинули (померли) під час участі в антитерористичній операції, та особам, які стали особами з інвалідністю внаслідок поранення, контузії, каліцтва або захворювання, одержаних під час участі в зазначеній операції",
+    "dateto": "2019-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2019-01-01",
+    "id": 211,
+    "inputbase": "Розпис",
+    "years": [
+      2019
     ]
   },
   {
@@ -12424,7 +12765,7 @@
     "parentCode": "1511000",
     "actyvPr": 0,
     "name": "Субвенція з державного бюджету місцевим бюджетам на реалізацію публічного інвестиційного проекту із виплати грошової компенсації за належні для отримання жилі приміщення для сімей осіб, визначених пунктами 2–5 частини першої статті 10-1 Закону України \"Про статус ветеранів війни, гарантії їх соціального захисту\", для осіб з інвалідністю I–II групи, яка настала внаслідок поранення, контузії, каліцтва або захворювання, одержаних під час безпосередньої участі в антитерористичній операції, забезпеченні її проведення, здійсненні заходів із забезпечення національної безпеки і оборони, відсічі і стримування збройної агресії Російської Федерації у Донецькій та Луганській областях, забезпеченні їх здійснення, у заходах, необхідних для забезпечення оборони України, захисту безпеки населення та інтересів держави у зв'язку з військовою агресією Російської Федерації проти України, визначених пунктами 11–14 частини другої статті 7 Закону України \"Про статус ветеранів війни, гарантії їх соціального захисту\", та які потребують поліпшення житлових умов",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
@@ -13700,26 +14041,6 @@
     "programType": 1,
     "code": "2101480",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2101000",
-    "actyvPr": 0,
-    "name": "Надання державної фінансової підтримки підприємствам у сфері оборонно-промислового комплексу",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-10-16",
-    "id": 2717,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 372,
-    "programType": 1,
-    "code": "2101480",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "2101000",
@@ -13733,6 +14054,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "2101480",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2101000",
+    "actyvPr": 0,
+    "name": "Надання державної фінансової підтримки підприємствам у сфері оборонно-промислового комплексу",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-10-16",
+    "id": 2717,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -13805,7 +14146,7 @@
     "parentCode": "2101000",
     "actyvPr": 0,
     "name": "Здійснення заходів з реформування та розвитку оборонно-промислового комплексу, розроблення, освоєння і впровадження нових технологій, нарощування наявних виробничих потужностей для виготовлення продукції оборонного призначення, закупівлі озброєння, військової (спеціальної) техніки, засобів та обладнання",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-07-31",
@@ -14597,26 +14938,6 @@
     "programType": 1,
     "code": "2201120",
     "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "2201000",
-    "actyvPr": 1,
-    "name": "Забезпечення діяльності Національного центру «Мала академія наук України», Національного еколого-натуралістичного центру учнівської молоді, заходи з позашкільної роботи, проведення всеукраїнських та міжнародних олімпіад у сфері освіти",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2639,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 435,
-    "programType": 1,
-    "code": "2201120",
-    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2201000",
@@ -14631,6 +14952,26 @@
     "years": [
       2024,
       2025
+    ]
+  },
+  {
+    "idFkv": 435,
+    "programType": 1,
+    "code": "2201120",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2201000",
+    "actyvPr": 1,
+    "name": "Забезпечення діяльності Національного центру «Мала академія наук України», Національного еколого-натуралістичного центру учнівської молоді, заходи з позашкільної роботи, проведення всеукраїнських та міжнародних олімпіад у сфері освіти",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2639,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -16407,9 +16748,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2211000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Субвенція з державного бюджету місцевим бюджетам на забезпечення якісної, сучасної та доступної загальної середньої освіти «Нова українська школа»",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2024-01-01",
@@ -16417,7 +16758,8 @@
     "inputbase": "Закон",
     "years": [
       2024,
-      2025
+      2025,
+      2026
     ]
   },
   {
@@ -16734,7 +17076,7 @@
     "parentCode": "2211000",
     "actyvPr": 0,
     "name": "Субвенція з державного бюджету місцевим бюджетам на здійснення доплат педагогічним працівникам закладів загальної середньої освіти",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
@@ -16852,9 +17194,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2211000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Субвенція з державного бюджету місцевим бюджетам на реалізацію публічного інвестиційного проекту на облаштування безпечних умов у закладах, що надають загальну середню освіту (облаштування укриттів), зокрема військових (військово-морських, військово-спортивних) ліцеях, ліцеях із посиленою військово-фізичною підготовкою",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
@@ -16862,6 +17204,26 @@
     "inputbase": "Закон",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
+    "code": "2211810",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2211000",
+    "actyvPr": 1,
+    "name": "Субвенція з державного бюджету місцевим бюджетам на реалізацію публічного інвестиційного проекту на облаштування безпечних умов (облаштування укриттів) у закладах, що надають загальну середню освіту, зокрема військових (військово-морських, військово-спортивних) ліцеях, ліцеях із посиленою військово-фізичною підготовкою та у закладах дошкільної освіти",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2776,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -16954,7 +17316,7 @@
     "parentCode": "2211000",
     "actyvPr": 0,
     "name": "Субвенція з державного бюджету місцевим бюджетам на реалізацію публічного інвестиційного проекту на модернізацію та оновлення матеріально-технічної бази військових (військово-морських, військово-спортивних) ліцеїв, ліцеїв з посиленою військово-фізичною підготовкою",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-08-20",
@@ -17161,11 +17523,31 @@
     "parentCode": "2301000",
     "actyvPr": 1,
     "name": "Скринінг здоров’я для громадян з підвищеним ризиком розвитку захворювань",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
     "id": 2634,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 404,
+    "programType": 1,
+    "code": "2301050",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2301000",
+    "actyvPr": 1,
+    "name": "Скринінг здоров’я з метою запобігання захворюванням",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2765,
     "inputbase": "Закон",
     "years": [
       2026
@@ -18113,9 +18495,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2301000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Здійснення заходів із забезпечення житлом медичних працівників з метою заповнення вакантних посад у сільській місцевості",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
@@ -18123,6 +18505,26 @@
     "inputbase": "Закон",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 404,
+    "programType": 1,
+    "code": "2301430",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2301000",
+    "actyvPr": 1,
+    "name": "Здійснення заходів із забезпечення житлом медичних працівників з метою заповнення вакантних посад у сільській місцевості та на прифронтових територіях",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2764,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -18278,7 +18680,7 @@
     "parentCode": "2301000",
     "actyvPr": 0,
     "name": "Поліпшення охорони здоров'я на службі у людей",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2019-01-01",
@@ -18402,26 +18804,6 @@
     "programType": 1,
     "code": "2301700",
     "level": 3,
-    "isactive": 0,
-    "outputbase": "2023",
-    "parentCode": "2301000",
-    "actyvPr": 0,
-    "name": "Надання компенсації закладам освіти, що належать до сфери управління Міністерства охорони здоров'я України, у приміщеннях (будівлях) яких в умовах воєнного стану на безоплатній основі розміщувалися тимчасово переміщені особи",
-    "dateto": "2022-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2022-01-01",
-    "id": 1587,
-    "inputbase": "Розпис",
-    "years": [
-      2022
-    ]
-  },
-  {
-    "idFkv": 543,
-    "programType": 1,
-    "code": "2301700",
-    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2301000",
@@ -18435,6 +18817,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 543,
+    "programType": 1,
+    "code": "2301700",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": "2023",
+    "parentCode": "2301000",
+    "actyvPr": 0,
+    "name": "Надання компенсації закладам освіти, що належать до сфери управління Міністерства охорони здоров'я України, у приміщеннях (будівлях) яких в умовах воєнного стану на безоплатній основі розміщувалися тимчасово переміщені особи",
+    "dateto": "2022-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2022-01-01",
+    "id": 1587,
+    "inputbase": "Розпис",
+    "years": [
+      2022
     ]
   },
   {
@@ -18505,9 +18907,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2301000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Реалізація публічних інвестиційних проектів Міністерства охорони здоров'я України",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
@@ -18515,6 +18917,26 @@
     "inputbase": "Закон",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 404,
+    "programType": 1,
+    "code": "2301800",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2301000",
+    "actyvPr": 1,
+    "name": "Реалізація публічних інвестиційних проектів у сфері охорони здоров’я",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2761,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -20611,6 +21033,46 @@
   {
     "idFkv": 345,
     "programType": 2,
+    "code": "2401650",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2401000",
+    "actyvPr": 1,
+    "name": "Будівництво ПЛ 750 кВ Рівненська АЕС - Київська",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2777,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 345,
+    "programType": 1,
+    "code": "2401660",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2401000",
+    "actyvPr": 1,
+    "name": "Підтримка критичнонеобхідної розподіленої генерації АТ “Укрнафта”",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2772,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 345,
+    "programType": 2,
     "code": "2401670",
     "level": 3,
     "isactive": 0,
@@ -20636,7 +21098,7 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2401000",
-    "actyvPr": 0,
+    "actyvPr": 1,
     "name": "Будівництво повітряної лінії 750 кВ Запорізька - Каховська",
     "dateto": null,
     "details": 1,
@@ -20821,26 +21283,6 @@
     "programType": 1,
     "code": "2401700",
     "level": 3,
-    "isactive": 0,
-    "outputbase": "2023",
-    "parentCode": "2401000",
-    "actyvPr": 0,
-    "name": "Компенсація закладам, підприємствам, установам та організаціям державної форми власності, у приміщеннях (будівлях) яких в умовах воєнного стану на безоплатній основі розміщувалися тимчасово переміщені особи",
-    "dateto": "2022-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2022-01-01",
-    "id": 1595,
-    "inputbase": "Закон",
-    "years": [
-      2022
-    ]
-  },
-  {
-    "idFkv": 343,
-    "programType": 1,
-    "code": "2401700",
-    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2401000",
@@ -20854,6 +21296,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 343,
+    "programType": 1,
+    "code": "2401700",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": "2023",
+    "parentCode": "2401000",
+    "actyvPr": 0,
+    "name": "Компенсація закладам, підприємствам, установам та організаціям державної форми власності, у приміщеннях (будівлях) яких в умовах воєнного стану на безоплатній основі розміщувалися тимчасово переміщені особи",
+    "dateto": "2022-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2022-01-01",
+    "id": 1595,
+    "inputbase": "Закон",
+    "years": [
+      2022
     ]
   },
   {
@@ -21559,26 +22021,6 @@
     "programType": 0,
     "code": "2408000",
     "level": 2,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2400000",
-    "actyvPr": 0,
-    "name": "Державне агентство України з управління зоною відчуження",
-    "dateto": "2025-12-31",
-    "details": 0,
-    "comment": null,
-    "datefrom": "2025-09-23",
-    "id": 2661,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "2408000",
-    "level": 2,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "2400000",
@@ -21592,6 +22034,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "2408000",
+    "level": 2,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2400000",
+    "actyvPr": 0,
+    "name": "Державне агентство України з управління зоною відчуження",
+    "dateto": "2025-12-31",
+    "details": 0,
+    "comment": null,
+    "datefrom": "2025-09-23",
+    "id": 2661,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -21620,26 +22082,6 @@
     "programType": 1,
     "code": "2408010",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2408000",
-    "actyvPr": 0,
-    "name": "Керівництво та управління діяльністю у зоні відчуження",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-09-23",
-    "id": 2662,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 377,
-    "programType": 1,
-    "code": "2408010",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "2408000",
@@ -21653,6 +22095,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 377,
+    "programType": 1,
+    "code": "2408010",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2408000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління діяльністю у зоні відчуження",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-09-23",
+    "id": 2662,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -21681,26 +22143,6 @@
     "programType": 1,
     "code": "2408070",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2408000",
-    "actyvPr": 0,
-    "name": "Радіологічний захист населення та екологічне оздоровлення території, що зазнала радіоактивного забруднення",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-09-23",
-    "id": 2663,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 377,
-    "programType": 1,
-    "code": "2408070",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "2408000",
@@ -21714,6 +22156,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 377,
+    "programType": 1,
+    "code": "2408070",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2408000",
+    "actyvPr": 0,
+    "name": "Радіологічний захист населення та екологічне оздоровлення території, що зазнала радіоактивного забруднення",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-09-23",
+    "id": 2663,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -21742,26 +22204,6 @@
     "programType": 1,
     "code": "2408080",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2408000",
-    "actyvPr": 0,
-    "name": "Збереження етнокультурної спадщини регіонів, постраждалих від наслідків Чорнобильської катастрофи",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-09-23",
-    "id": 2664,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 524,
-    "programType": 1,
-    "code": "2408080",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "2408000",
@@ -21775,6 +22217,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 524,
+    "programType": 1,
+    "code": "2408080",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2408000",
+    "actyvPr": 0,
+    "name": "Збереження етнокультурної спадщини регіонів, постраждалих від наслідків Чорнобильської катастрофи",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-09-23",
+    "id": 2664,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -21803,26 +22265,6 @@
     "programType": 1,
     "code": "2408090",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2408000",
-    "actyvPr": 0,
-    "name": "Виконання робіт у сфері поводження з радіоактивними відходами неядерного циклу, будівництво комплексу \"Вектор\" та експлуатація його об'єктів",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-09-23",
-    "id": 2665,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 376,
-    "programType": 1,
-    "code": "2408090",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "2408000",
@@ -21836,6 +22278,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 376,
+    "programType": 1,
+    "code": "2408090",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2408000",
+    "actyvPr": 0,
+    "name": "Виконання робіт у сфері поводження з радіоактивними відходами неядерного циклу, будівництво комплексу \"Вектор\" та експлуатація його об'єктів",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-09-23",
+    "id": 2665,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -21864,26 +22326,6 @@
     "programType": 1,
     "code": "2408110",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2408000",
-    "actyvPr": 0,
-    "name": "Підтримка екологічно безпечного стану у зонах відчуження і безумовного (обов'язкового) відселення",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-09-23",
-    "id": 2666,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 377,
-    "programType": 1,
-    "code": "2408110",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "2408000",
@@ -21897,6 +22339,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 377,
+    "programType": 1,
+    "code": "2408110",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2408000",
+    "actyvPr": 0,
+    "name": "Підтримка екологічно безпечного стану у зонах відчуження і безумовного (обов'язкового) відселення",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-09-23",
+    "id": 2666,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -21925,26 +22387,6 @@
     "programType": 1,
     "code": "2408120",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2408000",
-    "actyvPr": 0,
-    "name": "Підтримка у безпечному стані  блоків та об'єкта \"Укриття\" та заходи щодо зняття з експлуатації Чорнобильської АЕС",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-09-23",
-    "id": 2667,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 377,
-    "programType": 1,
-    "code": "2408120",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "2408000",
@@ -21958,6 +22400,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 377,
+    "programType": 1,
+    "code": "2408120",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2408000",
+    "actyvPr": 0,
+    "name": "Підтримка у безпечному стані  блоків та об'єкта \"Укриття\" та заходи щодо зняття з експлуатації Чорнобильської АЕС",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-09-23",
+    "id": 2667,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -22192,32 +22654,6 @@
     "programType": 0,
     "code": "2500000",
     "level": 1,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": null,
-    "actyvPr": 0,
-    "name": "Міністерство соціальної політики України",
-    "dateto": "2025-12-31",
-    "details": 0,
-    "comment": null,
-    "datefrom": "2019-01-01",
-    "id": 430,
-    "inputbase": "Закон",
-    "years": [
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "2500000",
-    "level": 1,
     "isactive": 0,
     "outputbase": null,
     "parentCode": null,
@@ -22236,18 +22672,18 @@
   {
     "idFkv": 0,
     "programType": 0,
-    "code": "2501000",
-    "level": 2,
+    "code": "2500000",
+    "level": 1,
     "isactive": 1,
     "outputbase": null,
-    "parentCode": "2500000",
+    "parentCode": null,
     "actyvPr": 0,
-    "name": "Апарат Міністерства соціальної політики України",
+    "name": "Міністерство соціальної політики України",
     "dateto": "2025-12-31",
     "details": 0,
     "comment": null,
     "datefrom": "2019-01-01",
-    "id": 431,
+    "id": 430,
     "inputbase": "Закон",
     "years": [
       2019,
@@ -22280,20 +22716,20 @@
     ]
   },
   {
-    "idFkv": 337,
-    "programType": 1,
-    "code": "2501010",
-    "level": 3,
+    "idFkv": 0,
+    "programType": 0,
+    "code": "2501000",
+    "level": 2,
     "isactive": 1,
     "outputbase": null,
-    "parentCode": "2501000",
+    "parentCode": "2500000",
     "actyvPr": 0,
-    "name": "Керівництво та управління у сфері соціальної політики",
+    "name": "Апарат Міністерства соціальної політики України",
     "dateto": "2025-12-31",
-    "details": 1,
+    "details": 0,
     "comment": null,
     "datefrom": "2019-01-01",
-    "id": 432,
+    "id": 431,
     "inputbase": "Закон",
     "years": [
       2019,
@@ -22323,6 +22759,32 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 337,
+    "programType": 1,
+    "code": "2501010",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2501000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління у сфері соціальної політики",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2019-01-01",
+    "id": 432,
+    "inputbase": "Закон",
+    "years": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
     ]
   },
   {
@@ -22746,26 +23208,6 @@
     "programType": 1,
     "code": "2501220",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2501000",
-    "actyvPr": 0,
-    "name": "Забезпечення інформаційної політики єдності України, розвитку національної ідентичності та спільного розвитку",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-09-11",
-    "id": 2628,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 532,
-    "programType": 1,
-    "code": "2501220",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "2501000",
@@ -22779,6 +23221,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 532,
+    "programType": 1,
+    "code": "2501220",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2501000",
+    "actyvPr": 0,
+    "name": "Забезпечення інформаційної політики єдності України, розвитку національної ідентичності та спільного розвитку",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-09-11",
+    "id": 2628,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -22854,7 +23316,7 @@
     "parentCode": "2501000",
     "actyvPr": 0,
     "name": "Здійснення страхових виплат медичним працівникам закладів охорони здоров’я та членам їх сімей внаслідок захворювання коронавірусною хворобою COVID-19, спричиненою коронавірусом SARS-CoV-2, та її наслідками",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2023-01-01",
@@ -22912,26 +23374,6 @@
     "programType": 1,
     "code": "2501260",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2501000",
-    "actyvPr": 0,
-    "name": "Забезпечення виконання завдань і заходів із підтримки українців за кордоном та сприяння їх поверненню в Україну",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-09-11",
-    "id": 2630,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 305,
-    "programType": 1,
-    "code": "2501260",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "2501000",
@@ -22945,6 +23387,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 305,
+    "programType": 1,
+    "code": "2501260",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2501000",
+    "actyvPr": 0,
+    "name": "Забезпечення виконання завдань і заходів із підтримки українців за кордоном та сприяння їх поверненню в Україну",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-09-11",
+    "id": 2630,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -23140,9 +23602,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2501000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Розвиток системи соціальних послуг",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2024-01-01",
@@ -23151,6 +23613,26 @@
     "years": [
       2024,
       2025
+    ]
+  },
+  {
+    "idFkv": 450,
+    "programType": 1,
+    "code": "2501370",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2501000",
+    "actyvPr": 1,
+    "name": "Розвиток системи соціальних послуг, у тому числі з підтримки дітей з інвалідністю",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2775,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -23163,7 +23645,7 @@
     "parentCode": "2501000",
     "actyvPr": 0,
     "name": "Заходи з убезпечення від наслідків збройної агресії Російської Федерації в закладах оздоровлення та відпочинку, які розташовані в західних регіонах України, дітей військовослужбовців Державної прикордонної служби України, Національної поліції України, Національної гвардії України, Державної служби України з надзвичайних ситуацій, внутрішньо переміщених осіб, осіб, які звільняються або звільнені з військової служби з числа ветеранів війни, які мають особливі заслуги перед Батьківщиною, загиблих (померлих) Захисників (Захисниць) шляхом відновлення їх фізичного, ментального та психологічного здоров'я",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-08-20",
@@ -23171,6 +23653,26 @@
     "inputbase": "Закон",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 442,
+    "programType": 1,
+    "code": "2501390",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2501000",
+    "actyvPr": 1,
+    "name": "Заходи з убезпечення від наслідків збройної агресії Російської Федерації в закладах оздоровлення та відпочинку, які розташовані в західних регіонах України, дітей військовослужбовців Збройних Cил України, Державної прикордонної служби України, Національної гвардії України, осіб рядового і начальницького складу Державної служби України з надзвичайних ситуацій, поліцейських, внутрішньо переміщених осіб, осіб, які звільняються або звільнені з військової служби з числа ветеранів війни, які мають особливі заслуги перед Батьківщиною, загиблих (померлих) Захисників (Захисниць) шляхом відновлення їх фізичного, ментального та психологічного здоров’я",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2774,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -23518,7 +24020,7 @@
     "parentCode": "2501000",
     "actyvPr": 0,
     "name": "Підтримка малозабезпечених сімей",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2024-01-01",
@@ -23559,7 +24061,7 @@
     "parentCode": "2501000",
     "actyvPr": 0,
     "name": "Виплата матеріальної допомоги військовослужбовцям, звільненим з військової строкової служби",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2019-01-01",
@@ -23605,7 +24107,7 @@
     "parentCode": "2501000",
     "actyvPr": 0,
     "name": "Модернізація системи соціальної підтримки населення України",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2019-01-01",
@@ -23682,26 +24184,6 @@
     ]
   },
   {
-    "idFkv": 327,
-    "programType": 1,
-    "code": "2501700",
-    "level": 3,
-    "isactive": 0,
-    "outputbase": "2021",
-    "parentCode": "2501000",
-    "actyvPr": 0,
-    "name": "Надання одноразової грошової допомоги сім'ям осіб, які загинули внаслідок авіаційної катастрофи, що сталася 8 січня 2020 р. на території Ісламської Республіки Іран",
-    "dateto": "2020-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2020-01-01",
-    "id": 1093,
-    "inputbase": "Розпис",
-    "years": [
-      2020
-    ]
-  },
-  {
     "idFkv": 448,
     "programType": 1,
     "code": "2501700",
@@ -23719,6 +24201,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 327,
+    "programType": 1,
+    "code": "2501700",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": "2021",
+    "parentCode": "2501000",
+    "actyvPr": 0,
+    "name": "Надання одноразової грошової допомоги сім'ям осіб, які загинули внаслідок авіаційної катастрофи, що сталася 8 січня 2020 р. на території Ісламської Республіки Іран",
+    "dateto": "2020-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2020-01-01",
+    "id": 1093,
+    "inputbase": "Розпис",
+    "years": [
+      2020
     ]
   },
   {
@@ -24328,6 +24830,26 @@
     "programType": 0,
     "code": "2510000",
     "level": 1,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": null,
+    "actyvPr": 1,
+    "name": "Міністерство соціальної політики, сім’ї та єдності України (загальнодержавні видатки та кредитування)",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2551,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "2510000",
+    "level": 1,
     "isactive": 1,
     "outputbase": null,
     "parentCode": null,
@@ -24347,26 +24869,6 @@
       2023,
       2024,
       2025
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "2510000",
-    "level": 1,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": null,
-    "actyvPr": 1,
-    "name": "Міністерство соціальної політики, сім’ї та єдності України (загальнодержавні видатки та кредитування)",
-    "dateto": null,
-    "details": 0,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2551,
-    "inputbase": "Закон",
-    "years": [
-      2026
     ]
   },
   {
@@ -25053,7 +25555,7 @@
     "parentCode": "2701000",
     "actyvPr": 0,
     "name": "Підвищення кваліфікації та перепідготовка кадрів у сфері екології, природних ресурсів та водного господарства, підготовка наукових та науково-педагогічних кадрів",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2020-01-01",
@@ -25344,6 +25846,27 @@
     ]
   },
   {
+    "idFkv": 380,
+    "programType": 1,
+    "code": "2704010",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2704000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління у сфері геологічного вивчення та використання надр",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2024-01-01",
+    "id": 1970,
+    "inputbase": "Закон",
+    "years": [
+      2024,
+      2025
+    ]
+  },
+  {
     "idFkv": 348,
     "programType": 1,
     "code": "2704010",
@@ -25364,27 +25887,6 @@
       2021,
       2022,
       2023
-    ]
-  },
-  {
-    "idFkv": 380,
-    "programType": 1,
-    "code": "2704010",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2704000",
-    "actyvPr": 0,
-    "name": "Керівництво та управління у сфері геологічного вивчення та використання надр",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2024-01-01",
-    "id": 1970,
-    "inputbase": "Закон",
-    "years": [
-      2024,
-      2025
     ]
   },
   {
@@ -25485,6 +25987,27 @@
     ]
   },
   {
+    "idFkv": 380,
+    "programType": 1,
+    "code": "2707010",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2707000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління у сфері водного господарства",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2024-01-01",
+    "id": 1971,
+    "inputbase": "Закон",
+    "years": [
+      2024,
+      2025
+    ]
+  },
+  {
     "idFkv": 339,
     "programType": 1,
     "code": "2707010",
@@ -25505,27 +26028,6 @@
       2021,
       2022,
       2023
-    ]
-  },
-  {
-    "idFkv": 380,
-    "programType": 1,
-    "code": "2707010",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2707000",
-    "actyvPr": 0,
-    "name": "Керівництво та управління у сфері водного господарства",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2024-01-01",
-    "id": 1971,
-    "inputbase": "Закон",
-    "years": [
-      2024,
-      2025
     ]
   },
   {
@@ -30211,26 +30713,6 @@
     "programType": 0,
     "code": "2902000",
     "level": 2,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "2900000",
-    "actyvPr": 1,
-    "name": "Державне агентство України ПлейСіті",
-    "dateto": null,
-    "details": 0,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2485,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "2902000",
-    "level": 2,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2900000",
@@ -30244,6 +30726,26 @@
     "inputbase": "Закон",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "2902000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2900000",
+    "actyvPr": 1,
+    "name": "Державне агентство України ПлейСіті",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2485,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -30291,26 +30793,6 @@
     "programType": 1,
     "code": "2902020",
     "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "2902000",
-    "actyvPr": 1,
-    "name": "Забезпечення функціонування та розвитку Державної системи онлайн-моніторингу та електронних реєстрів у сфері організації та проведення азартних ігор",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2487,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 360,
-    "programType": 1,
-    "code": "2902020",
-    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2902000",
@@ -30324,6 +30806,26 @@
     "inputbase": "Закон",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 360,
+    "programType": 1,
+    "code": "2902020",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2902000",
+    "actyvPr": 1,
+    "name": "Забезпечення функціонування та розвитку Державної системи онлайн-моніторингу та електронних реєстрів у сфері організації та проведення азартних ігор",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2487,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -30736,26 +31238,6 @@
     "programType": 1,
     "code": "3101050",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "3101000",
-    "actyvPr": 0,
-    "name": "Заходи щодо соціального і правового захисту осіб, стосовно яких встановлено факт позбавлення особистої свободи внаслідок збройної агресії проти України, членів їхніх сімей, заходи з реінтеграції населення тимчасово окупованих територій, виплати державних стипендій імені Левка Лук’яненка",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-01-10",
-    "id": 2424,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 333,
-    "programType": 1,
-    "code": "3101050",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "3101000",
@@ -30769,6 +31251,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 333,
+    "programType": 1,
+    "code": "3101050",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 0,
+    "name": "Заходи щодо соціального і правового захисту осіб, стосовно яких встановлено факт позбавлення особистої свободи внаслідок збройної агресії проти України, членів їхніх сімей, заходи з реінтеграції населення тимчасово окупованих територій, виплати державних стипендій імені Левка Лук’яненка",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-01-10",
+    "id": 2424,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -30877,26 +31379,6 @@
     "programType": 1,
     "code": "3101090",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "3101000",
-    "actyvPr": 0,
-    "name": "Забезпечення захисту прав і свобод громадян України, що проживають на тимчасово окупованій території України, допомоги громадянам України з гуманітарно-кризових питань",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-01-10",
-    "id": 2425,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 333,
-    "programType": 1,
-    "code": "3101090",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "3101000",
@@ -30913,20 +31395,20 @@
     ]
   },
   {
-    "idFkv": 310,
+    "idFkv": 333,
     "programType": 1,
-    "code": "3101100",
+    "code": "3101090",
     "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3101000",
     "actyvPr": 0,
-    "name": "Заходи щодо створення систем та баз даних з питань реінтеграції",
+    "name": "Забезпечення захисту прав і свобод громадян України, що проживають на тимчасово окупованій території України, допомоги громадянам України з гуманітарно-кризових питань",
     "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-10",
-    "id": 2426,
+    "id": 2425,
     "inputbase": "Розпис",
     "years": [
       2025
@@ -30950,6 +31432,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 310,
+    "programType": 1,
+    "code": "3101100",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 0,
+    "name": "Заходи щодо створення систем та баз даних з питань реінтеграції",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-01-10",
+    "id": 2426,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -31280,6 +31782,26 @@
     ]
   },
   {
+    "idFkv": 355,
+    "programType": 2,
+    "code": "3101220",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 1,
+    "name": "Відновлення критично важливої логістичної інфраструктури та мережевого сполучення (RELINC), ключові залізничні сполучення",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2778,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 372,
     "programType": 1,
     "code": "3101230",
@@ -31314,13 +31836,15 @@
     "parentCode": "3101000",
     "actyvPr": 0,
     "name": "Фінансове забезпечення заходів із забезпечення безпеки дорожнього руху відповідно до державних програм",
-    "dateto": "2024-12-31",
+    "dateto": "2025-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
     "id": 2361,
     "inputbase": "Закон",
-    "years": []
+    "years": [
+      2025
+    ]
   },
   {
     "idFkv": 356,
@@ -31574,26 +32098,6 @@
     "programType": 1,
     "code": "3101340",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "3101000",
-    "actyvPr": 0,
-    "name": "Забезпечення реалізації заходу «Підтримка швидкого відновлення України (Контракт з розбудови держави та посилення стійкості)» в частині ремонту та покращення портової інфраструктури",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-08-08",
-    "id": 2615,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 360,
-    "programType": 1,
-    "code": "3101340",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "3101000",
@@ -31607,6 +32111,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 360,
+    "programType": 1,
+    "code": "3101340",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 0,
+    "name": "Забезпечення реалізації заходу «Підтримка швидкого відновлення України (Контракт з розбудови держави та посилення стійкості)» в частині ремонту та покращення портової інфраструктури",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-08-08",
+    "id": 2615,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -32401,6 +32925,26 @@
     ]
   },
   {
+    "idFkv": 360,
+    "programType": 1,
+    "code": "3101680",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 1,
+    "name": "Реалізація надзвичайної  кредитної  програми для відновлення України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2779,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 372,
     "programType": 2,
     "code": "3101690",
@@ -32562,6 +33106,26 @@
     ]
   },
   {
+    "idFkv": 355,
+    "programType": 1,
+    "code": "3101710",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 0,
+    "name": "Здійснення заходів, пов’язаних із зміцненням обороноздатності держави та запобіганням виникненню надзвичайних ситуацій техногенного характеру, зокрема для будівництва захисних споруд об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти (захист тягових підстанцій із рівнем первинної напруги 150 (110) кВ)",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-11-14",
+    "id": 2754,
+    "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
     "idFkv": 327,
     "programType": 1,
     "code": "3101720",
@@ -32611,7 +33175,7 @@
     "parentCode": "3101000",
     "actyvPr": 0,
     "name": "Реалізація публічного інвестиційного проекту з придбання пасажирських вагонів (366 од.)",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
@@ -32622,20 +33186,20 @@
     ]
   },
   {
-    "idFkv": 445,
-    "programType": 2,
-    "code": "3101830",
+    "idFkv": 355,
+    "programType": 1,
+    "code": "3101820",
     "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "3101000",
     "actyvPr": 1,
-    "name": "Надання пільгових іпотечних кредитів внутрішньо переміщеним особам",
+    "name": "Реалізація публічного інвестиційного проекту з придбання пасажирських вагонів",
     "dateto": null,
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
-    "id": 2479,
+    "id": 2766,
     "inputbase": "Закон",
     "years": [
       2026
@@ -32663,19 +33227,19 @@
   },
   {
     "idFkv": 445,
-    "programType": 3,
-    "code": "3101840",
+    "programType": 2,
+    "code": "3101830",
     "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "3101000",
     "actyvPr": 1,
-    "name": "Повернення кредитів, наданих із спеціального фонду державного бюджету внутрішньо переміщеним особам на придбання житла",
+    "name": "Надання пільгових іпотечних кредитів внутрішньо переміщеним особам",
     "dateto": null,
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
-    "id": 2480,
+    "id": 2479,
     "inputbase": "Закон",
     "years": [
       2026
@@ -32699,6 +33263,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 445,
+    "programType": 3,
+    "code": "3101840",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 1,
+    "name": "Повернення кредитів, наданих із спеціального фонду державного бюджету внутрішньо переміщеним особам на придбання житла",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2480,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -34287,26 +34871,6 @@
     "programType": 1,
     "code": "3111390",
     "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3111000",
-    "actyvPr": 1,
-    "name": "Відновлення критично важливої логістичної інфраструктури та мережевого сполучення (RELINC), ключові автомобільні сполучення",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2649,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 358,
-    "programType": 1,
-    "code": "3111390",
-    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3111000",
@@ -34320,6 +34884,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 358,
+    "programType": 1,
+    "code": "3111390",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3111000",
+    "actyvPr": 1,
+    "name": "Відновлення критично важливої логістичної інфраструктури та мережевого сполучення (RELINC), ключові автомобільні сполучення",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2649,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -34392,7 +34976,7 @@
     "parentCode": "3111000",
     "actyvPr": 0,
     "name": "Забезпечення обов’язкового проведення процедур закупівель централізованою закупівельною організацією у сфері управління Державного агентства відновлення та розвитку інфраструктури",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-08-20",
@@ -34501,7 +35085,7 @@
     "parentCode": "3111000",
     "actyvPr": 0,
     "name": "Розбудова прикордонної дорожньої інфраструктури на українсько-польському кордоні",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2023-01-01",
@@ -34769,7 +35353,7 @@
     "parentCode": "3111000",
     "actyvPr": 0,
     "name": "Реалізація публічного інвестиційного проекту \"Будівництво магістральних водогонів у Миколаївській області, у зв’язку з недостатністю ліквідації негативних наслідків, пов’язаних із знищенням Каховської гідроелектростанції\"",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
@@ -35336,7 +35920,7 @@
     "parentCode": "3121000",
     "actyvPr": 0,
     "name": "Субвенція з державного бюджету бюджету Харківської міської територіальної громади на аварійно-відновлювальні роботи житлово-комунальної сфери",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
@@ -35354,9 +35938,9 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "3121000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Субвенція з державного бюджету місцевим бюджетам на компенсацію різниці в тарифах на виробництво, транспортування та постачання теплової енергії, послуг з централізованого опалення, постачання гарячої води, що складається в поточному періоді",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
@@ -35563,24 +36147,6 @@
     "code": "3130000",
     "level": 1,
     "isactive": 0,
-    "outputbase": "2025",
-    "parentCode": null,
-    "actyvPr": 0,
-    "name": "Державне агентство відновлення та розвитку інфраструктури України (загальнодержавні видатки та кредитування)",
-    "dateto": "2024-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-01-01",
-    "id": 2376,
-    "inputbase": "Закон",
-    "years": []
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "3130000",
-    "level": 1,
-    "isactive": 0,
     "outputbase": "2023",
     "parentCode": null,
     "actyvPr": 0,
@@ -35621,20 +36187,22 @@
   {
     "idFkv": 0,
     "programType": 0,
-    "code": "3131000",
-    "level": 2,
+    "code": "3130000",
+    "level": 1,
     "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3130000",
+    "outputbase": "2025",
+    "parentCode": null,
     "actyvPr": 0,
     "name": "Державне агентство відновлення та розвитку інфраструктури України (загальнодержавні видатки та кредитування)",
-    "dateto": "2024-12-31",
-    "details": 1,
+    "dateto": "2025-01-01",
+    "details": 0,
     "comment": null,
     "datefrom": "2025-01-01",
-    "id": 2377,
+    "id": 2376,
     "inputbase": "Закон",
-    "years": []
+    "years": [
+      2025
+    ]
   },
   {
     "idFkv": 0,
@@ -35680,22 +36248,24 @@
     ]
   },
   {
-    "idFkv": 317,
-    "programType": 1,
-    "code": "3131090",
-    "level": 3,
+    "idFkv": 0,
+    "programType": 0,
+    "code": "3131000",
+    "level": 2,
     "isactive": 0,
-    "outputbase": "2025",
-    "parentCode": "3131000",
+    "outputbase": null,
+    "parentCode": "3130000",
     "actyvPr": 0,
-    "name": "Субвенція з державного бюджету місцевим бюджетам на фінансове забезпечення будівництва, реконструкції, ремонту і утримання автомобільних доріг загального користування місцевого значення, вулиць і доріг комунальної власності у населених пунктах",
-    "dateto": "2024-12-31",
-    "details": 1,
+    "name": "Державне агентство відновлення та розвитку інфраструктури України (загальнодержавні видатки та кредитування)",
+    "dateto": "2025-01-01",
+    "details": 0,
     "comment": null,
     "datefrom": "2025-01-01",
-    "id": 2378,
+    "id": 2377,
     "inputbase": "Закон",
-    "years": []
+    "years": [
+      2025
+    ]
   },
   {
     "idFkv": 317,
@@ -35719,6 +36289,26 @@
       2021,
       2022,
       2023
+    ]
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
+    "code": "3131090",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": "2025",
+    "parentCode": "3131000",
+    "actyvPr": 0,
+    "name": "Субвенція з державного бюджету місцевим бюджетам на фінансове забезпечення будівництва, реконструкції, ремонту і утримання автомобільних доріг загального користування місцевого значення, вулиць і доріг комунальної власності у населених пунктах",
+    "dateto": "2025-01-01",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-01-01",
+    "id": 2378,
+    "inputbase": "Закон",
+    "years": [
+      2025
     ]
   },
   {
@@ -36532,7 +37122,7 @@
     "parentCode": "3401000",
     "actyvPr": 0,
     "name": "Фізична і спортивна підготовка учнівської та студентської молоді",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
@@ -36825,7 +37415,7 @@
     "parentCode": "3411000",
     "actyvPr": 0,
     "name": "Субвенція з державного бюджету місцевим бюджетам на виконання окремих заходів з реалізації соціального проекту «Активні парки - локації здорової України»",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2022-01-01",
@@ -37272,26 +37862,6 @@
     "programType": 1,
     "code": "3501580",
     "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3501000",
-    "actyvPr": 1,
-    "name": "Зміцнення спроможності Уряду щодо впровадження фіскальної реформи",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2510,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 310,
-    "programType": 1,
-    "code": "3501580",
-    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3501000",
@@ -37305,6 +37875,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 310,
+    "programType": 1,
+    "code": "3501580",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3501000",
+    "actyvPr": 1,
+    "name": "Зміцнення спроможності Уряду щодо впровадження фіскальної реформи",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2510,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -38507,24 +39097,6 @@
     "code": "3511170",
     "level": 3,
     "isactive": 0,
-    "outputbase": "2025",
-    "parentCode": "3511000",
-    "actyvPr": 0,
-    "name": "Субвенція з державного бюджету місцевим бюджетам на компенсацію різниці в тарифах на виробництво, транспортування та постачання теплової енергії, послуг з централізованого опалення, постачання гарячої води, послуг з централізованого водопостачання та водовідведення та підтримку підприємств, які надають такі послуги",
-    "dateto": "2024-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-01-01",
-    "id": 2380,
-    "inputbase": "Закон",
-    "years": []
-  },
-  {
-    "idFkv": 317,
-    "programType": 1,
-    "code": "3511170",
-    "level": 3,
-    "isactive": 0,
     "outputbase": null,
     "parentCode": "3511000",
     "actyvPr": 1,
@@ -38540,6 +39112,26 @@
     ]
   },
   {
+    "idFkv": 317,
+    "programType": 1,
+    "code": "3511170",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": "2025",
+    "parentCode": "3511000",
+    "actyvPr": 0,
+    "name": "Субвенція з державного бюджету місцевим бюджетам на компенсацію різниці в тарифах на виробництво, транспортування та постачання теплової енергії, послуг з централізованого опалення, постачання гарячої води, послуг з централізованого водопостачання та водовідведення та підтримку підприємств, які надають такі послуги",
+    "dateto": "2025-01-01",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-01-01",
+    "id": 2380,
+    "inputbase": "Закон",
+    "years": [
+      2025
+    ]
+  },
+  {
     "idFkv": 310,
     "programType": 1,
     "code": "3511180",
@@ -38549,13 +39141,15 @@
     "parentCode": "3511000",
     "actyvPr": 0,
     "name": "Фінансове забезпечення підготовки та реалізації публічних інвестиційних проектів",
-    "dateto": "2024-12-31",
+    "dateto": "2025-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
     "id": 2381,
     "inputbase": "Закон",
-    "years": []
+    "years": [
+      2025
+    ]
   },
   {
     "idFkv": 317,
@@ -40055,7 +40649,7 @@
     "parentCode": "3601000",
     "actyvPr": 0,
     "name": "Реалізація публічного інвестиційного проекту «Електронний засіб контролю і нагляду»",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
@@ -40348,26 +40942,6 @@
     "programType": 0,
     "code": "3800000",
     "level": 1,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": null,
-    "actyvPr": 1,
-    "name": "Міністерство культури та стратегічних комунікацій України",
-    "dateto": null,
-    "details": 0,
-    "comment": null,
-    "datefrom": "2025-01-01",
-    "id": 2384,
-    "inputbase": "Закон",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "3800000",
-    "level": 1,
     "isactive": 0,
     "outputbase": "2020",
     "parentCode": null,
@@ -40381,6 +40955,46 @@
     "inputbase": "Закон",
     "years": [
       2019
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "3800000",
+    "level": 1,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": null,
+    "actyvPr": 0,
+    "name": "Міністерство культури та стратегічних комунікацій України",
+    "dateto": "2025-12-31",
+    "details": 0,
+    "comment": null,
+    "datefrom": "2025-01-01",
+    "id": 2384,
+    "inputbase": "Закон",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 1,
+    "code": "3800000",
+    "level": 1,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": null,
+    "actyvPr": 1,
+    "name": "Міністерство культури України",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2767,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -40412,12 +41026,32 @@
     "programType": 0,
     "code": "3801000",
     "level": 2,
+    "isactive": 0,
+    "outputbase": "2020",
+    "parentCode": "3800000",
+    "actyvPr": 0,
+    "name": "Апарат Міністерства культури, молоді та спорту України",
+    "dateto": "2019-12-31",
+    "details": 0,
+    "comment": null,
+    "datefrom": "2019-01-01",
+    "id": 693,
+    "inputbase": "Закон",
+    "years": [
+      2019
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "3801000",
+    "level": 2,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3800000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Апарат Міністерства культури та стратегічних комунікацій України",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 0,
     "comment": null,
     "datefrom": "2025-01-01",
@@ -40433,18 +41067,18 @@
     "code": "3801000",
     "level": 2,
     "isactive": 0,
-    "outputbase": "2020",
+    "outputbase": null,
     "parentCode": "3800000",
-    "actyvPr": 0,
-    "name": "Апарат Міністерства культури, молоді та спорту України",
-    "dateto": "2019-12-31",
+    "actyvPr": 1,
+    "name": "Апарат Міністерства культури України",
+    "dateto": null,
     "details": 0,
     "comment": null,
-    "datefrom": "2019-01-01",
-    "id": 693,
+    "datefrom": "2026-01-01",
+    "id": 2768,
     "inputbase": "Закон",
     "years": [
-      2019
+      2026
     ]
   },
   {
@@ -40472,26 +41106,6 @@
     ]
   },
   {
-    "idFkv": 546,
-    "programType": 1,
-    "code": "3801010",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "3801000",
-    "actyvPr": 1,
-    "name": "Керівництво та управління у сфері культури та стратегічних комунікацій",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-01-01",
-    "id": 2386,
-    "inputbase": "Закон",
-    "years": [
-      2025
-    ]
-  },
-  {
     "idFkv": 417,
     "programType": 1,
     "code": "3801010",
@@ -40509,6 +41123,46 @@
     "inputbase": "Закон",
     "years": [
       2019
+    ]
+  },
+  {
+    "idFkv": 546,
+    "programType": 1,
+    "code": "3801010",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3801000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління у сфері культури та стратегічних комунікацій",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-01-01",
+    "id": 2386,
+    "inputbase": "Закон",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "idFkv": 530,
+    "programType": 1,
+    "code": "3801010",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3801000",
+    "actyvPr": 1,
+    "name": "Керівництво та управління у сфері культури",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2769,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -40648,26 +41302,6 @@
     "programType": 1,
     "code": "3801030",
     "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3801000",
-    "actyvPr": 1,
-    "name": "Забезпечення стратегічних комунікацій, інформаційної безпеки, заходів з європейської та євроатлантичної інтеграції, національної ідентичності, героїзму, створення та поширення аудіовізуальних творів патріотичного спрямування",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2643,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 532,
-    "programType": 1,
-    "code": "3801030",
-    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3801000",
@@ -40681,6 +41315,26 @@
     "inputbase": "Закон",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 532,
+    "programType": 1,
+    "code": "3801030",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3801000",
+    "actyvPr": 1,
+    "name": "Забезпечення стратегічних комунікацій, інформаційної безпеки, заходів з європейської та євроатлантичної інтеграції, національної ідентичності, героїзму, створення та поширення аудіовізуальних творів патріотичного спрямування",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2643,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -41559,7 +42213,7 @@
     "parentCode": "3801000",
     "actyvPr": 0,
     "name": "Реалізація публічного інвестиційного проекту \"Нове будівництво споруди подвійного призначення (з захисними властивостями протирадіаційного укриття) місткістю 200 осіб\", проект повторного використання",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
@@ -41825,9 +42479,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3802000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Державні стипендії видатним діячам інформаційної галузі, дітям журналістів, які загинули (померли) або яким встановлено інвалідність у зв’язку з виконанням професійних обов’язків та премій в інформаційній галузі",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2020-01-01",
@@ -41840,6 +42494,26 @@
       2023,
       2024,
       2025
+    ]
+  },
+  {
+    "idFkv": 532,
+    "programType": 1,
+    "code": "3802130",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3802000",
+    "actyvPr": 1,
+    "name": "Державні стипендії видатним діячам інформаційної галузі, дітям журналістів, які загинули (померли) або яким встановлено інвалідність у зв’язку з виконанням професійних обов’язків, премії в інформаційній галузі та одноразова грошова допомога у разі загибелі (смерті) або поранення (контузії, травми або каліцтва) журналіста під час виконання ним професійних обов'язків",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2762,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -42064,26 +42738,6 @@
     "programType": 0,
     "code": "3806000",
     "level": 2,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3800000",
-    "actyvPr": 1,
-    "name": "Державне агентство України з питань кіно",
-    "dateto": null,
-    "details": 0,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2481,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "3806000",
-    "level": 2,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3800000",
@@ -42097,6 +42751,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "3806000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3800000",
+    "actyvPr": 1,
+    "name": "Державне агентство України з питань кіно",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2481,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -42125,26 +42799,6 @@
     "programType": 1,
     "code": "3806010",
     "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3806000",
-    "actyvPr": 1,
-    "name": "Керівництво та управління у сфері кінематографії",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2482,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 410,
-    "programType": 1,
-    "code": "3806010",
-    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3806000",
@@ -42158,6 +42812,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 410,
+    "programType": 1,
+    "code": "3806010",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3806000",
+    "actyvPr": 1,
+    "name": "Керівництво та управління у сфері кінематографії",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2482,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -42186,26 +42860,6 @@
     "programType": 1,
     "code": "3806030",
     "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3806000",
-    "actyvPr": 1,
-    "name": "Державна підтримка кінематографії, у тому числі документування воєнних злочинів",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2483,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 410,
-    "programType": 1,
-    "code": "3806030",
-    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3806000",
@@ -42219,6 +42873,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 410,
+    "programType": 1,
+    "code": "3806030",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3806000",
+    "actyvPr": 1,
+    "name": "Державна підтримка кінематографії, у тому числі документування воєнних злочинів",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2483,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -42761,26 +43435,6 @@
     "programType": 1,
     "code": "3901010",
     "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3901000",
-    "actyvPr": 0,
-    "name": "Керівництво та управління у сфері національної єдності та спільного розвитку",
-    "dateto": "2026-01-01",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2492,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 440,
-    "programType": 1,
-    "code": "3901010",
-    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3901000",
@@ -42799,6 +43453,26 @@
       2023,
       2024,
       2025
+    ]
+  },
+  {
+    "idFkv": 440,
+    "programType": 1,
+    "code": "3901010",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3901000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління у сфері національної єдності та спільного розвитку",
+    "dateto": "2026-01-01",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2492,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -43164,26 +43838,6 @@
     "programType": 1,
     "code": "3901150",
     "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "3901000",
-    "actyvPr": 0,
-    "name": "Забезпечення виконання завдань і заходів із підтримки українців за кордоном та сприяння їх поверненню в Україну",
-    "dateto": "2026-01-01",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2488,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 305,
-    "programType": 1,
-    "code": "3901150",
-    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3901000",
@@ -43197,6 +43851,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 305,
+    "programType": 1,
+    "code": "3901150",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3901000",
+    "actyvPr": 0,
+    "name": "Забезпечення виконання завдань і заходів із підтримки українців за кордоном та сприяння їх поверненню в Україну",
+    "dateto": "2026-01-01",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2488,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -44684,6 +45358,26 @@
     "programType": 1,
     "code": "6121020",
     "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "6121000",
+    "actyvPr": 1,
+    "name": "Професійне навчання державних службовців, голів місцевих державних адміністрацій, їх перших заступників та заступників, посадових осіб місцевого самоврядування",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2489,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 434,
+    "programType": 1,
+    "code": "6121020",
+    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "6121000",
@@ -44703,26 +45397,6 @@
       2023,
       2024,
       2025
-    ]
-  },
-  {
-    "idFkv": 434,
-    "programType": 1,
-    "code": "6121020",
-    "level": 3,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "6121000",
-    "actyvPr": 1,
-    "name": "Професійне навчання державних службовців, голів місцевих державних адміністрацій, їх перших заступників та заступників, посадових осіб місцевого самоврядування",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2489,
-    "inputbase": "Закон",
-    "years": [
-      2026
     ]
   },
   {
@@ -45341,7 +46015,7 @@
     "parentCode": "6381000",
     "actyvPr": 0,
     "name": "Утилізація твердого ракетного палива",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2019-01-01",
@@ -45407,7 +46081,7 @@
     "parentCode": "6381000",
     "actyvPr": 0,
     "name": "Утилізація компонентів рідкого ракетного палива (гептилу)",
-    "dateto": null,
+    "dateto": "2025-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2022-01-01",
@@ -47396,16 +48070,17 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "6561000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Реалізація публічних інвестиційних проектів на розвиток матеріально-технічної бази закладів спеціалізованої медичної допомоги Національної академії медичних наук України",
-    "dateto": null,
+    "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2025-01-01",
     "id": 2397,
     "inputbase": "Закон",
     "years": [
-      2025
+      2025,
+      2026
     ]
   },
   {
