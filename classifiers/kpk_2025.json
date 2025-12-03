@@ -2229,6 +2229,23 @@
   {
     "idFkv": 434,
     "programType": 1,
+    "code": "1201060",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 0,
+    "name": "Підвищення кваліфікації фахівців агропромислового комплексу",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-10-02",
+    "id": 2788,
+    "inputbase": "Розпис"
+  },
+  {
+    "idFkv": 434,
+    "programType": 1,
     "code": "1201070",
     "level": 3,
     "isactive": 1,
@@ -2292,6 +2309,23 @@
     "comment": null,
     "datefrom": "2025-09-22",
     "id": 2699,
+    "inputbase": "Розпис"
+  },
+  {
+    "idFkv": 434,
+    "programType": 1,
+    "code": "1201140",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 0,
+    "name": "Підвищення кваліфікації та перепідготовка кадрів у сфері екології, природних ресурсів та водного господарства, підготовка наукових та науково-педагогічних кадрів",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-10-02",
+    "id": 2789,
     "inputbase": "Розпис"
   },
   {
@@ -2734,6 +2768,23 @@
     "comment": null,
     "datefrom": "2025-09-22",
     "id": 2675,
+    "inputbase": "Розпис"
+  },
+  {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "1201470",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 0,
+    "name": "Створення та функціонування Групи управління Проектом «Екстрений проект надання інклюзивної підтримки для відновлення сільського господарства України (ARISE)»",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-10-15",
+    "id": 2787,
     "inputbase": "Розпис"
   },
   {
