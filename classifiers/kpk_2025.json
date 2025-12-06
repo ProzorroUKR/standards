@@ -8313,6 +8313,23 @@
     "inputbase": "Закон"
   },
   {
+    "idFkv": 360,
+    "programType": 1,
+    "code": "3101510",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 0,
+    "name": "Впровадження та координація заходів проекту «Рішення для відновлюваної енергетики (RES)»",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-12-04",
+    "id": 2793,
+    "inputbase": "Розпис"
+  },
+  {
     "idFkv": 385,
     "programType": 1,
     "code": "3101550",
@@ -9314,6 +9331,23 @@
     "datefrom": "2025-01-01",
     "id": 2374,
     "inputbase": "Закон"
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
+    "code": "3121500",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3121000",
+    "actyvPr": 0,
+    "name": "Субвенція з державного бюджету місцевим бюджетам на реалізацію проектів в рамках проекту «Рішення для відновлюваної енергетики (RES)»",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-12-04",
+    "id": 2792,
+    "inputbase": "Розпис"
   },
   {
     "idFkv": 317,
