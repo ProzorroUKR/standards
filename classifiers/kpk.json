@@ -9493,26 +9493,6 @@
   },
   {
     "idFkv": 0,
-    "programType": 0,
-    "code": "1202000",
-    "level": 2,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1200000",
-    "actyvPr": 0,
-    "name": "Державна служба України з питань геодезії, картографії та кадастру",
-    "dateto": "2025-12-31",
-    "details": 0,
-    "comment": null,
-    "datefrom": "2025-09-22",
-    "id": 2677,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 0,
     "programType": 1,
     "code": "1202000",
     "level": 2,
@@ -9546,6 +9526,26 @@
     "comment": null,
     "datefrom": "2025-11-28",
     "id": 2785,
+    "inputbase": "Розпис",
+    "years": [
+      2025
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "1202000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1200000",
+    "actyvPr": 0,
+    "name": "Державна служба України з питань геодезії, картографії та кадастру",
+    "dateto": "2025-11-27",
+    "details": 0,
+    "comment": null,
+    "datefrom": "2025-09-22",
+    "id": 2677,
     "inputbase": "Розпис",
     "years": [
       2025
@@ -11031,6 +11031,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 336,
+    "programType": 1,
+    "code": "1209010",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1209000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління у сфері лісового господарства",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-11-19",
+    "id": 2794,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
