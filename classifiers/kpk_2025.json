@@ -8687,6 +8687,23 @@
     "inputbase": "Розпис"
   },
   {
+    "idFkv": 383,
+    "programType": 2,
+    "code": "3101860",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 0,
+    "name": "Підвищення енергоефективності в секторі централізованого теплопостачання України в м. Харкові",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-12-09",
+    "id": 2797,
+    "inputbase": "Розпис"
+  },
+  {
     "idFkv": 0,
     "programType": 0,
     "code": "3102000",
