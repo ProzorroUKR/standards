@@ -57,7 +57,8 @@ def export_kpk(dict_name, dict_data):
     kpk_general = []
     for kpk_row in dict_data:
         year_from = datetime.strptime(kpk_row.get("datefrom"), "%Y-%m-%d").year
-        # By default, we take the next year, if there wasn't `dateto` in dictionary that means that code is still using
+        # By default, we take the next year (CS-20795),
+        # if there wasn't `dateto` in dictionary that means that code is still using
         year_to = datetime.now().year + 1
         if year_from > year_to:
             year_to = year_from  # in case there will be codes the for next year
