@@ -4071,7 +4071,7 @@
   "7364": {
     "codeKfk": "0490",
     "beginDate": "2025-12-23",
-    "parentCode": null,
+    "parentCode": "7300",
     "level": 4,
     "endDate": null,
     "isactive": "1",
@@ -4084,7 +4084,7 @@
   "7365": {
     "codeKfk": "0490",
     "beginDate": "2025-12-23",
-    "parentCode": null,
+    "parentCode": "7300",
     "level": 4,
     "endDate": null,
     "isactive": "1",
@@ -4097,7 +4097,7 @@
   "7366": {
     "codeKfk": "0490",
     "beginDate": "2025-12-23",
-    "parentCode": null,
+    "parentCode": "7300",
     "level": 4,
     "endDate": null,
     "isactive": "1",
@@ -4123,7 +4123,7 @@
   "7368": {
     "codeKfk": "0490",
     "beginDate": "2025-12-23",
-    "parentCode": null,
+    "parentCode": "7300",
     "level": 4,
     "endDate": null,
     "isactive": "1",
