@@ -3778,7 +3778,7 @@
     "programType": 1,
     "code": "2211230",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "2211000",
     "actyvPr": 0,

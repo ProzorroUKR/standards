@@ -887,7 +887,7 @@
     "programType": 1,
     "code": "0301810",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "0301000",
     "actyvPr": 0,
@@ -1564,7 +1564,7 @@
     "programType": 1,
     "code": "0411260",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "0411000",
     "actyvPr": 0,
@@ -2233,7 +2233,7 @@
     "programType": 1,
     "code": "0416000",
     "level": 2,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "0410000",
     "actyvPr": 0,
@@ -2273,7 +2273,7 @@
     "programType": 1,
     "code": "0416010",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "0416000",
     "actyvPr": 0,
@@ -2293,7 +2293,7 @@
     "programType": 1,
     "code": "0416020",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "0416000",
     "actyvPr": 0,
@@ -7193,7 +7193,7 @@
     "programType": 1,
     "code": "1201040",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "1201000",
     "actyvPr": 0,
@@ -7279,26 +7279,6 @@
     "parentCode": "1201000",
     "actyvPr": 0,
     "name": "Наукова і науково-технічна діяльність у сфері розвитку агропромислового комплексу, стандартизації та сертифікації сільськогосподарської продукції",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-09-22",
-    "id": 2711,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 518,
-    "programType": 1,
-    "code": "1201050",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1201000",
-    "actyvPr": 0,
-    "name": "Наукова і науково-технічна діяльність у сфері розвитку агропромислового комплексу, стандартизації та сертифікації сільськогосподарської продукції",
     "dateto": "2026-01-01",
     "details": 1,
     "comment": null,
@@ -7307,6 +7287,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 518,
+    "programType": 1,
+    "code": "1201050",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 0,
+    "name": "Наукова і науково-технічна діяльність у сфері розвитку агропромислового комплексу, стандартизації та сертифікації сільськогосподарської продукції",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-09-22",
+    "id": 2711,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -7625,6 +7625,26 @@
     ]
   },
   {
+    "idFkv": 380,
+    "programType": 1,
+    "code": "1201120",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 0,
+    "name": "Збереження природно-заповідного фонду та здійснення природоохоронних заходів",
+    "dateto": "2026-01-01",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2563,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 378,
     "programType": 1,
     "code": "1201120",
@@ -7643,26 +7663,6 @@
     "years": [
       2026,
       2027
-    ]
-  },
-  {
-    "idFkv": 380,
-    "programType": 1,
-    "code": "1201120",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1201000",
-    "actyvPr": 0,
-    "name": "Збереження природно-заповідного фонду та здійснення природоохоронних заходів",
-    "dateto": "2026-01-01",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2563,
-    "inputbase": "Закон",
-    "years": [
-      2026
     ]
   },
   {
@@ -9776,6 +9776,26 @@
     "parentCode": "1200000",
     "actyvPr": 0,
     "name": "Державна служба України з питань геодезії, картографії та кадастру",
+    "dateto": "2026-01-01",
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2594,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "1202000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1200000",
+    "actyvPr": 0,
+    "name": "Державна служба України з питань геодезії, картографії та кадастру",
     "dateto": "2025-11-27",
     "details": 0,
     "comment": null,
@@ -9828,26 +9848,6 @@
     ]
   },
   {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "1202000",
-    "level": 2,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1200000",
-    "actyvPr": 0,
-    "name": "Державна служба України з питань геодезії, картографії та кадастру",
-    "dateto": "2026-01-01",
-    "details": 0,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2594,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
     "idFkv": 339,
     "programType": 1,
     "code": "1202010",
@@ -9867,6 +9867,26 @@
       2019,
       2020,
       2021
+    ]
+  },
+  {
+    "idFkv": 339,
+    "programType": 1,
+    "code": "1202010",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1202000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління у сфері геодезії, картографії та кадастру",
+    "dateto": "2026-01-01",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2595,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -9933,26 +9953,6 @@
   {
     "idFkv": 339,
     "programType": 1,
-    "code": "1202010",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1202000",
-    "actyvPr": 0,
-    "name": "Керівництво та управління у сфері геодезії, картографії та кадастру",
-    "dateto": "2026-01-01",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2595,
-    "inputbase": "Закон",
-    "years": [
-      2026
-    ]
-  },
-  {
-    "idFkv": 339,
-    "programType": 1,
     "code": "1202020",
     "level": 3,
     "isactive": 0,
@@ -9977,7 +9977,7 @@
     "programType": 1,
     "code": "1202020",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "1202000",
     "actyvPr": 0,
@@ -10039,7 +10039,7 @@
     "programType": 1,
     "code": "1202030",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "1202000",
     "actyvPr": 0,
@@ -10080,7 +10080,7 @@
     "programType": 1,
     "code": "1202620",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "1202000",
     "actyvPr": 0,
@@ -10455,6 +10455,26 @@
     "programType": 1,
     "code": "1205050",
     "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1205000",
+    "actyvPr": 0,
+    "name": "Розвиток водного господарства та експлуатація державного водогосподарського комплексу",
+    "dateto": "2026-01-01",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2574,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 375,
+    "programType": 1,
+    "code": "1205050",
+    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "1205000",
@@ -10469,26 +10489,6 @@
     "years": [
       2026,
       2027
-    ]
-  },
-  {
-    "idFkv": 375,
-    "programType": 1,
-    "code": "1205050",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1205000",
-    "actyvPr": 0,
-    "name": "Розвиток водного господарства та експлуатація державного водогосподарського комплексу",
-    "dateto": "2026-01-01",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2574,
-    "inputbase": "Закон",
-    "years": [
-      2026
     ]
   },
   {
@@ -10557,7 +10557,7 @@
     "programType": 1,
     "code": "1205090",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "1205000",
     "actyvPr": 0,
@@ -10597,6 +10597,26 @@
     "programType": 0,
     "code": "1206000",
     "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1200000",
+    "actyvPr": 0,
+    "name": "Державна служба геології та надр України",
+    "dateto": "2026-01-01",
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2568,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "1206000",
+    "level": 2,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "1200000",
@@ -10611,26 +10631,6 @@
     "years": [
       2026,
       2027
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 0,
-    "code": "1206000",
-    "level": 2,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1200000",
-    "actyvPr": 0,
-    "name": "Державна служба геології та надр України",
-    "dateto": "2026-01-01",
-    "details": 0,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2568,
-    "inputbase": "Закон",
-    "years": [
-      2026
     ]
   },
   {
@@ -10659,6 +10659,26 @@
     ]
   },
   {
+    "idFkv": 380,
+    "programType": 1,
+    "code": "1206010",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1206000",
+    "actyvPr": 0,
+    "name": "Керівництво та управління у сфері геологічного вивчення та використання надр",
+    "dateto": "2026-01-01",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2569,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 337,
     "programType": 1,
     "code": "1206010",
@@ -10677,26 +10697,6 @@
     "years": [
       2026,
       2027
-    ]
-  },
-  {
-    "idFkv": 380,
-    "programType": 1,
-    "code": "1206010",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1206000",
-    "actyvPr": 0,
-    "name": "Керівництво та управління у сфері геологічного вивчення та використання надр",
-    "dateto": "2026-01-01",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2569,
-    "inputbase": "Закон",
-    "years": [
-      2026
     ]
   },
   {
@@ -10775,7 +10775,7 @@
     "programType": 1,
     "code": "1206040",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "1206000",
     "actyvPr": 0,
@@ -10937,6 +10937,26 @@
     "programType": 1,
     "code": "1207020",
     "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1207000",
+    "actyvPr": 0,
+    "name": "Діяльність у сфері рибного господарства та експлуатація водогосподарсько-меліоративного комплексу",
+    "dateto": "2026-01-01",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2600,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 341,
+    "programType": 1,
+    "code": "1207020",
+    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "1207000",
@@ -10951,26 +10971,6 @@
     "years": [
       2026,
       2027
-    ]
-  },
-  {
-    "idFkv": 341,
-    "programType": 1,
-    "code": "1207020",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1207000",
-    "actyvPr": 0,
-    "name": "Діяльність у сфері рибного господарства та експлуатація водогосподарсько-меліоративного комплексу",
-    "dateto": "2026-01-01",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2600,
-    "inputbase": "Закон",
-    "years": [
-      2026
     ]
   },
   {
@@ -11140,7 +11140,7 @@
     "programType": 1,
     "code": "1207120",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "1207000",
     "actyvPr": 0,
@@ -11180,7 +11180,7 @@
     "programType": 1,
     "code": "1207140",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "1207000",
     "actyvPr": 0,
@@ -17308,7 +17308,7 @@
     "programType": 1,
     "code": "2211230",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "2211000",
     "actyvPr": 0,
@@ -18125,6 +18125,26 @@
     "programType": 1,
     "code": "2301050",
     "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2301000",
+    "actyvPr": 1,
+    "name": "Скринінг здоров’я для громадян з підвищеним ризиком розвитку захворювань",
+    "dateto": "2026-01-01",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2634,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 404,
+    "programType": 1,
+    "code": "2301050",
+    "level": 3,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2301000",
@@ -18139,26 +18159,6 @@
     "years": [
       2026,
       2027
-    ]
-  },
-  {
-    "idFkv": 404,
-    "programType": 1,
-    "code": "2301050",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "2301000",
-    "actyvPr": 1,
-    "name": "Скринінг здоров’я для громадян з підвищеним ризиком розвитку захворювань",
-    "dateto": "2026-01-01",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2634,
-    "inputbase": "Закон",
-    "years": [
-      2026
     ]
   },
   {
@@ -37028,7 +37028,7 @@
     "programType": 1,
     "code": "3121490",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "3121000",
     "actyvPr": 0,
@@ -44804,6 +44804,26 @@
     "outputbase": null,
     "parentCode": "3901000",
     "actyvPr": 0,
+    "name": "Керівництво та управління у сфері національної єдності та спільного розвитку",
+    "dateto": "2026-01-01",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2492,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 440,
+    "programType": 1,
+    "code": "3901010",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3901000",
+    "actyvPr": 0,
     "name": "Керівництво та управління з питань  реінтеграції тимчасово окупованих територій",
     "dateto": "2025-12-31",
     "details": 1,
@@ -44818,26 +44838,6 @@
       2023,
       2024,
       2025
-    ]
-  },
-  {
-    "idFkv": 440,
-    "programType": 1,
-    "code": "3901010",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "3901000",
-    "actyvPr": 0,
-    "name": "Керівництво та управління у сфері національної єдності та спільного розвитку",
-    "dateto": "2026-01-01",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2492,
-    "inputbase": "Закон",
-    "years": [
-      2026
     ]
   },
   {
@@ -44999,26 +44999,6 @@
     "outputbase": null,
     "parentCode": "3901000",
     "actyvPr": 0,
-    "name": "Забезпечення інформаційного суверенітету України на тимчасово окупованій території, а також прилеглих до неї територіях, інформування населення про небезпеки вибухонебезпечних предметів",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-01-01",
-    "id": 2393,
-    "inputbase": "Закон",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 532,
-    "programType": 1,
-    "code": "3901080",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "3901000",
-    "actyvPr": 0,
     "name": "Забезпечення інформаційної політики єдності України, розвитку національної ідентичності та спільного розвитку",
     "dateto": "2026-01-01",
     "details": 1,
@@ -45028,6 +45008,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 532,
+    "programType": 1,
+    "code": "3901080",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3901000",
+    "actyvPr": 0,
+    "name": "Забезпечення інформаційного суверенітету України на тимчасово окупованій території, а також прилеглих до неї територіях, інформування населення про небезпеки вибухонебезпечних предметів",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-01-01",
+    "id": 2393,
+    "inputbase": "Закон",
+    "years": [
+      2025
     ]
   },
   {
@@ -45207,26 +45207,6 @@
     "outputbase": null,
     "parentCode": "3901000",
     "actyvPr": 0,
-    "name": "Забезпечення виконання завдань і заходів із підтримки українців за кордоном та сприяння їх \r\nповерненню в Україну",
-    "dateto": "2025-12-31",
-    "details": 1,
-    "comment": null,
-    "datefrom": "2025-03-04",
-    "id": 2463,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 305,
-    "programType": 1,
-    "code": "3901150",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "3901000",
-    "actyvPr": 0,
     "name": "Забезпечення виконання завдань і заходів із підтримки українців за кордоном та сприяння їх поверненню в Україну",
     "dateto": "2026-01-01",
     "details": 1,
@@ -45236,6 +45216,26 @@
     "inputbase": "Закон",
     "years": [
       2026
+    ]
+  },
+  {
+    "idFkv": 305,
+    "programType": 1,
+    "code": "3901150",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3901000",
+    "actyvPr": 0,
+    "name": "Забезпечення виконання завдань і заходів із підтримки українців за кордоном та сприяння їх \r\nповерненню в Україну",
+    "dateto": "2025-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2025-03-04",
+    "id": 2463,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -49612,7 +49612,7 @@
     "programType": 1,
     "code": "6561800",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "6561000",
     "actyvPr": 0,
