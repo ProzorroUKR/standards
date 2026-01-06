@@ -4488,6 +4488,23 @@
     "inputbase": "Закон"
   },
   {
+    "idFkv": 317,
+    "programType": 1,
+    "code": "2211370",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2211000",
+    "actyvPr": 0,
+    "name": "Субвенція з державного бюджету місцевим бюджетам на здійснення доплат педагогічним працівникам закладів загальної середньої освіти",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-05",
+    "id": 2820,
+    "inputbase": "Розпис"
+  },
+  {
     "idFkv": 438,
     "programType": 1,
     "code": "2211410",
