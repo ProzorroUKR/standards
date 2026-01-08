@@ -1,19 +1,19 @@
 {
   "contractBreach": {
-    "title_uk": "Пункт 49, Частина 1, Постанови 822",
-    "title_en": "Clause 49, Part 1, Decree 822",
+    "title_uk": "Підпункт 1 пункту 49 Постанови Кабміну Міністрів України від 14.09.2020 № 822 \"Про затвердження Порядку формування та використання електронного каталогу\"",
+    "title_en": "Paragraph 1 of Section 49 of the Resolution of the Cabinet of Ministers of Ukraine No. 822 dated September 14, 2020, \"On Approval of the Procedure for the Formation and Use of the Electronic Catalog\"",
     "description_uk": "Не підписав договір на умовах, визначених замовником у запиті пропозицій постачальників шляхом заповнення електронних форм із окремими полями та у проекті договору, що є складовою частиною запиту пропозицій постачальників, та/або не надав забезпечення виконання договору у строк, визначений пунктом 66 цього Порядку",
     "description_en": "Failed to sign the contract under the terms determined by the contracting authority in the request for proposals of suppliers by completing electronic forms with separate fields and in the draft contract, which forms an integral part of the request for proposals of suppliers, and/or failed to provide the contract performance security within the period specified in Clause 66 of this Procedure"
   },
   "signingRefusal": {
-    "title_uk": "Пункт 49, Частина 2, Постанови 822",
-    "title_en": "Clause 49, Part 2, Decree 822",
+    "title_uk": "Підпункт 2 пункту 49 Постанови Кабміну Міністрів України від 14.09.2020 № 822 \"Про затвердження Порядку формування та використання електронного каталогу\"",
+    "title_en": "Paragraph 2 of Section 49 of the Resolution of the Cabinet of Ministers of Ukraine No. 822 dated September 14, 2020, \"On Approval of the Procedure for the Formation and Use of the Electronic Catalog\"",
     "description_uk": "Письмово відмовився від укладення договору на умовах, визначених замовником у запиті пропозицій постачальників шляхом заповнення електронних форм із окремими полями та у проекті договору, що є складовою частиною запиту пропозицій постачальників, після спливу трьох календарних днів з дня оприлюднення в електронній системі закупівель повідомлення про намір укласти договір",
     "description_en": "Refused in writing to conclude the contract under the terms determined by the contracting authority in the request for proposals of suppliers by completing electronic forms with separate fields and in the draft contract, which forms an integral part of the request for proposals of suppliers, following the expiration of three calendar days from the date of publication of the notice of intent to conclude the contract in the electronic procurement system"
   },
   "goodsNonCompliance": {
-    "title_uk": "Пункт 49, Частина 3, Постанови 822",
-    "title_en": "Clause 49, Part 3, Decree 822",
+    "title_uk": "Підпункт 3 пункту 49 Постанови Кабміну Міністрів України від 14.09.2020 № 822 \"Про затвердження Порядку формування та використання електронного каталогу\"",
+    "title_en": "Paragraph 3 of Section 49 of the Resolution of the Cabinet of Ministers of Ukraine No. 822 dated September 14, 2020, \"On Approval of the Procedure for the Formation and Use of the Electronic Catalog\"",
     "description_uk": "Не виконав свої зобов’язання за раніше укладеним договором, із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду, що набрало законної сили",
     "description_en": "Failed to fulfill their obligations under a previously concluded contract with the same contracting authority, which resulted in its early termination, and sanctions in the form of fines and/or compensation for damages were applied within three years from the date of such early termination, as confirmed by a court decision that has entered into legal force"
   }
