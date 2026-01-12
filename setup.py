@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name="standards",
-    version="1.0.215",
+    version="1.0.216",
     description="Prozorro standards",
     python_requires=">=2.7",
     package_dir={'standards': '.'},
