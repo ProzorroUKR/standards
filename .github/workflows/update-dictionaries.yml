@@ -79,12 +79,12 @@ jobs:
             echo "changed=true" >> $GITHUB_ENV
           fi
 
-      - name: Commit and Push Changes
-        if: env.changed == 'true'
-        run: |
-          git status
-          git commit -m "Update dictionaries JSON data from API" -a || echo "No changes to commit"
-          git push origin $BRANCH_NAME
+#      - name: Commit and Push Changes
+#        if: env.changed == 'true'
+#        run: |
+#          git status
+#          git commit -m "Update dictionaries JSON data from API" -a || echo "No changes to commit"
+#          git push origin $BRANCH_NAME
 
       - name: Create Pull Request
         if: env.create_pr == 'true' && env.changed == 'true'
