@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v1
@@ -90,6 +90,7 @@ jobs:
         if: env.create_pr == 'true' && env.changed == 'true'
         run: |
           gh api repos/ProzorroUKR/standards/collaborators --paginate
+          gh api repos/ProzorroUKR/standards/assignees
 #          gh pr create -B master -H ${{ env.BRANCH_NAME }} --title "Update dictionary JSON data" --body "Automated pull request to update JSON data from API." --assignee "ozamirets" --reviewer ProzorroUKR:StarFox144"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
