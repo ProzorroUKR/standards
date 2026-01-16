@@ -17716,6 +17716,26 @@
     "programType": 1,
     "code": "2211380",
     "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2211000",
+    "actyvPr": 0,
+    "name": "Субвенція з державного бюджету місцевим бюджетам на покращення гарячого харчування та фінансування харчування учнів початкових класів закладів загальної середньої освіти",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-12",
+    "id": 2821,
+    "inputbase": "Розпис",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
+    "code": "2211380",
+    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "2211000",
