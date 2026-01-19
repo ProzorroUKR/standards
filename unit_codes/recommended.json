@@ -149,6 +149,12 @@
     "name_uk": "капсула",
     "symbol_uk": "капс"
   },
+  "B12": {
+    "name_en": "joule per metre",
+    "symbol_en": "J/m",
+    "name_uk": "джоуль на метр",
+    "symbol_uk": "дж/м"
+  },
   "B37": {
     "name_en": "kilogram-force",
     "symbol_en": "kgf",
