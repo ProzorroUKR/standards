@@ -87,8 +87,8 @@ jobs:
 #          git push origin $BRANCH_NAME
 
       - name: Create Pull Request
-        if: env.create_pr == 'true' && env.changed == 'true'
         run: |
-          gh pr create -B master -H ${{ env.BRANCH_NAME }} --title "Update dictionary JSON data" --body "Automated pull request to update JSON data from API." --assignee "mhoang-rg"
+          gh api repos/ProzorroUKR/standards/assignees
+          gh pr create -B master -H ${{ env.BRANCH_NAME }} --title "Update dictionary JSON data" --body "Automated pull request to update JSON data from API." --assignee "StarFox144"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
