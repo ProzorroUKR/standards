@@ -7752,6 +7752,23 @@
     "inputbase": "Закон"
   },
   {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "3121430",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3121000",
+    "actyvPr": 0,
+    "name": "Фонд ліквідації наслідків збройної агресії",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-26",
+    "id": 2833,
+    "inputbase": "Розпис"
+  },
+  {
     "idFkv": 317,
     "programType": 1,
     "code": "3121490",
