@@ -7276,6 +7276,23 @@
     "inputbase": "Закон"
   },
   {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "3101700",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 0,
+    "name": "Надання допомоги на придбання незалежних джерел електричної енергії для задоволення потреб співвласників багатоквартирних будинків",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-29",
+    "id": 2834,
+    "inputbase": "Розпис"
+  },
+  {
     "idFkv": 355,
     "programType": 1,
     "code": "3101820",
@@ -7648,6 +7665,23 @@
     "datefrom": "2023-01-01",
     "id": 1832,
     "inputbase": "Закон"
+  },
+  {
+    "idFkv": 346,
+    "programType": 1,
+    "code": "3111700",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3111000",
+    "actyvPr": 0,
+    "name": "Закупівля обладнання мобільної розподільної генерації тепло- та електроенергії для потреб територіальних громад",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-20",
+    "id": 2835,
+    "inputbase": "Розпис"
   },
   {
     "idFkv": 0,
