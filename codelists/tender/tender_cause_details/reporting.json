@@ -259,5 +259,32 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n426",
     "scheme": "DECREE1178",
     "archive": false
+  },
+  "cancellationOfAboveThreshold": {
+    "title_uk": "Пункт 86",
+    "title_en": " Paragraph 86",
+    "description_uk": "У разі коли відкриті торги, проведені відповідно до пункту 85 цих особливостей, було відмінено у зв’язку з неподанням жодної тендерної пропозиції для участі у відкритих торгах у строк, установлений замовником згідно з цими особливостями, придбання товарів, робіт і послуг може здійснюватися шляхом укладення договору про закупівлю без застосування відкритих торгів та/або електронного каталогу для закупівлі товару",
+  "description_en": "Where open tendering procedures conducted in accordance with paragraph 85 of these Special Rules were cancelled due to the absence of any submitted tender proposals within the deadline set by the contracting authority, the procurement of goods, works, or services may be carried out by concluding a procurement contract without applying open tendering procedures and/or the electronic catalogue"
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n426",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "cancellationOfPriceQuatation": {
+    "title_uk": "Пункт 89",
+    "title_en": " Paragraph 89",
+    "description_uk": " Якщо запит пропозицій постачальників, проведений відповідно до пункту 88 цих особливостей, не відбувся у зв’язку з тим, що не було подано жодної ціни пропозиції, в такому випадку замовник може здійснити закупівлю шляхом укладення договору про закупівлю без застосування відкритих торгів та/або електронного каталогу для закупівлі товару та без застосування умов, передбачених пунктами 78 і 79 цих особливостей",
+    "description_en": "If the request for proposals from suppliers, conducted in accordance with paragraph 88 of these specifications, did not take place due to the fact that no bid prices were submitted, in such a case, the customer may make a purchase by concluding a purchase agreement without applying open bidding and/or an electronic catalog for the purchase of goods and without applying the conditions provided for in paragraphs 78 and 79 of these specifications"
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n426",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "reportingEligibilityException": {
+    "title_uk": "Пункт 91",
+    "title_en": " Paragraph 91",
+    "description_uk": "Якщо під час закупівлі без застосування електронної системи закупівель відповідно до абзацу третього пункту 80 цих особливостей замовник не може виконати умови, визначені пунктами 78 або 79 цих особливостей, у такому випадку він здійснює таку закупівлю шляхом укладення договору про закупівлю без застосування електронної системи закупівель та без застосування умов, передбачених пунктами 78 і 79 цих особливостей",
+    "description_en": "If, during procurement without the use of an electronic procurement system in accordance with the third paragraph of clause 80 of these special provisions, the customer is unable to fulfill the conditions specified in clauses 78 or 79 of these special provisions, in such a case, it shall carry out such procurement by concluding a procurement contract without using an electronic procurement system and without applying the conditions provided for in clauses 78 and 79 of these special provisions",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n426",
+    "scheme": "DECREE1178",
+    "archive": false
   }
 }
