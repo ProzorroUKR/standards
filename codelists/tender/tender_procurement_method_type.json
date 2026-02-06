@@ -166,5 +166,13 @@
     "name_en": "Simple Defense",
     "description_uk": "Процедура, що застосовується в рамках Закону України \"Про особливості здійснення закупівель товарів, робіт і послуг для гарантованого забезпечення потреб оборони\".",
     "name_uk": "Спрощені торги із застосуванням електронної системи закупівель"
+  },
+  "complexAsset.arma": {
+    "autoInitiated": false,
+    "procurementMethod": "open",
+    "description_en": "Procedure conducted to find managers for complex assets",
+    "name_en": "Selection of a manager for a complex asset",
+    "description_uk": "Процедура, яка проводиться для пошуку управителів складних активів",
+    "name_uk": "Відбір управителя складного активу"
   }
 }

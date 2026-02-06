@@ -122,5 +122,8 @@
     "defense",
     "other",
     "special"
+  ],
+  "complexAsset.arma": [
+    "authority"
   ]
 }
