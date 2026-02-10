@@ -5,6 +5,24 @@
     "name_en": "Electronic auction",
     "description_en": "A parameter that determines the presence or absence of an electronic auction in procurement"
   },
+  "minTenderingDuration": {
+    "name_uk": "Мінімальна тривалість подання пропозицій",
+    "description_uk": "Параметр, який встановлює мінімальну тривалість періоду подання пропозицій",
+    "name_en": "Minimum duration for submitting proposals",
+    "description_en": "A parameter that sets the minimum duration of the proposal submission period"
+  },
+  "hasEnquiries": {
+    "name_uk": "Етап обговорення умов тендерної документації",
+    "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі окремого етапу обговорення умов тендерної документації",
+    "name_en": "Stage of discussion of the terms of the tender documentation",
+    "description_en": "Parameter that determines the presence or absence of a separate stage of discussion of the terms of tender documentation in the procurement"
+  },
+  "enquiryPeriodRegulation": {
+    "name_uk": "Кількість днів між кінцевою датою обговорення умов та кінцевим строком подання пропозицій",
+    "description_uk": "Параметр, що визначає кінцеву дату періоду обговорення умов тендерної документації у відповідності до кінцевого строку подання тендерних пропозицій",
+    "name_en": "Number of days between the final date for discussion of terms and conditions and the deadline for submission of proposals",
+    "description_en": "Parameter that determines the end date of the period for discussing the terms of the tender documentation in accordance with the deadline for submitting tender proposals"
+  },
   "hasAwardingOrder": {
     "name_uk": "Послідовний порядок розгляду пропозицій",
     "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі обовʼязкового послідовного розгляду пропозицій",
