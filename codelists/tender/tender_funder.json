@@ -29,6 +29,32 @@
     "additionalIdentifiers": [],
     "address": {
       "countryName": "Україна",
+      "locality": "Київ",
+      "postalCode": "03022",
+      "region": "Київська область",
+      "streetAddress": "вул. Васильківська, 30"
+    },
+    "contactPoint": {
+      "email": "info@zaporuka.org.ua",
+      "faxNumber": "",
+      "telephone": "+380443615697",
+      "url": "https://zaporuka.org.ua/",
+      "name_en": "Onipko Nataliia",
+      "name_uk": "Оніпко Наталія"
+    },
+    "identifier": {
+      "id": "35911054",
+      "scheme": "UA-EDR",
+      "legalName_en": "ZAPORUKA CHARITABLE FOUNDATION",
+      "legalName_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ  «БЛАГОДІЙНИЙ ФОНД «ЗАПОРУКА»"
+    },
+    "name_en": "ZAPORUKA FOUNDATION",
+    "name_uk": "БФ «ЗАПОРУКА»"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Україна",
       "locality": "м. Київ",
       "postalCode": "01001",
       "region": "м. Київ",
