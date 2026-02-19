@@ -4,9 +4,9 @@
     "hasAuction": {
       "type": "boolean",
       "enum": [
-        true
+        false
       ],
-      "default": true
+      "default": false
     },
     "hasAwardingOrder": {
       "type": "boolean",
