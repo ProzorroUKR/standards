@@ -325,17 +325,18 @@
       "faxNumber": "+48222500130",
       "telephone": "+48222500130",
       "url": "https://www.gov.pl/web/funds-regional-policy",
-      "name_en": "NEXT Poland – Ukraine 2021-2027",
-      "name_uk": "NEXT Польща — Україна 2021-2027"
+      "name_en": "Konrad Wojnarowski",
+      "name_uk": "Конрад Войнаровський"
     },
     "identifier": {
       "id": "140315583",
       "scheme": "PL-REGON",
-      "legalName_en": "The Minister of Development Funds and Regional Policy of the Republic of Poland acting as a Managing Authority for the Interreg NEXT Poland – Ukraine 2021-2027 Programme of the European Union",
-      "legalName_uk": "Міністр фондів розвитку та регіональної політики Республіки Польща як Орган управління Програми Interreg NEXT Польща — Україна 2021-2027 Європейського Союзу"
+      "legalName_en": "Ministry of Development Funds and Regional Policy of the Republic of Poland",
+      "legalName_uk": "Міністерство фондів розвитку та регіональної політики
+Республіки Польща"
     },
-    "name_en": "NEXT Poland – Ukraine 2021-2027 Programme of the European Union",
-    "name_uk": "Програма Interreg NEXT Польща — Україна 2021-2027 Європейського Союзу"
+    "name_en": "Interreg Program (Interreg VI-A) NEXT Poland – Ukraine",
+    "name_uk": "Програма Interreg (Interreg VI-A) NEXT Польща – Україна"
   },
   {
     "additionalIdentifiers": [],
@@ -414,5 +415,165 @@
     },
     "name_en": "European Commission",
     "name_uk": "Єврокомісія"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Румунія",
+      "locality": "Бухарест",
+      "postalCode": "050706",
+      "region": "Валахія",
+      "streetAddress": "Bld.Libertatii nr. 16, Sector 5, Bucharest"
+    },
+    "contactPoint": {
+      "email": "info@mdlpa.gov.ro",
+      "faxNumber": "(+40) 372 111 332",
+      "telephone": "(+40) 372 111 332",
+      "url": "https://www.mdlpa.ro/",
+      "name_en": "Iulia Hertzog",
+      "name_uk": "Юлія Герцог"
+    },
+    "identifier": {
+      "id": "26369185",
+      "scheme": "RO-CUI",
+      "legalName_en": "Ministry of Development, Public Works and Administration of Romania",
+      "legalName_uk": "Міністерство розвитку, громадських робіт і державного
+управління Румунії"
+    },
+    "name_en": "Interreg Program (Interreg VI-A) NEXT Romania – Ukraine",
+    "name_uk": "Програма Interreg (Interreg VI-A) NEXT Румунія – Україна"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Угорщина",
+      "locality": "Будапешт",
+      "postalCode": "1027",
+      "region": "Центральна Угорщина",
+      "streetAddress": "Budapest, Királyfürdő utca 4, 1027 Hungary"
+    },
+    "contactPoint": {
+      "email": "interreg@mfa.gov.hu",
+      "faxNumber": "(+36) 1 458 1195",
+      "telephone": "(+36) 1 458 1195",
+      "url": "http://www.kormany.hu/en/ministry-of-foreign-affairs-and-trade",
+      "name_en": "Nikoletta Horváth",
+      "name_uk": "Ніколетта Горват"
+    },
+    "identifier": {
+      "id": "HU15311344",
+      "scheme": "HU-VAT",
+      "legalName_en": "Ministry of Foreign Affairs and Trade of Hungary",
+      "legalName_uk": "Міністерство закордонних
+справ і торгівлі Угорщини"
+    },
+    "name_en": "Interreg Program (Interreg VI-A) NEXT Hungary – Slovakia – Romania – Ukraine",
+    "name_uk": "Програма Interreg (Interreg VI-A) NEXT Угорщина – Словаччина – Румунія – Україна"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Румунія",
+      "locality": "Бухарест",
+      "postalCode": "050706",
+      "region": "Валахія",
+      "streetAddress": "Bld.Libertatii nr. 16, Sector 5, Bucharest"
+    },
+    "contactPoint": {
+      "email": "blacksea-cbc@mdlpa.gov.ro",
+      "faxNumber": "(+40) 372 111 323",
+      "telephone": "(+40) 372 111 323",
+      "url": "https://www.mdlpa.ro/",
+      "name_en": "Iulia Hertzog",
+      "name_uk": "Юлія Герцог"
+    },
+    "identifier": {
+      "id": "26369185",
+      "scheme": "RO-CUI",
+      "legalName_en": "Ministry of Development, Public Works and Administration of Romania",
+      "legalName_uk": "Міністерство розвитку, громадських робіт і державного
+управління Румунії"
+    },
+    "name_en": "Interreg (Interreg VI-B) NEXT Program \"Black Sea Basin\"",
+    "name_uk": "Програма Interreg (Interreg VI-B) NEXT \"Басейн Чорного моря\""
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Угорщина",
+      "locality": "Будапешт",
+      "postalCode": "1358",
+      "region": "Центральна Угорщина",
+      "streetAddress": "1358 Budapest, Pf.: 6, Hungary"
+    },
+    "contactPoint": {
+      "email": "danube@interreg-danube.eu",
+      "faxNumber": "(+36) 30 172 0004",
+      "telephone": "(+36) 30 172 0004",
+      "url": "https://interreg-danube.eu/contact-us",
+      "name_en": "Imre Csalagovits",
+      "name_uk": "Імре Чалаговіц"
+    },
+    "identifier": {
+      "id": "HU15849272",
+      "scheme": "HU-VAT",
+      "legalName_en": "Ministry of Public Administration and Regional Development of Hungary",
+      "legalName_uk": "Міністерство державного управління та регіонального розвитку Угорщини"
+    },
+    "name_en": "Programme Danube Regional Programme (Interreg VI B)",
+    "name_uk": "Програма Дунайська регіональна програма (Interreg VI B)"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Франція",
+      "locality": "Лілль",
+      "postalCode": "59555",
+      "region": "О-де-Франс",
+      "streetAddress": "Hotel de Region, 151, avenue du President Hoover, 59555 Lille"
+    },
+    "contactPoint": {
+      "email": "interregeurope@hautsdefrance.fr",
+      "faxNumber": "(+33) 3 74 27 00 00",
+      "telephone": "(+33) 3 74 27 00 00",
+      "url": "https://www.hautsdefrance.fr",
+      "name_en": "Erwin Siweris",
+      "name_uk": "Ервін Сіверіс"
+    },
+    "identifier": {
+      "id": "200053742",
+      "scheme": "FR-RCS",
+      "legalName_en": "Hauts-de-France Regional Council",
+      "legalName_uk": "Регіональна рада О-де-Франс Французької Республіки"
+    },
+    "name_en": "Interreg Program (Interreg VI-C) Interreg Europe 2021-2027",
+    "name_uk": "Програма  Interreg (Interreg VI-C) Interreg Europe 2021-2027"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Франція",
+      "locality": "Париж",
+      "postalCode": "75334",
+      "region": "Іль-де-Франс",
+      "streetAddress": "20 avenue de Ségur – TSA 10717
+75334 PARIS CEDEX 07"
+    },
+    "contactPoint": {
+      "email": "urbact@urbact.eu",
+      "faxNumber": "(+33 ) 1 85 58 60 00",
+      "telephone": "(+33 ) 1 85 58 60 00",
+      "url": "https://agence-cohesion-territoires.gouv.fr/",
+      "name_en": "Corinne Poisson",
+      "name_uk": "Корінн Пуассон"
+    },
+    "identifier": {
+      "id": "130026032",
+      "scheme": "FR-RCS",
+      "legalName_en": "National Agency for Territorial Cohesion",
+      "legalName_uk": "Національне агентство з питань об'єднання територій"
+    },
+    "name_en": "Interreg Program (Interreg VI-C) URBACT IV",
+    "name_uk": "Програма Interreg (Interreg VI-C) URBACT IV"
   }
 ]
