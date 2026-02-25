@@ -34651,6 +34651,26 @@
   },
   {
     "idFkv": 445,
+    "programType": 2,
+    "code": "3101850",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 0,
+    "name": "Надання пільгових іпотечних кредитів внутрішньо переміщеним особам за рахунок коштів позики Банку розвитку Ради Європи",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-02-05",
+    "id": 2847,
+    "inputbase": "Розпис",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 445,
     "programType": 1,
     "code": "3101850",
     "level": 3,
