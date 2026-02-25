@@ -46,7 +46,7 @@
       "id": "35911054",
       "scheme": "UA-EDR",
       "legalName_en": "ZAPORUKA CHARITABLE FOUNDATION",
-      "legalName_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ  «БЛАГОДІЙНИЙ ФОНД «ЗАПОРУКА»"
+      "legalName_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ «БЛАГОДІЙНИЙ ФОНД «ЗАПОРУКА»"
     },
     "name_en": "ZAPORUKA FOUNDATION",
     "name_uk": "БФ Запорука"
@@ -449,7 +449,7 @@
       "countryName": "Угорщина",
       "locality": "Будапешт",
       "postalCode": "1027",
-      "region": "Центральна Угорщина",
+      "region": "Центральна Угорщина",
       "streetAddress": "Budapest, Királyfürdő utca 4, 1027 Hungary"
     },
     "contactPoint": {
@@ -503,7 +503,7 @@
       "countryName": "Угорщина",
       "locality": "Будапешт",
       "postalCode": "1358",
-      "region": "Центральна Угорщина",
+      "region": "Центральна Угорщина",
       "streetAddress": "1358 Budapest, Pf.: 6, Hungary"
     },
     "contactPoint": {
@@ -556,8 +556,7 @@
       "locality": "Париж",
       "postalCode": "75334",
       "region": "Іль-де-Франс",
-      "streetAddress": "20 avenue de Ségur – TSA 10717
-75334 PARIS CEDEX 07"
+      "streetAddress": "20 avenue de Ségur – TSA 1071775334 PARIS CEDEX 07"
     },
     "contactPoint": {
       "email": "urbact@urbact.eu",
