@@ -60,24 +60,24 @@
     "sign": "kr",
     "archive": false
   },
-  "RUB": {
-    "num": "643",
-    "code": "RUB",
-    "currency": "Russian ruble",
-    "title": "Russian Ruble",
-    "name_en": "Russian Ruble",
-    "name_uk": "Російський рубль",
-    "sign": "₽",
-    "archive": true
+  "RUB": {
+    "num": "643",
+    "code": "RUB",
+    "currency": "Russian ruble",
+    "title": "Russian Ruble"
+    "name_en": "Russian Ruble",
+    "name_uk": "Російський рубль",
+    "sign": "₽",
+    "archive": true
   },
-  "PLN": {
-    "num": "985",
-    "code": "PLN",
-    "currency": "Polish zloty",
-    "title": "Polish zloty",
-    "name_en": "Polish zloty",
-    "name_uk": "Польський злотий",
-    "sign": "zł",
-    "archive": false
+  "PLN": {
+    "num": "985",
+    "code": "PLN",
+    "currency": "Polish zloty",
+    "title": "Polish zloty",
+    "name_en": "Polish zloty",
+    "name_uk": "Польський злотий",
+    "sign": "zł",
+    "archive": false
   }
 }
