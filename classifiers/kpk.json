@@ -34527,6 +34527,26 @@
     ]
   },
   {
+    "idFkv": 355,
+    "programType": 1,
+    "code": "3101720",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 0,
+    "name": "Фінансування у 2026 році державного замовлення на здійснення залізничних пасажирських перевезень у внутрішньому сполученні",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-03-02",
+    "id": 2851,
+    "inputbase": "Розпис",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 333,
     "programType": 1,
     "code": "3101720",
