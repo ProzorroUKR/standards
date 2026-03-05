@@ -71,15 +71,6 @@
     "scheme": "DECREE1178",
     "archive": false
   },
-  "criticalInfrastructure": {
-    "title_uk": "Підпункт 13 пункту 13",
-    "title_en": "Subparagraph 13 of paragraph 13",
-    "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів",
-    "description_en": "Procurement of goods, works, and services for/related to construction, repair, and other engineering and technical measures to protect facilities",
-    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n426",
-    "scheme": "DECREE1178",
-    "archive": false
-  },
   "civilProtection": {
     "title_uk": "Підпункт 15 пункту 13",
     "title_en": "Subparagraph 15 of paragraph 13",
@@ -265,15 +256,6 @@
     "title_en": "Subparagraph 26 of paragraph 13",
     "description_uk": "Здійснюється закупівля юридичною особою, єдиним учасником (засновником) якої є держава, до 17 лютого 2026 р. послуг, необхідних для здійснення управління боргом, залучення, обслуговування і погашення запозичень, вчинення правочинів з борговими зобов’язаннями, що виникли внаслідок залучення запозичень з міжнародного ринку капіталу через інструменти кредитування, розміщення іноземних боргових цінних паперів на іноземній фондовій біржі, у тому числі шляхом обміну, випуску, купівлі, викупу та продажу боргових зобов’язань",
     "description_en": "Purchases are made by a legal entity whose sole participant (founder) is the state, until February 17, 2026 services necessary for debt management, borrowing, servicing and repayment of borrowings, performing legal acts with debt obligations arising from borrowing on the international capital market through lending instruments, placing foreign debt securities on a foreign stock exchange, including through exchange, issue, purchase, redemption, and sale of debt obligations",
-    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n426",
-    "scheme": "DECREE1178",
-    "archive": false
-  },
-  "stateSupportForChildren": {
-    "title_uk": "Підпункт 27 пункту 13",
-    "title_en": "Subparagraph 27 of paragraph 13",
-    "description_uk": "Здійснюється до 1 березня 2026 р. закупівля товарів, робіт та послуг, необхідних для надання державної підтримки, визначеної підпунктом 7 пункту 2 додатка 1 до Порядку використання коштів державного фонду декарбонізації та енергоефективної трансформації, затвердженого постановою Кабінету Міністрів України від 21 червня 2024 р. № 761 (Офіційний вісник України, 2024 р., № 63, ст. 3747), а саме закупівля та доставка для задоволення потреб дітей з інвалідністю підгрупи А портативних зарядних станцій орієнтовною ємністю 2 кВт•год",
-    "description_en": "The procurement of goods, works, and services necessary for the provision of state support, as defined in subparagraph 7 of paragraph 2 of Appendix 1 to the Procedure for the Use of Funds from the State Fund for Decarbonization and Energy Efficiency Transformation, approved by Resolution of the Cabinet of Ministers of Ukraine No. 761 dated June 21, 2024 (Official Gazette of Ukraine, 2024, No. 63, p. 3747), namely the procurement and delivery of goods, works, and services necessary to meet the needs of children with disabilities, shall be carried out until March 1, 2026. No. 761 (Official Gazette of Ukraine, 2024, No. 63, p. 3747), namely the purchase and delivery of portable charging stations with an approximate capacity of 2 kWh to meet the needs of children with disabilities in subgroup A",
     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n426",
     "scheme": "DECREE1178",
     "archive": false
