@@ -11,6 +11,12 @@
     "name_en": "Minimum duration for submitting proposals",
     "description_en": "A parameter that sets the minimum duration of the proposal submission period"
   },
+  "minEnquiriesDuration": {
+    "name_uk": "Мінімальна тривалість  окремого етапу обговорення умов тендерної документації",
+    "description_uk": "Параметр, який встановлює мінімальну тривалість  окремого етапу обговорення умов тендерної документації",
+    "name_en": "Minimum duration of a separate stage of discussion of the terms of tender documentation",
+    "description_en": "A parameter that sets the minimum duration of a separate stage of discussion of the terms of tender documentation"
+  },
   "hasEnquiries": {
     "name_uk": "Етап обговорення умов тендерної документації",
     "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі окремого етапу обговорення умов тендерної документації",
