@@ -1,0 +1,16 @@
+{
+  "dynamicPurchasingSystem": [
+    "authority",
+    "social",
+    "central",
+    "general",
+    "defense",
+    "special"
+  ],
+  "electronicCatalogue": [
+    "central"
+  ],
+  "internationalFinancialInstitutions": [
+    "other"
+  ]
+}

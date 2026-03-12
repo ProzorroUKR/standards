@@ -11,6 +11,12 @@
     "name_en": "The number of days to provide explanations for the request",
     "description_en": "The parameter that sets the number of days for the customer to respond to the request"
   },
+  "hasQualificationComplaints": {
+    "name_uk": "Оскарження результатів кваліфікації",
+    "description_uk": "Параметр, що визначає наявність або відсутність у закупівлі оскарження (звернення до АМКУ за допомогою скарги) результатів проведення кваліфікації учасників",
+    "name_en": "Appeal of the qualification results",
+    "description_en": "The parameter that determines the presence or absence of an appeal (appeal to the AMCU by means of a complaint) of the results of the qualification of participants in the procurement"
+  },
   "hasItems": {
     "name_uk": "Деталізація предмету закупівлі",
     "description_uk": "Параметр, що визначає наявність або відсутність у відборі деталізації предмету закупівлі (номенклатури)",

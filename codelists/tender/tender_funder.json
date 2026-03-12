@@ -29,6 +29,32 @@
     "additionalIdentifiers": [],
     "address": {
       "countryName": "Україна",
+      "locality": "Київ",
+      "postalCode": "03022",
+      "region": "Київська область",
+      "streetAddress": "вул. Васильківська, 30"
+    },
+    "contactPoint": {
+      "email": "info@zaporuka.org.ua",
+      "faxNumber": "",
+      "telephone": "+380443615697",
+      "url": "https://zaporuka.org.ua/",
+      "name_en": "Onipko Nataliia",
+      "name_uk": "Оніпко Наталія"
+    },
+    "identifier": {
+      "id": "35911054",
+      "scheme": "UA-EDR",
+      "legalName_en": "ZAPORUKA CHARITABLE FOUNDATION",
+      "legalName_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ \"БЛАГОДІЙНИЙ ФОНД «ЗАПОРУКА»\""
+    },
+    "name_en": "ZAPORUKA FOUNDATION",
+    "name_uk": "БФ Запорука"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Україна",
       "locality": "м. Київ",
       "postalCode": "01001",
       "region": "м. Київ",
@@ -48,8 +74,8 @@
       "legalName_en": "National Research Foundation of Ukraine",
       "legalName_uk": "Національний фонд досліджень України"
     },
-    "name_en": "National Research Foundation of Ukraine",
-    "name_uk": "Національний фонд досліджень України"
+    "name_en": "NRFU",
+    "name_uk": "НФДУ"
   },
   {
     "additionalIdentifiers": [],
@@ -101,7 +127,7 @@
       "legalName_uk": "Громадська організація Електронна демократія"
     },
     "name_en": "NGO E-DEMOCRACY",
-    "name_uk": "ГО ЕЛЕКТРОННА ДЕМОКРАТІЯ"
+    "name_uk": "ГО Електронна демократія"
   },
   {
     "additionalIdentifiers": [],
@@ -126,8 +152,8 @@
       "legalName_en": "Foreign, Commonwealth and Development Office",
       "legalName_uk": "Міністерство закордонних справ і справ Співдружності націй та розвитку Великої Британії"
     },
-    "name_en": "Foreign, Commonwealth and Development Office",
-    "name_uk": "Міністерство закордонних справ і справ Співдружності націй та розвитку Великої Британії"
+    "name_en": "British Foreign Office",
+    "name_uk": "МЗС Великої Британії"
   },
   {
     "additionalIdentifiers": [],
@@ -152,8 +178,8 @@
       "legalName_en": "United States Agency for International Development",
       "legalName_uk": "Aгентство США з Міжнародного Розвитку"
     },
-    "name_en": "United States Agency for International Development",
-    "name_uk": "Aгентство США з Міжнародного Розвитку"
+    "name_en": "USAID",
+    "name_uk": "Програма США (USAID)"
   },
   {
     "additionalIdentifiers": [],
@@ -205,7 +231,7 @@
       "legalName_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ \"МІЖНАРОДНИЙ БЛАГОДІЙНИЙ ФОНД \"НОВА ЮКРЕЙН\""
     },
     "name_en": "CO \"NOVA UKRAINE ICF\"",
-    "name_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ \"МІЖНАРОДНИЙ БЛАГОДІЙНИЙ ФОНД \"НОВА ЮКРЕЙН\""
+    "name_uk": "МБФ Нова Юкрейн"
   },
   {
     "additionalIdentifiers": [],
@@ -231,7 +257,7 @@
       "legalName_uk": "Програма допомоги з міжнародного розвитку від уряду Великої Британії (UK Dev)"
     },
     "name_en": "UK International Development (UK Dev)",
-    "name_uk": "Програма допомоги з міжнародного розвитку від уряду Великої Британії (UK Dev)"
+    "name_uk": "Програма Великої Британії (UK Dev)"
   },
   {
     "additionalIdentifiers": [],
@@ -257,7 +283,7 @@
       "legalName_uk": "Благодійний фонд \"Таблеточки\""
     },
     "name_en": "Tabletochki CF",
-    "name_uk": "БФ \"Таблеточки\""
+    "name_uk": "БФ Таблеточки"
   },
   {
     "additionalIdentifiers": [],
@@ -280,10 +306,10 @@
       "id": "55000",
       "scheme": "XM-DAC",
       "legalName_en": "Ukraine Facility",
-      "legalName_uk": "Ukraine Facility"
+      "legalName_uk": "Програма допомоги ЄС (Ukraine Facility)"
     },
     "name_en": "Ukraine Facility",
-    "name_uk": "Ukraine Facility"
+    "name_uk": "Програма ЄС (Ukraine Facility)"
   },
   {
     "additionalIdentifiers": [],
@@ -299,17 +325,17 @@
       "faxNumber": "+48222500130",
       "telephone": "+48222500130",
       "url": "https://www.gov.pl/web/funds-regional-policy",
-      "name_en": "NEXT Poland – Ukraine 2021-2027",
-      "name_uk": "NEXT Польща — Україна 2021-2027"
+      "name_en": "Konrad Wojnarowski",
+      "name_uk": "Конрад Войнаровський"
     },
     "identifier": {
       "id": "140315583",
       "scheme": "PL-REGON",
-      "legalName_en": "The Minister of Development Funds and Regional Policy of the Republic of Poland acting as a Managing Authority for the Interreg NEXT Poland – Ukraine 2021-2027 Programme of the European Union",
-      "legalName_uk": "Міністр фондів розвитку та регіональної політики Республіки Польща як Орган управління Програми Interreg NEXT Польща — Україна 2021-2027 Європейського Союзу"
+      "legalName_en": "Ministry of Development Funds and Regional Policy of the Republic of Poland",
+      "legalName_uk": "Міністерство фондів розвитку та регіональної політики Республіки Польща"
     },
-    "name_en": "NEXT Poland – Ukraine 2021-2027 Programme of the European Union",
-    "name_uk": "Програма Interreg NEXT Польща — Україна 2021-2027 Європейського Союзу"
+    "name_en": "Interreg Program VI-A NEXT Poland",
+    "name_uk": "Програма Польщі Interreg VI-A NEXT"
   },
   {
     "additionalIdentifiers": [],
@@ -334,8 +360,8 @@
       "legalName_en": "European Investment Bank",
       "legalName_uk": "Європейський інвестиційний банк"
     },
-    "name_en": "EIB",
-    "name_uk": "ЄІБ"
+    "name_en": "European Investment Bank",
+    "name_uk": "Європейський інвестиційний банк"
   },
   {
     "additionalIdentifiers": [],
@@ -361,7 +387,7 @@
       "legalName_uk": "БЛАГОДІЙНА ОРГАНІЗАЦІЯ \"БЛАГОДІЙНИЙ ФОНД \"ОХМАТДИТ – ЗДОРОВЕ ДИТИНСТВО\"\""
     },
     "name_en": "OHMATDYT – IS HEALTHY CHILDHOOD",
-    "name_uk": "БФ \"ОХМАТДИТ – ЗДОРОВЕ ДИТИНСТВО\""
+    "name_uk": "БФ Охматдит – Здорове дитинство"
   },
   {
     "additionalIdentifiers": [],
@@ -387,6 +413,162 @@
       "legalName_uk": "Європейська комісія"
     },
     "name_en": "European Commission",
-    "name_uk": "Єврокомісія"
+    "name_uk": "Європейська комісія"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Румунія",
+      "locality": "Бухарест",
+      "postalCode": "050706",
+      "region": "Валахія",
+      "streetAddress": "Bld.Libertatii nr. 16, Sector 5, Bucharest"
+    },
+    "contactPoint": {
+      "email": "info@mdlpa.gov.ro",
+      "faxNumber": "(+40) 372 111 332",
+      "telephone": "(+40) 372 111 332",
+      "url": "https://www.mdlpa.ro/",
+      "name_en": "Iulia Hertzog",
+      "name_uk": "Юлія Герцог"
+    },
+    "identifier": {
+      "id": "26369185",
+      "scheme": "RO-CUI",
+      "legalName_en": "Ministry of Development, Public Works and Administration of Romania",
+      "legalName_uk": "Міністерство розвитку, громадських робіт і державного управління Румунії"
+    },
+    "name_en": "Interreg Program VI-A NEXT Romania",
+    "name_uk": "Програма Румунії Interreg VI-A NEXT"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Угорщина",
+      "locality": "Будапешт",
+      "postalCode": "1027",
+      "region": "Центральна Угорщина",
+      "streetAddress": "Budapest, Királyfürdő utca 4, 1027 Hungary"
+    },
+    "contactPoint": {
+      "email": "interreg@mfa.gov.hu",
+      "faxNumber": "(+36) 1 458 1195",
+      "telephone": "(+36) 1 458 1195",
+      "url": "http://www.kormany.hu/en/ministry-of-foreign-affairs-and-trade",
+      "name_en": "Nikoletta Horváth",
+      "name_uk": "Ніколетта Горват"
+    },
+    "identifier": {
+      "id": "HU15311344",
+      "scheme": "HU-VAT",
+      "legalName_en": "Ministry of Foreign Affairs and Trade of Hungary",
+      "legalName_uk": "Міністерство закордонних справ і торгівлі Угорщини"
+    },
+    "name_en": "Interreg Program VI-A NEXT Hungary – Slovakia – Romania",
+    "name_uk": "Програма Угорщини – Словаччини – Румунії Interreg VI-A NEXT"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Румунія",
+      "locality": "Бухарест",
+      "postalCode": "050706",
+      "region": "Валахія",
+      "streetAddress": "Bld.Libertatii nr. 16, Sector 5, Bucharest"
+    },
+    "contactPoint": {
+      "email": "blacksea-cbc@mdlpa.gov.ro",
+      "faxNumber": "(+40) 372 111 323",
+      "telephone": "(+40) 372 111 323",
+      "url": "https://www.mdlpa.ro/",
+      "name_en": "Iulia Hertzog",
+      "name_uk": "Юлія Герцог"
+    },
+    "identifier": {
+      "id": "26369185",
+      "scheme": "RO-CUI",
+      "legalName_en": "Ministry of Development, Public Works and Administration of Romania",
+      "legalName_uk": "Міністерство розвитку, громадських робіт і державного управління Румунії"
+    },
+    "name_en": "Interreg Program VI-B NEXT Black Sea Basin",
+    "name_uk": "Програма Басейну Чорного моря Interreg VI-B NEXT"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Угорщина",
+      "locality": "Будапешт",
+      "postalCode": "1358",
+      "region": "Центральна Угорщина",
+      "streetAddress": "1358 Budapest, Pf.: 6, Hungary"
+    },
+    "contactPoint": {
+      "email": "danube@interreg-danube.eu",
+      "faxNumber": "(+36) 30 172 0004",
+      "telephone": "(+36) 30 172 0004",
+      "url": "https://interreg-danube.eu/contact-us",
+      "name_en": "Imre Csalagovits",
+      "name_uk": "Імре Чалаговіц"
+    },
+    "identifier": {
+      "id": "HU15849272",
+      "scheme": "HU-VAT",
+      "legalName_en": "Ministry of Public Administration and Regional Development of Hungary",
+      "legalName_uk": "Міністерство державного управління та регіонального розвитку Угорщини"
+    },
+    "name_en": "Danube Regional Programme Interreg VI B",
+    "name_uk": "Дунайська регіональна програма Interreg VI B"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Французька Республіка",
+      "locality": "Лілль",
+      "postalCode": "59555",
+      "region": "О-де-Франс",
+      "streetAddress": "Hotel de Region, 151, avenue du President Hoover, 59555 Lille"
+    },
+    "contactPoint": {
+      "email": "interregeurope@hautsdefrance.fr",
+      "faxNumber": "(+33) 3 74 27 00 00",
+      "telephone": "(+33) 3 74 27 00 00",
+      "url": "https://www.hautsdefrance.fr",
+      "name_en": "Erwin Siweris",
+      "name_uk": "Ервін Сіверіс"
+    },
+    "identifier": {
+      "id": "200053742",
+      "scheme": "FR-RCS",
+      "legalName_en": "Hauts-de-France Regional Council",
+      "legalName_uk": "Регіональна рада О-де-Франс Французької Республіки"
+    },
+    "name_en": "Interreg Program VI-C Europe",
+    "name_uk": "Програма Interreg VI-C Europe"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Французька Республіка",
+      "locality": "Париж",
+      "postalCode": "75334",
+      "region": "Іль-де-Франс",
+      "streetAddress": "20 avenue de Ségur – TSA 1071775334 PARIS CEDEX 07"
+    },
+    "contactPoint": {
+      "email": "urbact@urbact.eu",
+      "faxNumber": "(+33 ) 1 85 58 60 00",
+      "telephone": "(+33 ) 1 85 58 60 00",
+      "url": "https://agence-cohesion-territoires.gouv.fr/",
+      "name_en": "Corinne Poisson",
+      "name_uk": "Корінн Пуассон"
+    },
+    "identifier": {
+      "id": "130026032",
+      "scheme": "FR-RCS",
+      "legalName_en": "National Agency for Territorial Cohesion",
+      "legalName_uk": "Національне агентство з питань об'єднання територій"
+    },
+    "name_en": "Interreg Program VI-C URBACT IV",
+    "name_uk": "Програма Interreg VI-C URBACT IV"
   }
 ]

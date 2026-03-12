@@ -69,5 +69,15 @@
     "name_uk": "Російський рубль",
     "sign": "₽",
     "archive": true
+  },
+  "PLN": {
+    "num": "985",
+    "code": "PLN",
+    "currency": "Polish zloty",
+    "title": "Polish zloty",
+    "name_en": "Polish zloty",
+    "name_uk": "Польський злотий",
+    "sign": "zł",
+    "archive": false
   }
 }
