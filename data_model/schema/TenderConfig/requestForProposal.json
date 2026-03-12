@@ -128,28 +128,29 @@
     },
     "minTenderingDuration": {
       "type": "integer",
-      "minimum": 4,
-      "maximum": 4,
-      "default": 4
+      "minimum": 7,
+      "maximum": 7,
+      "default": 7
     },
     "hasEnquiries": {
       "type": "boolean",
       "enum": [
-        true
+        true,
+        false
       ],
       "default": true
     },
     "minEnquiriesDuration": {
       "type": "integer",
-      "minimum": 3,
+      "minimum": 0,
       "maximum": 3,
       "default": 3
     },
     "enquiryPeriodRegulation": {
       "type": "integer",
-      "minimum": 3,
-      "maximum": 3,
-      "default": 3
+      "minimum": 0,
+      "maximum": 4,
+      "default": 0
     },
     "restricted": {
       "type": "boolean",
@@ -185,5 +186,36 @@
     "enquiryPeriodRegulation",
     "restricted"
   ],
-  "additionalProperties": false
+  "additionalProperties": false,
+  "if": {
+    "properties": {
+      "hasEnquiries": {
+        "const": true
+      }
+    }
+  },
+  "then": {
+    "properties": {
+      "minEnquiriesDuration": {
+        "minimum": 3,
+        "maximum": 3
+      },
+      "enquiryPeriodRegulation": {
+        "minimum": 0,
+        "maximum": 0
+      }
+    }
+  },
+  "else": {
+    "properties": {
+      "minEnquiriesDuration": {
+        "minimum": 0,
+        "maximum": 0
+      },
+      "enquiryPeriodRegulation": {
+        "minimum": 4,
+        "maximum": 4
+      }
+    }
+  }
 }
