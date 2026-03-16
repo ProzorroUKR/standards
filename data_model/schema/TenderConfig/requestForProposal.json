@@ -195,20 +195,28 @@
   "then": {
     "properties": {
       "minEnquiriesDuration": {
-        "enum": [3]
+        "enum": [
+          3
+        ]
       },
       "enquiryPeriodRegulation": {
-        "enum": [0]
+        "enum": [
+          0
+        ]
       }
     }
   },
   "else": {
     "properties": {
       "minEnquiriesDuration": {
-        "enum": [0]
+        "enum": [
+          0
+        ]
       },
       "enquiryPeriodRegulation": {
-        "enum": [4]
+        "enum": [
+          4
+        ]
       }
     }
   }
