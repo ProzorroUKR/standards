@@ -143,13 +143,11 @@
     "minEnquiriesDuration": {
       "type": "integer",
       "minimum": 0,
-      "maximum": 3,
       "default": 3
     },
     "enquiryPeriodRegulation": {
       "type": "integer",
       "minimum": 0,
-      "maximum": 4,
       "default": 0
     },
     "restricted": {
@@ -189,19 +187,29 @@
   "additionalProperties": false,
   "if": {
     "properties": {
-      "hasEnquiries": { "const": true }
+      "hasEnquiries": {
+        "const": true
+      }
     }
   },
   "then": {
     "properties": {
-      "minEnquiriesDuration": { "minimum": 3, "maximum": 3 },
-      "enquiryPeriodRegulation": { "minimum": 0, "maximum": 0 }
+      "minEnquiriesDuration": {
+        "enum": [3]
+      },
+      "enquiryPeriodRegulation": {
+        "enum": [0]
+      }
     }
   },
   "else": {
     "properties": {
-      "minEnquiriesDuration": { "minimum": 0, "maximum": 0 },
-      "enquiryPeriodRegulation": { "minimum": 4, "maximum": 4 }
+      "minEnquiriesDuration": {
+        "enum": [0]
+      },
+      "enquiryPeriodRegulation": {
+        "enum": [4]
+      }
     }
   }
 }
