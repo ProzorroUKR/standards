@@ -167,6 +167,15 @@
       }
     ]
   },
+  "347": {
+    "templates": [
+      {
+        "title": "БПЛА",
+        "name": "DPA347.0001.01",
+        "active": true
+      }
+    ]
+  },
   "0931": {
     "templates": []
   },
