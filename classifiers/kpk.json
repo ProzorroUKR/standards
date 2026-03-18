@@ -9948,6 +9948,26 @@
     "programType": 1,
     "code": "1201700",
     "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 0,
+    "name": "Надання державної грошової допомоги покупцям товарів українського виробництва",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-03-12",
+    "id": 2877,
+    "inputbase": "Розпис",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "1201700",
+    "level": 3,
     "isactive": 0,
     "outputbase": "2024",
     "parentCode": "1201000",
