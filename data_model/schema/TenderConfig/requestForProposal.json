@@ -142,12 +142,18 @@
     },
     "minEnquiriesDuration": {
       "type": "integer",
-      "minimum": 0,
+      "enum": [
+        0,
+        3
+      ],
       "default": 3
     },
     "enquiryPeriodRegulation": {
       "type": "integer",
-      "minimum": 0,
+      "enum": [
+        0,
+        4
+      ],
       "default": 0
     },
     "restricted": {
@@ -184,40 +190,5 @@
     "enquiryPeriodRegulation",
     "restricted"
   ],
-  "additionalProperties": false,
-  "if": {
-    "properties": {
-      "hasEnquiries": {
-        "const": true
-      }
-    }
-  },
-  "then": {
-    "properties": {
-      "minEnquiriesDuration": {
-        "enum": [
-          3
-        ]
-      },
-      "enquiryPeriodRegulation": {
-        "enum": [
-          0
-        ]
-      }
-    }
-  },
-  "else": {
-    "properties": {
-      "minEnquiriesDuration": {
-        "enum": [
-          0
-        ]
-      },
-      "enquiryPeriodRegulation": {
-        "enum": [
-          4
-        ]
-      }
-    }
-  }
+  "additionalProperties": false
 }
