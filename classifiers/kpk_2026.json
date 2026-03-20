@@ -885,7 +885,7 @@
   },
   {
     "idFkv": 0,
-    "programType": 1,
+    "programType": 0,
     "code": "0417000",
     "level": 2,
     "isactive": 1,
@@ -3044,7 +3044,7 @@
   },
   {
     "idFkv": 0,
-    "programType": 1,
+    "programType": 0,
     "code": "1204000",
     "level": 2,
     "isactive": 1,

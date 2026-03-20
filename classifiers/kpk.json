@@ -2372,26 +2372,6 @@
     "programType": 0,
     "code": "0417000",
     "level": 2,
-    "isactive": 0,
-    "outputbase": null,
-    "parentCode": "0410000",
-    "actyvPr": 0,
-    "name": "Державна служба України з питань геодезії, картографії та кадастру",
-    "dateto": "2025-12-31",
-    "details": 0,
-    "comment": null,
-    "datefrom": "2025-11-26",
-    "id": 2780,
-    "inputbase": "Розпис",
-    "years": [
-      2025
-    ]
-  },
-  {
-    "idFkv": 0,
-    "programType": 1,
-    "code": "0417000",
-    "level": 2,
     "isactive": 1,
     "outputbase": null,
     "parentCode": "0410000",
@@ -2406,6 +2386,26 @@
     "years": [
       2026,
       2027
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "0417000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "0410000",
+    "actyvPr": 0,
+    "name": "Державна служба України з питань геодезії, картографії та кадастру",
+    "dateto": "2025-12-31",
+    "details": 0,
+    "comment": null,
+    "datefrom": "2025-11-26",
+    "id": 2780,
+    "inputbase": "Розпис",
+    "years": [
+      2025
     ]
   },
   {
@@ -10627,27 +10627,6 @@
   },
   {
     "idFkv": 0,
-    "programType": 1,
-    "code": "1204000",
-    "level": 2,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1200000",
-    "actyvPr": 1,
-    "name": "Державна екологічна інспекція України",
-    "dateto": null,
-    "details": 0,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2570,
-    "inputbase": "Закон",
-    "years": [
-      2026,
-      2027
-    ]
-  },
-  {
-    "idFkv": 0,
     "programType": 0,
     "code": "1204000",
     "level": 2,
@@ -10664,6 +10643,27 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "1204000",
+    "level": 2,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1200000",
+    "actyvPr": 1,
+    "name": "Державна екологічна інспекція України",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2570,
+    "inputbase": "Закон",
+    "years": [
+      2026,
+      2027
     ]
   },
   {
