@@ -521,6 +521,12 @@
     "name_uk": "гектар",
     "symbol_uk": "га"
   },
+  "HJ": {
+    "name_en": "metric horse power",
+    "symbol_en": "metric hp",
+    "name_uk": "кінська сила метрична",
+    "symbol_uk": "к.с."
+  },
   "HN": {
     "name_en": "conventional millimetre of mercury",
     "symbol_en": "mm Hg",
@@ -592,6 +598,12 @@
     "symbol_en": "kJ",
     "name_uk": "кілоджоуль",
     "symbol_uk": "кДж"
+  },
+  "KMH": {
+    "name_en": "kilometre per hour",
+    "symbol_en": "km/h",
+    "name_uk": "кілометр за годину",
+    "symbol_uk": "км/год"
   },
   "KMQ": {
     "name_en": "kilogram per cubic metre",
