@@ -486,13 +486,7 @@
           {
             "title": "",
             "dataType": "boolean",
-            "expectedValue": true,
-            "eligibleEvidences": [
-              {
-                "title": "",
-                "type": "document"
-              }
-            ]
+            "expectedValue": true
           }
         ]
       }
