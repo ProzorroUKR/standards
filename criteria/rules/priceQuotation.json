@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "criteria": {
+      "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES": {
+        "rules": [
+          "required"
+        ]
+      },
+      "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION": {
+        "rules": [
+          "required"
+        ]
+      }
+    },
+    "period": {
+      "start_date": "PQ_CRITERIA_DECREE_822"
+    }
+  }
+]
