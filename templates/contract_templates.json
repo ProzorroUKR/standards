@@ -167,19 +167,19 @@
       }
     ]
   },
-  "347": {
-    "templates": [
-      {
-        "title": "БПЛА",
-        "name": "DPA347.0001.01",
-        "active": true
-      },
+   "347": {
+    "templates": [
       {
-        "title": "Загальний шаблон",
-        "name": "00000000.0002.01",
-        "active": true
-      }
-    ]
+        "title": "БПЛА",
+        "name": "DPA347.0001.01",
+        "active": true
+      },
+       {
+        "title": "Загальний шаблон",
+        "name": "00000000.0002.01",
+        "active": true
+      }
+    ]
   },
   "0931": {
     "templates": []
