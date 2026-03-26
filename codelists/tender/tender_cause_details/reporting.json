@@ -74,11 +74,11 @@
   "criticalInfrastructure": {
     "title_uk": "Підпункт 13 пункту 13",
     "title_en": "Subparagraph 13 of paragraph 13",
-    "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів",
-    "description_en": "Procurement of goods, works, and services for/related to construction, repair, and other engineering and technical measures to protect facilities",
+    "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури",
+    "description_en": "Procurement of goods, works, and services is being conducted for the construction, repair, and other engineering and technical measures aimed at protecting critical infrastructure facilities in the fuel and energy sector",
     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n426",
     "scheme": "DECREE1178",
-    "archive": true
+    "archive": false
   },
   "civilProtection": {
     "title_uk": "Підпункт 15 пункту 13",
@@ -139,6 +139,15 @@
     "title_en": "Paragraph 3 of clause 9",
     "description_uk": "Публічні закупівлі товарів, робіт і послуг для забезпечення виконання завдань, покладених на Державне управління справами, в умовах правового режиму воєнного стану за рахунок коштів резервного фонду Державного бюджету України розпорядниками (одержувачами) бюджетних коштів, а також закупівлі бензину та дизельного пального Управлінням державної охорони України здійснюються без застосування процедур закупівель/спрощених закупівель, визначених Законом та цими особливостями",
     "description_en": "Public procurement of goods, works, and services to ensure the fulfillment of tasks assigned to the State Administration of Affairs, under the legal regime of martial law at the expense of the reserve fund of the State Budget of Ukraine by administrators (recipients) of budget funds, as well as the procurement of gasoline and diesel fuel by the State Security Service of Ukraine, shall be carried out without applying the procurement/simplified procurement procedures defined by the Law and these special provisions",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n426",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "experimentalUnitNext": {
+    "title_uk": "Абзац 8 пункту 9",
+    "title_en": "Paragraph 8 of clause 9",
+    "description_uk": "Публічні закупівлі товарів, робіт і послуг, необхідних для забезпечення експериментального підрозділу NEXT відповідно до Порядку випробувань та досліджень спеціальних інноваційних технологій Фондом розвитку інновацій у період дії правового режиму воєнного стану, затвердженого постановою Кабінету Міністрів України від 22 жовтня 2025 р. № 1354 \"Деякі питання розвитку спеціальних інноваційних технологій\", здійснюються Фондом розвитку інновацій без застосування процедур закупівель/спрощених закупівель, визначених Законом та цими особливостями, з урахуванням положень пункту 7 зазначеного Порядку",
+    "description_en": "Public procurement of goods, works, and services necessary to ensure the operation of the NEXT experimental unit, in accordance with the Procedure for testing and research of special innovative technologies by the Innovation Development Fund during the period of the legal regime of martial law, approved by the Resolution of the Cabinet of Ministers of Ukraine dated October 22, 2025 No. 1354 \"Some issues of the development of special innovative technologies\", shall be carried out by the Innovation Development Fund without applying procurement procedures/simplified procurements defined by the Law and these specifics, taking into account the provisions of paragraph 7 of the said Procedure",
     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n426",
     "scheme": "DECREE1178",
     "archive": false
