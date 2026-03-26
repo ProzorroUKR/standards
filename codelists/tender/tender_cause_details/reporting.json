@@ -142,15 +142,15 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n426",
     "scheme": "DECREE1178",
     "archive": false
-},
-"experimentalUnitNext": {
-"title_uk": "Абзац 8 пункту 9",
-"title_en": "Paragraph 8 of Clause 9",
-"description_uk": "Публічні закупівлі товарів, робіт і послуг, необхідних для забезпечення експериментального підрозділу NEXT відповідно до Порядку випробувань та досліджень спеціальних інноваційних технологій Фондом розвитку інновацій у період дії правового режиму воєнного стану, затвердженого постановою Кабінету Міністрів України від 22 жовтня 2025 р. № 1354 \"Деякі питання розвитку спеціальних інноваційних технологій\", здійснюються Фондом розвитку інновацій без застосування процедур закупівель/спрощених закупівель, визначених Законом та цими особливостями, з урахуванням положень пункту 7 зазначеного Порядку",
-"description_en": "Public procurement of goods, works, and services necessary to ensure the operation of the NEXT experimental unit, in accordance with the Procedure for testing and research of special innovative technologies by the Innovation Development Fund during the period of the legal regime of martial law, approved by the Resolution of the Cabinet of Ministers of Ukraine dated October 22, 2025 No. 1354 \"Some issues of the development of special innovative technologies\", shall be carried out by the Innovation Development Fund without applying procurement procedures/simplified procurements defined by the Law and these specifics, taking into account the provisions of paragraph 7 of the said Procedure",
-"uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n426",
-"scheme": "DECREE1178",
-"archive": false
+  },
+  "experimentalUnitNext": {
+    "title_uk": "Абзац 8 пункту 9",
+    "title_en": "Paragraph 8 of clause 9",
+    "description_uk": "Публічні закупівлі товарів, робіт і послуг, необхідних для забезпечення експериментального підрозділу NEXT відповідно до Порядку випробувань та досліджень спеціальних інноваційних технологій Фондом розвитку інновацій у період дії правового режиму воєнного стану, затвердженого постановою Кабінету Міністрів України від 22 жовтня 2025 р. № 1354 \"Деякі питання розвитку спеціальних інноваційних технологій\", здійснюються Фондом розвитку інновацій без застосування процедур закупівель/спрощених закупівель, визначених Законом та цими особливостями, з урахуванням положень пункту 7 зазначеного Порядку",
+    "description_en": "Public procurement of goods, works, and services necessary to ensure the operation of the NEXT experimental unit, in accordance with the Procedure for testing and research of special innovative technologies by the Innovation Development Fund during the period of the legal regime of martial law, approved by the Resolution of the Cabinet of Ministers of Ukraine dated October 22, 2025 No. 1354 \"Some issues of the development of special innovative technologies\", shall be carried out by the Innovation Development Fund without applying procurement procedures/simplified procurements defined by the Law and these specifics, taking into account the provisions of paragraph 7 of the said Procedure",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n426",
+    "scheme": "DECREE1178",
+    "archive": false
   },
   "UZ": {
     "title_uk": "Підпункт 20 пункту 13",
