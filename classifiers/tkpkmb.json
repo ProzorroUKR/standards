@@ -548,7 +548,7 @@
   "1143": {
     "codeKfk": "0990",
     "beginDate": "2026-03-23",
-    "parentCode": null,
+    "parentCode": "1140",
     "level": 4,
     "endDate": null,
     "isactive": "1",
