@@ -398,5 +398,32 @@
     },
     "name_en": "SE \"INFRAPROJECT\"",
     "name_uk": "ДП \"ІНФРАПРОЕКТ\""
+  },
+  {
+    "active": true,
+    "address": {
+      "countryName": "Україна",
+      "locality": "Київ",
+      "postalCode": "04074",
+      "region": "м. Київ",
+      "streetAddress": "вул. Автозаводська, 2"
+    },
+    "contactPoint": {
+      "email": "official@dot.gov.ua",
+      "faxNumber": "+380975153840",
+      "telephone": "+380975153840",
+      "url": "https://dot.gov.ua/",
+      "name_en": "Arsen Zhumadilov Kuatovych",
+      "name_uk": "Жумаділов Арсен Куатович"
+    },
+    "identifier": {
+      "id": "44725823",
+      "scheme": "UA-EDR",
+      "legalName_en": "State Enterprise of the Ministry of Defense of Ukraine \"Defense Procurement Agency\"",
+      "legalName_uk": "Державне підприємство Міністерства оборони України \"Агенція оборонних закупівель\""
+    },
+    "name_en": "SE \"Defense Procurement Agency\"",
+    "name_uk": "ДП \"ПРОФЕСІЙНІ ЗАКУПІВЛІ\"",
+    "marketAdministrator": true
   }
 ]
