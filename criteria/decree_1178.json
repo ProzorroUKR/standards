@@ -567,7 +567,7 @@
       "scheme": "ESPD211",
       "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.MANAGEMENT.SUBCONTRACTING_PROPORTION"
     },
-    "relatesTo": "tenderer",
+    "relatesTo": "",
     "legislation": [
       {
         "version": "2026-03-26",
