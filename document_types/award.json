@@ -4,5 +4,11 @@
     "description_en": "Report on the evaluation of the bids and the application of the evaluation criteria, including the justification fo the award",
     "title_uk": "Протокол розгляду",
     "description_uk": "Звіт про оцінку пропозицій і застосування критеріїв оцінки, у тому числі, обґрунтування рішення про визначення переможця."
+  },
+  "acceptanceReport": {
+    "title_en": "Acceptance protocol",
+    "description_en": "Additional information about decisions made, which is certified or agreed upon by a separate commission or other external committees",
+    "title_uk": "Протокол погодження",
+    "description_uk": "Додаткова інформація про прийняті рішення, яка засвідчується або погоджується окремою комісією чи іншими зовнішніми комітетами"
   }
 }
