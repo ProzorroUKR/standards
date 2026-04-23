@@ -737,6 +737,12 @@
     "name_uk": "мілілітр",
     "symbol_uk": "мл"
   },
+  "MMK": {
+    "name_en": "square millimetre",
+    "symbol_en": "mm²",
+    "name_uk": "квадратний міліметр",
+    "symbol_uk": "кв.мм"
+  },
   "MMT": {
     "name_en": "millimetre",
     "symbol_en": "mm",
