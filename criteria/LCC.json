@@ -4,11 +4,21 @@
     "description": "Для розрахунку витрат, пов’язаних з користуванням, замовник визначає в тендерній документації одиницю виміру життєвого циклу та зазначає вартість споживання електроенергії та інших ресурсів (наприклад, поточні ціни на бензин або дані від Національної комісії, що здійснює державне регулювання у сферах енергетики та комунальних послуг, щодо вартості електроенергії тощо)",
     "source": "tenderer",
     "classification": {
-      "scheme": "ESPD211",
+      "scheme": "LAW922",
       "id": "CRITERION.OTHER.LIFE_CYCLE_COST.COST_OF_USE"
     },
     "relatesTo": "lot",
     "legislation": [
+      {
+        "version": "2025-10-31",
+        "identifier": {
+          "id": "922-VIII",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1510"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "29.4"
+      },
       {
         "version": "2020-09-28",
         "identifier": {
@@ -42,11 +52,21 @@
     "description": "Для розрахунку витрат, пов’язаних з обслуговуванням, замовник у тендерній документації серед переліку інформації, що надає учасник, може запитати інформацію щодо вартості обслуговування, ремонту та/або заміни складових предмета закупівлі за одиницю виміру життєвого циклу, а також документи від виробника про характеристики предмета закупівлі",
     "source": "tenderer",
     "classification": {
-      "scheme": "ESPD211",
+      "scheme": "LAW922",
       "id": "CRITERION.OTHER.LIFE_CYCLE_COST.MAINTENANCE_COST"
     },
     "relatesTo": "lot",
     "legislation": [
+      {
+        "version": "2025-10-31",
+        "identifier": {
+          "id": "922-VIII",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1510"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "29.4"
+      },
       {
         "version": "2020-09-28",
         "identifier": {
@@ -80,11 +100,21 @@
     "description": "Для розрахунку витрат, пов’язаних з завершенням користування, замовник у тендерній документації серед переліку інформації, що надає учасник процедури закупівлі, може запитати інформацію щодо вартості демонтажу, утилізації, переробки та інших витрат",
     "source": "tenderer",
     "classification": {
-      "scheme": "ESPD211",
+      "scheme": "LAW922",
       "id": "CRITERION.OTHER.LIFE_CYCLE_COST.END_OF_LIFE_COST"
     },
     "relatesTo": "lot",
     "legislation": [
+      {
+        "version": "2025-10-31",
+        "identifier": {
+          "id": "922-VIII",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1510"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "29.4"
+      },
       {
         "version": "2020-09-28",
         "identifier": {
@@ -118,11 +148,21 @@
     "description": "Замовник додатково для розрахунку вартості життєвого циклу може використовувати параметри витрат, пов’язаних із захистом навколишнього природного середовища (вартість екологічних витрат)",
     "source": "tenderer",
     "classification": {
-      "scheme": "ESPD211",
+      "scheme": "LAW922",
       "id": "CRITERION.OTHER.LIFE_CYCLE_COST.ECOLOGICAL_COST"
     },
     "relatesTo": "lot",
     "legislation": [
+      {
+        "version": "2025-10-31",
+        "identifier": {
+          "id": "922-VIII",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1510"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "29.4"
+      },
       {
         "version": "2020-09-28",
         "identifier": {
