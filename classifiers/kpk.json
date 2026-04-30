@@ -19460,6 +19460,26 @@
     "programType": 1,
     "code": "2301260",
     "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2301000",
+    "actyvPr": 0,
+    "name": "Медичні заходи за рахунок коштів, отриманих на рахунок у Національному банку України для задоволення потреб охорони здоров'я",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-04-29",
+    "id": 3035,
+    "inputbase": "Розпис",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 404,
+    "programType": 1,
+    "code": "2301260",
+    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "2301000",
