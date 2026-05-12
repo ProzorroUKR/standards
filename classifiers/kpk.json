@@ -54945,6 +54945,26 @@
     "programType": 1,
     "code": "7801030",
     "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "7801000",
+    "actyvPr": 0,
+    "name": "Відновлення інфраструктурного об'єкта у м. Ірпінь",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-05-11",
+    "id": 3039,
+    "inputbase": "Розпис",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "7801030",
+    "level": 3,
     "isactive": 0,
     "outputbase": "2025",
     "parentCode": "7801000",
