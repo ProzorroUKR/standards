@@ -36,10 +36,12 @@
       "streetAddress": "Грушевського, 7"
     },
     "contactPoint": {
-      "email": "catalogue@medpro.health",
-      "telephone": "+380666964990",
-      "url": "http://fb.me/uamedpro",
-      "name_uk": "Віталій Овсянніков"
+      "email": "o.koval@medzakupivli.com",
+      "faxNumber": "+380637464971",
+      "telephone": "+380637464971",
+      "url": "",
+      "name_en": "Oksana Koval",
+      "name_uk": "Оксана Коваль"
     },
     "identifier": {
       "id": "42574629",
@@ -61,12 +63,12 @@
       "streetAddress": "Василіянок, 62А"
     },
     "contactPoint": {
-      "email": "o.koval@medzakupivli.com",
-      "faxNumber": "+380637464971",
-      "telephone": "+380637464971",
+      "email": "czo.if.ua@gmail.com",
+      "faxNumber": "+380969425696",
+      "telephone": "+380969425696",
       "url": "",
-      "name_en": "Oksana Koval",
-      "name_uk": "Оксана Коваль"
+      "name_en": "Yurkevych Volodymyr Mykhailovych",
+      "name_uk": "Юркевич Володимир Михайлович"
     },
     "identifier": {
       "id": "43749377",
