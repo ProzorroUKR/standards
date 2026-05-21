@@ -8,22 +8,40 @@
     "scheme": "DECREE1178",
     "archive": false
   },
+  "belowThresholdUnsuccessful": {
+    "title_uk": "Підпункт 2 пункту 9",
+    "title_en": "Subparagraph 2 of paragraph 9",
+    "description_uk": "У разі відміни державним замовником спрощеної закупівлі, у тому числі частково (за лотом), внаслідок відсутності учасників. При цьому предмет закупівлі, його технічні та якісні характеристики, вимоги до учасника не повинні відрізнятися від тих, що визначені замовником в оголошенні про спрощену закупівлю, а сума державного контракту (договору), що укладається, не повинна перевищувати очікувану вартість, визначену державним замовником в оголошенні про спрощену закупівлю",
+    "description_en": "In the event of cancellation by the state customer of simplified procurement, including partially (by lot), due to the absence of participants. In this case, the subject of procurement, its technical and quality characteristics, requirements for the participant must not differ from those specified by the customer in the announcement of simplified procurement, and the amount of the state contract (agreement) to be concluded must not exceed the expected value specified by the state customer in the announcement of simplified procurement",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1275-2022-%D0%BF#n18",
+    "scheme": "DECREE1275",
+    "archive": false
+  },
+  "defenceVehiclesRepair": {
+    "title_uk": "Підпункт 3 пункту 9",
+    "title_en": "Subparagraph 3 of paragraph 9",
+    "description_uk": "Для здійснення СБУ, її органами та підрозділами закупівлі товарів, робіт і послуг, необхідних для технічного обслуговування і ремонту всіх видів транспортних засобів, що використовуються для здійснення та забезпечення заходів з відсічі збройної агресії (в тому числі для участі у бойових діях, проведення спеціальних та оперативно-бойових заходів), заходів із забезпечення безпеки осіб, які беруть участь у кримінальному судочинстві, проведенні спеціальних та антитерористичних операцій, навчання особового складу, управління і забезпечення їх функціонування, а також для забезпечення функціонування підрозділів з відновлення транспортних засобів",
+    "description_en": "For the SSU, its bodies and units to procure goods, works and services necessary for the maintenance and repair of all types of vehicles used to implement and ensure measures to repel armed aggression (including for participation in combat operations, conducting special and operational-combat measures), measures to ensure the safety of persons participating in criminal proceedings, conducting special and anti-terrorist operations, training personnel, managing and ensuring their functioning, as well as to ensure the functioning of vehicle recovery units",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1275-2022-%D0%BF#n18",
+    "scheme": "DECREE1275",
+    "archive": false
+  },
   "defenceRecruitment": {
-    "title_uk": "Підпункт 23 пункту 13",
-    "title_en": "Subparagraph 23 of paragraph 13",
-    "description_uk": "Здійснюється закупівля послуг, пов’язаних з перевезенням (оформлення документів, що посвідчують особу, віз, проїзних документів, страхування, транспортування тощо) кандидатів для проходження військової служби з числа іноземців або осіб без громадянства з території іноземних держав, їх харчуванням та проживанням",
-    "description_en": "The procurement of services related to the transportation (including processing of identity documents, visas, travel documents, insurance, and logistics) of candidates for military service from among foreign nationals or stateless persons from foreign countries, as well as their accommodation and meals, is being carried out",
-    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n426",
-    "scheme": "DECREE1178",
+    "title_uk": "Підпункт 4 пункту 9",
+    "title_en": "Subparagraph 4 of paragraph 9",
+    "description_uk": "У разі здійснення закупівлі послуг, пов’язаних з перевезенням кандидатів (оформлення документів, що посвідчують особу, віз, проїзних документів, страхування, транспортування тощо) для проходження військової служби з числа іноземців або осіб без громадянства з території іноземних держав, їх харчуванням та проживанням",
+    "description_en": "In the case of purchasing services related to the transportation of candidates (registration of identity documents, visas, travel documents, insurance, transportation, etc.) for military service from among foreigners or stateless persons from the territory of foreign states, their food and accommodation",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1275-2022-%D0%BF#n18",
+    "scheme": "DECREE1275",
     "archive": false
   },
   "defenceVehicles": {
-    "title_uk": "Підпункт 24 пункту 13",
-    "title_en": "Subparagraph 24 of paragraph 13",
-    "description_uk": "Здійснюється закупівля транспортних засобів, що були в користуванні (з типом кузова пікап, мотовсюдиходів (квадроциклів, у тому числі квадроциклів типу багі) та мотоциклів), військовими частинами, що уповноважені згідно з рішеннями державних замовників у сфері оборони на здійснення закупівель та укладення державних контрактів (договорів), за умови наявності штатно-табельної потреби. Вартість таких транспортних засобів визначається на підставі висновку експерта (висновку експертного дослідження) або звіту про оцінку майна",
-    "description_en": "Military units are conducting the procurement of used transport vehicles, including pickup trucks, all-terrain vehicles (such as quad bikes and buggy-type ATVs), and motorcycles",
-    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n426",
-    "scheme": "DECREE1178",
+    "title_uk": "Підпункт 5 пункту 9",
+    "title_en": "Subparagraph 5 of paragraph 9",
+    "description_uk": "Для здійснення військовими частинами закупівлі таких транспортних засобів, що були в користуванні, за умови наявності їх штатно-табельної потреби: (мікроавтобусів та легкових автомобілей підвищеної прохідності, зокрема з типом кузова пікап; мотоциклів та мотовсюдиходів (квадроциклів, зокрема квадроциклів типу багі), в тому числі з електричними або гібридними силовими установками)",
+    "description_en": "For the purchase by military units of the following vehicles that were in use, provided that there is a staffing requirement for them: (minibuses and off-road passenger cars, in particular with a pickup body type; motorcycles and all-terrain vehicles (quadricycles, in particular buggy-type quadricycles), including those with electric or hybrid power plants)",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1275-2022-%D0%BF#n18",
+    "scheme": "DECREE1275",
     "archive": false
   },
   "heatingSeason": {
