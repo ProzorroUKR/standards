@@ -4,11 +4,7 @@
     "title_en": "Satisfied"
   },
   "declinedNoViolation": {
-    "title_uk": "Відхилено",
+    "title_uk": "Відмовлено в задоволенні",
     "title_en": "Declined"
-  },
-  "declinedLackEvidence": {
-    "title_uk": "Розгляд припинено",
-    "title_en": "Review is terminated"
   }
 }
