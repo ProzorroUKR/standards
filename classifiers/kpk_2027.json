@@ -548,7 +548,7 @@
     "programType": 1,
     "code": "0411280",
     "level": 3,
-    "isactive": 1,
+    "isactive": 0,
     "outputbase": null,
     "parentCode": "0411000",
     "actyvPr": 1,
@@ -556,7 +556,7 @@
     "dateto": null,
     "details": 1,
     "comment": null,
-    "datefrom": "2026-05-12",
+    "datefrom": "2027-01-01",
     "id": 3040,
     "inputbase": "Закон"
   },
