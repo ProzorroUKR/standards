@@ -305,11 +305,11 @@
     "identifier": {
       "id": "55000",
       "scheme": "XM-DAC",
-      "legalName_en": "Ukraine Facility",
-      "legalName_uk": "Програма допомоги ЄС (Ukraine Facility)"
+      "legalName_en": "Council of the European Union",
+      "legalName_uk": "Рада Європейського Союзу"
     },
-    "name_en": "Європейський союз",
-    "name_uk": "European Union"
+    "name_en": "Ukraine Facility",
+    "name_uk": "ЄС (Ukraine Facility)"
   },
   {
     "additionalIdentifiers": [],
