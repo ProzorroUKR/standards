@@ -590,6 +590,14 @@
     },
     {
       "category": "IT",
+      "code": "IT-CF",
+      "description": "Companies (and some other entities) in Italy must register with the Business Register of the Chambers of Commerce. They are assigned a Codice Fiscale (CF) or Tax Code which also acts as their Partitia IVA (P.IVA) or VAT Number. Entities may also be assigned an Economic and Administrative Directory (REA) identifier.",
+      "name": "Italian Tax Code / VAT Number",
+      "public-database": true,
+      "url": "http://www.registroimprese.it/en/web/guest/home"
+    },
+    {
+      "category": "IT",
       "code": "IT-RI",
       "description": "Access to the register and to limited information (such as name and address of company) is free of charge. Registration is also free of charge. However, on-line access to complete information is available only by pay on demand.",
       "name": "The business register of the Italian Chambers of Commerce",
