@@ -544,5 +544,31 @@
     },
     "name_en": "National Agency for Territorial Cohesion",
     "name_uk": "Національне агентство з питань об'єднання територій"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Італійська Республіка",
+      "locality": "Рим",
+      "postalCode": "00135",
+      "region": "Лаціо",
+      "streetAddress": "Piazzale della Farnesina, 1"
+    },
+    "contactPoint": {
+      "email": "sg.cyber@esteri.it",
+      "faxNumber": "(+39) 06 3691 2090",
+      "telephone": "(+39) 06 3691 2090",
+      "url": "https://www.esteri.it/",
+      "name_en": "Diego Brasioli",
+      "name_uk": "Дієго Брасіолі"
+    },
+    "identifier": {
+      "id": "80213330584",
+      "scheme": "IT-CF",
+      "legalName_en": "Ministry of Foreign Affairs and International Cooperation of the Italian Republic, Unit for Technological Innovation and Cybersecurity - General Secretariat",
+      "legalName_uk": "Міністерство закордонних справ та міжнародного співробітництва Італійської Республіки, Відділ технологічних інновацій та кібербезпеки - Генеральний секретаріат"
+    },
+    "name_en": "MAECI",
+    "name_uk": "МЗС Італії"
   }
 ]
