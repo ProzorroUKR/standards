@@ -156,6 +156,14 @@
         true
       ],
       "default": false
+    },
+    "hasMultiSourcing": {
+      "type": "boolean",
+      "enum": [
+        true,
+        false
+      ],
+      "default": false
     }
   },
   "required": [
@@ -181,7 +189,8 @@
     "hasEnquiries",
     "minEnquiriesDuration",
     "enquiryPeriodRegulation",
-    "restricted"
+    "restricted",
+    "hasMultiSourcing"
   ],
   "additionalProperties": false
 }
