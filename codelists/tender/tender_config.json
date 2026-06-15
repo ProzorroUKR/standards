@@ -11,7 +11,7 @@
     "name_en": "Minimum duration for submitting proposals",
     "description_en": "A parameter that sets the minimum duration of the proposal submission period"
   },
-   "hasMultiSourcing": {
+  "hasMultiSourcing": {
     "name_uk": "Альтернативні контракти",
     "description_uk": "Параметр, який дозволяє укладати більше одного альтернативного контракту в рамках однієї частини предмету закупівлі (лоту)",
     "name_en": "Alternative contracts",
