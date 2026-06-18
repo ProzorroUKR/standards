@@ -1227,6 +1227,1278 @@
       "name": "Virgin Islands (British) Chart of Accounts",
       "public-database": true,
       "url": "https://gov-id-finder.codeforiati.org/countries/VG/"
+    },
+    {
+      "category": "AE",
+      "code": "AE-FCCI",
+      "description": "There is no company information available directly from this registry, but Chamber of Commerce and Industry can be contacted via the form on the website, phone or email to request more information.",
+      "name": "Fujairah Chamber of Commerce and Industry",
+      "public-database": false,
+      "url": "http://www.fujcci.ae/"
+    },
+    {
+      "category": "AE",
+      "code": "AE-RK_CR",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "Ras al-Khaimah Chamber of Commerce and Industry",
+      "public-database": false,
+      "url": "http://www.rakchamber.ae/"
+    },
+    {
+      "category": "AE",
+      "code": "AE-UQCCI",
+      "description": "This register includes information about company name, PO box, address, activity, registration date.",
+      "name": "Umm al-Quwain Chamber of Commerce and Industry",
+      "public-database": false,
+      "url": "http://www.uaqchamber.ae/"
+    },
+    {
+      "category": "AF",
+      "code": "AF-TIN",
+      "description": "TIN is a ten digit number which is issued to all individuals, companies and organizations that operate in Afghanistan. It is a permanent identification number and never changes, but the date of issue has to be renewed annually on the date of expiration.",
+      "name": "Afghanistan Tax Identification Number",
+      "public-database": true,
+      "url": "https://www.acbrip.gov.af/companyverification/"
+    },
+    {
+      "category": "AM",
+      "code": "AM-SRALE",
+      "description": "The State Register Agency of Legal Entities of Armenia maintains an Electronic Register where on line applications for the registration of legal entities can be made. It also has a search function that allows unregistered users to see limited details about existing companies. Full information about any company requires registration and the payment of a fee.",
+      "name": "State Register Agency of Legal Entities of Armenia",
+      "public-database": true,
+      "url": "https://www.e-register.am/"
+    },
+    {
+      "category": "AT",
+      "code": "AT-FB",
+      "description": "Available only in German. Access can be obtained by using services of special companies like http://www.advokat.at/Advokat-Online/Module/Firmenbuch.aspx that are entitled to provide it (for full list see https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b693e1c0860.de.html)",
+      "name": "Austria Company Register",
+      "public-database": true,
+      "url": "https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b693e1c0860.de.html"
+    },
+    {
+      "category": "AT",
+      "code": "AT-UID",
+      "description": "\"Since July 11, 2005, the records of all commercial register courts are kept electronically. The general ledger is kept by storing the entries in a central database, the so-called \"Firmenbuchdatenbank\" in the Federal Computing Center in Vienna.\"[1] Clearing houses commissioned by the Federal Ministry of Justice (Die Österreichische Justiz) provide the only access to the database.[2] Interfaces are mostly available only in German, and access/fees vary between the different operators. Consider using the Business Register number with the prefix AT-FB (see list AT-FB) - which is a primary rather than secondary list - instead of the VAT number. [1] https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b693e1c0860.de.html [2] A full list of authorized clearing houses is available at https://www.justiz.gv.at/web2013/home/e-justice/firmenbuch/die_firmenbuchdatenbank~2c9484852308c2a601240b693e1c0860.de.html",
+      "name": "VAT number (Austria Company Register)",
+      "public-database": true,
+      "url": "https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b693e1c0860.de.html"
+    },
+    {
+      "category": "AT",
+      "code": "AT-ZVR",
+      "description": "The central register of associations contains information about associations that have been established and formed under Austrian law [1]. They are identified by their official registration number, their ZVR-Zahl. Anyone can use the Central Register of Associations (ZVR) to search for an association, using its ZVR number, its name, or part of its name. A summary extract of the association is returned as a PDF. Additional details of an association can be requested where there is legitimate interest. [1]: https://www.bmi.gv.at/609/start.aspx",
+      "name": "Austrian Central Register of Associations",
+      "public-database": true,
+      "url": "https://www.bmi.gv.at/609/zvr.aspx"
+    },
+    {
+      "category": "BD",
+      "code": "BD-ROC",
+      "description": "The Register of Joint Stock Companies is the institution responsible for registering and preserving documentation of the following types of organizations: (A) Public companies (B) Private companies (C) Foreign companies (D) Trade Organization (Trade Organization) (E) Society (association), and (F) Partnership firm (partnership business) RJSC registers various organizations and ensures that they operate according to the rules of applicable law. Applicable laws include: (A) Company and Trade Organization: Company Act, 1994 (Amendment to Company Law, 1913) (B) Societies : Societies Registration Act, 1860 (C) Partnership Deed: Partnership Act, 1932.",
+      "name": "Bangladesh Office of the Register of Joint Stock Companies and Firms",
+      "public-database": true,
+      "url": "http://www.roc.gov.bd/"
+    },
+    {
+      "category": "BF",
+      "code": "BF-MATD",
+      "description": "The Ministry of Territorial Administration and Decentralisation is in charge of the organisation and administration of the national territory and the management of decentralisation. Civil society organizations (CSOs) are able to form freely and can seek and secure registration by submitting declarations of their existence along with draft bylaws, internal regulations, and other information to the Ministry of Territorial Administration and Decentralization (MATD).",
+      "name": "Ministry of Territorial Administration and Decentralisation",
+      "public-database": false,
+      "url": "https://www.matd.gov.bf/accueil"
+    },
+    {
+      "category": "BI",
+      "code": "BI-NIF",
+      "description": "Any individual, company, cooperative, non-profit association, non-governmental organisation or international organisation starting a commercial activity in Burundi must register with the Office Burundais des Recettes (OBR) and receive a Tax Identification Number (Numero d’Identification Fiscale) [1]. There is a publicly available site to verify the ownership and validity of the Tax Identification Numbers. The search is done using the NIF number and the result returns plain text stating who the NIF belongs to and whether the number is recognised by the OBR. [1] https://www.obr.bi/index.php/faqs",
+      "name": "Tax Identification Number, Burundi",
+      "public-database": true,
+      "url": "https://www.obr.bi/index.php/en/"
+    },
+    {
+      "category": "BJ",
+      "code": "BJ-IFU",
+      "description": "The Benin 'Unique Fiscal Identifier' was created by Decree No 2006-201 of 8 May 2006, and is linked to a national directory of persons, institutions and associations. \"The IFU's main objective is: * To uniquely register natural or legal persons throughout the national territory; * To avoid assigning several identifiers (INSAE number, taxpayer number, declaring code, etc.) to the same person; * Consolidate and secure information about any identified person; * To establish a reliable database for information, cross-checking and management purposes; * Improve and modernize the management of public finances with the introduction of a development tax system;\"[1] Identifiers are assigned to: \" * Enterprises engaged in commercial or non-commercial activity in the territory of Benin, regardless of their form, legal status or nationality; * Employees in the public or private sector; * Corporate officers; * Embassies, international organizations and non-governmental organizations; * Landowners; * Individuals over eighteen (18) years of age engaged in self-employed or non-commercial activities; * Central government, public institutions and local authorities; * Trade unions and political parties, any natural or legal person governed by private law\"[1]. An IFU is 13 characters long. The first digit indicate the type of entity identified: * 1- Individual / male * 2- Individual / female * 3- Legal entity / company * 4- Legal person / state structure * 5- Legal person / international organization and mission diplomatic * 6- Legal person / non-governmental organization The subsequent 4 digits give the year. The next six digits are a unique identifier within that year. The next digit indicates either (1) a parent company; (2-9) subsidiary or agencies; (0) other types of person or taxpayer. The final digit is a checksum. [1]: http://www.impots.finances.gouv.bj/tout-savoir-sur-lifu/ EXAMPLE: 3200901353510,",
+      "name": "Unique Tax Identifier",
+      "public-database": false,
+      "url": "http://www.impots.finances.gouv.bj/tout-savoir-sur-lifu/"
+    },
+    {
+      "category": "BO",
+      "code": "BO-CINS",
+      "description": "This is a list of public sector entities in Bolivia, published through SICOES (Sistema de Contraciones Estatales), which is the national state contracting system. It publishes identifiers for a range of entities, including: ministries, departmental and municipal government; national, regional and municipal companies and universities",
+      "name": "Bolivia Institutional Classifier",
+      "public-database": true,
+      "url": "https://www.sicoes.gob.bo/portal/clasificadores/institucional.php"
+    },
+    {
+      "category": "BO",
+      "code": "BO-NIT",
+      "description": "The Número de Identificación Tributaria (NIT), or Tax Identification Number, is the number assigned by the National Tax Service of Bolivia to a taxable natural person or legal entity. It is assigned once an individual or entity registers with the Service, acknowledging that their economic activity can, by law, be taxed. https://impuestos.com.bo/rnd-03-13/",
+      "name": "Tax Identification Number",
+      "public-database": false,
+      "url": null
+    },
+    {
+      "category": "BW",
+      "code": "BW-CIPA",
+      "description": "The Companies and Intellectual Property Authority (CIPA) is the official register of businesses in Botwana under the Companies Act (CAP 42:01), which provides for the incorporation of companies and the Registration of Business Names Act (CAP 42:05), which provides for registration of business names and post registration notices such as change of ownership and cessation of businesses. Both domestic and foreign companies may be registered with the Registrar of Companies. [1]: http://www.cipa.co.bw/ [2]: http://www.gov.bw/en/Business/Sub-audiences/Small--Medium-Businesses/Company--Business-Name-Registration/",
+      "name": "Companies and Intellectual Property Authority (Botswana)",
+      "public-database": true,
+      "url": "http://www.cipa.co.bw/"
+    },
+    {
+      "category": "BW",
+      "code": "BW-TIN",
+      "description": "The Botswana Unified Revenue Service (BURS) issues Taxpayer Identification Numbers (TIN) to individuals, companies and other entities that may have a tax obligation. An organisation should be able to supply details of their TIN.",
+      "name": "Botswana Taxpayers Identification Number",
+      "public-database": false,
+      "url": "http://www.burs.org.bw/"
+    },
+    {
+      "category": "BY",
+      "code": "BY-ADR",
+      "description": "\"The Unified State Register of Legal Entities and Individual Entrepreneurs (hereinafter referred to as the USR) has been operating since 2003. In accordance with the Resolution of the Council of Ministers of the Republic of Belarus of February 23, 2009 No. 229 \"On the Unified State Register of Legal Entities and Individual Entrepreneurs\", information on legal entities, state bodies and state legal entities, provisions on which are approved by legislative acts, and also about individual entrepreneurs.\"[1] \"A legal entity is considered established from the moment of its state registration, unless otherwise established by the President of the Republic of Belarus.\"[2] [1] http://egr.gov.by/egrn/index.jsp?content=AboutEGR [2] http://egr.gov.by/egrn/index.jsp?content=eJurReorgCreate",
+      "name": "Unified State Register of Legal Entities and Individual Entrepreneurs (Ministry of Justice of the Republic of Belarus)",
+      "public-database": true,
+      "url": "http://egr.gov.by/egrn/index.jsp?language=en"
+    },
+    {
+      "category": "CA",
+      "code": "CA-CC",
+      "description": "Corporations Canada are the federal company register. CA-CC should be used for the Canada Corporation Number Companies in Canada register with their provincial authority, e.g. British Columbia. While there is currently no complete national database for companies in Canada, Corporations Canada are piloting a Business Search Registry, which allows for the search of multiple jurisdictions at once, but not all - https://www.ic.gc.ca/app/scr/ccbr/search-chercher?lang=eng Corporations Canada also provides a Federal Corporation search - https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "Corporations Canada",
+      "public-database": false,
+      "url": "http://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/home"
+    },
+    {
+      "category": "CA",
+      "code": "CA-GOV",
+      "description": "\"The dataset includes a list of legal department names and their respective numbers. The department number is assigned by the Receiver General to an organization listed in Schedules I, 1.1 and II of the Financial Administration Act authorized to use the Consolidated Revenue Fund and interface with the central systems operated by Public Works and Government Services Canada.\"",
+      "name": "List of legal department names (Government of Canada)",
+      "public-database": true,
+      "url": "http://open.canada.ca/data/en/dataset/22090865-f8a6-4b83-9bad-e9d61f26a821"
+    },
+    {
+      "category": "CA",
+      "code": "CA_AB-ABT",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "Corporate Registry Office",
+      "public-database": false,
+      "url": "http://www.servicealberta.ca/Corporate_Registry.cfm"
+    },
+    {
+      "category": "CA",
+      "code": "CA_BC-BRC_CBR",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "British Columbia Corporate Registry",
+      "public-database": false,
+      "url": "http://www.bcregistryservices.gov.bc.ca/bcreg/corppg/index.page"
+    },
+    {
+      "category": "CA",
+      "code": "CA_MB-MTB",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "Manitoba Companies Office, Department of Entrepreneurship, Training and Trade",
+      "public-database": false,
+      "url": "https://direct.gov.mb.ca/mbohtml/html/internet/en/mb_online.html"
+    },
+    {
+      "category": "CA",
+      "code": "CA_NB-NWB_NOB",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "Corporate Registry",
+      "public-database": false,
+      "url": "https://www.pxw1.snb.ca/snb7001/e/2000/2500e.asp"
+    },
+    {
+      "category": "CA",
+      "code": "CA_NL-NFL_TNL",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "Registry of Companies, Department of Government Services",
+      "public-database": false,
+      "url": "http://www.servicenl.gov.nl.ca/registries/companies.html"
+    },
+    {
+      "category": "CA",
+      "code": "CA_NS-NVS_NVE",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "Nova Scotia Registry of Joint Stock Companies",
+      "public-database": false,
+      "url": "http://novascotia.ca/sns/access/business/registry-joint-stock-companies.asp"
+    },
+    {
+      "category": "CA",
+      "code": "CA_NT-NWT_TNO",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "Canadian Provincial Corporate Registration - Northwest Territories",
+      "public-database": false,
+      "url": "https://www.justice.gov.nt.ca/en/divisions/legal-registries-division/corporate-registries/"
+    },
+    {
+      "category": "CA",
+      "code": "CA_NU-NNV",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "Nunavut Department of Justice - Corporate Registries",
+      "public-database": false,
+      "url": "http://nunavutlegalregistries.ca/cr_index_en.shtml"
+    },
+    {
+      "category": "CA",
+      "code": "CA_ON-ONT",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "ServiceOntario, Ministry of Government Services",
+      "public-database": false,
+      "url": "https://www.ontario.ca/page/business-and-economy"
+    },
+    {
+      "category": "CA",
+      "code": "CA_PE-PEI_IPE",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "Prince Edward Island Corporate",
+      "public-database": false,
+      "url": "http://www.gov.pe.ca/corporations/index.php"
+    },
+    {
+      "category": "CA",
+      "code": "CA_QC-QBC",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "Quebec Business Registrar",
+      "public-database": false,
+      "url": "http://www.registreentreprises.gouv.qc.ca/"
+    },
+    {
+      "category": "CA",
+      "code": "CA_SK-SKN",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "Saskatchewan Corporate Registry",
+      "public-database": false,
+      "url": "http://www.isc.ca/CorporateRegistry/"
+    },
+    {
+      "category": "CA",
+      "code": "CA_YT-YKT",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "Yukon Corporate Affairs",
+      "public-database": false,
+      "url": "http://www.community.gov.yk.ca/corp/index.html"
+    },
+    {
+      "category": "CD",
+      "code": "CD-MJDH",
+      "description": "NGOs and associations apply to the Ministry of Justice and Human Rights (Le Ministre de la Justice et Droits Humain) and are issued with a certificate of registration. The Official Journal of the Democratic Republic of the Congo is the government gazette of the country. It publishes major legal official information including a bulletin of acts of companies, associations and political parties registered with the Ministry of Justice and Human Rights. This is referred to as the second part (Deuxieme parties) and is published on the 1st and on the 15th of each month. The ministerial decree number, under which the organisation is registered, can be used as an identifier. This appears both on the organisation's certificate and in the gazette.",
+      "name": "Ministry of Justice and Human Rights",
+      "public-database": true,
+      "url": "http://droits-humains.gouv.cd/dh_ong_liste.html"
+    },
+    {
+      "category": "CH",
+      "code": "CH-FDJP",
+      "description": "The Swiss Commercial Register is administered by the cantons under the supervision of the Swiss Confederation. All the commercial register entries made by the cantonal register offices are published in the Swiss Official Gazette of Commerce (SOGC) after having been checked and approved by the Federal Commercial Registry Office. Since January 2011, all companies, foreign branches and associations / foundations registered in the various Swiss Commerce Registries are assigned a unique federal Company Identification Number, locally known as IDE (French), UID (German), IDI (Italian). Previously, identifiers were of the format CH-RRR.X.XXX.XXX-P, where RRR is the canton number, X.XXX.XXX is the company number, and P is a check-digit. Some older or inactive companies may still have identifiers of this form. [1]: https://opencorporates.com/registers/250",
+      "name": "Commercial Registry, Federal Office of Justice (Switzerland)",
+      "public-database": true,
+      "url": "https://www.zefix.ch/de/search/entity/welcome"
+    },
+    {
+      "category": "CH",
+      "code": "CH_BS-CR",
+      "description": "As statated on the Register website: 'The purpose of the commercial register is to record and disclose the business-relevant facts of the more than 17,200 companies, foundations and associations based in the canton of Basel-Stadt, thereby contributing to transparency and ensuring legal certainty in business transactions.'",
+      "name": "Commercial Register of the Canton of Basel-Stadt, Switzerland",
+      "public-database": true,
+      "url": "https://bs.chregister.ch/cr-portal/suche/suche.xhtml"
+    },
+    {
+      "category": "CI",
+      "code": "CI-MOI",
+      "description": "The Ministry of the Interior and Security is the ministerial department of the Ivorian Government responsible for the administration of the territory and public freedoms, the organization of administrative districts, civil status and associations. This includes the registration of private enterprises, foundations, non-governmental organisations and civil society organisations.",
+      "name": "Ministry of the Interior (Ivory Coast)",
+      "public-database": false,
+      "url": "http://interieur.gouv.ci/"
+    },
+    {
+      "category": "CL",
+      "code": "CL-MP",
+      "description": "[Mercado Público](https://www.mercadopublico.cl/Home/Contenidos/QueEsMercadoPublico?esNuevaHome=true) is an electronic platform managed by Chilecompra, part of the Ministry of Finance, which public organizations use to make purchases. Organizations registered as buyers or suppliers on the Mercado Público platform are assigned an identifier in the system. This identifier is used in the data from the Mercado Público OCDS API. The use of Mercado Público identifiers is considered a temporary measure. They should only be used when no other stable identifier for a government agency or company is available",
+      "name": "Public Market Suppliers and Buyer Units, Chile",
+      "public-database": true,
+      "url": "https://www.mercadopublico.cl/Home"
+    },
+    {
+      "category": "CM",
+      "code": "CM-NIU",
+      "description": "The Directorate General of Tax (Direction Générale des Impôts) of Cameroon issues a unique tax identification number (Numéro d'Identifiant fiscal Unique, or NIU) to all individuals and legal persons liable to pay tax in the country.",
+      "name": "Tax Identification Number (Cameroon)",
+      "public-database": true,
+      "url": "https://www.impots.cm/"
+    },
+    {
+      "category": "CN",
+      "code": "CN-USCI",
+      "description": "Unified Social Credit Identifiers (USCIs) are used for businesses and other entities in China as a general tax identification number (TIN), but the online registry mentioned here only shows non-domestic NGOs. There is also a website for businesses (http://gsxt.gov.cn) but you will need to know the organisation’s name in Chinese to find the USCI. NGOs and businesses should be able to provide their USCI easily. NGOs have to have their registration checked and reconfirmed every year in accordance with the Overseas NGO Management Law which came into effect in January 2017.",
+      "name": "Unified Social Credit Identifier",
+      "public-database": true,
+      "url": "http://ngo.mps.gov.cn/ngo/portal/toInfogs.do"
+    },
+    {
+      "category": "CO",
+      "code": "CO-RUE",
+      "description": "The Unified Commercial and Social Registry (RUES) integrates multiple commercial registries, including the NIT (Número de Identificación Tributaria) which can be used as the unique identifier. This database can be searched online for free. \"The CCB hereby informs that, in accordance with Resolution 71029 issued by the Superintendence of Industry and Commerce, starting as of November 13, 2013, entrepreneurs must fill out the new Unified Commercial and Social Registry (RUES), a form that integrates the information from the following forms and records: * Merchant's Certificate. * Unified Offeror Registry. * Non-For-Profit Organizations Registry. * Common Regime (Associations, Foundations and Corporations) and * Solidary Economy Institutions (Cooperatives, Precooperatives, Employee Funds and Mutual Associations). * Activity, games and gambling Registry. * Citizen Oversight Associations Registry (applicable only when registering or signing-up). * Solidarity Economy Registry.\" [1] [1] http://www.ccb.org.co/en/Registrations-and-renewals/Merchant-s-certificate/Unified-Commercial-and-Social-Registry-RUES",
+      "name": "Unified Commercial and Social Registry (RUES)",
+      "public-database": false,
+      "url": "http://www.rues.org.co/RUES_Web/"
+    },
+    {
+      "category": "CR",
+      "code": "CR-RPJ",
+      "description": "Companies and foundations may be registered with the Registro de Personas Jurídicas managed by the National Registry (Registro Nacional). Numbers are assigned in with the structure N-NNN-NNNNNN. Sometimes, these are written without leading zeros for the second set of numbers, but in org-id.guide the leading zeros should be include (e.g. 3-001-111111 rather than 3-1-1111111).",
+      "name": "Registro de Personas Jurídicas (Costa Rica)",
+      "public-database": true,
+      "url": "http://www.registronacional.go.cr/"
+    },
+    {
+      "category": "CZ",
+      "code": "CZ-DIC",
+      "description": "A VAT registration number (DIČ) is a unique and unambiguous identification of each tax entity, a legal or natural person who is a taxpayer (taxpayer). The tax identification number is assigned only after the entity, natural or legal person, obtains its IČO - its unique identification number. Note that the list [CZ-ICO](/list/CZ-ICO) might therefore provide a better set of identifiers for legal entities. You can search by VAT (DIČ) number for a of the VAT payer registered in the Czech Republic. You can also use your company ID or company name or your business name and surname if you want to verify your VAT payer details.",
+      "name": "Tax ID (DIČ) Czech Republic",
+      "public-database": true,
+      "url": "http://www.kurzy.cz/dic/"
+    },
+    {
+      "category": "DE",
+      "code": "DE-CR",
+      "description": "Companies, partnerships and co-operatives are registered in Germany at the level of local courts. Each court issues it's own registration numbers, so registration number 0001 from one court is not the same organisation as registration number 0001 from a different court. The Common Register Portal of the German Federal States allows a search across all the court records. To distinguish between the identifiers from different courts, the individual 'Registration Agency' identifier from each court, from the Global Legal Entity Identifier Foundation's [Registration Authorities list](https://www.gleif.org/en/about-lei/code-lists/gleif-registration-authorities-list) should be used, giving identifiers of the form: > DE-CR-[COURT IDENTIFIER]-[COMPANY IDENTIFIER] Court identifiers * RA000197 - Aachen * RA000198 - Ahlen * RA000199 - Altenburg * RA000200 - Amberg * RA000201 - Ansbach * RA000202 - Apolda * RA000203 - Arnsberg * RA000204 - Arnstadt * RA000205 - Aschaffenburg * RA000206 - Augsburg * RA000207 - Aurich * RA000208 - Bad Hersfeld * RA000209 - Bad Homburg v. d. Höhe * RA000210 - Bad Kreuznach * RA000211 - Bad Langensalza * RA000212 - Bad Lobenstein * RA000213 - Bad Oeynhausen * RA000214 - Bad Salzungen * RA000215 - Bamberg * RA000216 - Bayreuth * RA000217 - Berlin-Charlottenburg * RA000218 - Bielefeld * RA000219 - Bochum * RA000220 - Bonn * RA000221 - Braunschweig * RA000222 - Bremen * RA000223 - Bünde * RA000224 - Chemnitz * RA000225 - Coburg * RA000226 - Coesfeld * RA000227 - Cottbus * RA000228 - Darmstadt * RA000229 - Deggendorf * RA000230 - Dortmund * RA000231 - Dresden * RA000232 - Duisburg * RA000233 - Düren * RA000234 - Düsseldorf * RA000235 - Eisenach * RA000236 - Erfurt * RA000237 - Erkelenz * RA000238 - Eschwege * RA000239 - Essen * RA000240 - Flensburg * RA000241 - Frankfurt (Oder) * RA000242 - Frankfurt am Main * RA000243 - Freiburg * RA000244 - Friedberg (Hessen) * RA000245 - Fritzlar * RA000246 - Fulda * RA000247 - Fürth * RA000248 - Geldern * RA000249 - Gelsenkirchen * RA000250 - Gera * RA000251 - Gießen * RA000252 - Gotha * RA000253 - Göttingen * RA000254 - Greifswald * RA000255 - Greiz * RA000256 - Güstrow * RA000257 - Gütersloh * RA000258 - Hagen * RA000259 - Hamburg * RA000260 - Hamm * RA000261 - Hanau * RA000262 - Hannover * RA000263 - Heilbad Heiligenstadt * RA000264 - Herford * RA000265 - Herne * RA000266 - Hildburghausen * RA000267 - Hildesheim * RA000268 - Hof * RA000269 - Homburg * RA000270 - Ilmenau * RA000271 - Ingolstadt * RA000272 - Iserlohn * RA000273 - Jena * RA000274 - Kaiserslautern * RA000275 - Kassel * RA000276 - Kempten * RA000277 - Kiel * RA000278 - Kleve * RA000279 - Koblenz * RA000280 - Köln * RA000281 - Königstein im Taunus * RA000282 - Korbach * RA000283 - Krefeld * RA000284 - Landau in der Pfalz * RA000285 - Landshut * RA000286 - Lebach * RA000287 - Leipzig * RA000288 - Lemgo * RA000289 - Limburg a. d. Lahn * RA000290 - Lübeck * RA000291 - Ludwigshafen am Rhein * RA000292 - Ludwigslust * RA000293 - Lüneburg * RA000294 - Lünen * RA000295 - Mainz * RA000296 - Mannheim * RA000297 - Marburg * RA000298 - Meiningen * RA000299 - Memmingen * RA000300 - Merzig * RA000301 - Mönchengladbach * RA000302 - Montabaur * RA000303 - Mühlhausen * RA000304 - München * RA000305 - Münster * RA000306 - Neubrandenburg * RA000307 - Neunkirchen * RA000308 - Neuruppin * RA000309 - Neuss * RA000310 - Nordhausen * RA000311 - Nürnberg * RA000312 - Oberhausen * RA000313 - Offenbach am Main * RA000314 - Oldenburg * RA000315 - Osnabrück * RA000316 - Ottweiler * RA000317 - Paderborn * RA000318 - Pasewalk * RA000319 - Passau * RA000320 - Pinneberg * RA000321 - Pößneck * RA000322 - Potsdam * RA000323 - Ratingen * RA000324 - Recklinghausen * RA000325 - Regensburg * RA000326 - Remscheid * RA000327 - Ribnitz * RA000328 - Rostock * RA000329 - Rudolstadt * RA000330 - Saalfeld * RA000331 - Saarbrücken * RA000332 - Saarlouis * RA000333 - Sankt Ingbert * RA000334 - Sankt Wendel * RA000335 - Schleiden * RA000336 - Schweinfurt * RA000337 - Schwerin * RA000338 - Siegburg * RA000339 - Siegen * RA000340 - Soest * RA000341 - Solingen * RA000342 - Sömmerda * RA000343 - Sondershausen * RA000344 - Sonneberg * RA000345 - Stadthagen * RA000346 - Stadtroda * RA000347 - Steinfurt * RA000348 - Stendal * RA000349 - Stralsund * RA000350 - Straubing * RA000351 - Stuttgart * RA000352 - Suhl * RA000353 - Tostedt * RA000354 - Traunstein * RA000355 - Ulm * RA000356 - Völklingen * RA000357 - Wadern * RA000358 - Walsrode * RA000359 - Warburg * RA000360 - Waren * RA000361 - Warstein * RA000362 - Weiden i.d. OPf. * RA000363 - Weimar * RA000364 - Wetzlar * RA000365 - Wiesbaden * RA000366 - Wismar * RA000367 - Witten * RA000368 - Wittlich * RA000369 - Wuppertal * RA000370 - Würzburg * RA000371 - Zweibrücken",
+      "name": "Common Register Portal of the German Federal States (CRP)",
+      "public-database": true,
+      "url": "https://www.handelsregister.de/rp_web/welcome.do"
+    },
+    {
+      "category": "EC",
+      "code": "EC-RUC",
+      "description": "To carry out economic activity in Ecuador, an organisation must have a unique taxpayer identifier (RUC). Both individuals and organisations may hold a taxpayer identifier. The Superintendency of Companies provides a search of companies, with each record showing their RUC.",
+      "name": "Ecuador Unique Taxpayer Registry",
+      "public-database": true,
+      "url": "http://www.sri.gob.ec/web/guest/RUC"
+    },
+    {
+      "category": "EE",
+      "code": "EE-KMKR",
+      "description": "\"Central Commercial Register is an online service based on the central database of Estonian registration department of the court. The central database includes digital data from the commercial register, the commercial pledge register, the register of state agencies and local government institutions, the register of non-profit associations and foundations. \"[1] Records contain information about the legal entity including e.g. annual reports, address, registration status, tax debt information and legal form. It also includes a Registry Code (\"Registrikood\"). [1] http://www.rik.ee/en/e-business-register",
+      "name": "e-Business Register (Estonia)",
+      "public-database": true,
+      "url": "http://www.rik.ee/en/e-business-register"
+    },
+    {
+      "category": "EG",
+      "code": "EG-CR",
+      "description": "The Ministry of Supply and Internal Trade, Internal Trade Development Authority is in charge of registering limited liability companies, joint stocks, foreign branches and representative offices and maintaining the Commercial Registry in Egypt [1]. [1]. http://itda.gov.eg/hint-sgl.aspx",
+      "name": "Commercial Registry, Egypt",
+      "public-database": true,
+      "url": "http://itda.gov.eg/"
+    },
+    {
+      "category": "ES",
+      "code": "ES-MDJ",
+      "description": "The Ministry of Justice keeps a broad array of records, covering organisations, events, and individuals. Some of these records (such as organisations) are public and searchable, whilst others (civil registration) are not. This list covers the following types of organisations (roughly translated): \"Property and Mercantile\", \"Mediators and Mediation Institutions\", and \"Foundations Under the Jurisdiction of the State\".",
+      "name": "Ministry of Justice, Spain",
+      "public-database": true,
+      "url": "https://www.mjusticia.gob.es/ca/ciudadania/registros"
+    },
+    {
+      "category": "ES",
+      "code": "ES-NIF",
+      "description": "The Tax Identification Number, Número de Identificación Fiscal (NIF), is a unique number given to every legal person and organisation (companies, associations, civil societies, public institutions etc.) required to pay taxes. The NIF is allocated by the Tax Agency [1]. There is no publicly available site to verify the ownership and validity of the number. Prior to 2008 the NIF number was called CIF. These two numbers are now merged; however, some still refer to the number as CIF. [1]: https://www.agenciatributaria.es/AEAT.internet/en_gb/Inicio/La_Agencia_Tributaria/Campanas/Censos__NIF_y_domicilio_fiscal/Empresas_y_profesionales__Declaracion_censal__Modelos_036_y_037/Informacion/NIF_de_personas_juridicas_y_entidades.shtml",
+      "name": "Tax Identification Number",
+      "public-database": false,
+      "url": "http://www.agenciatributaria.es/AEAT.internet/en_gb/Inicio/La_Agencia_Tributaria/Campanas/Censos__NIF_y_domicilio_fiscal/Empresas_y_profesionales__Declaracion_censal__Modelos_036_y_037/Informacion/NIF_de_personas_juridicas_y_entidades.shtml"
+    },
+    {
+      "category": "ES",
+      "code": "ES-RMC",
+      "description": "The Central Mercantile Register (1) provides the access to the companies information supplied by the Regional Mercantile Registers after the 1 January 1990, once the data has been organized and processed in accordance with Section 379 of the Mercantile Register Regulations currently in effect. (1) Central Commercial Register - Central Corporate Register - Central Business Register",
+      "name": "Central Commercial Register of the Kingdom of Spain",
+      "public-database": true,
+      "url": "http://www.rmc.es/Home.aspx"
+    },
+    {
+      "category": "ET",
+      "code": "ET-CSA",
+      "description": "Most Charities and Societies which operate in Ethiopia are required to register with the Charities and Societies Agency, an institution of the Federal Government, which issues certificates of legal personality to those registered.",
+      "name": "Charities and Societies Agency (Ethiopia)",
+      "public-database": false,
+      "url": "http://www.chsa.gov.et/"
+    },
+    {
+      "category": "ET",
+      "code": "ET-MOT",
+      "description": "The Ministry of Trade is the official ministry for business registration in Ethiopia. \"The Ministry of Trade was re-established in August1995 under -- proclamation No 4/1995 issued to provide for the definition of powers and duties of the executive organs of the Federal Democratic Republic ofEthiopia (FDRE). The Ministry was again reorganized with a proclamation No 619/2003 issued to amend the reorganization of the executive organs of the Federal Democratic Republic Ethiopia Proclamation No 256/2001. With this proclamation and by other laws, the Ministry has been given the power to supervise and coordinate five government institutions that are involved in the promotion & development of trade, industry and investment activities. The Ministry of Trade shall have the powers and duties to: Encourage and register the establishment of chambers of commerce and sectorial associations including consumers associations and strengthen those already established(Chambers of Commerce and Sectorial Association Establishment Proclamation No.341/2003).\" [1] [1]: http://www.mot.gov.et/documents/27281/0/Proc+No.+341-2003+Chamber+of+commerce+and+sectorial+Associa.pdf/50798768-2b9d-4f20-990f-1d4298f16f08?version=1.1",
+      "name": "Ministry of Trade (Ethiopia)",
+      "public-database": false,
+      "url": "http://www.mot.gov.et"
+    },
+    {
+      "category": "FI",
+      "code": "FI-VERO",
+      "description": "The Finnish Tax Administration (Finnish: Verohallinto, Swedish: Skatteförvaltningen) maintains the register of Finnish companies registered to pay Value Added Tax (VAT). “A company selling goods or services in the conduct of business is usually liable to pay VAT and has to be entered in the VAT register. In some cases, for example if the company’s turnover is small, VAT registration is voluntary. In addition, some operations are exempt from VAT. A company conducting VAT-exempt operations cannot be entered in the VAT register.” [1] “VAT number is ’ALV-numero’ in Finnish and ’momsnummer’ or ‘mervärdesskattenummer’ in Swedish.” [2] '[1] https://www.vero.fi/en/businesses-and-corporations/taxes-and-charges/vat/how-to-register-for-vat/' '[2] https://www.ytj.fi/en/index/vatnumber.html",
+      "name": "Finnish Tax Administration",
+      "public-database": true,
+      "url": "https://www.ytj.fi/en/index/vatnumber.html"
+    },
+    {
+      "category": "GB",
+      "code": "GB-CASC",
+      "description": "This is the list of Community amateur sports clubs (CASCs) registered with HMRC, and as listed at HMRC [1], which has been enhanced with unique identifiers. [1]: https://www.gov.uk/government/publications/community-amateur-sports-clubs-casc-registered-with-hmrc--2",
+      "name": "Community amateur sports clubs (CASCs) registered with HMRC",
+      "public-database": true,
+      "url": "https://github.com/ThreeSixtyGiving/cascs/blob/master/readme.md"
+    },
+    {
+      "category": "GB",
+      "code": "GB-COE",
+      "description": "Church Codes are a unique identification number supplied to each church building by the Church of England Central Services, which is part of the administrative bodies of the National Church Institutions that work together to support the mission and ministries of the Church of England. This code provides a unique number for the property assets of the Church of England. The codes are used to represent the church as an entity as well as everything connected to it such as financial and congregational records. The churches are owned locally, held in trust by the incumbent of the church (priest) and the management is run by a committee, a Parochial Church Council (PCC). These organisations are often not registered for a GB-CHC number due their income being less than £100,000 number despite being otherwise regulated by the Charity Commission. They are also excluded from the UK Register of Trusts. For this reason, these church codes may be used to identified PCCs.",
+      "name": "Church of England Church Codes",
+      "public-database": true,
+      "url": "https://facultyonline.churchofengland.org/churches"
+    },
+    {
+      "category": "GB",
+      "code": "GB-GOR",
+      "description": "The UK Government Organisation Register was a service provided by the Government Digital Service which retired on March 15 2021. It contained an identifier for every government body with a presence on the gov.uk single domain. This covered government departments, agencies and Arms Length Bodies (ALBs). Each organisation was assigned an alphanumeric identifier, and the register also included website addresses, that could be mapped to entries in the GB-GOVUK identifier list.",
+      "name": "Government Organisation Register",
+      "public-database": true,
+      "url": "https://github.com/openregister/registers-data-archive"
+    },
+    {
+      "category": "GB",
+      "code": "GB-HESA",
+      "description": "This is a list of all higher education providers that provide data to the Higher Education Statistics Agency (HESA). Those providers include all publicly funded universities and other higher educations institutions (HEIs) in the UK, alternative HE providers (APs) that offer HE courses but do not receive annual public funding, and further education colleges (FECs) in Wales which provide some HE level courses. The list is maintained for statistical purposes by the Higher Education Statistics Agency. It contains institutions' names alongside the internal ID that HESA assigns them. This internal higher education provider ID is given in the INSTID field. (Higher education providers submit their UK Provider Reference Number (UKPRN) as part of the data submission process to HESA. The mapping to a HESA higher education provider identifier (INSTID) is carried out through the use of a static data lookup table [1].) Use a UKPRN identifier in preference to this list. See: http://org-id.guide/list/GB-UKPRN. [1]: See https://www.hesa.ac.uk/collection/c18052/derived/xinstid01 for more information.",
+      "name": "Higher Education Statistics Agency",
+      "public-database": true,
+      "url": "https://www.hesa.ac.uk/support/providers"
+    },
+    {
+      "category": "GB",
+      "code": "GB-IRN",
+      "description": "Schools Plus is a directory of institutions, including schools, youth clubs, containing contact information and relevant statistics. Only Open schools seem to be on the list currently.",
+      "name": "Schools Plus, Department of Education (Northern Ireland)",
+      "public-database": true,
+      "url": "https://www.education-ni.gov.uk/services/schools-plus"
+    },
+    {
+      "category": "GB",
+      "code": "GB-LAE",
+      "description": "The Local Authorities for England Register has been developed with the UK Department for Communities and Local Government (DCLG), and contains identifiers for 350+ local authorities. It also includes the 'local authority type' (e.g. Unitary Authority, London Borough) for each. It uses the second portion of [ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:GB) codes where these are available, and creates new codes where they are not. For more information on GOV.UK Registers, visit https://registers.cloudapps.digital/",
+      "name": "Local Authorities for England Register",
+      "public-database": true,
+      "url": "https://local-authority-eng.register.gov.uk/records?page-index=1&page-size=5000"
+    },
+    {
+      "category": "GB",
+      "code": "GB-LANI",
+      "description": "The Local Authorities for Northern Ireland Register is published by the Department for Communities (Northern Ireland), and contains identifiers for 36 local authorities, of which 11 are current.",
+      "name": "Local authorities for Northern Ireland register",
+      "public-database": true,
+      "url": "https://www.registers.service.gov.uk/registers/local-authority-nir"
+    },
+    {
+      "category": "GB",
+      "code": "GB-LAS",
+      "description": "The Local Authority SCT Register has been developed with the Scottish Government and Government Digital Service (GDS), and contains identifiers for 32 local authorities. It uses the second portion of [ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:GB) codes and includes all codes listed for Scotland (SCT).",
+      "name": "Scottish Local Authority Register",
+      "public-database": true,
+      "url": "https://local-authority-sct.register.gov.uk/"
+    },
+    {
+      "category": "GB",
+      "code": "GB-MPR",
+      "description": "The Mutuals Public Register is the public record of registered mutual societies: * building societies * credit unions * friendly societies * registered societies It contains: * details of societies’ registered offices, contact information and services * public documents such as yearly returns and accounts",
+      "name": "Mutuals Public Register",
+      "public-database": true,
+      "url": "https://mutuals.fca.org.uk/"
+    },
+    {
+      "category": "GB",
+      "code": "GB-NHS",
+      "description": "\"The Organisation Data Service (ODS) is responsible for publishing organisation and practitioner codes, along with related national policies and standards. We're also responsible for the ongoing maintenance of the organisation and person nodes of the Spine Directory Service, the central data repository used within various NHS systems and services. Find out more about Organisation Reference data by reading the fundamental standard.\"[1][2] Codes are allocated for:[3] * Independent Sector Healthcare Providers (ISHP) * NHS organisations * Non-NHS organisations * optical organisations * private dental practices * system suppliers [1]: https://digital.nhs.uk/organisation-data-service [2]: Information standard SCCI0090 (Health and Social Care Organisation Reference Data): http://content.digital.nhs.uk/isce/publication/scci0090 [3]: List from https://digital.nhs.uk/organisation-data-service/our-services#code allocation",
+      "name": "NHS Digital - Organisation Data Service",
+      "public-database": true,
+      "url": "https://digital.nhs.uk/organisation-data-service"
+    },
+    {
+      "category": "GB",
+      "code": "GB-PLA",
+      "description": "The Principal Local Authority Register has been developed with the Welsh Government and Government Digital Service (GDS), and contains identifiers for 22 county and county borough councils. The register may not cover all local authorities as it focuses on bodies providing mainstream local government services. It uses the second portion of [ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:GB) codes and includes all codes listed for Wales (WLS).",
+      "name": "Principal Local Authority Register for Wales",
+      "public-database": true,
+      "url": "https://principal-local-authority.register.gov.uk/records"
+    },
+    {
+      "category": "GB",
+      "code": "GB-SCOTEDU",
+      "description": "Schools and other education establishments in Scotland must be registered with the Department of Education in the Scottish Government. The Register of Schools is maintained by the Department of Education which provides a SEED code as the unique identifier for each school or other educational establishment in Scotland. Universities are not registered through this registrar",
+      "name": "Register of Schools (Scotland)",
+      "public-database": true,
+      "url": "https://www2.gov.scot/Topics/Statistics/Browse/School-Education/Datasets/contactdetails"
+    },
+    {
+      "category": "GB",
+      "code": "GB-SHPE",
+      "description": "A statutory register of not-for-profit (housing associations), for-profit private, and local authority social housing providers, who are registered to operate in England. The Homes and Communities Agency (HCA)[1] is the regulator for social housing providers in England and maintains the list. Fields indicate the designation of the social housing provider (e.g. private, non-profit, local authority) and the legal entity type (by their inclusion on the FCA Mutual Register, the Charity Register and Companies House). A *monthly* published list also appears on the HCA website, which includes new registrations and deregistrations https://www.gov.uk/government/publications/current-registered-providers-of-social-housing [1]: https://www.gov.uk/government/organisations/homes-and-communities-agency",
+      "name": "Registered Social Housing Providers (England)",
+      "public-database": true,
+      "url": "https://social-housing-provider-eng.alpha.openregister.org/"
+    },
+    {
+      "category": "GB",
+      "code": "GB-SRS",
+      "description": "The UK Government Supplier Registration Service (SRS) is used by both buyers and suppliers to log in to procurement-related systems. The system assigns an identifier to each registered organisation, and may record details of other identifiers for the organisation, such as a DUNS number. Crown Commercial Service (part of the Cabinet Office) publishes a list of the identifiers for all organisations that are registered in the system as **buyers**. Whilst primarily covering government agencies from all levels of government, the list also includes some private companies, trusts and charities who have been assigned the buyer role within the system. The use of Supplier Registration System identifiers is considered a temporary measure. They should only be used when no other stable identifier for a government agency is available, and should not be used to identify private organisations, for which company registration numbers are preferred.",
+      "name": "Supplier Registration Service, Crown Commercial Service, UK",
+      "public-database": true,
+      "url": "https://supplierregistration.cabinetoffice.gov.uk/"
+    },
+    {
+      "category": "GB",
+      "code": "GB-WALEDU",
+      "description": "Schools and other education establishments in Wales must be registered with the Department of Education in the Welsh Government. The Register of Schools is maintained by the Department of Education which provides a School number as the unique identifier for each school or other educational establishment in Wales. Universities are not registered through this registrar. Welsh schools used to be registered by the Department of Education for England and Wales and, although it is not the registrar, the English Department of Education still held records for Welsh schools as of October 2019. Use this list in preference over the English one for Welsh schools.",
+      "name": "Register of Schools (Wales)",
+      "public-database": true,
+      "url": "https://gov.wales/address-list-schools"
+    },
+    {
+      "category": "GE",
+      "code": "GE-RS",
+      "description": "The Revenue Service of Georgia (RS) operates under the Ministry of Finance of the Republic of Georgia. All individuals and institutions with a relationship to the tax authority are issued with an identification number. Governmental organisations and individuals register directly with the Revenue Service of Georgia (RS). Entrepreneurs (Limited Companies, Joint Stock Companies, Co-operatives etc.) register with the Ministry of Justice/National Agency of Public Registry, but are immediately entered also into the Revenue Service register.",
+      "name": "Georgian Revenue Service",
+      "public-database": true,
+      "url": "http://www.rs.ge/5385"
+    },
+    {
+      "category": "GH",
+      "code": "GH-RGD",
+      "description": "The Registrar General's Department is Ghana's register of companies. It contains entries for various kinds of companies, including: * Limited Liability Companies * Companies limited by guarantee * External Companies * Partnership Searches of the register, by company name, can be made at https://egovonline.gegov.gov.gh/RGDPortalWeb/portal/RGDHome/eghana.portal?_nfpb=true&_st=&_pageLabel=portal_RGDHome_NameSearchPage_page&linksPageTitle=Name+Search&service=namesearch#wlp_portal_RGDHome_NameSearchPage_page",
+      "name": "Registrar General's Department",
+      "public-database": true,
+      "url": "http://rgd.gov.gh/"
+    },
+    {
+      "category": "GT",
+      "code": "GT-CISP",
+      "description": "The Ministry of Finance of Guatemala provide a classification of all public institutions in receipt of budget allocations. This can be used to provide organisation identifiers for public sector entities, including central and local government, and public enterprises.",
+      "name": "Public Sector Institution Classifications (Guetmala)",
+      "public-database": true,
+      "url": "http://www.minfin.gob.gt/"
+    },
+    {
+      "category": "GT",
+      "code": "GT-NIT",
+      "description": "The Número de Identificación Tributaria (NIT) is a number assigned by the Superintendencia de Administración Tributaria in Guatemala to every tax payer, including both companies, and individuals. Companies must register with the Commercial Registry (Registro Mercantil) online at https://minegocio.gt/ to be incorporated and assigned an NIT number.",
+      "name": "Guatemala Tax Identification Number",
+      "public-database": true,
+      "url": "https://portal.sat.gob.gt/portal/"
+    },
+    {
+      "category": "GT",
+      "code": "GT-RPJ",
+      "description": "This is the primary registry for domestic non-profits (churches, civil society organisations, NGOs, foundations, etc) and also where 'Branches or Agencies of Foreign Entities' should register. Without registration, NGOs cannot operate in Guatemala. Not to be confused with the Registro Nacional de las Personas (for individuals) or the NIT, which is the tax identification number. The length of ID varies, and consists of a combination of several columns in registries or several numbers in a document. The document could say 'partida no 236, folio(s) 413, de(l) (los) libro(s) 45' which results in the ID 23641345.",
+      "name": "Registry for Legal Entities (Guatemala)",
+      "public-database": true,
+      "url": "https://mingob.gob.gt/mingobsites/repeju/"
+    },
+    {
+      "category": "HK",
+      "code": "HK-CR",
+      "description": "All businesses operating in Hong Kong, including non-Hong Kong businesses with a place of business in Hong Kong must register with the Companies Register. This includes Sole-proprietorship, Partnership and Unincorporated body of persons, Non-Hong Kong company, and Branch business, as well as companies incorporated under the Companies Ordinance. Businesses are issued with a registration certificate that is valid for three years, and which can be renewed.",
+      "name": "Hong Kong Companies Register",
+      "public-database": true,
+      "url": "https://www.icris.cr.gov.hk/csci/"
+    },
+    {
+      "category": "HN",
+      "code": "HN-RTN",
+      "description": "The National Tax Registry register taxpayers in Honduras. The following organisations and individuals are obliged to register with the National Tax Registry: 1 All individuals or legal entities, national or foreign, domiciled in the country as taxpayers with tax obligations such as: payment of taxes, fees and contributions. 2 Taxpayers with formal obligations: for filing different tax returns and withholdings. 3 Taxpayers with tax obligations: * Importers, exporters and those who re-apply wholesale purchase purchase management. * The companies legally constituted according to the Commercial Code. * Foreign companies that carry out operations in Honduras. * Irregular or de facto societies. * The Undivided Successions (Undivided Heritage). * Charitable institutions and Organized Groups for scientific, political, cultural or sporting purposes without profit and that have employees under their charge. * Cooperatives of any degree. * The Deconcentrated Institutions. * The Decentralized Institutions. * Others. 4. Institutions that must register for control purposes: * Secretaries of State * Autonomous Institutions * Semi-autonomous institutions * State Corporations * City Halls [1] [1] https://sde.gob.hn/registro-tributario-nacional-numerico-rtn/",
+      "name": "National Tax Registry",
+      "public-database": true,
+      "url": "https://sde.gob.hn/registro-tributario-nacional-numerico-rtn/"
+    },
+    {
+      "category": "HU",
+      "code": "HU-AFA",
+      "description": "The Ministry of Justice Information and Electronic Company Registration Service website provides free accesss to individual company data online from 1 January 2008. Only available in Hungarian.",
+      "name": "Information and Electronic Company Registration Service",
+      "public-database": true,
+      "url": "http://www.e-cegjegyzek.hu/?cegkereses"
+    },
+    {
+      "category": "ID",
+      "code": "ID-DJP",
+      "description": "The Directorate General of Taxes is Indonesia's tax office. The Tax Identification Number (TIN) is known in Indonesia as Nomor Pokok Wajib Pajak (NPWP) and is issued by the Directorate General of Taxes to individuals and entities.",
+      "name": "Director General of Taxes",
+      "public-database": true,
+      "url": "http://ceknpwp.com/"
+    },
+    {
+      "category": "ID",
+      "code": "ID-SMR",
+      "description": "The SMERU Research Institute is an independent body which conducts research on social issues in Indonesia. They also maintains a database of NGOs working in Indonesia. \"The SMERU Research Institute is an independent institution for research and public policy studies. We professionally and proactively provide accurate and timely information, as well as objective analyses, on various socioeconomic and poverty issues considered most urgent and relevant for the people of Indonesia.\" [1] \"SMERU manages Indonesia's most comprehensive online database of national and regional non-governmental organizations (NGOs). Currently, there are almost 3,000 NGOs in the database, which provides information on the NGOs’ name, address, contact person, vision, mission, legal form, activities, and sector.\" [2] [1] http://www.smeru.or.id/en/about [2] http://www.smeru.or.id/en/content/ngo-database",
+      "name": "The SMERU Research Institute",
+      "public-database": false,
+      "url": "http://www.smeru.or.id/en"
+    },
+    {
+      "category": "IL",
+      "code": "IL-RA",
+      "description": "In Israel, charitable organisations may take two forms: * Companies registered for public benefit (which are in the Register of Companies - IL-ROC) * Charities registered with the register of charities (Rasham Ha'amutot) which are contained within this list (IL-RA) Rasham Ha'amutot registration numbers begin with '58'.",
+      "name": "Israel Charity Registry",
+      "public-database": true,
+      "url": "http://www.justice.gov.il/Units/RasutHataagidim/apps/Pages/RashamAmutot.aspx"
+    },
+    {
+      "category": "IN",
+      "code": "IN-MHA",
+      "description": "The Foreign Contributions (Regulation) Act required NGOs in receipt of foreign funding in India to register with the government. They are assigned an FRCA Registration Number.",
+      "name": "Ministry of Home Affairs (India) Foreign Contributions (Regulation) Act Register",
+      "public-database": false,
+      "url": "https://fcraonline.nic.in/"
+    },
+    {
+      "category": "IQ",
+      "code": "IQ-NGO",
+      "description": "The NGO Directory registers both local and international NGOs operating in Iraq, and assigns a registration number to each.",
+      "name": "NGO Directorate (Republic of Iraq)",
+      "public-database": false,
+      "url": "http://www.ngoao.gov.iq/"
+    },
+    {
+      "category": "IS",
+      "code": "IS-KEN",
+      "description": "**Identification number - kennitala**. In Iceland, persons and enterprises are issued a unique identification number which is recorded in the national register and register of enterprises. Individuals are identified with the ID numbers in the national registry system. There are two types of personal ID number registered in the national registry i.e. system ID No. and personal ID No. Personal ID numbers are issued at birth to all children born in Iceland and Icelandic citizens born abroad. Personal ID numbers are also assigned to all individuals who register their domicile in Iceland. A system ID number is only issued to individuals who intend to stay less than 3-6 months in Iceland or do not intend to stay in the country at all.",
+      "name": "Icelandic Social Security Number",
+      "public-database": true,
+      "url": "https://www.skra.is/"
+    },
+    {
+      "category": "IT",
+      "code": "IT-CF",
+      "description": "Companies (and some other entities) in Italy must register with the Business Register of the Chambers of Commerce. They are assigned a Codice Fiscale (CF) or Tax Code which also acts as their Partitia IVA (P.IVA) or VAT Number. Entities may also be assigned an Economic and Administrative Directory (REA) identifier.",
+      "name": "Italian Tax Code / VAT Number",
+      "public-database": true,
+      "url": "http://www.registroimprese.it/"
+    },
+    {
+      "category": "IT",
+      "code": "IT-CUUO",
+      "description": "The Codice Univoco Unità Organizzativa (CUUO) is a unique identifier for all organizational units of public bodies, authorities and public services in Italy. Codes are issued by Agenzia per l’Italia Digital (AGID) as part of the Indice dei domicili digitali della Pubblica Amministrazione (IPA). Accreditation to IPA is mandatory for all Administrations.",
+      "name": "Unique Organizational Unit Code",
+      "public-database": true,
+      "url": "https://www.indicepa.gov.it/ipa-portale/"
+    },
+    {
+      "category": "JE",
+      "code": "JE-FSC",
+      "description": "Companies and Non Profit Organisations operating in Jersey register with the Financial Services Commission (JFSC). A search of company information is freely available on the Commission website. There was no search available for NPOs at the time of last checks. Users should be aware that the identifier numbers are not unique, as there are multiple types of companies and identifiers can be repeated. For example, there are two companies with the number '1381' - an LP (limited partnership) and an RC (Registered Private Company) It is recommended that those creating identifiers for JSFC use the business codes as part of the identifier. For example, the limited partnership company described above should have the identifier: JE-FSC-LP_1381 \"The Non-Profit Organizations (Jersey) Law 2008 (the “NPO Law”) was registered by the Royal Court on 25 July 2008 and came into effect on 8 August 2008. This legislation requires NPOs to register with the Commission in certain circumstances. The definition of an NPO, as provided by Article 1 of the NPO Law, is given below: “An organization is a non-profit organization for the purposes of this Law if – (a) it is established solely or primarily for charitable, religious, cultural, educational, social, or fraternal purposes with the intention of benefiting the public or a section of the public; and (b) it raises or disburses funds in pursuance of those purposes.” \" [1] [1] http://www.jerseyfsc.org/anti-money_laundering/forms/NPO/index.asp",
+      "name": "Jersey Financial Services Commission (JFSC)",
+      "public-database": false,
+      "url": "http://www.jerseyfsc.org/index.asp"
+    },
+    {
+      "category": "JE",
+      "code": "JE-JCR",
+      "description": "The Jersey Charity Register register contains key information about each registered charity and, with some limited exceptions, is fully open to public inspection so that people can if they wish understand more about the purposes, finances and public benefit delivery of the charities registered in Jersey.",
+      "name": "Jersey Charity Register",
+      "public-database": true,
+      "url": "https://charitycommissioner.je/"
+    },
+    {
+      "category": "KE",
+      "code": "KE-KRA",
+      "description": "The Personal Identification Number (PIN) is a number which identifies a person or legal entity for purposes of transacting business with Kenya Revenue Authority, other Government agencies and service providers in Kenya. A PIN may be issued to both individuals and 'artificial persons' such as companies, clubs, trusts and partnerships.",
+      "name": "Kenya Revenue Authority PIN",
+      "public-database": false,
+      "url": "https://www.kra.go.ke/individual/individual-pin-registration/learn-about-pin/about-pin"
+    },
+    {
+      "category": "KG",
+      "code": "KG-INN",
+      "description": "The Ministry of Justice of the Kyrgyz Republic maintains the register of legal entities. Only Russian and Kyrgyz interfaces are available.",
+      "name": "Kyrgyz Republic Register of Legal Entities",
+      "public-database": true,
+      "url": "http://register.minjust.gov.kg/register/SearchAction.seam?logic=and&cid=205"
+    },
+    {
+      "category": "KG",
+      "code": "KG-OKPO",
+      "description": "The Ministry of Justice of the Republic of Kyrgyz maintains the register of legal entities. It contains entries for many kinds of organizations, including: * Companies * Partnerships * Co-operatives * Trade unions * Local and state enterprises * Joint ventures * Small businesses * Political Parties * Credit unions This list references the (National Classifier of Businesses and Organisations) OKPO codes scheme.",
+      "name": "Electronic database of legal entities and branches (Krygyzstan) OKPO codes",
+      "public-database": true,
+      "url": "http://register.minjust.gov.kg/register/SearchAction.seam"
+    },
+    {
+      "category": "KG",
+      "code": "KG-TIN",
+      "description": "The Ministry of Justice of the Republic of Kyrgyz maintains the register of legal entities. It contains entries for many kinds of companies, including: * Companies * Partnerships * Co-operatives * Trade unions * Local and state enterprises * Joint ventures * Small businesses * Political Parties * Credit unions This list references the Taxpayer Identification Numbers (TIN) scheme.",
+      "name": "Electronic database of legal entities and branches (Krygyzstan) TIN",
+      "public-database": true,
+      "url": "http://register.minjust.gov.kg/register/SearchAction.seam"
+    },
+    {
+      "category": "KH",
+      "code": "KH-INGO",
+      "description": "A foreign NGO must register with the MOFA by entering into a Memorandum of Understanding (“MOU”) with MOFA. After the MOFA has entered into the MOU with a foreign NGO, the NGO must sign a Project Agreement with the MOFA before starting its work. A foreign NGO may be established for a three (3) year duration which must be renewed with the MOFA before the expiration of the term. An organization registered as a foreign NGO by the MOFA is considered properly licensed to carry out its activities in Cambodia and no further registration is required. However, in the event a foreign organization was to carry out business activities pursuant to Article 272 of the LOCE it may remain subject to registration as in accordance with that provision. After obtaining MOFA or MOI approval to be established, a foreign or local NGO must also register with the CDC if it wishes to import duty free materials to serve its program. The CDC will periodically require the NGO complete several forms.",
+      "name": "Ministry of Foreign Affairs",
+      "public-database": true,
+      "url": "https://www.mfaic.gov.kh/"
+    },
+    {
+      "category": "KH",
+      "code": "KH-NNGO",
+      "description": "The Ministry of Interior is responsible for registering national non-governmental organizations (NGOs), as well as monitoring the proper implementation of its laws and regulations [1]. There are two distinct types of NGOs in Cambodia, national and foreign [2]. Only national NGOs are registered with the Ministry of Interior [2]. [1] https://www.interior.gov.kh/about [2] https://cambodiacounsel.com/ngo-registration/",
+      "name": "Ministry of Interior National NGO Registrar",
+      "public-database": false,
+      "url": "https://cambodiacounsel.com/ngo-registration/"
+    },
+    {
+      "category": "KR",
+      "code": "KR-BRN",
+      "description": "The Business Registration Number covers the following types of organization, as designated by the middle two digits of the number [1]: - 01-79 sole proprietor liable for value-added tax (VAT) - 90-99 sole proprietor exempted from value-added tax (VAT) - 89 non-corporate religious organization - 80 non-corportate organization excluding religious group - 81,86-88 head office of a for-profit organization - 82 head or branch office of a non-profit corporation - 83 country, local government or local government association - 84 head, branch or liaison office of a foreign corporation - 85 branch office of a for-profit corporation An individual or corporation starting a business should obtain a Business Registration Number from the head of the district tax office in their jurisdiction [2]. The Business Registration Number can be found on the Business Registration Certificate issued by the National Tax Service [3]. [1,2,3] https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Korea-TIN.pdf",
+      "name": "National Tax Service Business Registration Number",
+      "public-database": true,
+      "url": "http://www.nts.go.kr"
+    },
+    {
+      "category": "LB",
+      "code": "LB-CR",
+      "description": "'Article 23 of the Lebanese Trade Law stipulates that 'every court of first instance shall have a record carefully recorded by the author under the supervision of the President or a judge appointed by the President specifically in each year'. The Clerk of the Court is limited to the recording of data submitted by stakeholders without examination or scrutiny and without verifying their validity. The Commercial Register is divided into two types: - a general register in which traders and companies register. - A special register in which commercial establishments and contracts are registered'[1] [1]: http://cr.justice.gov.lb/desc/desc.aspx (translated)",
+      "name": "Lebanese Ministry of Justice, Commercial Register",
+      "public-database": true,
+      "url": "http://cr.justice.gov.lb/desc/desc.aspx"
+    },
+    {
+      "category": "LB",
+      "code": "LB-MOI",
+      "description": "The Ministry of Interior is the main registration body in Lebanon. All NGOs are required to register with the Ministry of Interior.",
+      "name": "Ministry of Interior (Lebanon)",
+      "public-database": false,
+      "url": "http://www.interior.gov.lb/"
+    },
+    {
+      "category": "LK",
+      "code": "LK-DRC",
+      "description": "Companies ins Sri Lanka are registered through the Department of the Registrar of Companies. Under the Companies Act No 7. of 2007, DRC are responsible for: * Incorporation of Private Limited Liability Companies * Incorporation of Public Limited Liability Companies * Registration of Foreign Companies * Registration of Off-Shore Companies * Incorporation of Unlimited Companies * Incorporation of Public Quoted Companies * Incorporation of Guarantee Companies * Incorporation of Associations * Registration of Auditors and Company Secretaries Under the Societies Ordinance No 16. of 1891 they also have responsibility for registration of societies.",
+      "name": "Department of the Registrar of Companies (Sri Lanka)",
+      "public-database": true,
+      "url": "http://www.drc.gov.lk/"
+    },
+    {
+      "category": "LK",
+      "code": "LK-NGO",
+      "description": "The National Secretariat for Non-Governmental Organisations maintain a directory of registered NGOs.",
+      "name": "Sri Lanka - National Secretariat for Non-Governmental Organisations",
+      "public-database": true,
+      "url": "http://www.ngosecretariat.gov.lk/"
+    },
+    {
+      "category": "LR",
+      "code": "LR-MFDPNGO",
+      "description": "The Ministry of Finance and Development Planning keeps a registry of all registered and accredited NGOs and CSOs in Liberia [1]. [1.] https://www.mfdp.gov.lr/index.php/budget-planning/assistant-min-regional-sectoral/ngo-unit",
+      "name": "Ministry of Finance and Development Planning NGO",
+      "public-database": false,
+      "url": "https://www.mfdp.gov.lr/index.php/budget-planning/assistant-min-regional-sectoral/ngo-unit"
+    },
+    {
+      "category": "LU",
+      "code": "LU-RCS",
+      "description": "The Luxembourg Trade and Companies Register (Registre de commerce et des sociétés – RCS) is a public register and can be freely accessed. It contains information about traders and companies which, by law, must be disclosed and published, alongside their RCS number. This information is published on the RESA publication platform (https://www.lbr.lu/mjrcs-resa/). The RCS is managed by the Luxembourg Business Registers (LBR) (https://www.lbr.lu/). The information that is published serves to identify the trader or company, and includes particulars such as a company's articles of association, its rules of procedure, the liability of its directors and officers, and the company accounts. The information that the trader/company will be required to disclose for publication depends on the legal form of the business, its size and its sector of activity. All companies that are newly incorporated in Luxembourg must be registered with the RCS, and their articles of association must be filed with the latter in full or in extract form depending of the legal form of the business. Subsequent amendments to published information must also be published. The LBR ensures interoperability between the Luxembourg RCS and the business registers of other EU member states through the Business Registers Interconnection System.",
+      "name": "Luxembourg Trade and Companies Register",
+      "public-database": true,
+      "url": "https://www.lbr.lu/"
+    },
+    {
+      "category": "MC",
+      "code": "MC-RCI",
+      "description": "\"The Trade and Industry Registry is an official register of all commercial activities, companies other than non-trading companies, and economic interest groups. It ensures that all the legal formalities relating to setting up a business, and authorisation to run and advertise a business, have been met. Registration with the Trade and Industry Registry (click here for the factsheet : “How to register your company on the Trade and Industry Registry\") is obligatory and must be completed within the two months which follow the commencement of activity. \"[1] Registration follows the establishment of the entity and this being recognised by publication of its new status in the Journal de Monaco [2]. Sole traders (Personne Physique) are also registered and issued RCI numbers, as are some foreign commercial establishments [3]. [1]: https://en.service-public-entreprises.gouv.mc/Starting-a-business/Start-up-services/Registration-and-statement-of-existence/The-Trade-and-Industry-Register-RCI , retrieved 12th Dec 2020 [2]: https://en.service-public-entreprises.gouv.mc/Starting-a-business/Start-up-services/Registration-and-statement-of-existence/How-to-register-your-company-on-the-Trade-and-Industry-Registry, retrieved 12th Dec 2020 [3]: https://www.monacostatistics.mc/Economy-and-Finance/RCI, retrieved 12th Dec 2020",
+      "name": "Trade and Industry Registry Number",
+      "public-database": true,
+      "url": "https://service-public-entreprises.gouv.mc/Creation-d-activite/Demarches-de-creation/Immatriculation-et-declaration-d-existence/Le-Repertoire-du-Commerce-et-de-l-Industrie-RCI"
+    },
+    {
+      "category": "MG",
+      "code": "MG-NIF",
+      "description": "Madagascar's General tax office (DGI) are responsible for issuing 'Numéro d'Identification Fiscale' (NIF) identification numbers.",
+      "name": "Directorate General of Taxes",
+      "public-database": false,
+      "url": "https://www.impots.mg/"
+    },
+    {
+      "category": "ML",
+      "code": "ML-CCIM",
+      "description": "The Chamber of Commerce and Industry of Mali (CCIM) is responsible for the organization and professional representation of organisations and legal persons working in the various branches of commercial, industrial and service activities in Mali.",
+      "name": "The Chamber of Commerce and Industry of Mali",
+      "public-database": false,
+      "url": "http://www.cci.ml/"
+    },
+    {
+      "category": "ML",
+      "code": "ML-MAT",
+      "description": "The list consists of associations and NGOs in the Republic of Mali, excluding: trading companies; mutuals; cultural associations; congregations; cooperatives; unions; political parties ; professional orders and foundations. Associations/NGOs in Mali \"form freely without authorization or declaration, but they will only enjoy the legal capacity if they\" make a declaration to the Ministre chargé de l'administration territoriale if they are political, humanitarian or foreign associations. Otherwise \"The preliminary declaration will be made to the representative of the State in the District of Bamako or in the Circle in whose jurisdiction the head office is located\"[1]. \"Within three months, the association will be made public by the care of its founders by means of an insertion in the Official Journal\"[1]. We have been unable to find an online version of the journal, which in this case is the list. [1] https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/97007/114925/F-1897106720/MLI-97007.pdf",
+      "name": "Ministere de l'Administration Territoriale",
+      "public-database": false,
+      "url": "http://www.matcl.gov.ml/"
+    },
+    {
+      "category": "ML",
+      "code": "ML-NIF",
+      "description": "The Tax Identification Number (Numero d’Identification Fiscale) is issued to registered companies, and to branches of foreign organisations operating in Mali. There is publicly available register of assigned Tax Identification Numbers.",
+      "name": "Tax Identification Number",
+      "public-database": false,
+      "url": "http://demarchesadministratives.gouv.ml/demarches/afficher/Numero-d-Identification-Fiscale-NIF"
+    },
+    {
+      "category": "MX",
+      "code": "MX-CMX_CPA",
+      "description": "Catalog of dependencies and municipalities that are registered as entities that receive a budget according to the budget for expenditures for the current year. This list provides Mexico City's administrative classification, with the same meanings as [MX-CPA](https://org-id.guide/list/MX-CPA) but at the level of Mexico City.",
+      "name": "Budget Classification of Public Entities (Mexico City)",
+      "public-database": true,
+      "url": "https://datos.cdmx.gob.mx/dataset/entes-publicos-de-la-ciudad-de-mexico"
+    },
+    {
+      "category": "MX",
+      "code": "MX-CPA",
+      "description": "This list provides Mexico's administrative classification, which includes the following concepts: * Ramo: a concept that groups all the specific organizations from Mexico's Public Administration. * Unidad Responsable: the specific organizations from Mexico's Public Administration By combining the Ramo, and Unidad Responsable codes, a unique identifier can be created for government entities. For example: 4-121 for Dirección General de Protección Civil",
+      "name": "Budget Classification of Public Entities (Mexico)",
+      "public-database": true,
+      "url": "http://www.transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Metadatos/catalogos_presupuestarios.xlsx"
+    },
+    {
+      "category": "MZ",
+      "code": "MZ-CR",
+      "description": "The purpose of the Commercial Registry is to make known the status of merchant of natural and legal persons, being defined as mandatory for the formation of companies.",
+      "name": "Mozambique Commercial Registry",
+      "public-database": false,
+      "url": "http://www.portaldogoverno.gov.mz/Empresas/Registos/Registo-de-Sociedades"
+    },
+    {
+      "category": "MZ",
+      "code": "MZ-NUIT",
+      "description": "NUIT is the Mozambique Taxpayer Single Identification Number. It is made up of 9 digits split into 3 parts: the first digit stands for the type of entity, the middle part is a sequential number, and the last digit provides a checksum. Both individuals and corporate entities are assigned an NUIT.",
+      "name": "Taxpayer Single Identification Number (Mozambique)",
+      "public-database": false,
+      "url": "http://www.at.gov.mz/eng/Internacional-Trade/FAQ-s/NUIT"
+    },
+    {
+      "category": "NA",
+      "code": "NA-NAMRA",
+      "description": "The Namibia Revenue Agency maintains the details of all businesses, non-profits and individuals who are required to submit income tax returns. All legal entities must be registered with the Revenue Agency upon incorporation. Information regarding an entity can be requested from the Revenue Agency by the registered representative of the entity, accountants or auditors.",
+      "name": "Namibia Revenue Agency",
+      "public-database": false,
+      "url": "https://www.namra.org.na/"
+    },
+    {
+      "category": "NE",
+      "code": "NE-DGI",
+      "description": "All people, companies, NGOs and organisations undertaking economic or professional activity in Niger must have a Tax Identification Number (Numéro d'Identification Fiscale, or NIF). Theoretically, any natural or legal person, carrying out a professional activity, whatever its nature, is bound by the following registration requirements: * To sign a declaration of existence to which is attached a registration form in the month of the beginning of the activity or the creation of the enterprise; * To request the assignment of a Tax Identification Number, commonly known as NIF [1]. [1]: http://www.impots.gouv.ne/missions/immatriculation-et-recensement",
+      "name": "Tax Directorate",
+      "public-database": false,
+      "url": "https://www.impots.gouv.ne/index.php/formalites/gestion-d-entreprise-nif/creation-d-entreprise-nif"
+    },
+    {
+      "category": "NG",
+      "code": "NG-BPP",
+      "description": "The Nigerian Bureau of Public Procurement are responsible for monitoring and oversight of public procurement in Nigeria. The Contractor and Service Provider Database System is a government vendor registration database system that assigns a unique contractor identification number, categories, and classification of firms who have applied for, or been involved in, government contracts.",
+      "name": "Bureau of Public Procurement (BPP) Contractor Registration System (Nigeria)",
+      "public-database": true,
+      "url": "http://federalcontractors.bpp.gov.ng/"
+    },
+    {
+      "category": "NG",
+      "code": "NG-TIN",
+      "description": "The Tax Identification Number (TIN) is a unique number given to Individuals, Limited Liability Companies, Incorporated Trustees, Enterprises, Cooperative Society, MDAs, Trade Association etc. for the purpose of tax payment [1]. The Federal Inland Revenue Service (FIRS) is the agency responsible for providing the Tax Identification Number (TIN)[2]. There is a publicly available site to verify the ownership and validity of the Tax Identification Numbers [3]. The search is done using the TIN number and the result returns plain text stating who the TIN belongs to. [1]: https://www.wikiprocedure.com/index.php?title=Nigeria_-_Obtain_Tax_Identification_Number_(TIN)#Eligibility [2]: https://en.wikipedia.org/wiki/Federal_Inland_Revenue_Service https://firs.gov.ng/ [3]: https://apps.firs.gov.ng/tinverification/",
+      "name": "Taxpayer Identification Number",
+      "public-database": true,
+      "url": "https://apps.firs.gov.ng/tinverification/"
+    },
+    {
+      "category": "NL",
+      "code": "NL-OWMS",
+      "description": "Overheid.nl is the central access point to all information about government organisations of the Netherlands. The Overheid.nl Web Metadata Standard ( OWMS ) is the metadata standard for information from the Dutch government on the Internet. It contains URIs for a wide range of government bodies, including national, local and regional government and water boards. It provides a linked open dataset which contains ontological information about the relationship between those organisations (e.g. listing parent agencies, or noting organisations that succeed previous organisations). A management plan is in place for updating of the information [1]. [1]: http://standaarden.overheid.nl/owms/beheer",
+      "name": "Overheid.nl Web Metadata Standard",
+      "public-database": false,
+      "url": "http://standaarden.overheid.nl/owms/4.0/doc/waardelijsten"
+    },
+    {
+      "category": "NP",
+      "code": "NP-IRD",
+      "description": "The Inland Revenue Department is responsible for the administration of Value Added Tax, Income Tax, and Excise Duty. In the performance of these duties it maintains a register of Permanent Account Numbers (PANs) the unique taxpayer identification number for Nepal. This register covers individuals as well as legal entities. Org-id does not recommend using the PAN of an individual person as a unique identifier. The PAN is described as follows[1]: PAN is a unique identification number, which is issued to all the taxpayers and Tax Deducted at Source (TDS) withholding agents throughout the kingdom. PAN identifies each taxpayer or TDS withholding agent uniquely countrywide. PAN is necessary to process taxpayers or TDS withholding agents using computer systems. PAN is allotted only once in the lifetime of a taxpayer or TDS withholding agent. It never changes. [1] https://ird.gov.np/Content/ContentAttachment/1020/IndividualRegistration(English)1172014102329AM.pdf",
+      "name": "Inland Revenue Department",
+      "public-database": true,
+      "url": "https://ird.gov.np/"
+    },
+    {
+      "category": "PA",
+      "code": "PA-PRP",
+      "description": "The Public Registry of Panama is a dependency of the Ministry of Government and Justice and it's the sole property registry of Panama [1]. Corporations and Foundations are required to be registered in the Public Registry of Panama. [1]. https://registro-publico.gob.pa/index.php?option=com_content&view=article&id=147&Itemid=501",
+      "name": "Public Registry of Panama",
+      "public-database": true,
+      "url": "https://www.panadata.net/en/organizaciones"
+    },
+    {
+      "category": "PE",
+      "code": "PE-RUC",
+      "description": "The 'Registro Único del Contribuyente' (RUC) number is an 11-digit tax ID number for any natural or legal person (such as a company) in Peru, and is provided and maintained by The Superintendencia Nacional de Aduanas y de Administración Tributaria (The SUNAT). The SUNAT, according to its creation Law No. 24829, is a specialized technical agency, attached to the Ministry of Economy and Finance. Its main purpose is to administer the taxes of the national government and the tax and non-tax concepts entrusted to it by Law or according to the inter-institutional agreements entered into, providing the resources required for fiscal solvency and macroeconomic stability; ensuring the correct application of the regulations governing the matter and combating tax and customs crimes in accordance with its powers.",
+      "name": "RUC Number (Peru)",
+      "public-database": true,
+      "url": "https://www.sunat.gob.pe/"
+    },
+    {
+      "category": "PE",
+      "code": "PE-SUNARP",
+      "description": "The SUNARP is an autonomous decentralized body of the Justice Sector in Peru and the governing body of the National System of Public Registries. It maintains the register of Legal Entities (\"Registro De Personas Juridicas\") which covers corporate and non-corporate bodies including: * Non Corporate * Associations * Foundations * Committees * Peasant and native communities * Cooperatives * Grassroots social organizations * Corporate * Public Limited Companies (open and closed) * Collective Societies * Limited Partnerships * Limited Liability Company * Civil Companies",
+      "name": "Peruvian National Superintendency of Public Registries - Registered Legal Entities",
+      "public-database": true,
+      "url": "https://www.sunarp.gob.pe/dn-personas-juridicas.asp"
+    },
+    {
+      "category": "PH",
+      "code": "PH-SEC",
+      "description": "The Securities and Exchange Commission in the Philippines provides licenses so that corporations, partnerships or associations can transact business in the Philippines. For domestic companies, this may come in the form of a 'Certificate of Incorporation'. For foreign firms or organisations, branches may obtain a 'License to transact business'.",
+      "name": "Securities and Exchange Commission (Philippines)",
+      "public-database": true,
+      "url": "http://www.sec.gov.ph/"
+    },
+    {
+      "category": "PK",
+      "code": "PK-NTN",
+      "description": "National Tax Number, commonly known as NTN is a unique ID issued by Federal Board of Revenue (FBR) – the apex tax regulatory authority in Pakistan, to verify the registration of business. Individuals and organisations that are liable to pay income tax must have a National Tax Number (NTN). Organisations registered with the Inland Revenue in Pakistan should be found on this list. The NTN is 7 digits and sometimes includes a dash and additional digit (the check number) at the end. Eg 4174941-3",
+      "name": "Pakistan National Tax Number",
+      "public-database": true,
+      "url": "https://e.fbr.gov.pk/esbn/Verification#"
+    },
+    {
+      "category": "PK",
+      "code": "PK-SEC",
+      "description": "Companies and other forms of association in Pakistan can be registered with the Securities and Exchange Commission (SEC).",
+      "name": "Securities and Exchange Commission of Pakistan",
+      "public-database": true,
+      "url": "https://www.secp.gov.pk/"
+    },
+    {
+      "category": "PS",
+      "code": "PS-MOI",
+      "description": "The Palestine Ministry of Interior provide a registration list of NGOs, divided by province and responsible ministry.",
+      "name": "Ministry of Interior (Palestine)",
+      "public-database": false,
+      "url": "http://www.moi.pna.ps/NGOs/List"
+    },
+    {
+      "category": "PS",
+      "code": "PS-TIN",
+      "description": "The Palestinian National Authority's Ministry of Finance issues a certificate with taxpayer registration data (بيانات تسجيل دافعي الضرائب). The number (الرقم) is the Tax Identification Number for the given organisation.",
+      "name": "Tax Identifier Number, Palestine",
+      "public-database": false,
+      "url": "http://www.pmof.ps/"
+    },
+    {
+      "category": "PY",
+      "code": "PY-PGN",
+      "description": "Provides identifiers for organizations and institutions from the Paraguayan State, including national public bodies, administrative departments, and municipalities. From the National Budget Law (Presupuesto General de la Nación (PGN)) of 2016 from Paraguay: “The objective of the classification by entities is to organize information related income, spending and budgetary credits from the different state organisms and entities at various institutional levels according to their functions, nature, characteristics and dependencies.”[1] The list is yearly updated given each the yearly national budget law. N.B. Please note, many government organisations also have an 'RUC' code (list [PY-RUC](/list/PY-RUC)), which is preferred to this list. [1]: http://bit.ly/PGNPY2016",
+      "name": "Classification of Entities in the National Budget for Paraguay",
+      "public-database": true,
+      "url": "http://www.hacienda.gov.py/web-hacienda/archivo.php?a=keke1117221b211c20db1d141bdedcdde2db1019ke2016131610ke111c1fdedcdde2da1d1113ke0ac&x=6262001&y=keke0ac"
+    },
+    {
+      "category": "PY",
+      "code": "PY-RUC",
+      "description": "The Registro Único del Contribuyente (RUC) is the unique taxpayer registry that maintains the personal, non-transferable, identification number for all those physical persons (national or foreign) and legal entities (for-profit and non-profit) that carry out economic activities in the Paraguayan territory. The identification number is created primarily for tax purposes.",
+      "name": "Unique Taxpayer Registry, Paraguay",
+      "public-database": true,
+      "url": "http://www.hacienda.gov.py/web-hacienda/index.php?c=77"
+    },
+    {
+      "category": "RS",
+      "code": "RS-PIB",
+      "description": "Ordinary taxpayer registration numbers start from the number 10000001 and end with the number 99999999. The PIB is determined so that the first eight digits are the regular registration number of the taxpayer, and the last digit is the control number.",
+      "name": "Tax identification number register",
+      "public-database": true,
+      "url": "http://www.poreskauprava.gov.rs/pib.html"
+    },
+    {
+      "category": "RW",
+      "code": "RW-RGB",
+      "description": "Rwanda Governance Board registers and grants legal personality to national non-governmental organisations and religious based organisations. [1] National non-governmental organisations are classified into three categories [2]: * Public interest organisations * Common interest organisations * Foundations Common interest organisations and foundations may operate for up to two years before registering with Rwanda Governance Board. [2] Organisations registering with Rwanda Governance Board are issued a temporary operational certificate of registration, valid for a period 12 months, and must apply for legal personality within 9 months from the issue of the temporary certificate [2]. Decisions to grant legal personality to national non-governmental organisations are published in the [Official Gazette of the Republic of Rwanda](http://primature.gov.rw/media-publication/publication/latest-offical-gazettes.html). [2] Based on examples from the Official Gazette the final four digits of the identifier represent either the year of issue of the temporary certificate or the year legal personality was granted and the preceding 3 characters identify the type of organisation as follows [3]: * NGO for non-governmental organisatios * RBO for religious based organisations [1] http://rgb.rw/fileadmin/Key_documents/Law-RGS-Gazette/Law_Establishing_RGB_2016.pdf [2] http://rgb.rw/fileadmin/Key_documents/Law_Governing_Organization___Functioning_of_NGOs.pdf [3] http://primature.gov.rw/media-publication/publication/latest-offical-gazettes.html?no_cache=1&tx_drblob_pi1%5BdownloadUid%5D=324",
+      "name": "Rwanda Governance Board",
+      "public-database": false,
+      "url": "http://rgb.rw/"
+    },
+    {
+      "category": "RW",
+      "code": "RW-RRA",
+      "description": "The Rwanda Revenue Authority issues Taxpayer Identification Numbers (TIN) for all physical and moral persons (people and companies/legal entities) undertaking taxable activities: \"This is a unique number which is issued to a taxpayer by the tax Administration. It is obligatory for every taxpayer to have this unique number. Taxpayers have the obligation to indicate this number on all correspondences they do with RRA. This number has to be indicated on all documents which the taxpayer provides to the tax administration as proof.\" A TIN is issued after the person or entity submits the required papers to the Revenue Authority. Note that from Feb 2015, no RRA TIN certificate is issued to newly registered companies. Instead, a TIN is issued at the point of company registration with the Rwanda Development Board (https://org.rdb.rw/busregonline) and the registration certificate contains the TIN. See: https://www.rra.gov.rw/typo3conf/ext/complete/Resources/Public/download/pdf/itangazo_tin_17_feb.pdf",
+      "name": "Rwanda Revenue Authority",
+      "public-database": false,
+      "url": "https://www.rra.gov.rw/index.php?id=45&L=1%27A%3D0"
+    },
+    {
+      "category": "SE",
+      "code": "SE-ON",
+      "description": "\"The organization number is a unique identifier assigned to legal entities, such as companies and associations. The authority that registers the company or association when it is to be started assigns the organizational number. Most companies and associations have their organization number from the Swedish Companies Registration Office [Bolagsverket](http://www.bolagsverket.se). But also, for example, the Swedish Tax Agency and Land Survey allocate organizational numbers. From the Swedish Companies Registration Office, the company or association has its organization number when we have decided to register. The organization number is on the registration certificate that we send out.\"[1] \"The first digit of the organization number is called \"Group Number\" and specifies the company form or other legal form to which the legal entity is grouped. The following group numbers may occur. 1 - Death certificate 2 - State, county council, municipalities, parishes 3 - Foreign companies engaged in business activities or own real estate in Sweden 5 - Aktiebolag 6 - Single company 7 - Economic associations , tenant-owner associations 8 - Ideal associations and foundations 9 - Trading companies , limited companies and simple companies\"[2] Non-commerical organsiation are searchable through other third-party applications, e.g. https://www.allabolag.se/ [1] http://www.bolagsverket.se/ff/foretagsformer/organisationsnummer-1.7902 [2] https://sv.wikipedia.org/wiki/Organisationsnummer#Organisationsnummer",
+      "name": "Business Registration Number (Organisationsnummer), Sweden",
+      "public-database": true,
+      "url": "http://www.bolagsverket.se/ff/foretagsformer/organisationsnummer-1.7902"
+    },
+    {
+      "category": "SG",
+      "code": "SG-COC",
+      "description": "The Commissioner of Charities (COC) in Singapore maintains a register of Charities and Institutions of a Public Character.",
+      "name": "Commissioner of Charities",
+      "public-database": true,
+      "url": "https://www.charities.gov.sg/Pages/Home.aspx"
+    },
+    {
+      "category": "SK",
+      "code": "SK-ICO",
+      "description": "The organization identification number (IČO) is an identifier assigned to all types of legal entities, entrepreneurs and public authorities by the Statistical Office of the Slovak Republic. IČO numbers are registered in the Register and identifier of legal entities, entrepreneurs and public authorities (RPO). The RPO is the single source of basic data on all legal entities. It provides data from more than 70 source registers and records, including the Commercial Register and the registers of the Ministry of the Interior (trade register, register of political parties, associations, non-profit organizations). According to Act no. 272/2015 Coll. on the Register of Legal Entities, Entrepreneurs and Public Authorities the IČO number is assigned to assigned to: * every legal entity, every natural person - entrepreneur and every public authority * each branch plant, each enterprise of a foreign person and each organizational unit of the enterprise of a foreign person * each registered organizational unit",
+      "name": "Organization Identification Number - Register and identifier of legal entities, entrepreneurs and public authorities",
+      "public-database": true,
+      "url": "https://rpo.statistics.sk/"
+    },
+    {
+      "category": "SK",
+      "code": "SK-ORSR",
+      "description": "\"The companies register is administered by the Ministry of Justice. Entry to the register is obligatory for companies, cooperatives and for some specific physical entities stated by law. Information in the register is searchable by trade name, identification number, registered office, registration number and name of a person.\" [1] \"The Obchodný register (commercial register) is a public list containing statutory data concerning entrepreneurs, companies and other legal entities, where this is laid down by separate legislation. The list is administered by the Ministry of Justice of the Slovak Republic.\" [2] [1] http://www.company-registers.info/en/european-union/slovakia.html [2] https://e-justice.europa.eu/content_business_registers_in_member_states-106-sk-en.do?member=1",
+      "name": "Ministry of Justice Business Register",
+      "public-database": false,
+      "url": "http://www.orsr.sk/search_subjekt.asp?lan=en"
+    },
+    {
+      "category": "SL",
+      "code": "SL-NRA",
+      "description": "The Taxpayer Identification Number, or TIN, is a unique computer-generated number allocated to each taxpayer, whether they are an individual, a commercial business, a Government department, public corporation, or a special body. As its name implies, the TIN identifies taxpayers for the purpose of all their tax and other revenue liabilities, including: Goods and Services Tax (GST) Income Tax on personal income Corporation Tax Capital Gains Tax Non-tax revenues Customs Duties Excise Duties Property Tax The TIN is also required for identification in all other transactions and dealings with the NRA.",
+      "name": "National Revenue Agency",
+      "public-database": false,
+      "url": "https://nra.gov.sl/taxpayer-identification-number"
+    },
+    {
+      "category": "SL",
+      "code": "SL-OARG",
+      "description": "The Office of Administrator and Registrar General in Sierra Leone is responsible for the \"administration of and registration of entities such as business registration, land transactions, industrial property, marriages and administration of the estates of deceased persons as mandated by law\". The types of business that can be registered through the OARG include sole proprietors, partnerships and companies. The registration process is available online on the office's website. I was not able to find a searchable list of company registrations. The registration process includes a search to check whether the applicant's desired company name already exists.",
+      "name": "Office of Administrator and Registrar General",
+      "public-database": false,
+      "url": "http://www.oarg.gov.sl/"
+    },
+    {
+      "category": "SN",
+      "code": "SN-NINEA",
+      "description": "Any organization (company, association, NGO) operating in Senegal must be included in a directory of legal entities ([Source](http://www.impotsetdomaines.gouv.sn/fr/demander-un-ninea)). Registration takes place through several agencies, and a Numéro d’Identification National des Entreprises et des Associations (NINEA) (National Identification Number for Companies and Associations) is provided to incorporated bodies. A directory or lookup of companies and numbers is not available online, however most legal entities will have an NINEA which can be used as an identifier.",
+      "name": "National Identification Number of Companies and Associations (NINEA), Senegal",
+      "public-database": true,
+      "url": "http://creationdentreprise.sn/en/finding-business"
+    },
+    {
+      "category": "SO",
+      "code": "SO-MPND",
+      "description": "This Ministry covers the registration and operation of non-governmental, independent and not-for-profit organizations within Somaliland (Local, National and International NGOs). Registrations have to be regularly renewed. International NGOs can register or renew their certificates at https://mopnd.govsomaliland.org/articles/new-registration and local NGOs at https://mopnd.govsomaliland.org/articles/new-registration-2. Local NGOs will be assigned with an identifier after registering. International NGOs should provide a copy of their home-country registration details. The list does not include any regulation for the activities of UN organizations, Professional Associations, Private Companies, Industrial and Employee Associations, or those not relating to humanitarian activities. The General Register for Non-Governmental Organizations records and maintains all information and data relating to NGOs. It has separate registration sections for National, International, Foreign, and Umbrellas NGOs. An NGO is entered into the General Register using the official name of the NGO and the date of registration, serial number and registration number of the certificate.",
+      "name": "Ministry of Planning and National Development - General Register for Non-Governmental Organizations (Somaliland)",
+      "public-database": false,
+      "url": "https://mopnd.govsomaliland.org/article/about-mopnd/"
+    },
+    {
+      "category": "SS",
+      "code": "SS-RRC",
+      "description": "The South Sudan Relief and Rehabilitation Commission (SSRRC) is an agency of the Government of South Sudan. It is the operational arm of the Ministry of Humanitarian Affairs and Disaster Management. The NGO Act 2016 added additional powers to the agency to register any NGO interested in operating in South Sudan.",
+      "name": "South Sudan Relief and Rehabilitation Commission",
+      "public-database": false,
+      "url": null
+    },
+    {
+      "category": "SV",
+      "code": "SV-NIT",
+      "description": "The NIT is required for all organisations, including businesses and NGOs. First step is online pre-registration at https://miempresa.gob.sv/ then in person with the Dirección General de Impuestos Internos (DGII) del Ministerio de Hacienda. Structure (all numerical): xxxx-xxxxxx-xxx-x digit (like 0614-241287-102-5). The first section (4 digits) is a municipality code, the second section of 6 digits is the date the organisation was established (or date of birth in case of a natural person). The third 3-digit section is a running number. The last digit is a verification digit.",
+      "name": "Tax Identification Number (El Salvador)",
+      "public-database": false,
+      "url": "https://www.transparencia.gob.sv/institutions/dgii/services/7180"
+    },
+    {
+      "category": "SZ",
+      "code": "SZ-CIT",
+      "description": "Companies and non-governmental organisations (NGOs) are registered with the Government of Eswatini (Swaziland)'s Ministry of Commerce, Industry and Trade. They receive a registration ID, which does not change over time. A full list of services that the Ministry provides can be found at https://www.gov.sz/index.php/services-sp-831484471, and specific information on company registration here: https://www.gov.sz/index.php/departments-sp-1596706154?id=522.",
+      "name": "Ministry of Commerce, Industry and Trade, Eswatini",
+      "public-database": true,
+      "url": "https://www.gov.sz/index.php/ministries-departments/minnistry-of-commerce"
+    },
+    {
+      "category": "TH",
+      "code": "TH-TIN",
+      "description": "This is the standard tax number issued to legal entities, domestic and foreign, that pay taxes or that pay income to employees. NGOs require one, too. Individuals can be issued with a TIN if they are a foreigner or if they want to register for Value Added Tax or Specific Business Tax. The procedure is here: http://www.rd.go.th/publish/21987.0.html The government site still mentions a 10-digit number but the law changed in 2012 and the TIN is now 13 digits long (see: https://msnagroup.com/new-thai-tax-id-number). The TIN should not be confused with the PIN, for individuals.",
+      "name": "Thai Revenue Department - Tax Identification Number",
+      "public-database": false,
+      "url": "https://www.rd.go.th/publish/272.0.html"
+    },
+    {
+      "category": "TN",
+      "code": "TN-RNE",
+      "description": "The National Register of Companies - RNE- is a public database to collect data and information relating to companies and their availability to the public as well as to State institutions. This is where companies (legal and natural persons) are registered as well as their amending entries.",
+      "name": "The National Register of Companies, Tunisia",
+      "public-database": false,
+      "url": "https://www.registre-entreprises.tn/rne-public/#/recherche-pm"
+    },
+    {
+      "category": "TZ",
+      "code": "TZ-NNCB",
+      "description": "The National NGO Coordination Board is part of the Ministry of Community Development, Gender and Children and is responsible for registration of [1]: * National NGOs, which are established via registration with the Board * International NGOS, which are established outside Tanzania but must register with the Board to operate in the country NGOs must submit an application for registration to the public officer appointed by the Board at either district, regional or national level depending on the scope of their activities [1], [2], [3]. Successful applicants will be issued with a certificate of registration as evidence of authority to operate as an NGO [1]. [1] https://www.fiu.go.tz/NGOact.pdf [2] http://www.tnnc.go.tz/Procedures_registration_NGOs.pdf [3] http://www.tnnc.go.tz/documents/application.pdf",
+      "name": "Tanzania National NGO Coordination Board",
+      "public-database": false,
+      "url": "http://www.tnnc.go.tz"
+    },
+    {
+      "category": "TZ",
+      "code": "TZ-TRA",
+      "description": "\"The Tanzania Revenue Authority (TRA) was established by Act of Parliament No. 11 of 1995, and started its operations on 1st July 1996. In carrying out its statutory functions, TRA is regulated by law, and is responsible for administering impartially various taxes of the Central Government.\"[1] The Tanzanian Revenue Authority provides Taxpayer Identification Numbers (TIN) for organisations registered in Tanzania. This is issued under section 3A(4) of the Income Tax Act no. 33 of 1973. As amended by the financial laws (miscellaneous amendments) 2000. There is no searchable database for TIN. It's possible that a company with a TIN could be on the Tanzanian Business Registrations and Licensing Agency (BRELA) Online Registration System, which can be searched free of charge. It is worth checking list TZ-BRLA before deciding to use this list. [1]: https://www.tra.go.tz/index.php/about-tra/corporate-news",
+      "name": "Tanzania Revenue Agency",
+      "public-database": false,
+      "url": "https://www.tra.go.tz/index.php"
+    },
+    {
+      "category": "UG",
+      "code": "UG-204CBO",
+      "description": "Community Based Organisations (CBOs) operating in Jinja District in Uganda are required to register at the district level by the District NGO Monitoring Committee (DNMC) [1]. DNMC will issue a certificate of registration and a permit to the CBO. The certificate of registration will be issued once, while the permit is renewed annually. The certificate of registration contains a unique registration number that belongs to the CBO. There is no publicly available site to verify the ownership and validity of this number. [1] https://www.ngobureau.go.ug/en/services/community-based-organisations",
+      "name": "CBO Registration number, Uganda (Jinja District)",
+      "public-database": false,
+      "url": "https://www.ngobureau.go.ug/en/services/community-based-organisations"
+    },
+    {
+      "category": "UG",
+      "code": "UG-NGO",
+      "description": "The Ugandan National Bureau for NGOs (NGO Bureau) is a semi-autonomous body under the Ministry of Internal Affairs established by the NGO Act 2016 .The Act mandates it to register, regulate, coordinate, inspect, monitor and oversee all NGO operations in the country. It issues certificates of registration to NGOs.",
+      "name": "National Bureau for NGOs (Uganda)",
+      "public-database": true,
+      "url": "https://ngobureau.go.ug/"
+    },
+    {
+      "category": "VN",
+      "code": "VN-MOST",
+      "description": "The Ministry of Science and Technology (MOST, Vietnamese: Bộ Khoa học và Công nghệ) is a government ministry in Vietnam responsible for state administration of science and technology activities; development of science and technology potentials; intellectual property; standards, metrology and quality control; atomic energy, radiation and nuclear safety. The Registration Office of Science and Technology activities (hereinafter called the Registration Office) is a professional agency, which assists the Minister to fulfil functions of management and registration of scientific research organizations with the Ministry’s authority. Organisations are provided with a registration certificate.",
+      "name": "Ministry of Science and Technology",
+      "public-database": false,
+      "url": "https://www.most.gov.vn/en/Pages/home.aspx"
+    },
+    {
+      "category": "-",
+      "code": "XE-EXAMPLE",
+      "description": "List code prefix reserved for use in example data which require a valid org-id.guide prefix (e.g. for use in data validator testing).",
+      "name": "Example Data Prefix",
+      "public-database": false,
+      "url": null
+    },
+    {
+      "category": "XI",
+      "code": "XI-DUNS",
+      "description": "The D-U-N-S Number is a unique nine-digit number that identifies organizations on a location-specific basis. Companies, charities, and government agencies can all receive a D-U-N-S Number [1][2]. Dun & Bradstreet (D&B) assigns and maintains D-U-N-S Numbers. The process for requesting a D-U-N-S Number varies by country, but organizations can typically request a D-U-N-S Number via the D&B website for their country. In the UK and Ireland, all registered businesses are automatically issued with a D-U-N-S Number [3][4]. D-U-N-S Numbers are location-specific so one legal entity may have many associated D-U-N-S Numbers, one for each business location [2]. [1] https://www.dnb.co.uk/duns-number.html [2] https://developer.apple.com/support/D-U-N-S/ [3] https://www.dnb.com/solutions/government/duns-number-request-guide.html [4] https://www.dnb.co.uk/duns-number/lookup/request-a-duns-number.html",
+      "name": "D-U-N-S Number",
+      "public-database": true,
+      "url": "https://www.dnb.com/duns-number.html"
+    },
+    {
+      "category": "XI",
+      "code": "XI-EORI",
+      "description": "This site allows to validate EORI numbers and provides access to the information related to Authorised Economic Operators (AEO). An EORI number is unique throughout the EU, assigned by a customs authority in a member state to economic operators (businesses) or persons.",
+      "name": "Economic Operators Identification and Registration system",
+      "public-database": false,
+      "url": "http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp"
+    },
+    {
+      "category": "-",
+      "code": "XI-GRID",
+      "description": "The Global Research Identifiers Database collects information on research institutions and assigns them a unique identifier. It draws on information from funding datasets, and claims over 90% coverage of institutions. It records information on the nature of the research organisation, covering companies, education establishments, healthcare, non-profits, government and other entity types. GRID also records parent-child relationships between entities, and 'related relationships' for cross-linkages. It includes cross-linkages to a range of other identifier sources.",
+      "name": "Global Research Identifiers Database",
+      "public-database": false,
+      "url": "https://www.grid.ac/"
+    },
+    {
+      "category": "XI",
+      "code": "XI-LEI",
+      "description": "Maintained by the Global Legal Entity Identifier Foundation, the Index contains current and historical Legal Entity Identifier records. \"The Legal Entity Identifier (LEI) is a 20-character, alpha-numeric code based on the ISO 17442 standard developed by the International Organization for Standardization (ISO). It connects to key reference information that enables clear and unique identification of legal entities participating in financial transactions. Each LEI contains information about an entity’s ownership structure and thus answers the questions of 'who is who’ and ‘who owns whom’. Simply put, the publicly available LEI data pool can be regarded as a global directory, which greatly enhances transparency in the global marketplace.\" [1] LEIs are granted not by the Foundation but by designated issuers. Any legal entity making financial transactions can apply for an LEI, including non-registered entities such as trusts and government bodies. In general, natural persons are not eligible for LEIs [2]. [1]: From https://www.gleif.org/en/about-lei/introducing-the-legal-entity-identifier-lei [2]: See this for exceptions: https://www.leiroc.org/publications/gls/lou_20150930-1.pdf",
+      "name": "Global Legal Entity Identifier Index",
+      "public-database": true,
+      "url": "https://www.gleif.org/en/lei-data/global-lei-index"
+    },
+    {
+      "category": "XI",
+      "code": "XI-PID",
+      "description": "Thomson Reuters Permanent Identifier (PermID) is a machine readable identifier that provides a unique reference for data item. PermID provides comprehensive identification across a wide variety of entity types including organizations, instruments, funds, issuers and people. PermID never changes and is unambiguous, making it ideal as a reference identifier.",
+      "name": "PermID: Thompson Reuters Permanent Identifier",
+      "public-database": false,
+      "url": "https://permid.org"
+    },
+    {
+      "category": "XI",
+      "code": "XI-ROR",
+      "description": "The Research Organization Registry (ROR) is a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. The definition ROR use for a \"research organization\" is \"any organization that conducts, produces, manages, or touches research\". The list is seeded from GRID, but with a long-term intention to diverge from this.",
+      "name": "Research Organization Registry",
+      "public-database": true,
+      "url": "https://ror.community/"
+    },
+    {
+      "category": "XI",
+      "code": "XI-WIKIDATA",
+      "description": "Wikidata is a free knowledge base that anyone can edit. It holds linked open data about tens of millions of entities and more than one million of them are organizations. Each instition item can hold a wide range of statements, names in hundreds of languages and identifiers in other databases.",
+      "name": "Wikidata",
+      "public-database": true,
+      "url": "https://www.wikidata.org/"
+    },
+    {
+      "category": "XI",
+      "code": "XR-EUCB",
+      "description": "The European Union Publications Office maintain a list of 'Corporate Bodies' covering offices and bodies of the European Union (labelled EU), as well as external bodies referenced regularly in European Systems (labelled INT). The list is more authoritative for EU Institutions, than for International institutions the EU works with. Note that not all of the bodies in the list are legal entities: some represent 'projects' as opposed to organizations that the European Union institutions have worked with. The list contains some meta-data on organisational hierarchy, and succession where one organization has replaced another.",
+      "name": "European Union Corporate Bodies authority list",
+      "public-database": true,
+      "url": "https://publications.europa.eu/en/web/eu-vocabularies/at-dataset/-/resource/dataset/corporate-body?target=About"
+    },
+    {
+      "category": "HR",
+      "code": "XR-NUTS",
+      "description": "The European Union's Nomenclature of Territorial Units for Statistics (NUTS) provides codes for territorial areas at a number of different levels. Where no primary identifiers for regional and local government entities are available, then NUTS level 2 and 3 codes, and Local Administrative Unit (LAU 1 and LAU 2 level) codes could be used as a proxy for the primary local government body responsible for that area. EuroStat currently maintain a cross-walk between different levels, codes and area names for each jurisdiction. To construct an identifier: For NUTS 2 and 3 codes, use the prefix (XR-NUTS-) and then the NUTS code provided. For LAU1 and 2 codes (Local authority/ward), use the prefix (XR-NUTS-), the country prefix and underscore (e.g. UK_) , and then the LAU_NAT_Code provided (e.g. E05004874) For example: XR-NUTS-UK_E07000105",
+      "name": "NUTS - European Union Nomenclature of Territorial Units for Statistics",
+      "public-database": false,
+      "url": "http://ec.europa.eu/eurostat/web/nuts/local-administrative-units"
+    },
+    {
+      "category": "YE",
+      "code": "YE-CR",
+      "description": "The Yemen Ministry of Industry and Trade manages the commercial registry of trade names for corporations and sole traders.",
+      "name": "Commercial Registry, Yemen",
+      "public-database": true,
+      "url": "https://moit-ye.com/"
+    },
+    {
+      "category": "YE",
+      "code": "YE-MSAL",
+      "description": "The Ministry of Social Affairs and Labor, Social Development Sector, issue licenses for the operation of associations, civil organisations and unions. These include a license number that appears to be based on the date of incorporation, and that is provided on a certificate granting or renewing the license. The license is renewed yearly, but the license number remains the same.",
+      "name": "Ministry of Social Affairs and Labour",
+      "public-database": false,
+      "url": "http://www.yemen.gov.ye/portal/mosal/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9/tabid/2201/Default.aspx"
+    },
+    {
+      "category": "ZA",
+      "code": "ZA-CIT",
+      "description": "The Corporate Income Tax (CIT) is a tax imposed on companies resident in the Republic of South Africa. The South African Revenue Service (SARS) is South Africa’s tax collecting authority responsible for issuing CIT numbers [1]. Businesses can receive multiple tax numbers from SARS such as CIT, VAT, PAYE etc., however CIT is the preferred identifier to be used. [2] Businesses that receive CIT numbers include public and private companies, co-operatives, universities, trusts, governments and embassies. [1]. https://www.sars.gov.za/types-of-tax/ [2]. https://www.sars.gov.za/businesses-and-employers/",
+      "name": "South African Corporate Income Tax (CIT) number",
+      "public-database": false,
+      "url": "https://www.sars.gov.za/"
+    },
+    {
+      "category": "ZM",
+      "code": "ZM-RNGO",
+      "description": "All NGOs, including INGOs, are required since 2009 to be registered here to be allowed to operate (Act 16, 2009). Registration needs to be renewed every 5 years. The year of registration/renewal is part of the ID but should be omitted.",
+      "name": "Department of Registrar for NGOs",
+      "public-database": false,
+      "url": "https://www.mcdsw.gov.zm/?page_id=5232"
+    },
+    {
+      "category": "DE",
+      "code": "ZZ-EBID",
+      "description": "The EBID is an initiative of the CAS Group. Via Unternehmensverzeichnis.org they provide a free directory of German and Austrian companies and production facilities. \"The Unternehmensverzeichnis provides you with all the very latest company information. This information helps to make cooperation with potential business partners much easier.\" [1] German and Austrian companies can apply at Unternehmensverzeichnis.org to have their company issued an EBID, listed and to manage their listing [2]. Once issued an EBID number is not re-used [3]. [1]: https://www.ebid.org/en/solutions/unternehmensverzeichnis/ [2]: https://www.unternehmensverzeichnis.org/info/firmeneintrag2/ [3]: http://www.cyber-identity.com/download/ICD-list.pdf",
+      "name": "European Business Identifier (EBID)",
+      "public-database": true,
+      "url": "https://www.ebid.org/en/"
     }
   ]
 }
