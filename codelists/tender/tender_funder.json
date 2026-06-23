@@ -9,11 +9,11 @@
       "streetAddress": "1818 H Street, NW"
     },
     "contactPoint": {
-      "faxNumber": "+999999999999",
+      "faxNumber": "",
       "telephone": "+999999999999",
       "url": "http://www.worldbank.org/uk/country/ukraine",
-      "name_en": " ",
-      "name_uk": " "
+      "name_en": "",
+      "name_uk": ""
     },
     "identifier": {
       "id": "44000",
