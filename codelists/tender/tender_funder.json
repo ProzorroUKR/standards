@@ -9,12 +9,11 @@
       "streetAddress": "1818 H Street, NW"
     },
     "contactPoint": {
-      "email": "ukraine@worldbank.org",
-      "faxNumber": "+380444906670",
-      "telephone": "+380444906671",
+      "faxNumber": "",
+      "telephone": "+999999999999",
       "url": "http://www.worldbank.org/uk/country/ukraine",
-      "name_en": "Darya Gulei",
-      "name_uk": "Дар’я Гулей"
+      "name_en": "",
+      "name_uk": ""
     },
     "identifier": {
       "id": "44000",
