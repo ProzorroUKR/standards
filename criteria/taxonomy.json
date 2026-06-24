@@ -1,0 +1,131 @@
+{
+    "CRITERION.EXCLUSION.CONVICTIONS.PARTICIPATION_IN_CRIMINAL_ORGANISATION": {
+        "title_uk": "Вчинення злочинів, учинених з корисливих мотивів" 
+    },
+    "CRITERION.EXCLUSION.CONVICTIONS.FRAUD": {
+        "title_uk": "Вчинення економічних правопорушень" 
+    },
+    "CRITERION.EXCLUSION.CONVICTIONS.CORRUPTION": {
+        "title_uk": "Вчинення корупційних правопорушень" 
+    },
+    "CRITERION.EXCLUSION.CONVICTIONS.CHILD_LABOUR-HUMAN_TRAFFICKING": {
+        "title_uk": "Вчинення правопорушень, пов'язаних з використанням дитячої праці чи будь-якими формами торгівлі людьми" 
+    },
+    "CRITERION.EXCLUSION.CONTRIBUTIONS.PAYMENT_OF_TAXES": {
+        "title_uk": "Заборгованість зі сплати податків і зборів (обов'язкових платежів)" 
+    },
+    "CRITERION.EXCLUSION.BUSINESS.BANKRUPTCY": {
+        "title_uk": "Порушення справ про банкрутство" 
+    },
+    "CRITERION.EXCLUSION.MISCONDUCT.MARKET_DISTORTION": {
+        "title_uk": "Виявлення факту зв'язку учасника з іншими учасниками процедури або замовником" 
+    },
+    "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.MISINTERPRETATION": {
+        "title_uk": "Виявлення факту наміру впливу на прийняття рішення замовника" 
+    },
+    "CRITERION.EXCLUSION.NATIONAL.OTHER": {
+        "title_uk": "Наявність інших підстав для відмови в участі у процедурі закупівлі" 
+    },
+     "CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING.TURNOVER.GENERAL_YEARLY": {
+        "title_uk": "Сукупний дохід підприємства" 
+    },
+     "CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING.TURNOVER.AVERAGE_YEARLY": {
+        "title_uk": "Середній сукупний річний дохід" 
+    },
+    "CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING.TURNOVER.SPECIFIC_YEARLY": {
+        "title_uk": "Чистий дохід підприємства" 
+    },
+     "CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING.TURNOVER.SPECIFIC_AVERAGE": {
+        "title_uk": "Середній чистий річний дохід підприємства" 
+    },
+    "CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING.TURNOVER.SET_UP": {
+        "title_uk": "Дата початку фінансово-господарської діяльності" 
+    },
+    "CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING.FINANCIAL_RATIO": {
+        "title_uk": "Коефіцієнти фінансових показників" 
+    },
+    "CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING.RISK_INDEMNITY_INSURANCE": {
+        "title_uk": "Страхування професійних ризиків" 
+    },
+     "CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING.OTHER_REQUIREMENTS": {
+        "title_uk": "Інші економічні та фінансові вимоги" 
+    },
+    "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.FACILITIES_FOR_QUALITY_ENSURING": {
+        "title_uk": "Технічні засоби та заходи забезпечення якості" 
+    },
+    "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.FACILITIES_FOR_STUDY_RESEARCH": {
+        "title_uk": "Методи вивчення та дослідження" 
+    },
+    "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.SUPPLY_CHAIN_MANAGEMENT": {
+        "title_uk": "Управління ланцюгами поставок" 
+    },
+    "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.CHECKS.ALLOWANCE_OF_CHECKS": {
+        "title_uk": "Допуск до перевірок" 
+    },
+    "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.PROFESSIONAL_QUALIFICATIONS": {
+        "title_uk": "Освітня та професійна кваліфікація" 
+    },
+     "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.EQUIPMENT": {
+        "title_uk": "Інструменти, засоби або технічне обладнання" 
+    },
+    "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.ENVIRONMENTAL_MANAGEMENT_MEASURES": {
+        "title_uk": "Заходи з екологічного менеджменту" 
+    },
+    "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.BODIES_FOR_CARRYING_SCOPE": {
+        "title_uk": "Зовнішні організації" 
+    },
+    "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.TECHNICIANS_FOR_CARRYING_SCOPEE": {
+        "title_uk": "Зовнішні спеціалісти" 
+    },
+     "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.STAFF_FOR_CARRYING_SCOPE": {
+        "title_uk": "Внутрішні спеціалісти" 
+    },
+      "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.MANAGEMENT.MANAGERIAL_STAFF": {
+        "title_uk": "Кількість управлінського персоналу" 
+    },
+    "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.MANAGEMENT.AVERAGE_ANNUAL_MANPOWER": {
+        "title_uk": "Середньорічна чисельність робочої сили" 
+    },
+    "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.MANAGEMENT.SUBCONTRACTING_PROPORTION": {
+        "title_uk": "Пропорція субпідряду" 
+    },
+    "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.MANAGEMENT.ARTEFACTS.NO_AUTHENTICATED_ARTEFACTS": {
+        "title_uk": "Для контрактів на поставку: зразки, описи або фотографії без підтвердження справжності" 
+    },
+    "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.MANAGEMENT.ARTEFACTS.AUTHENTICATED_ARTEFACTS": {
+        "title_uk": "Для контрактів на поставку: зразки, описи або фотографії з підтвердженням справжності" 
+    },
+    "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.CERTIFICATES.QUALITY_ASSURANCE.QA_INSTITUTES_CERTIFICATE": {  
+        "title_uk": "Для контрактів на поставку: сертифікати інститутів контролю якості" 
+    },
+    "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.CERTIFICATES.QUALITY_ASSURANCE.QA_INDEPENDENT_CERTIFICATE": {
+        "title_uk": "Сертифікати незалежних органів про стандарти забезпечення якості" 
+    },
+    "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.CERTIFICATES.ENVIRONMENTAL_MANAGEMENT.ENV_INDEPENDENT_CERTIFICATE": {
+        "title_uk": "Сертифікати незалежних органів про системи чи стандарти управління навколишнім середовищем" 
+    },
+    "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.REFERENCES.WORKS_PERFORMANCE": {
+        "title_uk": "Досвід виконання аналогічних договорів" 
+    },
+    "CRITERION.OTHER.LIFE_CYCLE_COST.COST_OF_USE": {
+        "title_uk": "Витрати, пов’язані з користуванням" 
+    },
+    "CRITERION.OTHER.LIFE_CYCLE_COST.MAINTENANCE_COST": {
+        "title_uk": "Витрати, пов’язані з обслуговуванням" 
+    },
+    "CRITERION.OTHER.LIFE_CYCLE_COST.END_OF_LIFE_COST": {
+        "title_uk": "Витрати, пов’язані з завершенням користування" 
+    },
+    "CRITERION.OTHER.LIFE_CYCLE_COST.ECOLOGICAL_COST": {
+        "title_uk": "Витрати, пов’язані з захистом навколишнього середовища" 
+    },
+    "CRITERION.OTHER.CONTRACT.GUARANTEE": {
+        "title_uk": "Забезпечення виконання договору" 
+    },
+    "CRITERION.OTHER.BID.GUARANTEE": {
+        "title_uk": "Забезпечення тендерних пропозицій" 
+    },
+    "CRITERION.OTHER.BID.LANGUAGE": {
+        "title_uk": "Мова (мови), якою (якими) повинні готуватися тендерні пропозиції" 
+    }
+}
