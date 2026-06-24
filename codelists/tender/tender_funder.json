@@ -178,7 +178,7 @@
       "legalName_uk": "Aгентство США з Міжнародного Розвитку"
     },
     "name_en": "USAID",
-    "name_uk": "Програма США (USAID)"
+    "name_uk": "Aгентство США з Міжнародного Розвитку"
   },
   {
     "additionalIdentifiers": [],
@@ -255,8 +255,8 @@
       "legalName_en": "UK International Development (UK Dev)",
       "legalName_uk": "Програма допомоги з міжнародного розвитку від уряду Великої Британії (UK Dev)"
     },
-    "name_en": "UK International Development (UK Dev)",
-    "name_uk": "Програма Великої Британії (UK Dev)"
+    "name_en": "The UK Government",
+    "name_uk": "Уряд Великої Британії"
   },
   {
     "additionalIdentifiers": [],
@@ -304,11 +304,11 @@
     "identifier": {
       "id": "55000",
       "scheme": "XM-DAC",
-      "legalName_en": "Ukraine Facility",
-      "legalName_uk": "Програма допомоги ЄС (Ukraine Facility)"
+      "legalName_en": "Council of the European Union",
+      "legalName_uk": "Рада Європейського Союзу"
     },
     "name_en": "Ukraine Facility",
-    "name_uk": "Програма ЄС (Ukraine Facility)"
+    "name_uk": "ЄС (Ukraine Facility)"
   },
   {
     "additionalIdentifiers": [],
@@ -333,8 +333,8 @@
       "legalName_en": "Ministry of Development Funds and Regional Policy of the Republic of Poland",
       "legalName_uk": "Міністерство фондів розвитку та регіональної політики Республіки Польща"
     },
-    "name_en": "Interreg Program VI-A NEXT Poland",
-    "name_uk": "Програма Польщі Interreg VI-A NEXT"
+    "name_en": "Ministry of Development Funds and Regional Policy of the Republic of Poland",
+    "name_uk": "Міністерство фондів розвитку та регіональної політики Республіки Польща"
   },
   {
     "additionalIdentifiers": [],
@@ -437,8 +437,8 @@
       "legalName_en": "Ministry of Development, Public Works and Administration of Romania",
       "legalName_uk": "Міністерство розвитку, громадських робіт і державного управління Румунії"
     },
-    "name_en": "Interreg Program VI-A NEXT Romania",
-    "name_uk": "Програма Румунії Interreg VI-A NEXT"
+    "name_en": "Ministry of Development, Public Works and Administration of Romania",
+    "name_uk": "Міністерство розвитку, громадських робіт і державного управління Румунії"
   },
   {
     "additionalIdentifiers": [],
@@ -463,34 +463,8 @@
       "legalName_en": "Ministry of Foreign Affairs and Trade of Hungary",
       "legalName_uk": "Міністерство закордонних справ і торгівлі Угорщини"
     },
-    "name_en": "Interreg Program VI-A NEXT Hungary – Slovakia – Romania",
-    "name_uk": "Програма Угорщини – Словаччини – Румунії Interreg VI-A NEXT"
-  },
-  {
-    "additionalIdentifiers": [],
-    "address": {
-      "countryName": "Румунія",
-      "locality": "Бухарест",
-      "postalCode": "050706",
-      "region": "Валахія",
-      "streetAddress": "Bld.Libertatii nr. 16, Sector 5, Bucharest"
-    },
-    "contactPoint": {
-      "email": "blacksea-cbc@mdlpa.gov.ro",
-      "faxNumber": "(+40) 372 111 323",
-      "telephone": "(+40) 372 111 323",
-      "url": "https://www.mdlpa.ro/",
-      "name_en": "Iulia Hertzog",
-      "name_uk": "Юлія Герцог"
-    },
-    "identifier": {
-      "id": "26369185",
-      "scheme": "RO-CUI",
-      "legalName_en": "Ministry of Development, Public Works and Administration of Romania",
-      "legalName_uk": "Міністерство розвитку, громадських робіт і державного управління Румунії"
-    },
-    "name_en": "Interreg Program VI-B NEXT Black Sea Basin",
-    "name_uk": "Програма Басейну Чорного моря Interreg VI-B NEXT"
+    "name_en": "Ministry of Foreign Affairs and Trade of Hungary",
+    "name_uk": "Міністерство закордонних справ і торгівлі Угорщини"
   },
   {
     "additionalIdentifiers": [],
@@ -515,8 +489,8 @@
       "legalName_en": "Ministry of Public Administration and Regional Development of Hungary",
       "legalName_uk": "Міністерство державного управління та регіонального розвитку Угорщини"
     },
-    "name_en": "Danube Regional Programme Interreg VI B",
-    "name_uk": "Дунайська регіональна програма Interreg VI B"
+    "name_en": "Ministry of Public Administration and Regional Development of Hungary",
+    "name_uk": "Міністерство державного управління та регіонального розвитку Угорщини"
   },
   {
     "additionalIdentifiers": [],
@@ -541,8 +515,8 @@
       "legalName_en": "Hauts-de-France Regional Council",
       "legalName_uk": "Регіональна рада О-де-Франс Французької Республіки"
     },
-    "name_en": "Interreg Program VI-C Europe",
-    "name_uk": "Програма Interreg VI-C Europe"
+    "name_en": "Hauts-de-France Regional Council",
+    "name_uk": "Регіональна рада О-де-Франс Французької Республіки"
   },
   {
     "additionalIdentifiers": [],
@@ -567,8 +541,8 @@
       "legalName_en": "National Agency for Territorial Cohesion",
       "legalName_uk": "Національне агентство з питань об'єднання територій"
     },
-    "name_en": "Interreg Program VI-C URBACT IV",
-    "name_uk": "Програма Interreg VI-C URBACT IV"
+    "name_en": "National Agency for Territorial Cohesion",
+    "name_uk": "Національне агентство з питань об'єднання територій"
   },
   {
     "additionalIdentifiers": [],
