@@ -12546,6 +12546,23 @@
     "inputbase": "Розпис"
   },
   {
+    "idFkv": 358,
+    "programType": 1,
+    "code": "7721730",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "7721000",
+    "actyvPr": 0,
+    "name": "Виконання робіт із поточного ремонту та експлуатаційного утримання автомобільних доріг загального користування місцевого значення",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-06-04",
+    "id": 3087,
+    "inputbase": "Розпис"
+  },
+  {
     "idFkv": 0,
     "programType": 0,
     "code": "7730000",
@@ -12696,6 +12713,23 @@
     "comment": null,
     "datefrom": "2026-03-20",
     "id": 2919,
+    "inputbase": "Розпис"
+  },
+  {
+    "idFkv": 358,
+    "programType": 1,
+    "code": "7741710",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "7741000",
+    "actyvPr": 0,
+    "name": "Виконання робіт із поточного ремонту та експлуатаційного утримання автомобільних доріг загального користування місцевого значення",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-06-04",
+    "id": 3088,
     "inputbase": "Розпис"
   },
   {
@@ -13325,6 +13359,23 @@
     "comment": null,
     "datefrom": "2026-05-27",
     "id": 3076,
+    "inputbase": "Розпис"
+  },
+  {
+    "idFkv": 358,
+    "programType": 1,
+    "code": "7811720",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "7811000",
+    "actyvPr": 0,
+    "name": "Виконання робіт із поточного ремонту та експлуатаційного утримання автомобільних доріг загального користування місцевого значення",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-06-04",
+    "id": 3086,
     "inputbase": "Розпис"
   },
   {
@@ -14022,6 +14073,23 @@
     "comment": null,
     "datefrom": "2026-05-20",
     "id": 3074,
+    "inputbase": "Розпис"
+  },
+  {
+    "idFkv": 358,
+    "programType": 1,
+    "code": "7891730",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "7891000",
+    "actyvPr": 0,
+    "name": "Виконання робіт із поточного ремонту та експлуатаційного утримання автомобільних доріг загального користування місцевого значення",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-06-04",
+    "id": 3089,
     "inputbase": "Розпис"
   },
   {
