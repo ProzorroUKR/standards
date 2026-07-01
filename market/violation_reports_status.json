@@ -8,11 +8,11 @@
     "title_en": "Awaiting"
   },
   "satisfied": {
-    "title_uk": "Затверджено",
+    "title_uk": "Задоволено",
     "title_en": "Satisfied"
   },
   "declined": {
-    "title_uk": "Відхилено",
+    "title_uk": "Відмовлено",
     "title_en": "Declined"
   }
 }
