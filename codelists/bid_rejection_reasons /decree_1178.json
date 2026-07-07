@@ -1,0 +1,252 @@
+{
+  "groundsParagraph47": {
+    "title_uk": "Абзац 2 частини 1 пункту 44 постанови 1178",
+    "title_en": "Paragraph 2 of part 1 of clause 44 of decree 1178",
+    "description_uk": "підпадає під підстави, встановлені пунктом 47 цих особливостей",
+    "description_en": "falls under the grounds established by clause 47 of these features",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n591"
+  },
+  "falseInformation": {
+    "title_uk": "Абзац 3 частини 1 пункту 44 постанови 1178",
+    "title_en": "Paragraph 3 of part 1 of clause 44 of decree 1178",
+    "description_uk": "зазначив у тендерній пропозиції недостовірну інформацію, що є суттєвою для визначення результатів відкритих торгів, яку замовником виявлено згідно з абзацом першим пункту 42 цих особливостей",
+    "description_en": "provided false information in the tender proposal that is essential for determining the results of open bidding, which was discovered by the procuring entity in accordance with the first paragraph of clause 42 of these features",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n591"
+  },
+  "noBidGuarantee": {
+    "title_uk": "Абзац 4 частини 1 пункту 44 постанови 1178",
+    "title_en": "Paragraph 4 of part 1 of clause 44 of decree 1178",
+    "description_uk": "не надав забезпечення тендерної пропозиції, якщо таке забезпечення вимагалося замовником",
+    "description_en": "did not provide bid proposal guarantee, if such guarantee was required by the procuring entity",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n591"
+  },
+  "unremediedInconsistencies": {
+    "title_uk": "Абзац 5 частини 1 пункту 44 постанови 1178",
+    "title_en": "Paragraph 5 of part 1 of clause 44 of decree 1178",
+    "description_uk": "не виправив виявлені замовником після розкриття тендерних пропозицій невідповідності в інформації та/або документах, що подані ним у складі своєї тендерної пропозиції, та/або змінив предмет закупівлі (його найменування, марку, модель тощо) під час виправлення виявлених замовником невідповідностей, протягом 24 годин з моменту розміщення замовником в електронній системі закупівель повідомлення з вимогою про усунення таких невідповідностей",
+    "description_en": "did not correct the inconsistencies in the information and/or documents submitted in the tender proposal identified by the procuring entity after the opening of tender proposals, and/or changed the subject of procurement during the correction of identified inconsistencies, within 24 hours from the moment the procuring entity posted a notice in the electronic procurement system demanding the elimination of such inconsistencies",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n591"
+  },
+  "abnormallyLowPriceJustification": {
+    "title_uk": "Абзац 6 частини 1 пункту 44 постанови 1178",
+    "title_en": "Paragraph 6 of part 1 of clause 44 of decree 1178",
+    "description_uk": "не надав обґрунтування аномально низької ціни тендерної пропозиції протягом строку, визначеного абзацом першим частини чотирнадцятої статті 29 Закону/абзацом дев’ятим пункту 37 цих особливостей",
+    "description_en": "did not provide justification for the abnormally low price of the tender proposal within the period specified by the first paragraph of part fourteen of Article 29 of the Law / the ninth paragraph of clause 37 of these features",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n591"
+  },
+  "invalidConfidentialInfo": {
+    "title_uk": "Абзац 7 частини 1 пункту 44 постанови 1178",
+    "title_en": "Paragraph 7 of part 1 of clause 44 of decree 1178",
+    "description_uk": "визначив конфіденційною інформацію, що не може бути визначена як конфіденційна відповідно до вимог пункту 40 цих особливостей",
+    "description_en": "designated information as confidential that cannot be designated as confidential in accordance with the requirements of clause 40 of these features",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n591"
+  },
+  "sanctionedStateTies": {
+    "title_uk": "Абзац 8 частини 1 пункту 44 постанови 1178",
+    "title_en": "Paragraph 8 of part 1 of clause 44 of decree 1178",
+    "description_uk": "є громадянином Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА; або пропонує в тендерній пропозиції товари походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (за винятком товарів походженням з Російської Федерації/Республіки Білорусь, необхідних для ремонту та обслуговування товарів, придбаних до набрання чинності постановою Кабінету Міністрів України від 12 жовтня 2022 р. № 1178 “Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України “Про публічні закупівлі”, на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування” (Офіційний вісник України, 2022 р., № 84, ст. 5176)",
+    "description_en": "is a citizen of the Russian Federation/Republic of Belarus/Islamic Republic of Iran; a legal entity established under their laws; a Ukrainian legal entity with ultimate beneficial owners from these countries holding 10% or more; or offers goods originating from these countries (with specified exceptions for repair and maintenance of previously purchased goods)",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n591"
+  },
+  "unacceptableCountryRegistration": {
+    "title_uk": "Абзац 2 частини 1 пункту 84 постанови 1178",
+    "title_en": "Paragraph 2 of part 1 of clause 84 of decree 1178",
+    "description_uk": "не зареєстрований (для юридичної особи)/не є громадянином (для фізичної особи) у прийнятній країні",
+    "description_en": "is not registered (for a legal entity) / is not a citizen (for an individual) in an acceptable country",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n910"
+  },
+  "subcontractorUnacceptableCountry": {
+    "title_uk": "Абзац 3 частини 1 пункту 84 постанови 1178",
+    "title_en": "Paragraph 3 of part 1 of clause 84 of decree 1178",
+    "description_uk": "має намір залучити субпідрядника/співвиконавця, який не зареєстрований (для юридичної особи)/не є громадянином (для фізичної особи) у прийнятній країні",
+    "description_en": "intends to engage a subcontractor/co-executor who is not registered / is not a citizen in an acceptable country",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n910"
+  },
+  "euSanctionsSupplier": {
+    "title_uk": "Абзац 4 частини 1 пункту 84 постанови 1178",
+    "title_en": "Paragraph 4 of part 1 of clause 84 of decree 1178",
+    "description_uk": "особисто або його кінцевий бенефіціарний власник, член або учасник (акціонер) є особою, до якої застосовано обмежувальні заходи у вигляді санкцій Європейського Союзу, та/або особою, що включена до санкційного списку Європейського Союзу",
+    "description_en": "personally or their ultimate beneficial owner, member, or participant (shareholder) is a person subjected to European Union sanctions and/or included in the European Union sanctions list",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n910"
+  },
+  "euSanctionsSubcontractor": {
+    "title_uk": "Абзац 5 частини 1 пункту 84 постанови 1178",
+    "title_en": "Paragraph 5 of part 1 of clause 84 of decree 1178",
+    "description_uk": "має намір залучити субпідрядника/співвиконавця, який особисто або його кінцевий бенефіціарний власник, член або учасник (акціонер) юридичної особи - субпідрядника/співвиконавця є особою, до якої застосовано обмежувальні заходи у вигляді санкцій Європейського Союзу, та/або особою, що включена до санкційного списку Європейського Союзу",
+    "description_en": "intends to engage a subcontractor/co-executor who personally or their ultimate beneficial owner is subjected to European Union sanctions and/or included in the European Union sanctions list",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n910"
+  },
+  "technicalSpecificationMismatch": {
+    "title_uk": "Абзац 2 частини 2 пункту 44 постанови 1178",
+    "title_en": "Paragraph 2 of part 2 of clause 44 of decree 1178",
+    "description_uk": "не відповідає умовам технічної специфікації та іншим вимогам щодо предмета закупівлі тендерної документації, крім невідповідності в інформації та/або документах, що може бути усунена учасником процедури закупівлі відповідно до пункту 43 цих особливостей",
+    "description_en": "does not meet the terms of the technical specifications and other requirements regarding the subject of procurement in the tender documentation, except for inconsistencies that can be eliminated by the participant in accordance with clause 43 of these features",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n600"
+  },
+  "validityPeriodExpired": {
+    "title_uk": "Абзац 3 частини 2 пункту 44 постанови 1178",
+    "title_en": "Paragraph 3 of part 2 of clause 44 of decree 1178",
+    "description_uk": "є такою, строк дії якої закінчився",
+    "description_en": "is one whose validity period has expired",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n600"
+  },
+  "priceExceedsExpectedValue": {
+    "title_uk": "Абзац 4 частини 2 пункту 44 постанови 1178",
+    "title_en": "Paragraph 4 of part 2 of clause 44 of decree 1178",
+    "description_uk": "є такою, ціна якої перевищує очікувану вартість предмета закупівлі, визначену замовником в оголошенні про проведення відкритих торгів, якщо замовник у тендерній документації не зазначив про прийняття до розгляду тендерної пропозиції, ціна якої є вищою, ніж очікувана вартість предмета закупівлі, визначена замовником в оголошенні про проведення відкритих торгів, та/або не зазначив прийнятний відсоток перевищення або відсоток перевищення є більшим, ніж зазначений замовником в тендерній документації",
+    "description_en": "is one whose price exceeds the expected value of the procurement item defined by the procuring entity in the announcement, unless the entity indicated in the tender documentation the acceptance of a higher price and/or specified an acceptable percentage of excess, or the percentage of excess is greater than specified",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n600"
+  },
+  "tenderDocumentationMismatch": {
+    "title_uk": "Абзац 5 частини 2 пункту 44 постанови 1178",
+    "title_en": "Paragraph 5 of part 2 of clause 44 of decree 1178",
+    "description_uk": "не відповідає вимогам, установленим у тендерній документації відповідно до абзацу першого частини третьої статті 22 Закону",
+    "description_en": "does not meet the requirements established in the tender documentation in accordance with the first paragraph of part three of Article 22 of the Law",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n600"
+  },
+  "improperAbnormalPriceJustification": {
+    "title_uk": "Частина 1 пункту 45 постанови 1178",
+    "title_en": "Part 1 of clause 45 of decree 1178",
+    "description_uk": "учасник процедури закупівлі надав неналежне обґрунтування щодо ціни або вартості відповідних товарів, робіт чи послуг тендерної пропозиції, що є аномально низькою",
+    "description_en": "the participant in the procurement procedure provided improper justification for the price or value of the relevant goods, works, or services of the tender proposal, which is abnormally low",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n610"
+  },
+  "unfulfilledPriorObligations": {
+    "title_uk": "Частина 2 пункт 45 постанови 1178",
+    "title_en": "Part 2 of clause 45 of decree 1178",
+    "description_uk": "учасник процедури закупівлі не виконав свої зобов’язання за раніше укладеним договором про закупівлю з тим самим замовником, що призвело до його дострокового розірвання і застосування санкцій у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору",
+    "description_en": "the participant failed to fulfill obligations under a previously concluded procurement contract with the same procuring entity, which led to its early termination and the application of sanctions (fines/damages) within three years from the termination date",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n610"
+  },
+  "goodsUnacceptableCountry": {
+    "title_uk": "Частина 2 пункт 84 постанови 1178",
+    "title_en": "Part 2 of clause 84 of decree 1178",
+    "description_uk": "тендерна пропозиція містить товари, товари у складі закупівель послуг, товари та/або матеріальні ресурси у складі закупівель послуг з поточного ремонту/робіт, які не походять з прийнятних країн",
+    "description_en": "the tender proposal contains goods, goods within procurement of services, goods and/or material resources within current repair services/works that do not originate from acceptable countries",
+    "scheme": "DECREE1178",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n910"
+  },
+  "refusalToSignContract": {
+    "title_uk": "Абзац 2 частини 3 пункту 44 постанови 1178",
+    "title_en": "Paragraph 2 of part 3 of clause 44 of decree 1178",
+    "description_uk": "відмовився від підписання договору про закупівлю відповідно до вимог тендерної документації або укладення договору про закупівлю",
+    "description_en": "refused to sign the procurement contract in accordance with the requirements of the tender documentation or to conclude the procurement contract",
+    "scheme": "DECREE1178",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n605"
+  },
+  "failureToProvideAbsenceGroundsDocs": {
+    "title_uk": "Абзац 3 частини 3 пункту 44 постанови 1178",
+    "title_en": "Paragraph 3 of part 3 of clause 44 of decree 1178",
+    "description_uk": "не надав у спосіб, зазначений в тендерній документації, документи, що підтверджують відсутність підстав, визначених у підпунктах 3, 5, 6 і 12 пункту 47 цих особливостей",
+    "description_en": "failed to provide documents confirming the absence of grounds defined in subclauses 3, 5, 6, and 12 of clause 47 of these features in the manner specified in the tender documentation",
+    "scheme": "DECREE1178",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n605"
+  },
+  "noContractGuarantee": {
+    "title_uk": "Абзац 4 частини 3 пункту 44 постанови 1178",
+    "title_en": "Paragraph 4 of part 3 of clause 44 of decree 1178",
+    "description_uk": "не надав забезпечення виконання договору про закупівлю, якщо таке забезпечення вимагалося замовником",
+    "description_en": "did not provide performance guarantee for the procurement contract, if such guarantee was required by the procuring entity",
+    "scheme": "DECREE1178",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n605"
+  },
+  "falseInformationSubstantial": {
+    "title_uk": "Абзац 5 частини 3 пункту 44 постанови 1178",
+    "title_en": "Paragraph 5 of part 3 of clause 44 of decree 1178",
+    "description_uk": "надав недостовірну інформацію, що є суттєвою для визначення результатів процедури закупівлі, яку замовником виявлено згідно з абзацом першим пункту 42 цих особливостей",
+    "description_en": "provided false information that is essential for determining the results of the procurement procedure, which was discovered by the procuring entity in accordance with the first paragraph of clause 42 of these features",
+    "scheme": "DECREE1178",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n605"
+  },
+  "euSanctionsWinner": {
+    "title_uk": "Абзац 2 частини 3 пункту 84 постанови 1178",
+    "title_en": "Paragraph 2 of part 3 of clause 84 of decree 1178",
+    "description_uk": "особисто або його кінцевий бенефіціарний власник, член або учасник (акціонер) є особою, до якої застосовано обмежувальні заходи у вигляді санкцій Європейського Союзу, та/або особою, що включена до санкційного списку Європейського Союзу",
+    "description_en": "personally or their ultimate beneficial owner, member, or participant (shareholder) is a person subjected to European Union sanctions and/or included in the European Union sanctions list",
+    "scheme": "DECREE1178",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n917"
+  },
+  "euSanctionsWinnerSubcontractor": {
+    "title_uk": "Абзац 3 частини 3 пункту 84 постанови 1178",
+    "title_en": "Paragraph 3 of part 3 of clause 84 of decree 1178",
+    "description_uk": "має намір залучити субпідрядника/співвиконавця, який особисто або його кінцевий бенефіціарний власник, член або учасник (акціонер) юридичної особи - субпідрядника/співвиконавця є особою, до якої застосовано обмежувальні заходи у вигляді санкцій Європейського Союзу, та/або особою, що включена до санкційного списку Європейського Союзу",
+    "description_en": "intends to engage a subcontractor/co-executor who personally or their ultimate beneficial owner is subjected to European Union sanctions and/or included in the European Union sanctions list",
+    "scheme": "DECREE1178",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n917"
+  },
+  "failureToSubmitInfo83": {
+    "title_uk": "Абзац 4 частини 3 пункту 84 постанови 1178",
+    "title_en": "Paragraph 4 of part 3 of clause 84 of decree 1178",
+    "description_uk": "не подав інформацію, передбачену абзацами десятим - чотирнадцятим пункту 83 цих особливостей, або інформація, передбачена абзацами тринадцятим та чотирнадцятим пункту 83 цих особливостей, подана з порушенням вимог, визначених такими абзацами",
+    "description_en": "failed to submit the information provided for in paragraphs ten to fourteen of clause 83 of these features, or the information provided for in paragraphs thirteen and fourteen of clause 83 was submitted in violation of the requirements defined by such paragraphs",
+    "scheme": "DECREE1178",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n917"
+  }
+}
