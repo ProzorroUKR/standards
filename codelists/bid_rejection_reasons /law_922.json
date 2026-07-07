@@ -1,0 +1,212 @@
+{
+  "discrepancyQualificationCriteria": {
+    "title_uk": "Абзац 2 пункту 1 частини 1 статті 31 закону 922",
+    "title_en": "Paragraph 2 of clause 1 of part 1 of article 31 of law 922",
+    "description_uk": "не відповідає кваліфікаційним (кваліфікаційному) критеріям, установленим статтею 16 цього Закону та/або наявні підстави, встановлені частиною першою статті 17 цього Закону",
+    "description_en": "does not meet the qualification (qualification) criteria established by Article 16 of this Law and/or the existing grounds established by part one of Article 17 of this Law",
+    "scheme": "LAW922",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1570"
+  },
+  "discrepancyTenderDocumentation": {
+    "title_uk": "Абзац 3 пункту 1 частини 1 статті 31 закону 922",
+    "title_en": "Paragraph 3 of clause 1 of part 1 of article 31 of law 922",
+    "description_uk": "не відповідає встановленим абзацом першим частини третьої статті 22 цього Закону вимогам до учасника відповідно до законодавства",
+    "description_en": "does not meet the requirements of the participant in accordance with the legislation established in the first part of the third part of Article 22 of this Law",
+    "scheme": "LAW922",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1570"
+  },
+  "falseInformation": {
+    "title_uk": "Абзац 4 пункту 1 частини 1 статті 31 закону 922",
+    "title_en": "Paragraph 4 of clause 1 of part 1 of article 31 of law 922",
+    "description_uk": "зазначив у тендерній пропозиції недостовірну інформацію, що є суттєвою при визначенні результатів процедури закупівлі, яку замовником виявлено згідно з частиною п’ятнадцятою статті 29 цього Закону",
+    "description_en": "stated in the tender offer incorrect information, which is essential in determining the results of the procurement procedure, which the contracting authority revealed in accordance with part fifteen of Article 29 of this Law",
+    "scheme": "LAW922",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1570"
+  },
+  "noGuarantee": {
+    "title_uk": "Абзац 5 пункту 1 частини 1 статті 31 закону 922",
+    "title_en": "Paragraph 5 of clause 1 of part 1 of article 31 of law 922",
+    "description_uk": "не надав забезпечення тендерної пропозиції, якщо таке забезпечення вимагалося замовником, та/або забезпечення тендерної пропозиції не відповідає умовам, що визначені замовником у тендерній документації до такого забезпечення тендерної пропозиції",
+    "description_en": "failed to provide the tender offer, if required by the customer and / or the tender offer does not meet the conditions specified by the customer in the tender documentation before such tender offer is provided",
+    "scheme": "LAW922",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1570"
+  },
+  "noFixDeficiencies24h": {
+    "title_uk": "Абзац 6 пункту 1 частини 1 статті 31 закону 922",
+    "title_en": "Paragraph 6 of clause 1 of part 1 of article 31 of law 922",
+    "description_uk": "не виправив виявлені замовником після розкриття тендерних пропозицій невідповідності в інформації та/або документах, що подані ним у своїй тендерній пропозиції, протягом 24 годин з моменту розміщення замовником в електронній системі закупівель повідомлення з вимогою про усунення таких невідповідностей",
+    "description_en": "did not correct the discrepancies revealed by the customer after disclosure of the tender offers in the information and/or documents submitted by him in his tender offer, within 24 hours from the date of the customer's announcement in the electronic system of procurement requesting the elimination of such inconsistencies",
+    "scheme": "LAW922",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1570"
+  },
+  "noAbnormallyLowPriceСonfirmation": {
+    "title_uk": "Абзац 7 пункту 1 частини 1 статті 31 закону 922",
+    "title_en": "Paragraph 7 of clause 1 of part 1 of article 31 of law 922",
+    "description_uk": "не надав обґрунтування аномально низької ціни тендерної пропозиції протягом строку, визначеного в частині чотирнадцятій статті 29 цього Закону",
+    "description_en": "failed to provide justification for the abnormally low price of the tender offer within the period specified in part fourteen of Article 29 of this Law",
+    "scheme": "LAW922",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1570"
+  },
+  "noReasonablyConfidential": {
+    "title_uk": "Абзац 8 пункту 1 частини 1 статті 31 закону 922",
+    "title_en": "Paragraph 8 of clause 1 of part 1 of article 31 of law 922",
+    "description_uk": "визначив конфіденційною інформацію, що не може бути визначена як конфіденційна відповідно до вимог частини другої статті 28 цього Закону",
+    "description_en": "determined confidential information that cannot be classified as confidential in accordance with the requirements of the second paragraph of Article 28 of this Law",
+    "scheme": "LAW922",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1570"
+  },
+  "notMeetSpecs": {
+    "title_uk": "Абзац 2 пункту 2 частини 1 статті 31 закону 922",
+    "title_en": "Paragraph 2 of clause 2 of part 1 of article 31 of law 922",
+    "description_uk": "не відповідає умовам технічної специфікації та іншим вимогам щодо предмета закупівлі тендерної документації",
+    "description_en": "does not meet the conditions of the technical specification and other requirements regarding the subject of procurement of the tender documentation",
+    "scheme": "LAW922",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1570"
+  },
+  "wrongLanguage": {
+    "title_uk": "Абзац 3 пункту 2 частини 1 статті 31 закону 922",
+    "title_en": "Paragraph 3 of clause 2 of part 1 of article 31 of law 922",
+    "description_uk": "викладена іншою мовою (мовами), аніж мова (мови), що вимагається тендерною документацією",
+    "description_en": "is set out in another language (languages) than the language (languages) required by the tender documentation",
+    "scheme": "LAW922",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1570"
+  },
+  "expiredProposal": {
+    "title_uk": "Абзац 4 пункту 2 частини 1 статті 31 закону 922",
+    "title_en": "Paragraph 4 of clause 2 of part 1 of article 31 of law 922",
+    "description_uk": "є такою, строк дії якої закінчився",
+    "description_en": "is such that its validity period has expired",
+    "scheme": "LAW922",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1570"
+  },
+  "notMeetConditions": {
+    "title_uk": "Пункт 1 частини 13 статті 14 закону 922",
+    "title_en": "Clause 1 of part 13 of article 14 of law 922",
+    "description_uk": "пропозиція учасника не відповідає умовам, визначеним в оголошенні про проведення спрощеної закупівлі, та вимогам до предмета закупівлі",
+    "description_en": "the participant's proposal does not meet the conditions defined in the announcement of the simplified procedure, and the requirements for the subject of procurement",
+    "scheme": "LAW922",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1131"
+  },
+  "noBidGuarantee": {
+    "title_uk": "Пункт 2 частини 13 статті 14 закону 922",
+    "title_en": "Clause 2 of part 13 of article 14 of law 922",
+    "description_uk": "учасник не надав забезпечення пропозиції, якщо таке забезпечення вимагалося замовником",
+    "description_en": "the participant did not provide a bid guarantee, if such guarantee was required by the customer",
+    "scheme": "LAW922",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1131"
+  },
+  "refusedContractMultipleTimes": {
+    "title_uk": "Пункт 4 частини 13 статті 14 закону 922",
+    "title_en": "Clause 4 of part 13 of article 14 of law 922",
+    "description_uk": "якщо учасник протягом одного року до дати оприлюднення оголошення про проведення спрощеної закупівлі відмовився від підписання договору про закупівлю більше двох разів із замовником, який проводить таку спрощену закупівлю",
+    "description_en": "if the participant within one year prior to the date of publication of the announcement of the simplified procedure refused to sign the procurement contract more than twice with the customer conducting such simplified procurement",
+    "scheme": "LAW922",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1131"
+  },
+  "abnormallyLowPrice": {
+    "title_uk": "Абзац 2 частини 14 статті 29 закону 922",
+    "title_en": "Paragraph 2 of part 14 of article 29 of law 922",
+    "description_uk": "замовник може відхилити аномально низьку тендерну пропозицію, у разі якщо учасник не надав належного обґрунтування вказаної у ній ціни або вартості, та відхиляє аномально низьку тендерну пропозицію у разі ненадходження такого обґрунтування протягом строку, визначеного абзацом першим цієї частини",
+    "description_en": "the customer may reject an abnormally low tender proposal if the participant has not provided adequate justification for the price or value specified in it, and rejects the abnormally low tender proposal in case of non-receipt of such justification within the period specified in the first paragraph of this part",
+    "scheme": "LAW922",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1543"
+  },
+  "refusedContract": {
+    "title_uk": "Пункт 3 частини 13 статті 14 закону 922",
+    "title_en": "Clause 3 of part 13 of article 14 of law 922",
+    "description_uk": "учасник, який визначений переможцем спрощеної закупівлі, відмовився від укладення договору про закупівлю",
+    "description_en": "the participant who is determined as the winner of the simplified procedure refused to conclude the procurement contract",
+    "scheme": "LAW922",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1131"
+  },
+  "refusedContractSign": {
+    "title_uk": "Абзац 2 пункту 3 частини 1 статті 31 закону 922",
+    "title_en": "Paragraph 2 of clause 3 of part 1 of article 31 of law 922",
+    "description_uk": "відмовився від підписання договору про закупівлю відповідно до вимог тендерної документації або укладення договору про закупівлю",
+    "description_en": "refused to sign the procurement contract in accordance with the requirements of the tender documentation or conclude the procurement contract",
+    "scheme": "LAW922",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1580"
+  },
+  "noArticle17Docs": {
+    "title_uk": "Абзац 3 пункту 3 частини 1 статті 31 закону 922",
+    "title_en": "Paragraph 3 of clause 3 of part 1 of article 31 of law 922",
+    "description_uk": "не надав у спосіб, зазначений в тендерній документації, документи, що підтверджують відсутність підстав, установлених статтею 17 цього Закону",
+    "description_en": "did not provide in the manner specified in the tender documentation the documents confirming the absence of grounds established by Article 17 of this Law",
+    "scheme": "LAW922",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1580"
+  },
+  "noLicense": {
+    "title_uk": "Абзац 4 пункту 3 частини 1 статті 31 закону 922",
+    "title_en": "Paragraph 4 of clause 3 of part 1 of article 31 of law 922",
+    "description_uk": "не надав копію ліцензії або документа дозвільного характеру (у разі їх наявності) відповідно до частини другої статті 41 цього Закону",
+    "description_en": "did not provide a copy of the license or permit document (if available) in accordance with part two of Article 41 of this Law",
+    "scheme": "LAW922",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1580"
+  },
+  "noContractGuarantee": {
+    "title_uk": "Абзац 5 пункту 3 частини 1 статті 31 закону 922",
+    "title_en": "Paragraph 5 of clause 3 of part 1 of article 31 of law 922",
+    "description_uk": "не надав забезпечення виконання договору про закупівлю, якщо таке забезпечення вимагалося замовником",
+    "description_en": "did not provide guarantee for the performance of the procurement contract, if such guarantee was required by the customer",
+    "scheme": "LAW922",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1580"
+  },
+  "reliableInfoInconsistency": {
+    "title_uk": "Абзац 3 частини 15 статті 29 закону 922",
+    "title_en": "Paragraph 3 of part 15 of article 29 of law 922",
+    "description_uk": "у разі отримання достовірної інформації про невідповідність переможця процедури закупівлі вимогам кваліфікаційних критеріїв, підставам, установленим частиною першою статті 17 цього Закону, або факту зазначення у тендерній пропозиції будь-якої недостовірної інформації, що є суттєвою при визначенні результатів процедури закупівлі, замовник відхиляє тендерну пропозицію такого учасника",
+    "description_en": "in case of receiving reliable information about the inconsistency of the winner of the procurement procedure with the qualification criteria requirements, the grounds established by part one of Article 17 of this Law, or the fact of indicating in the tender proposal any unreliable information that is essential in determining the results of the procurement procedure, the customer rejects the tender proposal of such a participant",
+    "scheme": "LAW922",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1510"
+  },
+  "generalRefusalDetails": {
+    "title_uk": "Частина 7 статті 33 закону 922",
+    "title_en": "Part 7 of article 33 of law 922",
+    "description_uk": "У разі відмови переможця процедури закупівлі/спрощеної закупівлі від підписання договору про закупівлю відповідно до вимог тендерної документації/оголошення про проведення спрощеної закупівлі, неукладення договору про закупівлю з вини учасника або ненадання замовнику підписаного договору у строк, визначений цим Законом, або ненадання переможцем процедури закупівлі документів, що підтверджують відсутність підстав, установлених статтею 17 цього Закону, замовник відхиляє тендерну пропозицію/пропозицію такого учасника, визначає переможця процедури закупівлі/спрощеної закупівлі серед тих учасників, строк дії тендерної пропозиції яких ще не минув, та приймає рішення про намір укласти договір про закупівлю у порядку та на умовах, визначених цією статтею",
+    "description_en": "In case of refusal of the winner of the procurement procedure/simplified procedure to sign the procurement contract in accordance with the requirements of the tender documentation/announcement of the simplified procedure, failure to conclude the procurement contract through the fault of the participant or failure to provide the customer with a signed contract within the period specified by this Law, or failure by the winner of the procurement procedure to provide documents confirming the absence of grounds established by Article 17 of this Law, the customer rejects the tender proposal/proposal of such a participant, determines the winner of the procurement procedure/simplified procedure among those participants whose tender proposal validity period has not expired, and makes a decision on the intention to conclude a procurement contract in the manner and under the conditions defined by this article",
+    "scheme": "LAW922",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1611"
+  }
+}
