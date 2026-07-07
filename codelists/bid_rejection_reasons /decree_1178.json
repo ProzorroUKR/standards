@@ -179,6 +179,136 @@
     "archive": false,
     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n910"
   },
+    "undeniableEvidenceOfBribery": {
+    "title_uk": "Частина 1 пункту 47 постанови 1178",
+    "title_en": "Part 1 of clause 47 of decree 1178",
+    "description_uk": "замовник має незаперечні докази того, що учасник процедури закупівлі пропонує, дає або погоджується дати прямо чи опосередковано будь-якій службовій (посадовій) особі замовника, іншого державного органу винагороду в будь-якій формі (пропозиція щодо наймання на роботу, цінна річ, послуга тощо) з метою вплинути на прийняття рішення щодо визначення переможця процедури закупівлі",
+    "description_en": "the procuring entity has undeniable evidence that the participant in the procurement procedure offers, gives, or agrees to give directly or indirectly to any official of the procuring entity or other state body a reward in any form to influence the decision-making regarding the determination of the winner of the procurement procedure",
+    "scheme": "DECREE1178",
+    "category": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n615"
+  },
+  "corruptionOffenseIndividual": {
+    "title_uk": "Частина 3 пункту 47 постанови 1178",
+    "title_en": "Part 3 of clause 47 of decree 1178",
+    "description_uk": "керівника учасника процедури закупівлі, фізичну особу, яка є учасником процедури закупівлі, було притягнуто згідно із законом до відповідальності за вчинення корупційного правопорушення або правопорушення, пов’язаного з корупцією",
+    "description_en": "the head of the participant in the procurement procedure, an individual participating in the procurement procedure, was brought to legal responsibility for committing a corruption offense or a corruption-related offense",
+    "scheme": "DECREE1178",
+    "category": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n618"
+  },
+  "anticompetitiveActions": {
+    "title_uk": "Частина 4 пункту 47 постанови 1178",
+    "title_en": "Part 4 of clause 47 of decree 1178",
+    "description_uk": "суб’єкт господарювання (учасник процедури закупівлі) протягом останніх трьох років притягувався до відповідальності за порушення, передбачене пунктом 4 частини другої статті 6, пунктом 1 статті 50 Закону України “Про захист економічної конкуренції”, у вигляді вчинення антиконкурентних узгоджених дій, що стосуються спотворення результатів тендерів",
+    "description_en": "the economic entity (participant in the procurement procedure) within the last three years was brought to responsibility for a violation provided for in paragraph 4 of part two of Article 6, paragraph 1 of Article 50 of the Law of Ukraine \"On Protection of Economic Competition\" in the form of committing anticompetitive concerted actions regarding the distortion of tender results",
+    "scheme": "DECREE1178",
+    "category": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n617"
+  },
+  "relatedPersons": {
+    "title_uk": "Частина 7 пункту 47 постанови 1178",
+    "title_en": "Part 7 of clause 47 of decree 1178",
+    "description_uk": "тендерна пропозиція подана учасником процедури закупівлі, який є пов’язаною особою з іншими учасниками процедури закупівлі та/або з уповноваженою особою (особами), та/або з керівником замовника",
+    "description_en": "the tender proposal was submitted by a participant in the procurement procedure who is a related person to other participants in the procurement procedure and/or to the authorized person(s) and/or to the head of the procuring entity",
+    "scheme": "DECREE1178",
+    "category": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n621"
+  },
+  "bankruptcyProcedure": {
+    "title_uk": "Частина 8 пункту 47 постанови 1178",
+    "title_en": "Part 8 of clause 47 of decree 1178",
+    "description_uk": "учасник процедури закупівлі визнаний в установленому законом порядку банкрутом та стосовно нього відкрита ліквідаційна процедура",
+    "description_en": "the participant in the procurement procedure is recognized as bankrupt in the manner prescribed by law and a liquidation procedure has been initiated against them",
+    "scheme": "DECREE1178",
+    "category": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n621"
+  },
+  "missingBeneficiaryInfo": {
+    "title_uk": "Частина 9 пункту 47 постанови 1178",
+    "title_en": "Part 9 of clause 47 of decree 1178",
+    "description_uk": "у Єдиному державному реєстрі юридичних осіб, фізичних осіб - підприємців та громадських формувань відсутня інформація, передбачена пунктом 9 частини другої статті 9 Закону України “Про державну реєстрацію юридичних осіб, фізичних осіб - підприємців та громадських формувань” (для учасника процедури закупівлі - резидента), або учасник процедури закупівлі - нерезидент не надав інформації про кінцевих бенефіціарних власників, визначеної абзацом дев’ятим пункту 28 цих особливостей, у спосіб, визначений замовником у тендерній документації",
+    "description_en": "the Unified State Register of Legal Entities, Individual Entrepreneurs and Public Formations lacks the information provided for in paragraph 9 of part two of Article 9 of the Law of Ukraine 'On State Registration of Legal Entities, Individual Entrepreneurs and Public Formations' (for a resident participant), or a non-resident participant failed to provide information about ultimate beneficial owners defined by the ninth paragraph of clause 28 of these features in the manner specified by the procuring entity in the tender documentation",
+    "scheme": "DECREE1178",
+    "category": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n622"
+  },
+  "noAnticorruptionProgram": {
+    "title_uk": "Частина 10 пункту 47 постанови 1178",
+    "title_en": "Part 10 of clause 47 of decree 1178",
+    "description_uk": "юридична особа, яка є учасником процедури закупівлі (крім нерезидентів), не має антикорупційної програми чи уповноваженого з реалізації антикорупційної програми, якщо вартість закупівлі товару (товарів), послуги (послуг) або робіт дорівнює чи перевищує 20 млн. гривень (у тому числі за лотом)",
+    "description_en": "a legal entity participating in the procurement procedure (except non-residents) does not have an anti-corruption program or a person authorized to implement the anti-corruption program, if the cost of procurement of goods, services, or works equals or exceeds UAH 20 million (including per lot)",
+    "scheme": "DECREE1178",
+    "category": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n624"
+  },
+  "sanctionsApplied": {
+    "title_uk": "Частина 11 пункту 47 постанови 1178",
+    "title_en": "Part 11 of clause 47 of decree 1178",
+    "description_uk": "учасник процедури закупівлі або кінцевий бенефіціарний власник, член або учасник (акціонер) юридичної особи - учасника процедури закупівлі є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України “Про санкції”, крім випадку, коли активи такої особи в установленому законодавством порядку передані в управління АРМА",
+    "description_en": "the participant in the procurement procedure or the ultimate beneficial owner, member, or participant (shareholder) of the legal entity participating is a person subjected to a sanction in the form of a ban on public procurement of goods, works, and services from them according to the Law of Ukraine 'On Sanctions', except when such person's assets are transferred to ARMA management as prescribed by law",
+    "scheme": "DECREE1178",
+    "category": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n625"
+  },
+  "childLaborHumanTrafficking": {
+    "title_uk": "Абзац 1 частини 12 пункту 47 постанови 1178",
+    "title_en": "Paragraph 1 of of part 12 of clause 47 of decree 1178",
+    "description_uk": "керівника учасника процедури закупівлі, фізичну особу, яка є учасником процедури закупівлі, було притягнуто згідно із законом до відповідальності за вчинення правопорушення, пов’язаного з використанням дитячої праці чи будь-якими формами торгівлі людьми",
+    "description_en": "the head of the participant in the procurement procedure, an individual participating, was brought to legal responsibility for committing an offense related to the use of child labor or any forms of human trafficking",
+    "scheme": "DECREE1178",
+    "category": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#Text"
+  },
+  "winnerFailedDocsRequirement47": {
+    "title_uk": "Абзац 2 частини 12 пункту 47 постанови 1178",
+    "title_en": "Paragraph 2 of of part 12 of clause 47 of decree 1178",
+    "description_uk": "переможець процедури закупівлі у строк, що не перевищує чотири дні з дати оприлюднення в електронній системі закупівель повідомлення про намір укласти договір про закупівлю, повинен надати замовнику шляхом оприлюднення в електронній системі закупівель документи, що підтверджують відсутність підстав, зазначених у підпунктах 3, 5, 6 і 12 цього пункту. Замовник не вимагає документального підтвердження публічної інформації, що оприлюднена у формі відкритих даних згідно із Законом України “Про доступ до публічної інформації” та/або міститься у відкритих публічних електронних реєстрах, доступ до яких є вільним, або публічної інформації, що є доступною в електронній системі закупівель, крім випадків, коли доступ до такої інформації є обмеженим на момент оприлюднення оголошення про проведення відкритих торгів",
+    "description_en": "the winner of the procurement procedure, within a period not exceeding four days from the date of publication in the electronic procurement system of the notice of intent to conclude a procurement contract, must provide the procuring entity, by publishing in the electronic procurement system, documents confirming the absence of grounds specified in subclauses 3, 5, 6, and 12 of this clause. The procuring entity does not require documentary confirmation of public information that is published in the form of open data in accordance with the Law of Ukraine 'On Access to Public Information' and/or is contained in open public electronic registers with free access, or public information that is available in the electronic procurement system, except when access to such information is restricted at the time of publication of the announcement of the open bidding",
+    "scheme": "DECREE1178",
+    "category": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n627"
+  },
+    "corruptionRegisterLegalEntity": {
+    "title_uk": "Частина 2 пункту 47 постанови 1178",
+    "title_en": "Part 2 of clause 47 of decree 1178",
+    "description_uk": "відомості про юридичну особу, яка є учасником процедури закупівлі, внесено до Єдиного державного реєстру осіб, які вчинили корупційні або пов’язані з корупцією правопорушення",
+    "description_en": "information about the legal entity participating in the procurement procedure is entered into the Unified State Register of persons who committed corruption or corruption-related offenses",
+    "scheme": "DECREE1178",
+    "category": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n616"
+  },
+    "criminalOffenseIndividual": {
+    "title_uk": "Частина 5 пункту 47 постанови 1178",
+    "title_en": "Part 5 of clause 47 of decree 1178",
+    "description_uk": "фізична особа, яка є учасником процедури закупівлі, була засуджена за кримінальне правопорушення, вчинене з корисливих мотивів (зокрема, пов’язане з хабарництвом та відмиванням коштів), судимість з якої не знято або не погашено в установленому законом порядку",
+    "description_en": "an individual participating in the procurement procedure was convicted of a criminal offense committed for mercenary motives (in particular, related to bribery and money laundering), the criminal record for which has not been removed or expunged as prescribed by law",
+    "scheme": "DECREE1178",
+    "category": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n620"
+  },
+  "criminalOffenseManager": {
+    "title_uk": "Частина 6 пункту 47 постанови 1178",
+    "title_en": "Part 6 of clause 47 of decree 1178",
+    "description_uk": "керівник учасника процедури закупівлі був засуджений за кримінальне правопорушення, вчинене з корисливих мотивів (зокрема, пов’язане з хабарництвом, шахрайством та відмиванням коштів), судимість з якого не знято або не погашено в установленому законом порядку",
+    "description_en": "the head of the participant in the procurement procedure was convicted of a criminal offense committed for mercenary motives (in particular, related to bribery, fraud, and money laundering), the criminal record for which has not been removed or expunged as prescribed by law",
+    "scheme": "DECREE1178",
+    "category": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n621"
+  },
   "refusalToSignContract": {
     "title_uk": "Абзац 2 частини 3 пункту 44 постанови 1178",
     "title_en": "Paragraph 2 of part 3 of clause 44 of decree 1178",
