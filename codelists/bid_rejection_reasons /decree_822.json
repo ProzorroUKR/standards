@@ -30,8 +30,8 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF/ed20260607#n390"
   },
   "unsignedContract": {
-    "title_uk": "Частина 1 пункту 64 постанови 822",
-    "title_en": "Part 1 of clause 64 of decree 822",
+    "title_uk": "Підпункт 1 пункту 64 постанови 822",
+    "title_en": "Subsection 1 of clause 64 of decree 822",
     "description_uk": "не підписав договір на умовах, визначених замовником у запиті пропозицій постачальників, шляхом заповнення електронних форм з окремими полями, та у проекті договору, що є складовою частиною запиту пропозицій постачальників у строк, визначений пунктом 66 цього Порядку",
     "description_en": "did not sign the contract on the terms defined by the procuring entity in the request for supplier proposals by filling out electronic forms with separate fields, and in the draft contract, which is an integral part of the request for supplier proposals within the period specified by clause 66 of this Procedure",
     "scheme": "DECREE822",
@@ -40,8 +40,8 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF/ed20260607#n182"
   },
   "noContractGuarantee": {
-    "title_uk": "Частина 2 пункту 64 постанови 822",
-    "title_en": "Part 2 of clause 64 of decree 822",
+    "title_uk": "Підпункт 2 пункту 64 постанови 822",
+    "title_en": "Subsection 2 of clause 64 of decree 822",
     "description_uk": "не надав забезпечення виконання договору у строк, визначений пунктом 66 цього Порядку",
     "description_en": "did not provide contract performance guarantee within the period specified by clause 66 of this Procedure",
     "scheme": "DECREE822",
@@ -50,8 +50,8 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF/ed20260607#n182"
   },
   "writtenRefusalToSignContract": {
-    "title_uk": "Частина 3 пункту 64 постанови 822",
-    "title_en": "Part 3 of clause 64 of decree 822",
+    "title_uk": "Підпункт 3 пункту 64 постанови 822",
+    "title_en": "Subsection 3 of clause 64 of decree 822",
     "description_uk": "письмово відмовився від укладення договору на умовах, визначених замовником у запиті пропозицій постачальників, шляхом заповнення електронних форм з окремими полями, та у проекті договору, що є складовою частиною запиту пропозицій постачальників",
     "description_en": "refused in writing to conclude a contract on the terms defined by the procuring entity in the request for supplier proposals by filling out electronic forms with separate fields, and in the draft contract, which is an integral part of the request for supplier proposals",
     "scheme": "DECREE822",
