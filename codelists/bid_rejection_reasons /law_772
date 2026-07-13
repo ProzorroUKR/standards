@@ -142,7 +142,7 @@
   "abnormallyLowPriceUnjustified": {
     "title_uk": "Абзац 7 частини 18 статті 21(3) закону 772",
     "title_en": "Paragraph 7 of part 18 of article 21(3) of law 772",
-    "description_uk": "не надано обґрунтування аномально низької ціни або надане обґрунтування неналежне",
+    "description_uk": "не надано обґрунтування аномально низької пропозиції або надане обґрунтування неналежне",
     "description_en": "justification for the abnormally low price was not provided or the provided justification is improper",
     "scheme": "LAW772",
     "type": "supplier",
@@ -172,8 +172,8 @@
   "noContractSign": {
     "title_uk": "Абзац 2 частини 20 статті 21(3) закону 772",
     "title_en": "Paragraph 2 of part 20 of article 21(3) of law 772",
-    "description_uk": "не підписав договір протягом 5 робочих днів після визначення його переможцем",
-    "description_en": "did not sign the contract within 5 working days after being determined as the winner",
+    "description_uk": "не підписав договір протягом 5 робочих днів після складення протоколу аукціону",
+    "description_en": "did not sign the contract within 5 working days after the auction protocol was drawn up",
     "scheme": "LAW772",
     "type": "winner",
     "archive": false,
