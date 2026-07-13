@@ -1,7 +1,7 @@
 {
   "unremediedInconsistencies24h": {
-    "title_uk": "Абзац 5 частини 4 пункт 8 розділу Загальні положення постанови 1275",
-    "title_en": "Paragraph 5 part 4 of clause 8 of the General Provisions section of decree 1275",
+    "title_uk": "Абзац 5 підпункту 4 пункту 8 розділу Загальні положення постанови 1275",
+    "title_en": "Paragraph 5 subsection 4 of clause 8 of the General Provisions section of decree 1275",
     "description_uk": "учасник спрощеної закупівлі не виправив виявлені державним замовником після розкриття пропозицій невідповідності в інформації та/або документах, що подані ним у складі своєї пропозиції, та/або змінив предмет закупівлі (його найменування, марку, модель тощо) під час виправлення виявлених державним замовником невідповідностей протягом 24 годин з моменту розміщення замовником в електронній системі закупівель повідомлення з вимогою про усунення таких невідповідностей",
     "description_en": "the participant of the simplified procurement did not correct the inconsistencies in the information and/or documents submitted in their proposal, which were identified by the state customer after the opening of proposals, and/or changed the subject of procurement during the correction of the identified inconsistencies, within 24 hours from the moment the customer posted a notice demanding the elimination of such inconsistencies in the electronic procurement system",
     "scheme": "DECREE1275",
@@ -10,8 +10,8 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/1275-2022-%D0%BF/ed20260604#n30"
   },
   "refusalToSignContract": {
-    "title_uk": "Частина 1 пункт 88 розділу Загальні положення постанови 1275",
-    "title_en": "Part 1 of clause 88 of the General Provisions section of decree 1275",
+    "title_uk": "Підпункт 1 пункту 88 розділу Загальні положення постанови 1275",
+    "title_en": "Subsection 1 of clause 88 of the General Provisions section of decree 1275",
     "description_uk": "відмовився від підписання державного контракту (договору) відповідно до вимог запиту пропозиції або пропозиції та/або у разі неукладення державного контракту (договору) у строк, встановлений пунктом 90 цих особливостей",
     "description_en": "refused to sign the state contract (agreement) in accordance with the requirements of the request for proposal or proposal and/or in case of failure to conclude the state contract (agreement) within the period established by clause 90 of these features",
     "scheme": "DECREE1275",
@@ -20,8 +20,8 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/1275-2022-%D0%BF/ed20260604#n395"
   },
   "noProvideAbsenceGrounds1178": {
-    "title_uk": "Частина 2 пункт 88 розділу Загальні положення постанови 1275",
-    "title_en": "Part 2 of clause 88 of the General Provisions section of decree 1275",
+    "title_uk": "Підпункт 2 пункту 88 розділу Загальні положення постанови 1275",
+    "title_en": "Subsection 2 of clause 88 of the General Provisions section of decree 1275",
     "description_uk": "не надав у спосіб, зазначений в запиті пропозицій, документи, що підтверджують відсутність підстав, визначених у підпунктах 3, 5, 6 і 12 пункту 47 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України “Про публічні закупівлі”, на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування, затверджених постановою Кабінету Міністрів України від 12 жовтня 2022 р. № 1178, крім випадку, зазначеного в абзаці другому пункту 87 цих особливостей",
     "description_en": "did not provide in the manner specified in the request for proposals, documents confirming the absence of grounds defined in subclauses 3, 5, 6 and 12 of clause 47 of the features of public procurement approved by the Cabinet of Ministers Decree No. 1178, except for the case specified in the second paragraph of clause 87 of these features",
     "scheme": "DECREE1275",
@@ -30,8 +30,8 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/1275-2022-%D0%BF/ed20260604#n395"
   },
   "multipleProposals": {
-    "title_uk": "Частина 3 пункт 88 розділу Загальні положення постанови 1275",
-    "title_en": "Part 3 of clause 88 of the General Provisions section of decree 1275",
+    "title_uk": "Підпункт 3 пункту 88 розділу Загальні положення постанови 1275",
+    "title_en": "Subsection 3 of clause 88 of the General Provisions section of decree 1275",
     "description_uk": "подав більш як одну пропозицію на запит пропозиції, у тому числі до визначеної в запиті пропозицій частини предмета закупівлі (лота)",
     "description_en": "submitted more than one proposal to the request for proposal, including to the part of the procurement subject (lot) defined in the request for proposals",
     "scheme": "DECREE1275",
@@ -40,8 +40,8 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/1275-2022-%D0%BF/ed20260604#n395"
   },
   "noContractGuarantee": {
-    "title_uk": "Частина 4 пункт 88 розділу Загальні положення постанови 1275",
-    "title_en": "Part 4 of clause 88 of the General Provisions section of decree 1275",
+    "title_uk": "Підпункт 4 пункту 88 розділу Загальні положення постанови 1275",
+    "title_en": "Subsection 4 of clause 88 of the General Provisions section of decree 1275",
     "description_uk": "не надав забезпечення виконання державного контракту (договору), якщо таке забезпечення вимагалося державним замовником",
     "description_en": "did not provide guarantee performace for the state contract (agreement), if such guarantee was required by the state customer",
     "scheme": "DECREE1275",
