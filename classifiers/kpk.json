@@ -57487,6 +57487,26 @@
     ]
   },
   {
+    "idFkv": 358,
+    "programType": 1,
+    "code": "7861710",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "7861000",
+    "actyvPr": 0,
+    "name": "Виконання робіт із поточного ремонту та експлуатаційного утримання автомобільних доріг загального користування місцевого значення",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-06-04",
+    "id": 3110,
+    "inputbase": "Розпис",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 345,
     "programType": 1,
     "code": "7861720",
@@ -59685,6 +59705,26 @@
     "comment": null,
     "datefrom": "2026-05-27",
     "id": 3085,
+    "inputbase": "Розпис",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 358,
+    "programType": 1,
+    "code": "7921730",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "7921000",
+    "actyvPr": 0,
+    "name": "Виконання робіт із поточного ремонту та експлуатаційного утримання автомобільних доріг загального користування місцевого значення",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-06-04",
+    "id": 3109,
     "inputbase": "Розпис",
     "years": [
       2026
