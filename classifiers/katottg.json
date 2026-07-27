@@ -34135,7 +34135,7 @@
   },
   "UA12140370010078317": {
     "name": "Українське",
-    "category": "X",
+    "category": "C",
     "level": 4,
     "parent_code": "UA12140370000059352"
   },
@@ -56327,32 +56327,14 @@
     "level": 4,
     "parent_code": "UA21120070000032447"
   },
-  "UA21120070030093696": {
-    "name": "Каллів",
-    "category": "C",
-    "level": 4,
-    "parent_code": "UA21120070000032447"
-  },
   "UA21120070040023626": {
     "name": "Липецька Поляна",
     "category": "C",
     "level": 4,
     "parent_code": "UA21120070000032447"
   },
-  "UA21120070050056889": {
-    "name": "Ожоверх",
-    "category": "C",
-    "level": 4,
-    "parent_code": "UA21120070000032447"
-  },
   "UA21120070060017663": {
     "name": "Приборжавське",
-    "category": "C",
-    "level": 4,
-    "parent_code": "UA21120070000032447"
-  },
-  "UA21120070070025007": {
-    "name": "Слоповий",
     "category": "C",
     "level": 4,
     "parent_code": "UA21120070000032447"
@@ -122743,7 +122725,7 @@
   },
   "UA53080190010066776": {
     "name": "Ланна",
-    "category": "X",
+    "category": "C",
     "level": 4,
     "parent_code": "UA53080190000081150"
   },
@@ -174187,19 +174169,19 @@
   },
   "UA71040030050099392": {
     "name": "Канівщина",
-    "category": "X",
+    "category": "C",
     "level": 4,
     "parent_code": "UA71040030000055285"
   },
   "UA71040030060090873": {
     "name": "Пальміра",
-    "category": "X",
+    "category": "C",
     "level": 4,
     "parent_code": "UA71040030000055285"
   },
   "UA71040030070076182": {
     "name": "Роздол",
-    "category": "X",
+    "category": "C",
     "level": 4,
     "parent_code": "UA71040030000055285"
   },
@@ -174823,13 +174805,13 @@
   },
   "UA71040150170090784": {
     "name": "Дібрівка",
-    "category": "X",
+    "category": "C",
     "level": 4,
     "parent_code": "UA71040150000026547"
   },
   "UA71040150180025726": {
     "name": "Холодне",
-    "category": "X",
+    "category": "C",
     "level": 4,
     "parent_code": "UA71040150000026547"
   },
