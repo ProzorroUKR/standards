@@ -5174,9 +5174,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "1000000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Національна гвардія України",
-    "dateto": null,
+    "dateto": "2026-12-31",
     "details": 0,
     "comment": null,
     "datefrom": "2019-01-01",
@@ -5190,7 +5190,26 @@
       2023,
       2024,
       2025,
-      2026,
+      2026
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "1003000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1000000",
+    "actyvPr": 1,
+    "name": "Головне управління Національної гвардії України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3267,
+    "inputbase": "Закон",
+    "years": [
       2027
     ]
   },
@@ -10403,6 +10422,26 @@
     ]
   },
   {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "1201800",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Підготовка та реалізація публічних інвестиційних проєктів і програм публічних інвестицій Міністерства економіки та довкілля України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3262,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
     "idFkv": 0,
     "programType": 0,
     "code": "1202000",
@@ -12781,6 +12820,26 @@
     ]
   },
   {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "1401800",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1401000",
+    "actyvPr": 1,
+    "name": "Підготовка та реалізація публічних інвестиційних проєктів і програм публічних інвестицій Міністерства закордонних справ України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3264,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
     "idFkv": 0,
     "programType": 0,
     "code": "1500000",
@@ -13570,6 +13629,26 @@
     "years": [
       2025,
       2026,
+      2027
+    ]
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "1501810",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1501000",
+    "actyvPr": 1,
+    "name": "Підготовка та реалізація публічних інвестиційних проєктів і програм публічних інвестицій Міністерства у справах ветеранів України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3271,
+    "inputbase": "Закон",
+    "years": [
       2027
     ]
   },
@@ -15855,9 +15934,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2201000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Забезпечення здобуття професійної (професійно-технічної) освіти за професіями загальнодержавного значення",
-    "dateto": null,
+    "dateto": "2026-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2020-01-01",
@@ -15870,7 +15949,26 @@
       2023,
       2024,
       2025,
-      2026,
+      2026
+    ]
+  },
+  {
+    "idFkv": 540,
+    "programType": 1,
+    "code": "2201030",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2201000",
+    "actyvPr": 1,
+    "name": "Забезпечення здобуття професійної освіти за професіями загальнодержавного значення",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3182,
+    "inputbase": "Закон",
+    "years": [
       2027
     ]
   },
@@ -16231,9 +16329,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2201000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Забезпечення здобуття професійної (професійно-технічної) освіти у закладах освіти соціальної реабілітації та адаптації державної форми власності, методичне забезпечення закладів професійної (професійно-технічної) освіти",
-    "dateto": null,
+    "dateto": "2026-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2020-01-01",
@@ -16246,7 +16344,26 @@
       2023,
       2024,
       2025,
-      2026,
+      2026
+    ]
+  },
+  {
+    "idFkv": 540,
+    "programType": 1,
+    "code": "2201130",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2201000",
+    "actyvPr": 1,
+    "name": "Забезпечення здобуття професійної освіти у закладах освіти соціальної реабілітації та адаптації державної форми власності, методичне забезпечення закладів професійної освіти",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3184,
+    "inputbase": "Закон",
+    "years": [
       2027
     ]
   },
@@ -17562,6 +17679,26 @@
     "inputbase": "Закон",
     "years": [
       2026,
+      2027
+    ]
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "2201810",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2201000",
+    "actyvPr": 1,
+    "name": "Підготовка та реалізація публічних інвестиційних проєктів і програм публічних інвестицій Міністерства освіти і науки України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3265,
+    "inputbase": "Закон",
+    "years": [
       2027
     ]
   },
@@ -19937,7 +20074,7 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2301000",
-    "actyvPr": 0,
+    "actyvPr": 1,
     "name": "Трансформація охорони здоров’я шляхом реформи та інвестицій в ефективність",
     "dateto": null,
     "details": 1,
@@ -20368,6 +20505,26 @@
       2019,
       2020,
       2021
+    ]
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "2301820",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2301000",
+    "actyvPr": 1,
+    "name": "Підготовка та реалізація публічних інвестиційних проєктів і програм публічних інвестицій Міністерства охорони здоров'я України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3266,
+    "inputbase": "Закон",
+    "years": [
+      2027
     ]
   },
   {
@@ -25829,6 +25986,26 @@
     "years": [
       2025,
       2026,
+      2027
+    ]
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "2501820",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2501000",
+    "actyvPr": 1,
+    "name": "Підготовка та реалізація публічних інвестиційних проєктів і програм публічних інвестицій Міністерства соціальної політики, сім’ї та єдності України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3270,
+    "inputbase": "Закон",
+    "years": [
       2027
     ]
   },
@@ -32306,14 +32483,33 @@
     "parentCode": "2901000",
     "actyvPr": 0,
     "name": "Реалізація програми публічних інвестицій \"Реалізація Національної програми інформатизації\"",
-    "dateto": null,
+    "dateto": "2026-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
     "id": 2614,
     "inputbase": "Закон",
     "years": [
-      2026,
+      2026
+    ]
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "2901810",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2901000",
+    "actyvPr": 1,
+    "name": "Підготовка та реалізація публічних інвестиційних проєктів і програм публічних інвестицій Міністерства цифрової трансформації України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3272,
+    "inputbase": "Закон",
+    "years": [
       2027
     ]
   },
@@ -32469,6 +32665,26 @@
     "code": "2910000",
     "level": 1,
     "isactive": 0,
+    "outputbase": null,
+    "parentCode": null,
+    "actyvPr": 1,
+    "name": "Міністерство цифрової трансформації України (загальнодержавні видатки та кредитування)",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3275,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "2910000",
+    "level": 1,
+    "isactive": 0,
     "outputbase": "2025",
     "parentCode": null,
     "actyvPr": 0,
@@ -32504,6 +32720,26 @@
       2020,
       2021,
       2022
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "2911000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2910000",
+    "actyvPr": 1,
+    "name": "Міністерство цифрової трансформації України (загальнодержавні видатки та кредитування)",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3276,
+    "inputbase": "Закон",
+    "years": [
+      2027
     ]
   },
   {
@@ -32609,6 +32845,26 @@
     "years": [
       2021,
       2022
+    ]
+  },
+  {
+    "idFkv": 360,
+    "programType": 1,
+    "code": "2911800",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2911000",
+    "actyvPr": 0,
+    "name": "Реалізація програми публічних інвестицій \"Реалізація Національної програми інформатизації\"",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3277,
+    "inputbase": "Закон",
+    "years": [
+      2027
     ]
   },
   {
@@ -33365,7 +33621,7 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3101000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Компенсація за знищене житло",
     "dateto": null,
     "details": 1,
@@ -33790,7 +34046,7 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3101000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Забезпечення реалізації заходу «Підтримка швидкого відновлення України (Контракт з розбудови держави та посилення стійкості)» в частині ремонту та покращення портової інфраструктури",
     "dateto": null,
     "details": 1,
@@ -34579,7 +34835,7 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3101000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Впровадження та координація заходів проекту розвитку міської інфраструктури та програми розвитку муніципальної інфраструктури України",
     "dateto": null,
     "details": 1,
@@ -35024,6 +35280,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "3101800",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 1,
+    "name": "Підготовка та реалізація публічних інвестиційних проєктів і програм публічних інвестицій Міністерства з відновлення, інфраструкткри та транспорту України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3268,
+    "inputbase": "Закон",
+    "years": [
+      2027
     ]
   },
   {
@@ -38327,7 +38603,7 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3121000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Субвенція з державного бюджету бюджету Дніпровської міської територіальної громади на завершення будівництва метрополітену у м. Дніпрі",
     "dateto": null,
     "details": 1,
@@ -39538,6 +39814,26 @@
     "inputbase": "Закон",
     "years": [
       2021
+    ]
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "3401810",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3401000",
+    "actyvPr": 1,
+    "name": "Підготовка та реалізація публічних інвестиційних проєктів і програм публічних інвестицій Міністерства молоді та спорту України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3274,
+    "inputbase": "Закон",
+    "years": [
+      2027
     ]
   },
   {
@@ -42618,9 +42914,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3601000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Підготовка робітничих кадрів у професійно-технічних закладах соціальної адаптації при установах виконання покарань",
-    "dateto": null,
+    "dateto": "2026-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2019-01-01",
@@ -42634,7 +42930,26 @@
       2023,
       2024,
       2025,
-      2026,
+      2026
+    ]
+  },
+  {
+    "idFkv": 540,
+    "programType": 1,
+    "code": "3601060",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3601000",
+    "actyvPr": 1,
+    "name": "Підготовка робітничих кадрів у навчальних центрах при установах виконання покарань",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3253,
+    "inputbase": "Закон",
+    "years": [
       2027
     ]
   },
@@ -43128,6 +43443,26 @@
     "inputbase": "Закон",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "3601860",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3601000",
+    "actyvPr": 1,
+    "name": "Підготовка та реалізація публічних інвестиційних проєктів і програм публічних інвестицій Міністерства юстиції України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3273,
+    "inputbase": "Закон",
+    "years": [
+      2027
     ]
   },
   {
@@ -43792,27 +44127,6 @@
     "programType": 1,
     "code": "3801030",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "3801000",
-    "actyvPr": 1,
-    "name": "Забезпечення стратегічних комунікацій, інформаційної безпеки, заходів з європейської та євроатлантичної інтеграції, національної ідентичності, героїзму, створення та поширення аудіовізуальних творів патріотичного спрямування",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2643,
-    "inputbase": "Закон",
-    "years": [
-      2026,
-      2027
-    ]
-  },
-  {
-    "idFkv": 532,
-    "programType": 1,
-    "code": "3801030",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "3801000",
@@ -43826,6 +44140,46 @@
     "inputbase": "Закон",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 532,
+    "programType": 1,
+    "code": "3801030",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3801000",
+    "actyvPr": 0,
+    "name": "Забезпечення стратегічних комунікацій, інформаційної безпеки, заходів з європейської та євроатлантичної інтеграції, національної ідентичності, героїзму, створення та поширення аудіовізуальних творів патріотичного спрямування",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2643,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 532,
+    "programType": 1,
+    "code": "3801030",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3801000",
+    "actyvPr": 1,
+    "name": "Забезпечення інформаційної безпеки, заходів з національної ідентичності, героїзму, створення та поширення аудіовізуальних творів патріотичного спрямування",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3174,
+    "inputbase": "Закон",
+    "years": [
+      2027
     ]
   },
   {
@@ -44699,6 +45053,26 @@
     ]
   },
   {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "3801800",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3801000",
+    "actyvPr": 1,
+    "name": "Підготовка та реалізація публічних інвестиційних проєктів і програм публічних інвестицій Міністерства культури України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3112,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
     "idFkv": 529,
     "programType": 1,
     "code": "3801810",
@@ -45429,27 +45803,6 @@
     "programType": 1,
     "code": "3806030",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "3806000",
-    "actyvPr": 1,
-    "name": "Державна підтримка кінематографії, у тому числі документування воєнних злочинів",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2483,
-    "inputbase": "Закон",
-    "years": [
-      2026,
-      2027
-    ]
-  },
-  {
-    "idFkv": 410,
-    "programType": 1,
-    "code": "3806030",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "3806000",
@@ -45463,6 +45816,46 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 410,
+    "programType": 1,
+    "code": "3806030",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3806000",
+    "actyvPr": 0,
+    "name": "Державна підтримка кінематографії, у тому числі документування воєнних злочинів",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2483,
+    "inputbase": "Закон",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 410,
+    "programType": 1,
+    "code": "3806030",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3806000",
+    "actyvPr": 1,
+    "name": "Державна підтримка кінематографії",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3176,
+    "inputbase": "Закон",
+    "years": [
+      2027
     ]
   },
   {
@@ -49510,7 +49903,7 @@
     "actyvPr": 1,
     "name": "Служба безпеки України",
     "dateto": null,
-    "details": 1,
+    "details": 0,
     "comment": null,
     "datefrom": "2026-01-01",
     "id": 2499,
@@ -49667,6 +50060,26 @@
   {
     "idFkv": 330,
     "programType": 1,
+    "code": "6521250",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "6521000",
+    "actyvPr": 1,
+    "name": "Координація діяльності у запобіганні терористичним актам та боротьба з тероризмом на території України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3249,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
+    "idFkv": 330,
+    "programType": 1,
     "code": "6521700",
     "level": 3,
     "isactive": 0,
@@ -49712,9 +50125,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "6520000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Антитерористичний центр при Службі безпеки України",
-    "dateto": null,
+    "dateto": "2026-12-31",
     "details": 0,
     "comment": null,
     "datefrom": "2019-01-01",
@@ -49728,8 +50141,7 @@
       2023,
       2024,
       2025,
-      2026,
-      2027
+      2026
     ]
   },
   {
@@ -49740,9 +50152,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "6524000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Координація діяльності у запобіганні терористичним актам та боротьба з тероризмом на території України",
-    "dateto": null,
+    "dateto": "2026-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2019-01-01",
@@ -49756,8 +50168,7 @@
       2023,
       2024,
       2025,
-      2026,
-      2027
+      2026
     ]
   },
   {
@@ -60807,6 +61218,26 @@
     "inputbase": "Закон",
     "years": [
       2026,
+      2027
+    ]
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "9001070",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "9001000",
+    "actyvPr": 1,
+    "name": "Автодор",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3284,
+    "inputbase": "Закон",
+    "years": [
       2027
     ]
   }
