@@ -16,6 +16,7 @@ LANG_CODES = ("en", "uk", "ru", "ro")
 IGNORE_PATTERNS = (
     "./__pycache__/*",
     "./standards.egg-info/*",
+    "./draft_selection_4888/*",
     "./index.html",
     "./mask_codes_example.json",
     ".DS_Store",
@@ -56,21 +57,21 @@ def get_files(path):
     for f_name in sorted(os.listdir(path)):
         full_name = os.path.join(path, f_name)
         relative_path = os.path.relpath(full_name, ".")
-        
+
         # Normalize paths to use forward slashes for consistent matching
         relative_path = relative_path.replace(os.sep, '/')
         normalized_path = './' + relative_path if not relative_path.startswith('./') else relative_path
-        
+
         # Check both filename and path patterns
         should_ignore = any(
-            (fnmatch.fnmatch(normalized_path, pattern) if pattern.startswith('./') 
+            (fnmatch.fnmatch(normalized_path, pattern) if pattern.startswith('./')
              else fnmatch.fnmatch(f_name, pattern))
             for pattern in IGNORE_PATTERNS
         )
-        
+
         if should_ignore:
             continue
-            
+
         if os.path.isdir(full_name):
             line = get_files(full_name)
             if line:
@@ -82,7 +83,7 @@ def get_files(path):
     items = []
     # Add directories
     items.extend(dirs)
-    
+
     # Then add files
     file_versions = find_versions(files)
     for f_name, versions in sorted(file_versions.items()):
