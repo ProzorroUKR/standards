@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Наявність обладнання, матеріально-технічної бази та технологій",
+    "description": "Наявність у суб’єкта господарювання обладнання, матеріально-технічної бази та технологій. Учасник процедури закупівлі, кандидат може для підтвердження своєї відповідності такому критерію залучити спроможності інших суб'єктів господарювання як субпідрядників/співвиконавців (крім закупівлі у спосіб, визначений пунктом 2 частини першої статті 16 цього Закону)",
+    "source": "tenderer",
+    "classification": {
+      "scheme": "LAW4888",
+      "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.EQUIPMENT"
+    },
+    "relatesTo": "",
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n671"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "20.2.1"
+      },
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n671"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "20.3"
+      }
+    ],
+    "requirementGroups": [
+      {
+        "description": "Підтверджується, що",
+        "requirements": [
+          {
+            "title": "",
+            "dataType": "boolean",
+            "expectedValue": true,
+            "eligibleEvidences": [
+              {
+                "title": "",
+                "type": "document"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Наявність працівників відповідної кваліфікації",
+    "description": "Наявність в учасника процедури закупівлі працівників або інших залучених осіб (людських ресурсів) відповідної кваліфікації, які мають необхідні знання та досвід. Учасник може для підтвердження своєї відповідності такому критерію залучити спроможності інших суб'єктів господарювання як субпідрядників/співвиконавців",
+    "source": "tenderer",
+    "classification": {
+      "scheme": "LAW4888",
+      "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.STAFF_FOR_CARRYING_SCOPE"
+    },
+    "relatesTo": "",
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1250"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "20.2.2"
+      },
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1250"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "20.3"
+      }
+    ],
+    "requirementGroups": [
+      {
+        "description": "Підтверджується, що",
+        "requirements": [
+          {
+            "title": "",
+            "dataType": "boolean",
+            "expectedValue": true,
+            "eligibleEvidences": [
+              {
+                "title": "",
+                "type": "document"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Наявність досвіду виконання аналогічного договору",
+    "description": "Наявність у суб’єкта господарювання документально підтвердженого досвіду виконання аналогічного (аналогічних) за предметом закупівлі договору (договорів)",
+    "source": "tenderer",
+    "classification": {
+      "scheme": "LAW4888",
+      "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.REFERENCES.WORKS_PERFORMANCE"
+    },
+    "relatesTo": "",
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1250"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "20.2.3"
+      }
+    ],
+    "requirementGroups": [
+      {
+        "description": "Підтверджується, що",
+        "requirements": [
+          {
+            "title": "",
+            "dataType": "boolean",
+            "expectedValue": true,
+            "eligibleEvidences": [
+              {
+                "title": "",
+                "type": "document"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Наявність фінансової спроможності",
+    "description": "Наявність фінансової спроможності, яка підтверджується фінансовою звітністю. Не вимагається надання підтвердження обсягу річного доходу (виручки) у розмірі більшому, ніж очікувана вартість предмета закупівлі (пропорційно очікуваній вартості частини предмета закупівлі (лота) в разі поділу предмета закупівель на частини), якщо очікувана вартість предмета закупівлі не перевищує суму, зазначену у частині сьомій статті 3 цього Закону, та у розмірі в два рази більшому ніж очікувана вартість предмета закупівлі (пропорційно у розмірі в два рази більшому ніж очікувана вартість частини предмета закупівлі (лота) в разі поділу предмета закупівлі на частини), якщо очікувана вартість предмета закупівлі перевищує суму, зазначену у частині сьомій статті 3 цього Закону. Для підтвердження фінансової спроможності за рамковою угодою максимальний річний дохід визначається з урахуванням очікуваної вартості договорів, що виконуватимуться одночасно, а якщо ця вартість невідома на момент встановлення вимоги - з урахуванням очікуваної вартості всієї рамкової угоди",
+    "source": "tenderer",
+    "classification": {
+      "scheme": "LAW4888",
+      "id": "CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING"
+    },
+    "relatesTo": "",
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1250"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "20.2.4"
+      },
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1250"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "20.3"
+      }
+    ],
+    "requirementGroups": [
+      {
+        "description": "Підтверджується, що",
+        "requirements": [
+          {
+            "title": "",
+            "dataType": "boolean",
+            "expectedValue": true,
+            "eligibleEvidences": [
+              {
+                "title": "",
+                "type": "document"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
