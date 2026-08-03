@@ -41,7 +41,7 @@
   {
     "title": "Вчинення корупційних правопорушень",
     "description": "Відомості про суб’єкта господарювання внесено до Єдиного державного реєстру осіб, які вчинили корупційні або пов’язані з корупцією правопорушення; Керівника суб’єкта господарювання або суб’єкта господарювання було притягнуто до відповідальності згідно із законом за вчинення корупційного правопорушення або правопорушення, пов’язаного з корупцією",
-    "source": "tenderer",
+    "source": "winner",
     "classification": {
       "scheme": "LAW4888",
       "id": "CRITERION.EXCLUSION.CONVICTIONS.CORRUPTION"
@@ -63,7 +63,7 @@
         "identifier": {
           "id": "4888-IX",
           "legalName": "Закон України \"Про публічні закупівлі\"",
-          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1261"
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n688"
         },
         "type": "NATIONAL_LEGISLATION",
         "article": "21.1.3"
@@ -76,13 +76,7 @@
           {
             "title": "Відомості про суб’єкта господарювання не внесено до Єдиного державного реєстру осіб, які вчинили корупційні або пов’язані з корупцією правопорушення",
             "dataType": "boolean",
-            "expectedValue": true,
-            "eligibleEvidences": [
-              {
-                "title": "",
-                "type": "document"
-              }
-            ]
+            "expectedValue": true
           },
           {
             "title": "Керівника суб’єкта господарювання або суб’єкта господарювання не було притягнуто до відповідальності згідно із законом за вчинення корупційного правопорушення або правопорушення, пов’язаного з корупцією",
@@ -168,7 +162,7 @@
         "identifier": {
           "id": "4888-IX",
           "legalName": "Закон України \"Про публічні закупівлі\"",
-          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1261"
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n690"
         },
         "type": "NATIONAL_LEGISLATION",
         "article": "21.1.5"
@@ -256,7 +250,7 @@
   {
     "title": "Порушення справи про банкрутство",
     "description": "Суб’єкта господарювання у встановленому законом порядку визнано банкрутом та стосовно нього відкрито ліквідаційну процедуру",
-    "source": "winner",
+    "source": "tenderer",
     "classification": {
       "scheme": "LAW4888",
       "id": "CRITERION.EXCLUSION.BUSINESS.BANKRUPTCY"
@@ -268,7 +262,7 @@
         "identifier": {
           "id": "4888-IX",
           "legalName": "Закон України \"Про публічні закупівлі\"",
-          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1261"
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n694"
         },
         "type": "NATIONAL_LEGISLATION",
         "article": "21.1.8"
@@ -281,13 +275,7 @@
           {
             "title": "Суб’єкта господарювання у встановленому законом порядку не визнано банкрутом та стосовно нього не відкрито ліквідаційну процедуру",
             "dataType": "boolean",
-            "expectedValue": true,
-            "eligibleEvidences": [
-              {
-                "title": "",
-                "type": "document"
-              }
-            ]
+            "expectedValue": true
           }
         ]
       }
@@ -308,7 +296,7 @@
         "identifier": {
           "id": "4888-IX",
           "legalName": "Закон України \"Про публічні закупівлі\"",
-          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1261"
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n695"
         },
         "type": "NATIONAL_LEGISLATION",
         "article": "21.1.9"
@@ -362,7 +350,7 @@
         "identifier": {
           "id": "4888-IX",
           "legalName": "Закон України \"Про публічні закупівлі\"",
-          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1261"
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n695"
         },
         "type": "NATIONAL_LEGISLATION",
         "article": "21.1.10"
@@ -406,7 +394,7 @@
         "identifier": {
           "id": "4888-IX",
           "legalName": "Закон України \"Про публічні закупівлі\"",
-          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1261"
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n695"
         },
         "type": "NATIONAL_LEGISLATION",
         "article": "21.1.11"
@@ -449,7 +437,7 @@
         "identifier": {
           "id": "4888-IX",
           "legalName": "Закон України \"Про публічні закупівлі\"",
-          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1261"
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n698"
         },
         "type": "NATIONAL_LEGISLATION",
         "article": "21.1.12"
@@ -505,7 +493,7 @@
         "identifier": {
           "id": "4888-IX",
           "legalName": "Закон України \"Про публічні закупівлі\"",
-          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1261"
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n698"
         },
         "type": "NATIONAL_LEGISLATION",
         "article": "21.1.13"
@@ -581,7 +569,7 @@
         "identifier": {
           "id": "4888-IX",
           "legalName": "Закон України \"Про публічні закупівлі\"",
-          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1261"
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n700"
         },
         "type": "NATIONAL_LEGISLATION",
         "article": "21.1.14"
@@ -615,7 +603,7 @@
         "identifier": {
           "id": "4888-IX",
           "legalName": "Закон України \"Про публічні закупівлі\"",
-          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1261"
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n700"
         },
         "type": "NATIONAL_LEGISLATION",
         "article": "21.1.15"
@@ -626,7 +614,7 @@
         "description": "Підтверджується, що",
         "requirements": [
           {
-            "title": "Відсутній конфлікт інтересів у розумінні частини п’ятої статті 14 цього Закону який би неможливо було врегулювати",
+            "title": "Наявний конфлікт інтересів у розумінні частини п’ятої статті 14 цього Закону який неможливо врегулювати",
             "dataType": "boolean",
             "expectedValue": true
           }
@@ -720,7 +708,7 @@
         "description": "При відсутності залучених спроможностей субпідрядника/співвиконавця або в обсязі не більше ніж 20 відсотків від ціни публічного договору підтверджується, що",
         "requirements": [
           {
-            "title": "Учасник закупівлі, кандидат разом із залученими спроможностями інших суб’єктів господарювання (за наявності), відповідає кваліфікаційним критеріям відповідно до частини третьої статті 20 Закону України від 27.05.2026 № 4888-IX \"Про публічні закупівлі\"",
+            "title": "Учасник, кандидат разом із залученими спроможностями інших суб’єктів господарювання (за наявності), відповідає кваліфікаційним критеріям відповідно до частини третьої статті 20 Закону України від 27.05.2026 № 4888-IX \"Про публічні закупівлі\"",
             "dataType": "boolean",
             "expectedValue": true
           }
