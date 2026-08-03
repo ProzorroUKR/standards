@@ -1,0 +1,422 @@
+{
+  "REJECTION.EXCLUSION.REQUIREMENTS_MISMATCH": {
+    "title_uk": "Абзац 2 пункту 1 частини 1 статті 34",
+    "title_en": "Paragraph 2 of clause 1 of part 1 of article 34",
+    "description_uk": "підпадає під підстави для відмови в участі у закупівлі, визначені частиною першою статті 21 цього Закону",
+    "description_en": "falls under the grounds for refusal to participate in the procurement defined by part one of Article 21 of this Law",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+  },
+  "REJECTION.SELECTION.REQUIREMENTS_MISMATCH": {
+    "title_uk": "Абзац 3 пункту 1 частини 1 статті 34",
+    "title_en": "Paragraph 3 of clause 1 of part 1 of article 34",
+    "description_uk": "не відповідає вимогам, встановленим частиною другою статті 20 цього Закону",
+    "description_en": "does not meet the requirements established by part two of Article 20 of this Law",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+  },
+  "REJECTION.OTHER.FALSE_INFORMATION": {
+    "title_uk": "Абзац 4 пункту 1 частини 1 статті 34",
+    "title_en": "Paragraph 4 of clause 1 of part 1 of article 34",
+    "description_uk": "зазначив у тендерній пропозиції / варіанті та/або в документах, поданих на виконання вимог частини дев’ятої статті 29 цього Закону, недостовірну інформацію, що є суттєвою при визначенні результатів конкурентної процедури закупівлі, яку замовником виявлено згідно з абзацом другим частини п’ятнадцятої статті 32 цього Закону",
+    "description_en": "indicated in the tender proposal / variant and/or in the documents submitted in fulfillment of the requirements of part nine of Article 29 of this Law, false information that is essential in determining the results of the competitive procurement procedure, which was discovered by the procuring entity in accordance with the second paragraph of part fifteen of Article 32 of this Law",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+  },
+  "REJECTION.OTHER.MISSING_BID_GUARANTEE": {
+    "title_uk": "Абзац 5 пункту 1 частини 1 статті 34",
+    "title_en": "Paragraph 5 of clause 1 of part 1 of article 34",
+    "description_uk": "не надав забезпечення тендерної пропозиції / варіанта, якщо таке забезпечення вимагалося замовником",
+    "description_en": "did not provide guarantee of the tender proposal / variant, if such guarantee was required by the procuring entity",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+  },
+  "REJECTION.OTHER.24_HOURS": {
+    "title_uk": "Абзац 6 пункту 1 частини 1 статті 34",
+    "title_en": "Paragraph 6 of clause 1 of part 1 of article 34",
+    "description_uk": "не виправив виявлені замовником після розкриття тендерних пропозицій / варіантів невідповідності в інформації та/або в документах, поданих ним у складі своєї тендерної пропозиції / варіанта, та/або змінив предмет закупівлі під час виправлення виявлених замовником невідповідностей протягом 24 годин з моменту розміщення замовником в електронній системі закупівель повідомлення з вимогою про усунення таких невідповідностей",
+    "description_en": "did not correct the inconsistencies in the information and/or in the documents submitted by him as part of his tender proposal / variant identified by the procuring entity after the opening of tender proposals / variants, and/or changed the subject of procurement during the correction of inconsistencies identified by the procuring entity within 24 hours from the moment the procuring entity posted a notice with a demand to eliminate such inconsistencies in the electronic procurement system",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+  },
+  "REJECTION.OTHER.MISSING_ALP_JUSTIFICATION": {
+    "title_uk": "Абзац 7 пункту 1 частини 1 статті 34",
+    "title_en": "Paragraph 7 of clause 1 of part 1 of article 34",
+    "description_uk": "не надав обґрунтування аномально низької ціни тендерної пропозиції / варіанта протягом строку, визначеного частиною чотирнадцятою статті 32 цього Закону",
+    "description_en": "did not provide justification for the abnormally low price of the tender proposal / variant within the period defined by part fourteen of Article 32 of this Law",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+  },
+  "REJECTION.OTHER.INVALID_CONFIDENTIAL_INFO": {
+    "title_uk": "Абзац 8 пункту 1 частини 1 статті 34",
+    "title_en": "Paragraph 8 of clause 1 of part 1 of article 34",
+    "description_uk": "визначив конфіденційною інформацію, що не може бути визначена як конфіденційна відповідно до частини другої статті 31 цього Закону",
+    "description_en": "determined as confidential information that cannot be determined as confidential in accordance with part two of Article 31 of this Law",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1074"
+  },
+  "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_SUPPLIER": {
+    "title_uk": "Абзац 9 пункту 1 частини 1 статті 34",
+    "title_en": "Paragraph 9 of clause 1 of part 1 of article 34",
+    "description_uk": "є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку у статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи в установленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в тендерній пропозиції товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім товарів походженням з Російської Федерації / Республіки Білорусь, необхідних для ремонту та обслуговування товарів, придбаних до 19 жовтня 2022 року)",
+    "description_en": "is a citizen of the Russian Federation / Republic of Belarus / Islamic Republic of Iran (except for citizens who legally reside in Ukraine); a legal entity established and registered in accordance with the legislation of the Russian Federation / Republic of Belarus / Islamic Republic of Iran; a legal entity established and registered in accordance with the legislation of Ukraine, the ultimate beneficial owner, member or participant (shareholder) having a share in the statutory capital of 10 and more percent (hereinafter - assets) of which is the Russian Federation / Republic of Belarus / Islamic Republic of Iran, a citizen of the Russian Federation / Republic of Belarus / Islamic Republic of Iran (except for citizens who legally reside in Ukraine) or a legal entity established and registered in accordance with the legislation of the Russian Federation / Republic of Belarus / Islamic Republic of Iran, except for cases if the assets in the procedure established by law are transferred to the management of the National Agency of Ukraine for finding, tracing and management of assets derived from corruption and other crimes; or offers in the tender proposal a good (goods) originating from the Russian Federation / Republic of Belarus / Islamic Republic of Iran (except for goods originating from the Russian Federation / Republic of Belarus necessary for the repair and maintenance of goods purchased before October 19, 2022)",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1076"
+  },
+  "REJECTION.OTHER.REQUIREMENTS_VIOLATION": {
+    "title_uk": "Абзац 10 пункту 1 частини 1 статті 34",
+    "title_en": "Paragraph 10 of clause 1 of part 1 of article 34",
+    "description_uk": "подав тендерну пропозицію з порушенням вимог частини другої статті 29 цього Закону",
+    "description_en": "submitted a tender proposal in violation of the requirements of part two of Article 29 of this Law",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1078"
+  },
+  "REJECTION.OTHER.TECHNICAL_SPECIFICATION_MISMATCH": {
+    "title_uk": "Абзац 2 пункту 2 частини 1 статті 34",
+    "title_en": "Paragraph 2 of clause 2 of part 1 of article 34",
+    "description_uk": "не відповідає умовам технічної специфікації та/або іншим вимогам щодо предмета закупівлі тендерної документації, крім невідповідностей в інформації та/або в документах, що можуть бути усунені учасником процедури закупівлі відповідно до частини шістнадцятої статті 32 цього Закону",
+    "description_en": "does not meet the conditions of the technical specification and/or other requirements regarding the subject of procurement of the tender documentation, except for inconsistencies in the information and/or in the documents that can be eliminated by the participant of the procurement procedure in accordance with part sixteen of Article 32 of this Law",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1080"
+  },
+  "REJECTION.OTHER.MINIMUM_REQUIREMENTS_MISMATCH_VARIANT": {
+    "title_uk": "Абзац 3 пункту 2 частини 1 статті 34",
+    "title_en": "Paragraph 3 of clause 2 of part 1 of article 34",
+    "description_uk": "не відповідає мінімальним вимогам, визначеним замовником у тендерній документації до варіанта",
+    "description_en": "does not meet the minimum requirements defined by the procuring entity in the tender documentation for the variant",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1080"
+  },
+  "REJECTION.OTHER.BID_VALIDITY_PERIOD_EXPIRED": {
+    "title_uk": "Абзац 4 пункту 2 частини 1 статті 34",
+    "title_en": "Paragraph 4 of clause 2 of part 1 of article 34",
+    "description_uk": "є такою/таким, строк дії якої/якого закінчився",
+    "description_en": "is such, the validity period of which has expired",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1080"
+  },
+  "REJECTION.OTHER.TENDER_DOCUMENTATION_MISMATCH": {
+    "title_uk": "Абзац 5 пункту 2 частини 1 статті 34",
+    "title_en": "Paragraph 5 of clause 2 of part 1 of article 34",
+    "description_uk": "не відповідає вимогам, встановленим у тендерній документації відповідно до абзацу першого частини третьої статті 24 цього Закону, крім невідповідностей в інформації та/або в документах, що можуть бути усунені учасником процедури закупівлі відповідно до частини шістнадцятої статті 32 цього Закону",
+    "description_en": "does not meet the requirements established in the tender documentation in accordance with the first paragraph of part three of Article 24 of this Law, except for inconsistencies in the information and/or in the documents that can be eliminated by the participant of the procurement procedure in accordance with part sixteen of Article 32 of this Law",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1080"
+  },
+  "REJECTION.OTHER.PRICE_EXCEEDS_EXPECTED_VALUE": {
+    "title_uk": "Абзац 6 пункту 2 частини 1 статті 34",
+    "title_en": "Paragraph 6 of clause 2 of part 1 of article 34",
+    "description_uk": "є такою / таким, ціна якої / якого перевищує очікувану вартість предмета закупівлі, визначену замовником в оголошенні про проведення конкурентної процедури закупівлі, якщо замовник у тендерній документації не зазначив про прийняття до розгляду тендерної пропозиції / варіанта, ціна якої / якого є вищою за очікувану вартість предмета закупівлі, визначену замовником в оголошенні про проведення конкурентної процедури закупівлі, та/або не зазначив прийнятний відсоток перевищення, або відсоток перевищення є більшим, ніж зазначений замовником у тендерній документації",
+    "description_en": "is such, the price of which exceeds the expected value of the procurement subject defined by the procuring entity in the announcement on holding a competitive procurement procedure, if the procuring entity in the tender documentation did not indicate the acceptance for consideration of a tender proposal / variant, the price of which is higher than the expected value of the procurement subject defined by the procuring entity in the announcement on holding a competitive procurement procedure, and/or did not indicate the acceptable percentage of excess, or the percentage of excess is greater than that indicated by the procuring entity in the tender documentation",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1080"
+  },
+  "REJECTION.OTHER.IMPROPER_ALP_JUSTIFICATION": {
+    "title_uk": "Пункт 1 частини 2 статті 34",
+    "title_en": "Clause 1 of part 2 of article 34",
+    "description_uk": "не надав належного обґрунтування аномально низької ціни або вартості відповідних товарів, робіт та/або послуг тендерної пропозиції",
+    "description_en": "did not provide proper justification for the abnormally low price or value of the relevant goods, works and/or services of the tender proposal",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1090"
+  },
+  "REJECTION.EXCLUSION.CONTRACT_EARLY_TERMINATION": {
+    "title_uk": "Пункт 2 частини 2 статті 34",
+    "title_en": "Clause 2 of part 2 of article 34",
+    "description_uk": "не виконав своїх зобов’язань за раніше укладеним публічним договором з тим самим замовником, що призвело до дострокового розірвання такого договору і застосування санкції у вигляді неустойки та/або відшкодування збитків. Зазначене рішення про відмову в участі може бути прийнято протягом трьох років з дня дострокового розірвання такого публічного договору та за наявності у замовника документального підтвердження обставин, передбачених цим абзацом (рішення суду або документ, що підтверджує повну або часткову оплату неустойки або відшкодування збитків)",
+    "description_en": "did not fulfill his obligations under a previously concluded public contract with the same procuring entity, which led to the early termination of such a contract and the application of a sanction in the form of a penalty and/or compensation for damages. The specified decision on refusal to participate may be made within three years from the date of early termination of such a public contract and subject to the availability to the procuring entity of documentary confirmation of the circumstances provided for by this paragraph (a court decision or a document confirming full or partial payment of the penalty or compensation for damages)",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1090"
+  },
+  "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_SELECTION": {
+    "title_uk": "Пункт 1 частини 9 статті 54",
+    "title_en": "Clause 1 of part 9 of article 54",
+    "description_uk": "є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку у статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи у встановленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в тендерній пропозиції товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран",
+    "description_en": "is a citizen of the Russian Federation / Republic of Belarus / Islamic Republic of Iran (except for citizens who legally reside in Ukraine); a legal entity established and registered in accordance with the legislation of the Russian Federation / Republic of Belarus / Islamic Republic of Iran; a legal entity established and registered in accordance with the legislation of Ukraine, the ultimate beneficial owner, member or participant (shareholder) having a share in the statutory capital of 10 and more percent (hereinafter - assets) of which is the Russian Federation / Republic of Belarus / Islamic Republic of Iran, a citizen of the Russian Federation / Republic of Belarus / Islamic Republic of Iran (except for citizens who legally reside in Ukraine) or a legal entity established and registered in accordance with the legislation of the Russian Federation / Republic of Belarus / Islamic Republic of Iran, except for cases if the assets in the procedure established by law are transferred to the management of the National Agency of Ukraine for finding, tracing and management of assets derived from corruption and other crimes; or offers in the tender proposal a good (goods) originating from the Russian Federation / Republic of Belarus / Islamic Republic of Iran",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1684"
+  },
+  "REJECTION.OTHER.MULTIPLE_PROPOSALS_DPS": {
+    "title_uk": "Пункт 2 частини 9 статті 54",
+    "title_en": "Clause 2 of part 9 of article 54",
+    "description_uk": "подав дві або більше тендерних пропозицій в межах одного конкурентного відбору серед кандидатів, включених до динамічної системи закупівель за результатами першого етапу",
+    "description_en": "submitted two or more tender proposals within one competitive selection among candidates included in the dynamic purchasing system based on the results of the first stage",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1686"
+  },
+  "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_PQ": {
+    "title_uk": "Пункт 1 частини 9 статті 55",
+    "title_en": "Clause 1 of part 9 of article 55",
+    "description_uk": "є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи в установленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в пропозиції товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран",
+    "description_en": "is a citizen of the Russian Federation / Republic of Belarus / Islamic Republic of Iran (except for citizens who legally reside in Ukraine); a legal entity established and registered in accordance with the legislation of the Russian Federation / Republic of Belarus / Islamic Republic of Iran; a legal entity established and registered in accordance with the legislation of Ukraine, the ultimate beneficial owner, member or participant (shareholder) having a share in the statutory capital of 10 and more percent (hereinafter - assets) of which is the Russian Federation / Republic of Belarus / Islamic Republic of Iran, a citizen of the Russian Federation / Republic of Belarus / Islamic Republic of Iran (except for citizens who legally reside in Ukraine) or a legal entity established and registered in accordance with the legislation of the Russian Federation / Republic of Belarus / Islamic Republic of Iran, except for cases if the assets in the procedure established by law are transferred to the management of the National Agency of Ukraine for finding, tracing and management of assets derived from corruption and other crimes; or offers in the proposal a good (goods) originating from the Russian Federation / Republic of Belarus / Islamic Republic of Iran",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1739"
+  },
+  "REJECTION.OTHER.MULTIPLE_PROPOSALS_PQ": {
+    "title_uk": "Пункт 2 частини 9 статті 55",
+    "title_en": "Clause 2 of part 9 of article 55",
+    "description_uk": "подав дві або більше пропозицій в межах одного запиту пропозицій учасників",
+    "description_en": "submitted two or more proposals within one request for proposals of participants",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1742"
+  },
+  "REJECTION.EXCLUSION.UNFULFILLED_PRIOR_OBLIGATIONS": {
+    "title_uk": "Абзац 2 пункту 2 частини 9 статті 55",
+    "title_en": "Paragraph 2 of clause 2 of part 9 of article 55",
+    "description_uk": "не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до дострокового розірвання такого договору, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дня дострокового розірвання такого договору, що підтверджується рішенням суду",
+    "description_en": "did not fulfill his obligations under a previously concluded contract with this same procuring entity, which led to the early termination of such a contract, and sanctions were applied in the form of fines and/or compensation for damages within three years from the date of early termination of such a contract, which is confirmed by a court decision",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1742"
+  },
+  "REJECTION.OTHER.LOCALIZATION_DEGREE_MISMATCH": {
+    "title_uk": "Абзац 2 підпункту 8 пункту 5 розділ XIV",
+    "title_en": "Paragraph 2 of subclause 8 of clause 5 of section XIV",
+    "description_uk": "ступінь локалізації виробництва товару, запропонованого учасником, не відповідає ступеню локалізації виробництва, встановленому цим пунктом",
+    "description_en": "the degree of localization of production of the good proposed by the participant does not correspond to the degree of localization of production established by this clause",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
+  },
+  "REJECTION.OTHER.MISSING_LOCALIZATION_INFO": {
+    "title_uk": "Абзац 3 підпункту 8 пункту 5 розділ XIV",
+    "title_en": "Paragraph 3 of subclause 8 of clause 5 of section XIV",
+    "description_uk": "учасник / постачальник не надав інформації та підтвердних документів щодо ступеня локалізації виробництва",
+    "description_en": "the participant / supplier did not provide information and supporting documents regarding the degree of localization of production",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
+  },
+  "REJECTION.OTHER.MISSING_SUPPLY_CHAIN_INFO": {
+    "title_uk": "Абзац 4 підпункту 8 пункту 5 розділ XIV",
+    "title_en": "Paragraph 4 of subclause 8 of clause 5 of section XIV",
+    "description_uk": "учасник / постачальник, який не є виробником товару, не надав інформації щодо всіх суб’єктів господарювання, що будуть залучені у ланцюгу постачання між виробником товару та учасником закупівлі",
+    "description_en": "the participant / supplier, who is not the manufacturer of the good, did not provide information regarding all economic entities that will be involved in the supply chain between the manufacturer of the good and the procurement participant",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
+  },
+  "REJECTION.OTHER.MISSING_LOCALIZED_GOOD_INFO": {
+    "title_uk": "Абзац 5 підпункту 8 пункту 5 розділ XIV",
+    "title_en": "Paragraph 5 of subclause 8 of clause 5 of section XIV",
+    "description_uk": "у тендерній пропозиції / пропозиції / пропозиції учасника відсутня інформація про товар, включений до переліку локалізованих товарів",
+    "description_en": "in the tender proposal / proposal / proposal of the participant there is no information about the good included in the list of localized goods",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
+  },
+  "REJECTION.OTHER.INVALID_MANUFACTURER_DOCS": {
+    "title_uk": "Абзац 6 підпункту 8 пункту 5 розділ XIV",
+    "title_en": "Paragraph 6 of subclause 8 of clause 5 of section XIV",
+    "description_uk": "товар, що є предметом закупівлі, включено до переліку локалізованих товарів на підставі заяви суб’єкта господарювання, іншого, ніж суб’єкт господарювання, який відповідно до тендерної пропозиції є виробником такого товару",
+    "description_en": "the good that is the subject of procurement is included in the list of localized goods on the basis of a statement by an economic entity other than the economic entity which in accordance with the tender proposal is the manufacturer of such a good",
+    "scheme": "LAW4888",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
+  },
+  "REJECTION.OTHER.REFUSAL_TO_SIGN_CONTRACT_WINNER": {
+    "title_uk": "Абзац 2 пункту 3 частини 1 статті 34",
+    "title_en": "Paragraph 2 of clause 3 of part 1 of article 34",
+    "description_uk": "повідомив замовника через електронну систему закупівель про відмову від підписання публічного договору шляхом спрямування електронного документа в довільній формі з інформацією про таку відмову або не підписав публічний договір відповідно до вимог тендерної документації у строк, визначений частиною шостою статті 36 цього Закону",
+    "description_en": "notified the procuring entity through the electronic procurement system about the refusal to sign the public contract by sending an electronic document in an arbitrary form with information about such refusal or did not sign the public contract in accordance with the requirements of the tender documentation within the period defined by part six of Article 36 of this Law",
+    "scheme": "LAW4888",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1085"
+  },
+  "REJECTION.EXCLUSION.MISSING_ABSENCE_OF_GROUNDS_DOCS": {
+    "title_uk": "Абзац 3 пункту 3 частини 1 статті 34",
+    "title_en": "Paragraph 3 of clause 3 of part 1 of article 34",
+    "description_uk": "не надав документи, що підтверджують відсутність підстав, визначених пунктами 3, 5, 6, 12 і 13 частини першої та частиною другою статті 21 цього Закону",
+    "description_en": "did not provide documents confirming the absence of grounds defined by clauses 3, 5, 6, 12 and 13 of part one and part two of Article 21 of this Law",
+    "scheme": "LAW4888",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1085"
+  },
+  "REJECTION.OTHER.MISSING_CONTRACT_GUARANTEE": {
+    "title_uk": "Абзац 4 пункту 3 частини 1 статті 34",
+    "title_en": "Paragraph 4 of clause 3 of part 1 of article 34",
+    "description_uk": "не надав забезпечення виконання публічного договору, якщо таке забезпечення вимагалося замовником",
+    "description_en": "did not provide guarantee for the execution of the public contract, if such guarantee was required by the procuring entity",
+    "scheme": "LAW4888",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1085"
+  },
+  "REJECTION.OTHER.FALSE_INFORMATION_ESSENTIAL": {
+    "title_uk": "Абзац 5 пункту 3 частини 1 статті 34",
+    "title_en": "Paragraph 5 of clause 3 of part 1 of article 34",
+    "description_uk": "надав недостовірну інформацію, що є суттєвою при визначенні результатів процедури закупівлі, яку замовником виявлено згідно з абзацом другим частини п’ятнадцятої статті 32 цього Закону",
+    "description_en": "provided false information that is essential in determining the results of the procurement procedure, which was discovered by the procuring entity in accordance with the second paragraph of part fifteen of Article 32 of this Law",
+    "scheme": "LAW4888",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1085"
+  },
+  "REJECTION.OTHER.FAILURE_TO_SIGN_CONTRACT_DPS": {
+    "title_uk": "Пункт 1 частини 9 статті 54",
+    "title_en": "Clause 1 of part 9 of article 54",
+    "description_uk": "переможець не підписав договір на умовах, визначених замовником в оголошенні про проведення конкурентного відбору серед кандидатів, включених до динамічної системи закупівель за результатами першого етапу, та у строк, визначений частинами дванадцятою і тринадцятою статті 52 цього Закону",
+    "description_en": "the winner did not sign the contract on the terms defined by the procuring entity in the announcement on holding a competitive selection among candidates included in the dynamic purchasing system based on the results of the first stage, and within the period defined by parts twelve and thirteen of Article 52 of this Law",
+    "scheme": "LAW4888",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+  },
+  "REJECTION.OTHER.CONTRACT_GUARANTEE_MISSING": {
+    "title_uk": "Пункт 2 частини 9 статті 54",
+    "title_en": "Clause 2 of part 9 of article 54",
+    "description_uk": "переможець не надав забезпечення виконання договору у строк, визначений частиною дев’ятою статті 52 цього Закону",
+    "description_en": "the winner did not provide guarantee for the execution of the contract within the period defined by part nine of Article 52 of this Law",
+    "scheme": "LAW4888",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+  },
+  "REJECTION.OTHER.WRITTEN_REFUSAL_TO_SIGN_SELECTION": {
+    "title_uk": "Пункт 3 частини 9 статті 54",
+    "title_en": "Clause 3 of part 9 of article 54",
+    "description_uk": "переможець повідомив замовника через електронну систему закупівель про відмову від підписання публічного договору шляхом направлення електронного документа в довільній формі з інформацією про таку відмову",
+    "description_en": "the winner notified the procuring entity through the electronic procurement system about the refusal to sign the public contract by sending an electronic document in an arbitrary form with information about such refusal",
+    "scheme": "LAW4888",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+  },
+  "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_SELECTION": {
+    "title_uk": "Пункт 4 частини 9 статті 54",
+    "title_en": "Clause 4 of part 9 of article 54",
+    "description_uk": "щодо переможця наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
+    "description_en": "regarding the winner there are grounds for refusal to participate in the procurement defined by Article 21 of this Law",
+    "scheme": "LAW4888",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+  },
+  "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_SELECTION_WINNER": {
+    "title_uk": "Пункт 5 частини 9 статті 54",
+    "title_en": "Clause 5 of part 9 of article 54",
+    "description_uk": "переможець є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи у встановленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в тендерній пропозиції товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран",
+    "description_en": "the winner is a citizen of the Russian Federation / Republic of Belarus / Islamic Republic of Iran (except for citizens who legally reside in Ukraine); a legal entity established and registered in accordance with the legislation of the Russian Federation / Republic of Belarus / Islamic Republic of Iran; a legal entity established and registered in accordance with the legislation of Ukraine, the ultimate beneficial owner, member or participant (shareholder) having a share in the statutory capital of 10 and more percent (hereinafter - assets) of which is the Russian Federation / Republic of Belarus / Islamic Republic of Iran, a citizen of the Russian Federation / Republic of Belarus / Islamic Republic of Iran (except for citizens who legally reside in Ukraine) or a legal entity established and registered in accordance with the legislation of the Russian Federation / Republic of Belarus / Islamic Republic of Iran, except for cases if the assets in the procedure established by law are transferred to the management of the National Agency of Ukraine for finding, tracing and management of assets derived from corruption and other crimes; or offers in the tender proposal a good (goods) originating from the Russian Federation / Republic of Belarus / Islamic Republic of Iran",
+    "scheme": "LAW4888",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+  },
+  "REJECTION.OTHER.QUALIFICATION_SELECTION_MISMATCH_DPS": {
+    "title_uk": "Пункт 6 частини 9 статті 54",
+    "title_en": "Clause 6 of part 9 of article 54",
+    "description_uk": "щодо переможця встановлено факт невідповідності вимогам, визначеним в оголошенні про проведення кваліфікаційного відбору кандидатів, або наявні підстави для відмови в участі у закупівлі відповідно до цього Закону",
+    "description_en": "regarding the winner, the fact of non-compliance with the requirements defined in the announcement on holding the qualification selection of candidates has been established, or there are grounds for refusal to participate in the procurement in accordance with this Law",
+    "scheme": "LAW4888",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+  },
+  "REJECTION.OTHER.FAILURE_TO_SIGN_CONTRACT": {
+    "title_uk": "Пункт 1 частини 10 статті 55",
+    "title_en": "Clause 1 of part 10 of article 55",
+    "description_uk": "переможець не підписав договір на умовах, визначених замовником у запиті пропозицій учасників серед кандидатів, включених до динамічної системи закупівель за результатами першого етапу, та у строк, визначений частинами дванадцятою і тринадцятою статті 52 цього Закону",
+    "description_en": "the winner did not sign the contract on the terms defined by the procuring entity in the request for proposals of participants among candidates included in the dynamic purchasing system based on the results of the first stage, and within the period defined by parts twelve and thirteen of Article 52 of this Law",
+    "scheme": "LAW4888",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1753"
+  },
+  "REJECTION.OTHER.CONTRACT_GUARANTEE_MISMATCH": {
+    "title_uk": "Пункт 2 частини 10 статті 55",
+    "title_en": "Clause 2 of part 10 of article 55",
+    "description_uk": "переможець не надав забезпечення виконання договору у строк, визначений частиною дев’ятою статті 52 цього Закону",
+    "description_en": "the winner did not provide guarantee for the execution of the contract within the period defined by part nine of Article 52 of this Law",
+    "scheme": "LAW4888",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1753"
+  },
+  "REJECTION.OTHER.WRITTEN_REFUSAL_TO_SIGN": {
+    "title_uk": "Пункт 3 частини 10 статті 55",
+    "title_en": "Clause 3 of part 10 of article 55",
+    "description_uk": "переможець повідомив замовника через електронну систему закупівель про відмову від підписання публічного договору шляхом направлення електронного документа в довільній формі з інформацією про таку відмову",
+    "description_en": "the winner notified the procuring entity through the electronic procurement system about the refusal to sign the public contract by sending an electronic document in an arbitrary form with information about such refusal",
+    "scheme": "LAW4888",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1753"
+  },
+  "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL": {
+    "title_uk": "Пункт 4 частини 10 статті 55",
+    "title_en": "Clause 4 of part 10 of article 55",
+    "description_uk": "щодо переможця наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
+    "description_en": "regarding the winner there are grounds for refusal to participate in the procurement defined by Article 21 of this Law",
+    "scheme": "LAW4888",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1753"
+  },
+  "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_PQ_WINNER": {
+    "title_uk": "Пункт 5 частини 10 статті 55",
+    "title_en": "Clause 5 of part 10 of article 55",
+    "description_uk": "переможець є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку у статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи у встановленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в пропозиції товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран",
+    "description_en": "the winner is a citizen of the Russian Federation / Republic of Belarus / Islamic Republic of Iran (except for citizens who legally reside in Ukraine); a legal entity established and registered in accordance with the legislation of the Russian Federation / Republic of Belarus / Islamic Republic of Iran; a legal entity established and registered in accordance with the legislation of Ukraine, the ultimate beneficial owner, member or participant (shareholder) having a share in the statutory capital of 10 and more percent (hereinafter - assets) of which is the Russian Federation / Republic of Belarus / Islamic Republic of Iran, a citizen of the Russian Federation / Republic of Belarus / Islamic Republic of Iran (except for citizens who legally reside in Ukraine) or a legal entity established and registered in accordance with the legislation of the Russian Federation / Republic of Belarus / Islamic Republic of Iran, except for cases if the assets in the procedure established by law are transferred to the management of the National Agency of Ukraine for finding, tracing and management of assets derived from corruption and other crimes; or offers in the proposal a good (goods) originating from the Russian Federation / Republic of Belarus / Islamic Republic of Iran",
+    "scheme": "LAW4888",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1758"
+  },
+  "REJECTION.OTHER.QUALIFICATION_SELECTION_MISMATCH": {
+    "title_uk": "Пункт 6 частини 10 статті 55",
+    "title_en": "Clause 6 of part 10 of article 55",
+    "description_uk": "щодо переможця встановлено факт невідповідності вимогам, визначеним в оголошенні про проведення кваліфікаційного відбору кандидатів, або наявні підстави для відмови в участі у закупівлі відповідно до цього Закону",
+    "description_en": "regarding the winner, the fact of non-compliance with the requirements defined in the announcement on holding the qualification selection of candidates has been established, or there are grounds for refusal to participate in the procurement in accordance with this Law",
+    "scheme": "LAW4888",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1760"
+  }
+}
