@@ -16,7 +16,7 @@ LANG_CODES = ("en", "uk", "ru", "ro")
 IGNORE_PATTERNS = (
     "./__pycache__/*",
     "./standards.egg-info/*",
-    "./draft_selection_4888/*",
+    "./draft_4888/*",
     "./index.html",
     "./mask_codes_example.json",
     ".DS_Store",
