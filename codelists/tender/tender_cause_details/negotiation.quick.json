@@ -24,7 +24,7 @@
     "description_en": "If the customer has an urgent need to make a purchase",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "additionalPurchase": {
     "title_uk": "Пункт 4 частини 2 статті 40",
@@ -33,7 +33,7 @@
     "description_en": "If, after concluding a procurement contract, the customer needs to purchase additional goods from the same supplier, because changing suppliers would require purchasing goods with different technical characteristics, which would lead to incompatibility issues related to operation and maintenance. The purchase of additional goods from the same supplier shall be carried out within three years after the conclusion of the procurement contract, if the total cost of such supply does not exceed 50 percent of the price of the procurement contract",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "additionalConstruction": {
     "title_uk": "Пункт 5 частини 2 статті 40",
@@ -42,7 +42,7 @@
     "description_en": "If, after concluding a procurement contract, the customer needs to purchase additional similar works or services from the same participant. The possibility and conditions for such additional works or services may be provided for in the main procurement contract concluded following the results of the tender. The procurement of additional similar works or services from the same participant shall be carried out within three years after the conclusion of the procurement contract, if the total cost of such works or services does not exceed 50 percent of the price of the main procurement contract concluded based on the results of the tender",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "resolvingInsolvency": {
     "title_uk": "Пункт 6 частини 2 статті 40",
@@ -60,7 +60,7 @@
     "description_en": "Procurement of legal services related to the protection of Ukraine's rights and interests, including for the purpose of protecting national security and defense, during the settlement of disputes over cases involving foreign entities and Ukraine in foreign courts, based on a decision of the Cabinet of Ministers of Ukraine or decisions of the National Security and Defense Council of Ukraine, enacted in accordance with the procedure established by law, as well as the procurement of goods, works, and services in the event of the customer's participation, based on a decision of the Cabinet of Ministers of Ukraine, in international exhibition events",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "artContestIP": {
     "title_uk": "Пункт 1 частини 2 статті 35",
@@ -78,7 +78,7 @@
     "description_en": "The subject of the procurement is the creation or acquisition of a work of art or artistic performance",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "contestWinner": {
     "title_uk": "Абзац 3 пункту 2 частини 2 статті 40",
@@ -87,7 +87,7 @@
     "description_en": "Conclusion of a procurement contract with the winner of an architectural or art competition",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "technicalReasons": {
     "title_uk": "Абзац 4 пункту 2 частини 2 статті 40",
@@ -96,7 +96,7 @@
     "description_en": "Absence of competition for technical reasons, which must be documented by the customer",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "intProperty": {
     "title_uk": "Абзац 5 пункту 2 частини 2 статті 40",
@@ -105,7 +105,7 @@
     "description_en": "There is a need to protect intellectual property rights",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "lastHope": {
     "title_uk": "Абзац 6 пункту 2 частини 2 статті 40",
@@ -114,7 +114,7 @@
     "description_en": "Conclusion of a purchase agreement with a supplier of \"last resort\" for the supply of electricity or natural gas",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "emergency": {
     "title_uk": "Абзац 2 пункту 3 частини 2 статті 40",
@@ -151,5 +151,14 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
     "archive": true
+  },
+  "urgentNeed": {
+    "title_uk": "Підпункт 3 пункту 13",
+    "title_en": "Subparagraph 3 of paragraph 13",
+    "description_uk": "Нагальна потреба, зумовлена непередбачуваними обставинами (ліквідація наслідків НС або агресії рф, гуманітарна допомога, розірвання договору з вини учасника (до 20%), оскарження відкритих торгів (до 20%))",
+    "description_en": "Urgent need due to unpredictable circumstances (liquidation of emergency or RF aggression consequences, humanitarian aid, contract termination due to participant's fault (up to 20%), appeal of open tenders (up to 20%))",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
+    "archive": false
   }
 }
