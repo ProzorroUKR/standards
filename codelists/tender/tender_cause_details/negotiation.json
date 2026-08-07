@@ -107,7 +107,7 @@
     "scheme": "LAW922",
     "archive": true
   },
-  "twiceUnsuccessful": {
+  "unsuccessfulTender": {
     "title_uk": "Підпункт 1 пункту 13",
     "title_en": "Subparagraph 1 of paragraph 13",
     "description_uk": "Відміна відкритих торгів через неподання жодної тендерної пропозиції. Предмет закупівлі, характеристики та вимоги не повинні відрізнятися від визначених у тендерній документації відмінених торгів",
@@ -116,7 +116,7 @@
     "scheme": "DECREE1178",
     "archive": false
   },
-  "noCompetition": {
+  "technicalExclusivity": {
     "title_uk": "Підпункт 2 пункту 13",
     "title_en": "Subparagraph 2 of paragraph 13",
     "description_uk": "Роботи, товари чи послуги можуть бути виконані, поставлені чи надані виключно певним суб’єктом господарювання (мистецтво, архітектурні конкурси, технічні причини, ІВ, постачальник останньої надії)",
@@ -125,7 +125,7 @@
     "scheme": "DECREE1178",
     "archive": false
   },
-  "additionalPurchase": {
+  "standardizationNeed": {
     "title_uk": "Підпункт 4 пункту 13",
     "title_en": "Subparagraph 4 of paragraph 13",
     "description_uk": "Додатковий обсяг товару у того самого постачальника для забезпечення сумісності або через зміни до галузевих стандартів у сфері охорони здоров’я (протягом 3 років, до 50% вартості)",
@@ -134,7 +134,7 @@
     "scheme": "DECREE1178",
     "archive": false
   },
-  "additionalConstruction": {
+  "additionalWorks": {
     "title_uk": "Підпункт 5 пункту 13",
     "title_en": "Subparagraph 5 of paragraph 13",
     "description_uk": "Додаткові роботи чи послуги у того самого виконавця, пов’язані з предметом основного договору (протягом 3 років, до 50% вартості основного договору, укладеного за результатами відкритих торгів)",
