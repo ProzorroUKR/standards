@@ -24,7 +24,7 @@
     "description_en": "If, after concluding a procurement contract, the customer needs to purchase additional goods from the same supplier, because changing suppliers would require purchasing goods with different technical characteristics, which would lead to incompatibility issues related to operation and maintenance. The purchase of additional goods from the same supplier shall be carried out within three years after the conclusion of the procurement contract, if the total cost of such supply does not exceed 50 percent of the price of the procurement contract",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "additionalConstruction": {
     "title_uk": "Пункт 5 частини 2 статті 40",
@@ -33,7 +33,7 @@
     "description_en": "If, after concluding a procurement contract, the customer needs to purchase additional similar works or services from the same participant. The possibility and conditions for such additional works or services may be provided for in the main procurement contract concluded following the results of the tender. The procurement of additional similar works or services from the same participant shall be carried out within three years after the conclusion of the procurement contract, if the total cost of such works or services does not exceed 50 percent of the price of the main procurement contract concluded based on the results of the tender",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "resolvingInsolvency": {
     "title_uk": "Пункт 6 частини 2 статті 40",
@@ -51,7 +51,7 @@
     "description_en": "Procurement of legal services related to the protection of Ukraine's rights and interests, including for the purpose of protecting national security and defense, during the settlement of disputes over cases involving foreign entities and Ukraine in foreign courts, based on a decision of the Cabinet of Ministers of Ukraine or decisions of the National Security and Defense Council of Ukraine, enacted in accordance with the procedure established by law, as well as the procurement of goods, works, and services in the event of the customer's participation, based on a decision of the Cabinet of Ministers of Ukraine, in international exhibition events",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "artContestIP": {
     "title_uk": "Пункт 1 частини 2 статті 35",
@@ -69,7 +69,7 @@
     "description_en": "The subject of the procurement is the creation or acquisition of a work of art or artistic performance",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "contestWinner": {
     "title_uk": "Абзац 3 пункту 2 частини 2 статті 40",
@@ -78,7 +78,7 @@
     "description_en": "Conclusion of a procurement contract with the winner of an architectural or art competition",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "technicalReasons": {
     "title_uk": "Абзац 4 пункту 2 частини 2 статті 40",
@@ -87,7 +87,7 @@
     "description_en": "Absence of competition for technical reasons, which must be documented by the customer",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "intProperty": {
     "title_uk": "Абзац 5 пункту 2 частини 2 статті 40",
@@ -96,7 +96,7 @@
     "description_en": "There is a need to protect intellectual property rights",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "lastHope": {
     "title_uk": "Абзац 6 пункту 2 частини 2 статті 40",
@@ -105,6 +105,87 @@
     "description_en": "Conclusion of a purchase agreement with a supplier of \"last resort\" for the supply of electricity or natural gas",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
+    "archive": true
+  },
+  "unsuccessfulTender": {
+    "title_uk": "Підпункт 1 пункту 13",
+    "title_en": "Subparagraph 1 of paragraph 13",
+    "description_uk": "Відміна відкритих торгів через неподання жодної тендерної пропозиції. Предмет закупівлі, характеристики та вимоги не повинні відрізнятися від визначених у тендерній документації відмінених торгів",
+    "description_en": "Cancellation of open tenders due to no bids submitted. The subject of procurement, characteristics and requirements must not differ from those defined in the tender documentation of the cancelled tenders",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "technicalExclusivity": {
+    "title_uk": "Підпункт 2 пункту 13",
+    "title_en": "Subparagraph 2 of paragraph 13",
+    "description_uk": "Роботи, товари чи послуги можуть бути виконані, поставлені чи надані виключно певним суб’єктом господарювання (мистецтво, архітектурні конкурси, технічні причини, ІВ, постачальник останньої надії)",
+    "description_en": "Works, goods or services can be performed, supplied or provided exclusively by a specific economic operator (art, architectural contests, technical reasons, IP, supplier of last resort)",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "standardizationNeed": {
+    "title_uk": "Підпункт 4 пункту 13",
+    "title_en": "Subparagraph 4 of paragraph 13",
+    "description_uk": "Додатковий обсяг товару у того самого постачальника для забезпечення сумісності або через зміни до галузевих стандартів у сфері охорони здоров’я (протягом 3 років, до 50% вартості)",
+    "description_en": "Additional volume of goods from the same supplier to ensure compatibility or due to changes in industry standards in the field of healthcare (within 3 years, up to 50% of the cost)",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "additionalWorks": {
+    "title_uk": "Підпункт 5 пункту 13",
+    "title_en": "Subparagraph 5 of paragraph 13",
+    "description_uk": "Додаткові роботи чи послуги у того самого виконавця, пов’язані з предметом основного договору (протягом 3 років, до 50% вартості основного договору, укладеного за результатами відкритих торгів)",
+    "description_en": "Additional works or services from the same contractor related to the subject of the main contract (within 3 years, up to 50% of the price of the main contract concluded based on open tender results)",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "insolvency": {
+    "title_uk": "Підпункт 6 пункту 13",
+    "title_en": "Subparagraph 6 of paragraph 13",
+    "description_uk": "Закупівля товарів за процедурою відновлення платоспроможності боржника згідно із законодавством",
+    "description_en": "Procurement of goods under the procedure for restoring the debtor's solvency in accordance with the legislation",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "legalServices": {
+    "title_uk": "Підпункт 7 пункту 13",
+    "title_en": "Subparagraph 7 of paragraph 13",
+    "description_uk": "Юридичні послуги для захисту прав та інтересів України у закордонних юрисдикційних органах або участь у міжнародних виставкових заходах на підставі рішення КМУ",
+    "description_en": "Legal services to protect the rights and interests of Ukraine in foreign jurisdictional bodies or participation in international exhibition events based on the decision of the CMU",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "defenseNeeds": {
+    "title_uk": "Підпункт 8 пункту 13",
+    "title_en": "Subparagraph 8 of paragraph 13",
+    "description_uk": "Закупівля для нагальних потреб ЗСУ, військових формувань, ДСНС тощо (фортифікації, мобілізаційні завдання, територіальна оборона, договори з обмеженим доступом)",
+    "description_en": "Procurement for urgent needs of the Armed Forces, military formations, State Emergency Service, etc. (fortifications, mobilization tasks, territorial defense, restricted access contracts)",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "criticalInfrastructure": {
+    "title_uk": "Підпункт 9 пункту 13",
+    "title_en": "Subparagraph 9 of paragraph 13",
+    "description_uk": "Товари, роботи і послуги для захисту, відновлення, реконструкції або будівництва об’єктів критичної інфраструктури, зруйнованих або пошкоджених внаслідок агресії рф",
+    "description_en": "Goods, works and services for the protection, restoration, reconstruction or construction of critical infrastructure facilities destroyed or damaged as a result of RF aggression",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "activeWarZone": {
+    "title_uk": "Підпункт 10 пункту 13",
+    "title_en": "Subparagraph 10 of paragraph 13",
+    "description_uk": "Замовник або його відокремлений підрозділ перебуває на території активних бойових дій, які не були завершені на дату укладення договору про закупівлю",
+    "description_en": "The customer or its separate subdivision is located in the territory of active hostilities that were not completed on the date of the procurement contract conclusion",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
     "archive": false
   }
 }
