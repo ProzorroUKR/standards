@@ -152,11 +152,38 @@
     "scheme": "LAW922",
     "archive": true
   },
-  "urgentNeed": {
-    "title_uk": "Підпункт 3 пункту 13",
-    "title_en": "Subparagraph 3 of paragraph 13",
-    "description_uk": "Нагальна потреба, зумовлена непередбачуваними обставинами (ліквідація наслідків НС або агресії рф, гуманітарна допомога, розірвання договору з вини учасника (до 20%), оскарження відкритих торгів (до 20%))",
-    "description_en": "Urgent need due to unpredictable circumstances (liquidation of emergency or RF aggression consequences, humanitarian aid, contract termination due to participant's fault (up to 20%), appeal of open tenders (up to 20%))",
+  "unforeseeableUrgentNeed": {
+    "title_uk": "Абзац 2 підпункту 3 пункту 13",
+    "title_en": "Paragraph 2, subparagraph 3, clause 13",
+    "description_uk": "Нагальна потреба (існує об’єктивна, документально підтверджена необхідність у здійсненні закупівлі, зумовлена непередбачуваними для замовника обставинами, що не залежать від його рішень, дій чи бездіяльності, які унеможливлюють дотримання строків для проведення відкритих торгів або застосування електронного каталогу в разі закупівлі товару) здійснити закупівлю, зокрема, але не виключно в разі: виникнення обставин, пов’язаних із негайною ліквідацією наслідків надзвичайних ситуацій або збройної агресії Російської Федерації проти України",
+    "description_en": "An urgent need (there is an objective, documented need to make a purchase, caused by circumstances unforeseeable to the customer and beyond its control - regardless of its decisions, actions, or inaction - that make it impossible to meet the deadlines for conducting open tenders or using an electronic catalog when purchasing goods) to make a purchase, in particular, but not limited to the following: the occurrence of circumstances related to the immediate mitigation of the consequences of emergencies or armed aggression by the Russian Federation against Ukraine",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "humanitarianAidProvision": {
+    "title_uk": "Абзац 3 підпункту 3 пункту 13",
+    "title_en": "Paragraph 3, subparagraph 3, clause 13",
+    "description_uk": "Нагальна потреба (існує об’єктивна, документально підтверджена необхідність у здійсненні закупівлі, зумовлена непередбачуваними для замовника обставинами, що не залежать від його рішень, дій чи бездіяльності, які унеможливлюють дотримання строків для проведення відкритих торгів або застосування електронного каталогу в разі закупівлі товару) здійснити закупівлю, зокрема, але не виключно в разі: надання в установленому порядку Україною гуманітарної допомоги іншим державам",
+    "description_en": "An urgent need (there is an objective, documented need to make a purchase, caused by circumstances unforeseeable to the customer and beyond its control - regardless of its decisions, actions, or inaction - that make it impossible to meet the deadlines for conducting open tenders or using an electronic catalog when purchasing goods) to make a purchase, in particular, but not limited to the following cases: the provision by Ukraine, in accordance with established procedures, of humanitarian aid to other states",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "participantContractTermination": {
+    "title_uk": "Абзац 4 підпункту 3 пункту 13",
+    "title_en": "Paragraph 4, subparagraph 3, clause 13",
+    "description_uk": "Нагальна потреба (існує об’єктивна, документально підтверджена необхідність у здійсненні закупівлі, зумовлена непередбачуваними для замовника обставинами, що не залежать від його рішень, дій чи бездіяльності, які унеможливлюють дотримання строків для проведення відкритих торгів або застосування електронного каталогу в разі закупівлі товару) здійснити закупівлю, зокрема, але не виключно в разі: розірвання договору про закупівлю з вини учасника процедури закупівлі на строк, достатній для проведення відкритих торгів, в обсязі, що не перевищує 20 відсотків суми, визначеної в договорі про закупівлю, без урахування податку на додану вартість, який розірваний з вини такого учасника",
+    "description_en": "An urgent need (there is an objective, documented need to make a purchase, caused by circumstances unforeseeable to the customer and beyond its control - regardless of its decisions, actions, or inaction - that make it impossible to meet the deadlines for conducting open tenders or using an electronic catalog when purchasing goods) to make a purchase, in particular, but not limited to the following cases: termination of a procurement contract due to the fault of a participant in the procurement procedure for a period sufficient to conduct an open tender, in an amount not exceeding 20 percent of the sum specified in the procurement contract, excluding value-added tax, which was terminated due to the fault of such participant",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "tenderDecisionAppeal": {
+    "title_uk": "Абзац 5 підпункту 3 пункту 13",
+    "title_en": "Paragraph 5, subparagraph 3, clause 13",
+    "description_uk": "Нагальна потреба (існує об’єктивна, документально підтверджена необхідність у здійсненні закупівлі, зумовлена непередбачуваними для замовника обставинами, що не залежать від його рішень, дій чи бездіяльності, які унеможливлюють дотримання строків для проведення відкритих торгів або застосування електронного каталогу в разі закупівлі товару) здійснити закупівлю, зокрема, але не виключно в разі: оскарження прийнятих рішень, дій чи бездіяльності замовника щодо відкритих торгів, що тривають після розгляду/оцінки тендерних пропозицій учасників, в обсязі, що не перевищує 20 відсотків очікуваної вартості відкритих торгів, без урахування податку на додану вартість, що оскаржуються",
+    "description_en": "An urgent need (there is an objective, documented need to make a purchase, caused by circumstances unforeseeable to the customer and beyond its control - regardless of its decisions, actions, or inaction - that make it impossible to meet the deadlines for conducting open tenders or using an electronic catalog when purchasing goods) to make a purchase, in particular, but not limited to the following cases: appeals against the contracting authority’s decisions, actions, or inaction regarding open tenders that are ongoing after the review/evaluation of participants’ bids, in an amount not exceeding 20 percent of the expected value of the open tender, excluding value-added tax, which is being appealed",
     "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
     "scheme": "DECREE1178",
     "archive": false
