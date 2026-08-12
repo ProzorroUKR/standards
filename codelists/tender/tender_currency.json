@@ -79,5 +79,15 @@
     "name_uk": "Польський злотий",
     "sign": "zł",
     "archive": false
+  },
+  "MXN": {
+    "num": "484",
+    "code": "MXN",
+    "currency": "Peso mexicano",
+    "title": "Peso mexicano",
+    "name_en": "Peso mexicano",
+    "name_uk": "Мексиканське песо",
+    "sign": "Mex$",
+    "archive": false
   }
 }
