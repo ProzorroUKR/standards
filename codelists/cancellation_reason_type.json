@@ -26,5 +26,9 @@
   "dateViolation": {
     "title_uk": "непідписання договору про закупівлю у строк 35 днів (20 днів - у разі застосування скороченної переговорної процедури закупівлі, 10 днів - у разі застосування процедури запиту цінових пропозицій)",
     "title_en": "agreement has not been signed in 35 days (20 days if negotiation quick procedure is used, 10 days if price quotation is used)"
+  },
+  "noLocalization": {
+    "title_uk": "органом державного фінансового контролю встановлено, що в тендерній документації / оголошенні про закупівлю / запиті пропозицій учасників не визначено вимоги щодо відповідності предмета закупівлі встановленому ступеню локалізації виробництва для товарів, щодо яких застосовуються вимоги щодо ступеня локалізації виробництва",
+    "title_en": "the state financial control body established that the tender documentation / procurement notice / request for proposals of participants does not define requirements for compliance of the procurement item with the established degree of localization of production for goods to which localization requirements apply"
   }
 }
