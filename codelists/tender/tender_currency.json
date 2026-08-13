@@ -15,7 +15,7 @@
     "code": "USD",
     "currency": "United States dollar",
     "title": "US Dollar",
-    "name_en": "Dollar",
+    "name_en": "US Dollar",
     "name_uk": "Долар",
     "sign": "$",
     "archive": false
@@ -34,8 +34,8 @@
     "num": "826",
     "code": "GBP",
     "currency": "Pound sterling",
-    "title": "Pound sterling",
-    "name_en": "Pound sterling",
+    "title": "Pound Sterling",
+    "name_en": "Pound Sterling",
     "name_uk": "Фунт стерлінгів",
     "sign": "£",
     "archive": false
@@ -74,8 +74,8 @@
     "num": "985",
     "code": "PLN",
     "currency": "Polish zloty",
-    "title": "Polish zloty",
-    "name_en": "Polish zloty",
+    "title": "Polish Zloty",
+    "name_en": "Polish Zloty",
     "name_uk": "Польський злотий",
     "sign": "zł",
     "archive": false
@@ -83,9 +83,9 @@
   "MXN": {
     "num": "484",
     "code": "MXN",
-    "currency": "Peso mexicano",
-    "title": "Peso mexicano",
-    "name_en": "Peso mexicano",
+    "currency": "Mexican Peso",
+    "title": "Mexican Peso",
+    "name_en": "Mexican Peso",
     "name_uk": "Мексиканське песо",
     "sign": "Mex$",
     "archive": false
