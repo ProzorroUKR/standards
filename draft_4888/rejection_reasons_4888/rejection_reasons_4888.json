@@ -193,7 +193,7 @@
     "title_uk": "Абзац 6 частини 9 Статті 55",
     "title_en": "Paragraph 6 of part 9 of article 55",
     "description_uk": "Учасник подав дві або більше пропозицій в межах одного запиту пропозицій учасників",
-    "description_en": "The bidde has submitted two (2) or more bids within the same DPS price quotation",
+    "description_en": "The bidder has submitted two (2) or more bids within the same DPS price quotation",
     "scheme": "LAW4888",
     "type": "supplier",
     "archive": false,
@@ -210,8 +210,8 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1742"
   },
   "REJECTION.OTHER.LOCALIZATION_DEGREE_MISMATCH": {
-    "title_uk": "Абзац 2 пункту 8 частини 5 Розділу XIV",
-    "title_en": "Paragraph 2 of clause 8 of part 5 of Section XIV",
+    "title_uk": "Абзац 2 підпункту 8 пункту 5 Розділу XIV",
+    "title_en": "Paragraph 2 of subclause 8 of clause 5 of Section XIV",
     "description_uk": "Ступінь локалізації виробництва товару, запропонованого учасником, не відповідає ступеню локалізації виробництва, встановленому цим пунктом",
     "description_en": "The degree of production localisation of the goods offered by the bidder does not comply with the degree of production localisation",
     "scheme": "LAW4888",
@@ -220,8 +220,8 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
   },
   "REJECTION.OTHER.MISSING_LOCALIZATION_INFO": {
-    "title_uk": "Абзац 3 пункту 8 частини 5 Розділу XIV",
-    "title_en": "Paragraph 3 of clause 8 of part 5 of Section XIV",
+    "title_uk": "Абзац 3 підпункту 8 пункту 5 Розділу XIV",
+    "title_en": "Paragraph 3 of subclause 8 of clause 5 of Section XIV",
     "description_uk": "Учасник / постачальник не надав інформації та підтвердних документів щодо ступеня локалізації виробництва",
     "description_en": "The bidder/supplier has failed to provide the information and supporting documents confirming the degree of production localisation",
     "scheme": "LAW4888",
@@ -230,8 +230,8 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
   },
   "REJECTION.OTHER.MISSING_SUPPLY_CHAIN_INFO": {
-    "title_uk": "Абзац 4 пункту 8 частини 5 Розділу XIV",
-    "title_en": "Paragraph 4 of clause 8 of part 5 of Section XIV",
+    "title_uk": "Абзац 4 підпункту 8 пункту 5 Розділу XIV",
+    "title_en": "Paragraph 4 of subclause 8 of clause 5 of Section XIV",
     "description_uk": "Учасник / постачальник, який не є виробником товару, не надав інформації щодо всіх суб’єктів господарювання, що будуть залучені у ланцюгу постачання між виробником товару та учасником закупівлі",
     "description_en": "The bidder/supplier that is not the manufacturer of the goods has failed to provide information on all economic operators that will be involved in the supply chain between the manufacturer of the goods and the bidder",
     "scheme": "LAW4888",
@@ -240,8 +240,8 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
   },
   "REJECTION.OTHER.MISSING_LOCALIZED_GOOD_INFO": {
-    "title_uk": "Абзац 5 пункту 8 частини 5 Розділу XIV",
-    "title_en": "Paragraph 5 of clause 8 of part 5 of Section XIV",
+    "title_uk": "Абзац 5 підпункту 8 пункту 5 Розділу XIV",
+    "title_en": "Paragraph 5 of subclause 8 of clause 5 of Section XIV",
     "description_uk": "У тендерній пропозиції / пропозиції / пропозиції учасника відсутня інформація про товар, включений до переліку локалізованих товарів",
     "description_en": "The proposal / bid / bid submitted in the competitive selection procedure does not contain information concerning the goods included in the List of Localised Goods",
     "scheme": "LAW4888",
@@ -250,8 +250,8 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
   },
   "REJECTION.OTHER.INVALID_MANUFACTURER_DOCS": {
-    "title_uk": "Абзац 6 пункту 8 частини 5 Розділу XIV",
-    "title_en": "Paragraph 6 of clause 8 of part 5 of Section XIV",
+    "title_uk": "Абзац 6 підпункту 8 пункту 5 Розділу XIV",
+    "title_en": "Paragraph 6 of subclause 8 of clause 5 of Section XIV",
     "description_uk": "Товар, що є предметом закупівлі, включено до переліку локалізованих товарів на підставі заяви суб’єкта господарювання, іншого, ніж суб’єкт господарювання, який відповідно до тендерної пропозиції є виробником такого товару",
     "description_en": "The goods constituting the subject matter of procurement have been included in the List of Localised Goods on the basis of an application submitted by an economic operator other than the economic operator that, according to the tender bid, is the manufacturer of such goods",
     "scheme": "LAW4888",
@@ -419,9 +419,9 @@
     "archive": false,
     "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1760"
   },
-  "REJECTION.SELECTION.QUALIFICATION_CRITERIA_MISMATCH": {
-    "title_uk": "Абзац 3 частини 6 статтей 40 та 42, абзац 4 частини 5 статті 45, частина 5 статті 49",
-    "title_en": "Paragraph 3 of part 6 of articles 40 and 42, paragraph 4 of part 5 of article 45, part 5 of article 49",
+  "REJECTION.SELECTION.QUALIFICATION_CRITERIA_MISMATCH_CPN": {
+    "title_uk": "Абзац 3 частини 6 статті 40",
+    "title_en": "Paragraph 3 of part 6 of article 40",
     "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
     "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
     "scheme": "LAW4888",
@@ -429,7 +429,37 @@
     "archive": false,
     "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1205"
   },
-  "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21": {
+  "REJECTION.SELECTION.QUALIFICATION_CRITERIA_MISMATCH_CD": {
+    "title_uk": "Абзац 3 частини 6 статтs 42",
+    "title_en": "Paragraph 3 of part 6 of article 42",
+    "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
+    "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
+    "scheme": "LAW4888",
+    "type": "candidate",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1297"
+  },
+  "REJECTION.SELECTION.QUALIFICATION_CRITERIA_MISMATCH_PLP": {
+    "title_uk": "Абзац 4 частини 5 статті 45",
+    "title_en": "Paragraph 4 of part 5 of article 45",
+    "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
+    "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
+    "scheme": "LAW4888",
+    "type": "candidate",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1380"
+  },
+  "REJECTION.SELECTION.QUALIFICATION_CRITERIA_MISMATCH_IPP": {
+    "title_uk": "Частина 5 статті 49",
+    "title_en": "Зart 5 of article 49",
+    "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
+    "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
+    "scheme": "LAW4888",
+    "type": "candidate",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1441"
+  },
+  "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_CPN": {
     "title_uk": "Абзац 3 частини 6 статтей 40 та 42, абзац 4 частини 5 статті 45, частина 5 статті 49",
     "title_en": "Paragraph 3 of part 6 of articles 40 and 42, paragraph 4 of part 5 of article 45, part 5 of article 49",
     "description_uk": "Наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
@@ -438,6 +468,36 @@
     "type": "candidate",
     "archive": false,
     "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1205"
+  },
+    "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_CD": {
+    "title_uk": "Абзац 3 частини 6 статтs 42",
+    "title_en": "Paragraph 3 of part 6 of article 42",
+    "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
+    "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
+    "scheme": "LAW4888",
+    "type": "candidate",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1297"
+  },
+  "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_PLP": {
+    "title_uk": "Абзац 4 частини 5 статті 45",
+    "title_en": "Paragraph 4 of part 5 of article 45",
+    "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
+    "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
+    "scheme": "LAW4888",
+    "type": "candidate",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1380"
+  },
+  "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_IPP": {
+    "title_uk": "Частина 5 статті 49",
+    "title_en": "Зart 5 of article 49",
+    "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
+    "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
+    "scheme": "LAW4888",
+    "type": "candidate",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1441"
   },
   "REJECTION.SELECTION.CRITERIA_SELECTION_AND_EXCLUSION_MISMATCH": {
     "title_uk": "Абзац 2 пункту 1 частини 10 статті 53",
