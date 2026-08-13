@@ -125,5 +125,19 @@
   ],
   "complexAsset.arma": [
     "authority"
+  ],
+  "negotiation": [
+    "authority",
+    "social",
+    "general",
+    "special",
+    "defense"
+  ],
+  "negotiation.quick": [
+    "authority",
+    "social",
+    "general",
+    "special",
+    "defense"
   ]
 }
