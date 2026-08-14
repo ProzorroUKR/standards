@@ -460,8 +460,8 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1441"
   },
   "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_CPN": {
-    "title_uk": "Абзац 3 частини 6 статтей 40",
-    "title_en": "Paragraph 3 of part 6 of articles 40",
+    "title_uk": "Абзац 3 частини 6 статті 40",
+    "title_en": "Paragraph 3 of part 6 of article 40",
     "description_uk": "Наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
     "description_en": "The grounds for refusing participation in the procurement established by Article 21 of this Law exist",
     "scheme": "LAW4888",
@@ -472,8 +472,8 @@
   "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_CD": {
     "title_uk": "Абзац 3 частини 6 статті 42",
     "title_en": "Paragraph 3 of part 6 of article 42",
-    "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
-    "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
+    "description_uk": "Наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
+    "description_en": "The grounds for refusing participation in the procurement established by Article 21 of this Law exist",
     "scheme": "LAW4888",
     "type": "candidate",
     "archive": false,
@@ -482,8 +482,8 @@
   "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_PLP": {
     "title_uk": "Абзац 4 частини 5 статті 45",
     "title_en": "Paragraph 4 of part 5 of article 45",
-    "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
-    "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
+    "description_uk": "Наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
+    "description_en": "The grounds for refusing participation in the procurement established by Article 21 of this Law exist",
     "scheme": "LAW4888",
     "type": "candidate",
     "archive": false,
@@ -492,8 +492,8 @@
   "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_IPP": {
     "title_uk": "Частина 5 статті 49",
     "title_en": "Part 5 of article 49",
-    "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
-    "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
+    "description_uk": "Наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
+    "description_en": "The grounds for refusing participation in the procurement established by Article 21 of this Law exist",
     "scheme": "LAW4888",
     "type": "candidate",
     "archive": false,
