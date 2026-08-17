@@ -24,7 +24,7 @@
     "description_en": "If the customer has an urgent need to make a purchase",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "additionalPurchase": {
     "title_uk": "Пункт 4 частини 2 статті 40",
@@ -33,7 +33,7 @@
     "description_en": "If, after concluding a procurement contract, the customer needs to purchase additional goods from the same supplier, because changing suppliers would require purchasing goods with different technical characteristics, which would lead to incompatibility issues related to operation and maintenance. The purchase of additional goods from the same supplier shall be carried out within three years after the conclusion of the procurement contract, if the total cost of such supply does not exceed 50 percent of the price of the procurement contract",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "additionalConstruction": {
     "title_uk": "Пункт 5 частини 2 статті 40",
@@ -42,7 +42,7 @@
     "description_en": "If, after concluding a procurement contract, the customer needs to purchase additional similar works or services from the same participant. The possibility and conditions for such additional works or services may be provided for in the main procurement contract concluded following the results of the tender. The procurement of additional similar works or services from the same participant shall be carried out within three years after the conclusion of the procurement contract, if the total cost of such works or services does not exceed 50 percent of the price of the main procurement contract concluded based on the results of the tender",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "resolvingInsolvency": {
     "title_uk": "Пункт 6 частини 2 статті 40",
@@ -60,7 +60,7 @@
     "description_en": "Procurement of legal services related to the protection of Ukraine's rights and interests, including for the purpose of protecting national security and defense, during the settlement of disputes over cases involving foreign entities and Ukraine in foreign courts, based on a decision of the Cabinet of Ministers of Ukraine or decisions of the National Security and Defense Council of Ukraine, enacted in accordance with the procedure established by law, as well as the procurement of goods, works, and services in the event of the customer's participation, based on a decision of the Cabinet of Ministers of Ukraine, in international exhibition events",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "artContestIP": {
     "title_uk": "Пункт 1 частини 2 статті 35",
@@ -78,7 +78,7 @@
     "description_en": "The subject of the procurement is the creation or acquisition of a work of art or artistic performance",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "contestWinner": {
     "title_uk": "Абзац 3 пункту 2 частини 2 статті 40",
@@ -87,7 +87,7 @@
     "description_en": "Conclusion of a procurement contract with the winner of an architectural or art competition",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "technicalReasons": {
     "title_uk": "Абзац 4 пункту 2 частини 2 статті 40",
@@ -96,7 +96,7 @@
     "description_en": "Absence of competition for technical reasons, which must be documented by the customer",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "intProperty": {
     "title_uk": "Абзац 5 пункту 2 частини 2 статті 40",
@@ -105,7 +105,7 @@
     "description_en": "There is a need to protect intellectual property rights",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "lastHope": {
     "title_uk": "Абзац 6 пункту 2 частини 2 статті 40",
@@ -114,7 +114,7 @@
     "description_en": "Conclusion of a purchase agreement with a supplier of \"last resort\" for the supply of electricity or natural gas",
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
-    "archive": false
+    "archive": true
   },
   "emergency": {
     "title_uk": "Абзац 2 пункту 3 частини 2 статті 40",
@@ -151,5 +151,50 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
     "scheme": "LAW922",
     "archive": true
+  },
+  "unforeseeableUrgentNeed": {
+    "title_uk": "Абзац 2 підпункту 3 пункту 13",
+    "title_en": "Paragraph 2, subparagraph 3, clause 13",
+    "description_uk": "Нагальна потреба (існує об’єктивна, документально підтверджена необхідність у здійсненні закупівлі, зумовлена непередбачуваними для замовника обставинами, що не залежать від його рішень, дій чи бездіяльності, які унеможливлюють дотримання строків для проведення відкритих торгів або застосування електронного каталогу в разі закупівлі товару) здійснити закупівлю, зокрема, але не виключно в разі: виникнення обставин, пов’язаних із негайною ліквідацією наслідків надзвичайних ситуацій або збройної агресії Російської Федерації проти України",
+    "description_en": "An urgent need (there is an objective, documented need to make a purchase, caused by circumstances unforeseeable to the customer and beyond its control - regardless of its decisions, actions, or inaction - that make it impossible to meet the deadlines for conducting open tenders or using an electronic catalog when purchasing goods) to make a purchase, in particular, but not limited to the following: the occurrence of circumstances related to the immediate mitigation of the consequences of emergencies or armed aggression by the Russian Federation against Ukraine",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "humanitarianAidProvision": {
+    "title_uk": "Абзац 3 підпункту 3 пункту 13",
+    "title_en": "Paragraph 3, subparagraph 3, clause 13",
+    "description_uk": "Нагальна потреба (існує об’єктивна, документально підтверджена необхідність у здійсненні закупівлі, зумовлена непередбачуваними для замовника обставинами, що не залежать від його рішень, дій чи бездіяльності, які унеможливлюють дотримання строків для проведення відкритих торгів або застосування електронного каталогу в разі закупівлі товару) здійснити закупівлю, зокрема, але не виключно в разі: надання в установленому порядку Україною гуманітарної допомоги іншим державам",
+    "description_en": "An urgent need (there is an objective, documented need to make a purchase, caused by circumstances unforeseeable to the customer and beyond its control - regardless of its decisions, actions, or inaction - that make it impossible to meet the deadlines for conducting open tenders or using an electronic catalog when purchasing goods) to make a purchase, in particular, but not limited to the following cases: the provision by Ukraine, in accordance with established procedures, of humanitarian aid to other states",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "participantContractTermination": {
+    "title_uk": "Абзац 4 підпункту 3 пункту 13",
+    "title_en": "Paragraph 4, subparagraph 3, clause 13",
+    "description_uk": "Нагальна потреба (існує об’єктивна, документально підтверджена необхідність у здійсненні закупівлі, зумовлена непередбачуваними для замовника обставинами, що не залежать від його рішень, дій чи бездіяльності, які унеможливлюють дотримання строків для проведення відкритих торгів або застосування електронного каталогу в разі закупівлі товару) здійснити закупівлю, зокрема, але не виключно в разі: розірвання договору про закупівлю з вини учасника процедури закупівлі на строк, достатній для проведення відкритих торгів, в обсязі, що не перевищує 20 відсотків суми, визначеної в договорі про закупівлю, без урахування податку на додану вартість, який розірваний з вини такого учасника",
+    "description_en": "An urgent need (there is an objective, documented need to make a purchase, caused by circumstances unforeseeable to the customer and beyond its control - regardless of its decisions, actions, or inaction - that make it impossible to meet the deadlines for conducting open tenders or using an electronic catalog when purchasing goods) to make a purchase, in particular, but not limited to the following cases: termination of a procurement contract due to the fault of a participant in the procurement procedure for a period sufficient to conduct an open tender, in an amount not exceeding 20 percent of the sum specified in the procurement contract, excluding value-added tax, which was terminated due to the fault of such participant",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "tenderDecisionAppeal": {
+    "title_uk": "Абзац 5 підпункту 3 пункту 13",
+    "title_en": "Paragraph 5, subparagraph 3, clause 13",
+    "description_uk": "Нагальна потреба (існує об’єктивна, документально підтверджена необхідність у здійсненні закупівлі, зумовлена непередбачуваними для замовника обставинами, що не залежать від його рішень, дій чи бездіяльності, які унеможливлюють дотримання строків для проведення відкритих торгів або застосування електронного каталогу в разі закупівлі товару) здійснити закупівлю, зокрема, але не виключно в разі: оскарження прийнятих рішень, дій чи бездіяльності замовника щодо відкритих торгів, що тривають після розгляду/оцінки тендерних пропозицій учасників, в обсязі, що не перевищує 20 відсотків очікуваної вартості відкритих торгів, без урахування податку на додану вартість, що оскаржуються",
+    "description_en": "An urgent need (there is an objective, documented need to make a purchase, caused by circumstances unforeseeable to the customer and beyond its control - regardless of its decisions, actions, or inaction - that make it impossible to meet the deadlines for conducting open tenders or using an electronic catalog when purchasing goods) to make a purchase, in particular, but not limited to the following cases: appeals against the contracting authority’s decisions, actions, or inaction regarding open tenders that are ongoing after the review/evaluation of participants’ bids, in an amount not exceeding 20 percent of the expected value of the open tender, excluding value-added tax, which is being appealed",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "essentialServicesProcurement": {
+    "title_uk": "Абзац 16 підпункту 10 пункту 13",
+    "title_en": "Paragraph 16, subparagraph 10, clause 13",
+    "description_uk": "Закупівля нафти, нафтопродуктів сирих, електричної енергії, послуг з її постачання та розподілу, постачання теплової енергії для задоволення потреб опалення, постачання гарячої води, електронних комунікаційних послуг, послуг з централізованого водопостачання та/або водовідведення та послуг з перевезення залізничним транспортом загального користування",
+    "description_en": "Procurement of crude oil, crude petroleum products, electricity, electricity supply and distribution services, heat supply for heating purposes, hot water supply, electronic communications services, centralized water supply and/or wastewater disposal services, and public rail transportation services",
+    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "scheme": "DECREE1178",
+    "archive": false
   }
 }
