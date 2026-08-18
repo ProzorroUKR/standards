@@ -124,9 +124,9 @@
     },
     "minTenderingDuration": {
       "type": "integer",
-      "minimum": 7,
-      "maximum": 7,
-      "default": 7
+      "minimum": 15,
+      "maximum": 15,
+      "default": 15
     },
     "hasEnquiries": {
       "type": "boolean",
