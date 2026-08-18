@@ -1,5 +1,4 @@
 {
-  "DECREE1178": {
     "criticalInfrastructure": {
       "title_uk": "Абзац 2 підпункту 2 пункту 9²",
       "title_en": "Paragraph 2 of subparagraph 2 of paragraph 9²",
@@ -71,9 +70,7 @@
       "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
       "scheme": "DECREE1178",
       "archive": false
-    }
-  },
-  "DECREE1275": {
+    },
     "belowThresholdUnsuccessful": {
       "title_uk": "Підпункт 2 пункту 9",
       "title_en": "Subparagraph 2 of paragraph 9",
@@ -226,9 +223,7 @@
       "uri": "https://zakon.rada.gov.ua/laws/show/1275-2022-%D0%BF/ed20260901#n18",
       "scheme": "DECREE1275",
       "archive": false
-    }
-  },
-  "LAW922": {
+    },
     "hematopoieticStemCells": {
       "title_uk": "Пункт 21 частини 5 статті 3",
       "title_en": "Clause 21, Part 5, Article 3",
@@ -239,4 +234,4 @@
       "archive": false
     }
   }
-}
+  
