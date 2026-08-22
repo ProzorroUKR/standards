@@ -7907,6 +7907,23 @@
   {
     "idFkv": 372,
     "programType": 1,
+    "code": "3111110",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3111000",
+    "actyvPr": 0,
+    "name": "Реалізація проектів (об’єктів, заходів) комплексних планів стійкості регіонів і окремих міст",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-08-17",
+    "id": 3555,
+    "inputbase": "Розпис"
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
     "code": "3111330",
     "level": 3,
     "isactive": 1,
@@ -8209,6 +8226,23 @@
     "datefrom": "2024-01-01",
     "id": 1990,
     "inputbase": "Закон"
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
+    "code": "3121200",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3121000",
+    "actyvPr": 0,
+    "name": "Субвенція з державного бюджету обласним бюджетам та бюджету міста Києва на реалізацію проектів (об’єктів, заходів) комплексних планів стійкості регіонів і окремих міст",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-08-17",
+    "id": 3554,
+    "inputbase": "Розпис"
   },
   {
     "idFkv": 317,
