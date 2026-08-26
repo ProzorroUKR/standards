@@ -2,9 +2,9 @@
   "twiceUnsuccessful": {
     "title_uk": "Підпункт 1 пункту 13",
     "title_en": "Subparagraph 1 of paragraph 13",
-    "description_uk": "Відміна відкритих торгів через неподання жодної тендерної пропозиції. Предмет закупівлі, характеристики та вимоги не повинні відрізнятися від визначених у тендерній документації відмінених торгів",
-    "description_en": "Cancellation of open tenders due to no bids submitted. The subject of procurement, characteristics and requirements must not differ from those defined in the tender documentation of the cancelled tenders",
-    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "description_uk": "Коли відмінено відкриті торги через неподання жодної тендерної пропозиції для участі у відкритих торгах у строк, установлений замовником згідно з цими особливостями, зокрема за лотом. При цьому предмет закупівлі, його технічні, кількісні та якісні характеристики, проект договору про закупівлю, а також вимоги до учасника процедури закупівлі, з яким укладається договір про закупівлю, зокрема щодо його відповідності кваліфікаційним критеріям, не повинні відрізнятися від вимог, що визначені замовником у тендерній документації (крім вимог, визначених пунктом 47 цих особливостей), і сума договору про закупівлю без урахування податку на додану вартість не може перевищувати очікуваної вартості предмета закупівлі, зазначеної замовником в оголошенні про проведення відкритих торгів, які відмінено через відсутність достатньої кількості учасників процедури закупівлі (учасника процедури закупівлі), з урахуванням прийнятного відсотка перевищення ціни тендерної пропозиції учасника процедури закупівлі над очікуваною вартістю предмета закупівлі, якщо такий прийнятний відсоток зазначений у тендерній документації",
+    "description_en": "When open bidding is canceled due to failure to submit any tender offer for participation in open bidding within the period established by the customer in accordance with these features, in particular by lot. In this case, the subject of procurement, its technical, quantitative and qualitative characteristics, the draft procurement contract, as well as the requirements for the procurement procedure participant with whom the procurement contract is concluded, in particular regarding its compliance with the qualification criteria, must not differ from the requirements specified by the customer in the tender documentation (except for the requirements specified in paragraph 47 of these features), and the amount of the procurement contract excluding value added tax cannot exceed the expected cost of the procurement subject specified by the customer in the announcement of open bidding, which was canceled due to the lack of a sufficient number of participants in the procurement procedure (participant of the procurement procedure), taking into account the acceptable percentage of the excess of the price of the tender offer of the procurement procedure participant over the expected cost of the procurement subject, if such an acceptable percentage is specified in the tender documentation",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
     "scheme": "DECREE1178",
     "archive": false
   },
@@ -15,34 +15,34 @@
     "description_en": "Works, goods or services can be performed, supplied or provided exclusively by a specific economic operator (art, architectural contests, technical reasons, IP, supplier of last resort)",
     "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
     "scheme": "DECREE1178",
-    "archive": false
+    "archive": true
   },
   "additionalPurchase": {
     "title_uk": "Підпункт 4 пункту 13",
-    "title_en": "Subparagraph 4 of paragraph 13",
-    "description_uk": "Додатковий обсяг товару у того самого постачальника для забезпечення сумісності або через зміни до галузевих стандартів у сфері охорони здоров’я (протягом 3 років, до 50% вартості)",
-    "description_en": "Additional volume of goods from the same supplier to ensure compatibility or due to changes in industry standards in the field of healthcare (within 3 years, up to 50% of the cost)",
-    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "title_en": "Sub-clause 4 of clause 13",
+    "description_uk": "Коли після укладення договору про закупівлю в замовника виникла необхідність у постачанні додаткового обсягу товару тим самим постачальником, якщо в разі зміни постачальника замовник буде вимушений придбати товар з іншими технічними характеристиками, що призведе до виникнення несумісності, пов’язаної з експлуатацією і технічним обслуговуванням, або така закупівля зумовлена змінами до галузевих стандартів у сфері охорони здоров’я. Закупівля додаткового обсягу товару в того самого постачальника здійснюється протягом трьох років після укладення договору про закупівлю, якщо загальна вартість такого постачання не перевищує 50 відсотків ціни договору про закупівлю без урахування податку на додану вартість",
+    "description_en": "When, after concluding a purchase agreement, the customer has a need to supply an additional volume of goods from the same supplier, if in the event of a change of supplier the customer will be forced to purchase goods with different technical characteristics, which will lead to incompatibility related to operation and maintenance, or such a purchase is due to changes in industry standards in the field of healthcare. The purchase of an additional volume of goods from the same supplier is carried out within three years after concluding a purchase agreement, if the total cost of such supply does not exceed 50 percent of the price of the purchase agreement excluding value added tax",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
     "scheme": "DECREE1178",
     "archive": false
   },
   "additionalConstruction": {
     "title_uk": "Підпункт 5 пункту 13",
-    "title_en": "Subparagraph 5 of paragraph 13",
-    "description_uk": "Додаткові роботи чи послуги у того самого виконавця, пов’язані з предметом основного договору (протягом 3 років, до 50% вартості основного договору, укладеного за результатами відкритих торгів)",
-    "description_en": "Additional works or services from the same contractor related to the subject of the main contract (within 3 years, up to 50% of the price of the main contract concluded based on open tender results)",
-    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "title_en": "Sub-clause 5 of clause 13",
+    "description_uk": "Коли в замовника після укладення договору про закупівлю виникла необхідність у закупівлі додаткових робіт чи послуг, пов’язаних з предметом закупівлі основного договору про закупівлю, у того самого виконавця робіт/надавача послуг. Можливість і умови виконання таких додаткових робіт чи надання послуг можуть бути передбачені в основному договорі про закупівлю, укладеному за результатами проведення відкритих торгів. Закупівля додаткових робіт чи послуг у того самого виконавця робіт/надавача послуг здійснюється протягом трьох років після укладення договору про закупівлю, якщо загальна вартість таких робіт чи послуг не перевищує 50 відсотків ціни основного договору про закупівлю без урахування податку на додану вартість, укладеного за результатами проведення відкритих торгів",
+    "description_en": "When, after concluding a procurement contract, the customer has a need to purchase additional works or services related to the subject of the procurement of the main procurement contract from the same contractor/service provider. The possibility and conditions for performing such additional works or providing services may be provided for in the main procurement contract concluded as a result of open tenders. The purchase of additional works or services from the same contractor/service provider shall be carried out within three years after concluding the procurement contract, if the total cost of such works or services does not exceed 50 percent of the price of the main procurement contract, excluding value added tax, concluded as a result of open tenders.",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
     "scheme": "DECREE1178",
     "archive": false
   },
   "resolvingInsolvency": {
-    "title_uk": "Пункт 6 частини 2 статті 40",
-    "title_en": "Clause 6, Part 2, Article 40",
-    "description_uk": "Закупівля товарів за процедурою відновлення платоспроможності боржника згідно із законодавством",
+    "title_uk": "Підпункт 6 пункту 13",
+    "title_en": "Sub-clause 6 of clause 13",
+    "description_uk": "Закупівлі товарів за процедурою відновлення платоспроможності боржника згідно із законодавством",
     "description_en": "Purchase of goods under the procedure for restoring the debtor's solvency in accordance with the legislation",
-    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
-    "scheme": "LAW922",
-    "archive": true
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
+    "scheme": "DECREE1178",
+    "archive": false
   },
   "stateLegalServices": {
     "title_uk": "Пункт 7 частини 2 статті 40",
@@ -63,49 +63,49 @@
     "archive": true
   },
   "artPurchase": {
-    "title_uk": "Абзац 2 пункту 2 частини 2 статті 40",
-    "title_en": "Paragraph 2, Clause 2, Part 2, Article 40",
-    "description_uk": "Предмет закупівлі полягає у створенні або придбанні витвору мистецтва або художнього виконання",
-    "description_en": "The subject of the procurement is the creation or acquisition of a work of art or artistic performance",
-    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
-    "scheme": "LAW922",
-    "archive": true
+    "title_uk": "Абзац 2 підпункту 2 пункту 13",
+    "title_en": "Paragraph 2, subparagraph 2, paragraph 13",
+    "description_uk": "Коли роботи, товари чи послуги можуть бути виконані, поставлені чи надані виключно певним суб’єктом господарювання за наявності одного з таких випадків: предмет закупівлі полягає у створенні або придбанні витвору мистецтва або художнього виконання",
+    "description_en": "When works, goods or services can be performed, supplied or provided exclusively by a specific economic entity in one of the following cases: the subject of the procurement is the creation or acquisition of a work of art or artistic performance",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
+    "scheme": "DECREE1178",
+    "archive": false
   },
   "contestWinner": {
-    "title_uk": "Абзац 3 пункту 2 частини 2 статті 40",
-    "title_en": "Paragraph 3, Clause 2, Part 2, Article 40",
-    "description_uk": "Укладення договору про закупівлю з переможцем архітектурного або мистецького конкурсу",
-    "description_en": "Conclusion of a procurement contract with the winner of an architectural or art competition",
-    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
-    "scheme": "LAW922",
-    "archive": true
+    "title_uk": "Абзац 3 підпункту 2 пункту 13",
+    "title_en": "Paragraph 3, subparagraph 2, paragraph 13",
+    "description_uk": "Коли роботи, товари чи послуги можуть бути виконані, поставлені чи надані виключно певним суб’єктом господарювання за наявності одного з таких випадків: укладення договору про закупівлю із переможцем архітектурного або мистецького конкурсу",
+    "description_en": "When works, goods or services can be performed, supplied or provided exclusively by a specific economic entity in one of the following cases: conclusion of a procurement contract with the winner of an architectural or artistic competition",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
+    "scheme": "DECREE1178",
+    "archive": false
   },
   "technicalReasons": {
-    "title_uk": "Абзац 4 пункту 2 частини 2 статті 40",
-    "title_en": "Paragraph 4, Clause 2, Part 2, Article 40",
-    "description_uk": "Відсутність конкуренції з технічних причин, яка має бути документально підтверджена замовником",
-    "description_en": "Absence of competition for technical reasons, which must be documented by the customer",
-    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
-    "scheme": "LAW922",
-    "archive": true
+    "title_uk": "Абзац 4 підпункту 2 пункту 13",
+    "title_en": "Paragraph 4, subparagraph 2, paragraph 13",
+    "description_uk": "Коли роботи, товари чи послуги можуть бути виконані, поставлені чи надані виключно певним суб’єктом господарювання за наявності одного з таких випадків: відсутність конкуренції з технічних причин, яка повинна бути документально підтверджена замовником",
+    "description_en": "When works, goods or services can be performed, delivered or provided exclusively by a certain economic entity in the presence of one of the following cases: lack of competition for technical reasons, which must be documented by the customer",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
+    "scheme": "DECREE1178",
+    "archive": false
   },
   "intProperty": {
-    "title_uk": "Абзац 5 пункту 2 частини 2 статті 40",
-    "title_en": "Paragraph 5, Clause 2, Part 2, Article 40",
-    "description_uk": "Існує необхідність захисту прав інтелектуальної власності",
-    "description_en": "There is a need to protect intellectual property rights",
-    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
-    "scheme": "LAW922",
-    "archive": true
+    "title_uk": "Абзац 5 підпункту 2 пункту 13",
+    "title_en": "Paragraph 5, subparagraph 2, paragraph 13",
+    "description_uk": "Коли роботи, товари чи послуги можуть бути виконані, поставлені чи надані виключно певним суб’єктом господарювання за наявності одного з таких випадків: необхідність захисту прав інтелектуальної власності",
+    "description_en": "When works, goods or services can be performed, supplied or provided exclusively by a particular economic entity in one of the following cases: the need to protect intellectual property rights",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
+    "scheme": "DECREE1178",
+    "archive": false
   },
   "lastHope": {
-    "title_uk": "Абзац 6 пункту 2 частини 2 статті 40",
-    "title_en": "Paragraph 6, subparagraph 2, paragraph 2, Article 40",
-    "description_uk": "Укладення договору про закупівлю з постачальником \"останньої надії\" на постачання електричної енергії або природного газу",
-    "description_en": "Conclusion of a purchase agreement with a supplier of \"last resort\" for the supply of electricity or natural gas",
-    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20251031#n1717",
-    "scheme": "LAW922",
-    "archive": true
+    "title_uk": "Абзац 6 підпункту 2 пункту 13",
+    "title_en": "Paragraph 6, subparagraph 2, paragraph 13",
+    "description_uk": "Коли роботи, товари чи послуги можуть бути виконані, поставлені чи надані виключно певним суб’єктом господарювання за наявності одного з таких випадків: укладення договору про закупівлю з постачальником “останньої надії” або з постачальником універсальної послуги з постачання електричної енергії або природного газу",
+    "description_en": "When works, goods or services can be performed, supplied or provided exclusively by a specific economic entity in one of the following cases: conclusion of a procurement contract with a supplier of “last resort” or with a supplier of universal service for the supply of electricity or natural gas",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
+    "scheme": "DECREE1178",
+    "archive": false
   },
   "insolvency": {
     "title_uk": "Підпункт 6 пункту 13",
@@ -114,41 +114,41 @@
     "description_en": "Procurement of goods under the procedure for restoring the debtor's solvency in accordance with the legislation",
     "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
     "scheme": "DECREE1178",
-    "archive": false
+    "archive": true
   },
   "legalServices": {
     "title_uk": "Підпункт 7 пункту 13",
     "title_en": "Subparagraph 7 of paragraph 13",
-    "description_uk": "Юридичні послуги для захисту прав та інтересів України у закордонних юрисдикційних органах або участь у міжнародних виставкових заходах на підставі рішення КМУ",
-    "description_en": "Legal services to protect the rights and interests of Ukraine in foreign jurisdictional bodies or participation in international exhibition events based on the decision of the CMU",
-    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "description_uk": "Закупівлі юридичних послуг, пов’язаних із захистом прав та інтересів України, зокрема з метою захисту національної безпеки і оборони, під час урегулювання спорів щодо розгляду в закордонних юрисдикційних органах справ за участю іноземного суб’єкта та України, на підставі рішення Кабінету Міністрів України або рішень Ради національної безпеки і оборони України, введених у дію в порядку, визначеному законом, а також закупівлі товарів, робіт і послуг у разі участі замовника на підставі рішення Кабінету Міністрів України в міжнародних виставкових заходах",
+    "description_en": "Procurement of legal services related to the protection of the rights and interests of Ukraine, in particular for the purpose of protecting national security and defense, during the settlement of disputes regarding the consideration of cases in foreign jurisdictions involving a foreign entity and Ukraine, based on the decision of the Cabinet of Ministers of Ukraine or decisions of the National Security and Defense Council of Ukraine, put into effect in accordance with the procedure established by law, as well as the procurement of goods, works and services in the event of the customer's participation in international exhibition events based on the decision of the Cabinet of Ministers of Ukraine",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
     "scheme": "DECREE1178",
     "archive": false
   },
   "defenseNeeds": {
     "title_uk": "Підпункт 8 пункту 13",
     "title_en": "Subparagraph 8 of paragraph 13",
-    "description_uk": "Закупівля для нагальних потреб ЗСУ, військових формувань, ДСНС тощо (фортифікації, мобілізаційні завдання, територіальна оборона, договори з обмеженим доступом)",
-    "description_en": "Procurement for urgent needs of the Armed Forces, military formations, State Emergency Service, etc. (fortifications, mobilization tasks, territorial defense, restricted access contracts)",
-    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "description_uk": "Закупівлі товарів, робіт і послуг, необхідних для забезпечення будівництва військових інженерно-технічних і фортифікаційних споруд, виконання мобілізаційних завдань (замовлень), здійснення заходів, пов’язаних з підготовкою та виконанням завдань територіальної оборони, виконання договорів, що містять інформацію з обмеженим доступом, якщо така закупівля здійснюється для задоволення нагальних потреб Збройних Сил, інших військових формувань, правоохоронних органів, ДСНС, вищих військових навчальних закладів та Апарату Ради національної безпеки і оборони України (для забезпечення функціонування Головного ситуаційного центру України) на їх запит з подальшою передачею таких товарів, робіт і послуг на облік запитувача. Запит Збройних Сил, інших військових формувань, правоохоронних органів, ДСНС, вищих військових навчальних закладів та Апарату Ради національної безпеки і оборони України (для забезпечення функціонування Головного ситуаційного центру України) погоджується (затверджується) їх уповноваженою службовою (посадовою) особою та повинен містити обґрунтування нагальності потреби у здійсненні закупівлі відповідно до цього підпункту",
+    "description_en": "Procurement of goods, works and services necessary to ensure the construction of military engineering and fortification facilities, the implementation of mobilization tasks (orders), the implementation of measures related to the preparation and implementation of territorial defense tasks, the implementation of contracts containing information with limited access, if such procurement is carried out to meet the urgent needs of the Armed Forces, other military formations, law enforcement agencies, the State Emergency Service, higher military educational institutions and the Apparatus of the National Security and Defense Council of Ukraine (to ensure the functioning of the Main Situation Center of Ukraine) at their request with the subsequent transfer of such goods, works and services to the account of the requester. The request of the Armed Forces, other military formations, law enforcement agencies, the State Emergency Service, higher military educational institutions and the Apparatus of the National Security and Defense Council of Ukraine (to ensure the functioning of the Main Situational Center of Ukraine) is agreed (approved) by their authorized official (official) and must contain a justification of the urgency of the need to carry out the procurement in accordance with this subparagraph",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
     "scheme": "DECREE1178",
     "archive": false
   },
   "criticalInfrastructure": {
     "title_uk": "Підпункт 9 пункту 13",
     "title_en": "Subparagraph 9 of paragraph 13",
-    "description_uk": "Товари, роботи і послуги для захисту, відновлення, реконструкції або будівництва об’єктів критичної інфраструктури, зруйнованих або пошкоджених внаслідок агресії рф",
-    "description_en": "Goods, works and services for the protection, restoration, reconstruction or construction of critical infrastructure facilities destroyed or damaged as a result of RF aggression",
-    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "description_uk": "Закупівлі товарів, робіт і послуг, необхідних для забезпечення захисту та/або відновлення, та/або реконструкції, та/або обслуговування, та/або розміщення, та/або будівництва об’єктів критичної інфраструктури, які зруйновані або пошкоджені внаслідок збройної агресії Російської Федерації проти України",
+    "description_en": "Procurement of goods, works and services necessary to ensure the protection and/or restoration, and/or reconstruction, and/or maintenance, and/or placement, and/or construction of critical infrastructure facilities that have been destroyed or damaged as a result of the armed aggression of the Russian Federation against Ukraine",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
     "scheme": "DECREE1178",
     "archive": false
   },
   "activeWarZone": {
     "title_uk": "Підпункт 10 пункту 13",
     "title_en": "Subparagraph 10 of paragraph 13",
-    "description_uk": "Замовник або його відокремлений підрозділ перебуває на території активних бойових дій, які не були завершені на дату укладення договору про закупівлю",
-    "description_en": "The customer or its separate subdivision is located in the territory of active hostilities that were not completed on the date of the procurement contract conclusion",
-    "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
+    "description_uk": "Коли замовник або його відокремлений підрозділ, що здійснює закупівлю згідно з абзацом другим пункту 15 цих особливостей, перебуває на території активних бойових дій, які не були завершені на дату укладення договору про закупівлю",
+    "description_en": "When the customer or its separate unit carrying out the procurement in accordance with the second paragraph of clause 15 of these features is located in the territory of active hostilities that have not been completed on the date of conclusion of the procurement contract",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
     "scheme": "DECREE1178",
     "archive": false
   }
