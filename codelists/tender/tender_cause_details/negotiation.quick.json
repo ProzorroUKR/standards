@@ -1,12 +1,12 @@
 {
   "twiceUnsuccessful": {
-    "title_uk": "Пункт 4 частини 2 статті 35",
-    "title_en": "Clause 4, Part 2, Article 35",
-    "description_uk": "Двічі відмінено процедуру відкритих торгів, у тому числі частково (за лотом), через відсутність достатньої кількості тендерних пропозицій, визначеної цим Законом",
-    "description_en": "If procuring entity twicely cancelled a tender due to lack of suppliers",
-    "uri": "https://zakon.rada.gov.ua/laws/show/922-19/ed20191201#n548",
-    "scheme": "LAW922",
-    "archive": true
+    "title_uk": "Підпункт 1 пункту 13",
+    "title_en": "Subparagraph 1 of paragraph 13",
+    "description_uk": "Коли відмінено відкриті торги через неподання жодної тендерної пропозиції для участі у відкритих торгах у строк, установлений замовником згідно з цими особливостями, зокрема за лотом. При цьому предмет закупівлі, його технічні, кількісні та якісні характеристики, проект договору про закупівлю, а також вимоги до учасника процедури закупівлі, з яким укладається договір про закупівлю, зокрема щодо його відповідності кваліфікаційним критеріям, не повинні відрізнятися від вимог, що визначені замовником у тендерній документації (крім вимог, визначених пунктом 47 цих особливостей), і сума договору про закупівлю без урахування податку на додану вартість не може перевищувати очікуваної вартості предмета закупівлі, зазначеної замовником в оголошенні про проведення відкритих торгів, які відмінено через відсутність достатньої кількості учасників процедури закупівлі (учасника процедури закупівлі), з урахуванням прийнятного відсотка перевищення ціни тендерної пропозиції учасника процедури закупівлі над очікуваною вартістю предмета закупівлі, якщо такий прийнятний відсоток зазначений у тендерній документації",
+    "description_en": "When open bidding is canceled due to failure to submit any tender offer for participation in open bidding within the period established by the customer in accordance with these features, in particular by lot. In this case, the subject of procurement, its technical, quantitative and qualitative characteristics, the draft procurement contract, as well as the requirements for the procurement procedure participant with whom the procurement contract is concluded, in particular regarding its compliance with the qualification criteria, must not differ from the requirements specified by the customer in the tender documentation (except for the requirements specified in paragraph 47 of these features), and the amount of the procurement contract excluding value added tax cannot exceed the expected cost of the procurement subject specified by the customer in the announcement of open bidding, which was canceled due to the lack of a sufficient number of participants in the procurement procedure (participant of the procurement procedure), taking into account the acceptable percentage of the excess of the price of the tender offer of the procurement procedure participant over the expected cost of the procurement subject, if such an acceptable percentage is specified in the tender documentation",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
+    "scheme": "DECREE1178",
+    "archive": false
   },
   "noCompetition": {
     "title_uk": "Пункт 2 частини 2 статті 35",
