@@ -4,12 +4,6 @@ Source tables (printable version, one <table> per HS group, columns:
 Код | Назва | Ставки мита, % | Додаткові ОВО):
   - https://zakon.rada.gov.ua/laws/show/2697а-20/print  (groups 1-49)
   - https://zakon.rada.gov.ua/laws/show/2697б-20/print  (groups 50-97)
-
-Unlike the previous version of uktzed.json (which only kept 10-digit leaf
-codes), this script keeps every code found in the tables regardless of its
-digit length (4, 6, 8 or 10 digits) - i.e. group headings and subheadings
-as well as leaf codes. Codes given in square brackets (e.g. "[5304]") mark
-reserved/annulled positions with no name and are skipped.
 """
 
 import argparse
