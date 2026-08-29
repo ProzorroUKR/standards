@@ -1,0 +1,92 @@
+{
+  "goodsSanctionedCountries": {
+    "title_uk": "Абзац 5 пункту 62 постанови 822",
+    "title_en": "Paragraph 5 of clause 62 of decree 822",
+    "description_uk": "пропонує товар походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+    "description_en": "offers goods originating from the Russian Federation/Republic of Belarus/Islamic Republic of Iran",
+    "scheme": "DECREE822",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF/ed20260607#n390"
+  },
+  "multipleProposals": {
+    "title_uk": "Абзац 6 пункту 62 постанови 822",
+    "title_en": "Paragraph 6 of clause 62 of decree 822",
+    "description_uk": "подав дві або більше пропозиції в межах одного запиту пропозицій постачальників",
+    "description_en": "submitted two or more proposals within a single request for supplier proposals",
+    "scheme": "DECREE822",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF/ed20260607#n390"
+  },
+  "unfulfilledPriorObligations": {
+    "title_uk": "Абзац 7 пункту 62 постанови 822",
+    "title_en": "Paragraph 7 of clause 62 of decree 822",
+    "description_uk": "не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+    "description_en": "failed to fulfill obligations under a previously concluded contract with the same procuring entity, leading to its early termination, and sanctions were applied in the form of fines and/or damages within three years from the termination date, as confirmed by a court decision",
+    "scheme": "DECREE822",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF/ed20260607#n390"
+  },
+  "unsignedContract": {
+    "title_uk": "Підпункт 1 пункту 64 постанови 822",
+    "title_en": "Subsection 1 of clause 64 of decree 822",
+    "description_uk": "не підписав договір на умовах, визначених замовником у запиті пропозицій постачальників, шляхом заповнення електронних форм з окремими полями, та у проекті договору, що є складовою частиною запиту пропозицій постачальників у строк, визначений пунктом 66 цього Порядку",
+    "description_en": "did not sign the contract on the terms defined by the procuring entity in the request for supplier proposals by filling out electronic forms with separate fields, and in the draft contract, which is an integral part of the request for supplier proposals within the period specified by clause 66 of this Procedure",
+    "scheme": "DECREE822",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF/ed20260607#n182"
+  },
+  "noContractGuarantee": {
+    "title_uk": "Підпункт 2 пункту 64 постанови 822",
+    "title_en": "Subsection 2 of clause 64 of decree 822",
+    "description_uk": "не надав забезпечення виконання договору у строк, визначений пунктом 66 цього Порядку",
+    "description_en": "did not provide contract performance guarantee within the period specified by clause 66 of this Procedure",
+    "scheme": "DECREE822",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF/ed20260607#n182"
+  },
+  "writtenRefusalToSignContract": {
+    "title_uk": "Підпункт 3 пункту 64 постанови 822",
+    "title_en": "Subsection 3 of clause 64 of decree 822",
+    "description_uk": "письмово відмовився від укладення договору на умовах, визначених замовником у запиті пропозицій постачальників, шляхом заповнення електронних форм з окремими полями, та у проекті договору, що є складовою частиною запиту пропозицій постачальників",
+    "description_en": "refused in writing to conclude a contract on the terms defined by the procuring entity in the request for supplier proposals by filling out electronic forms with separate fields, and in the draft contract, which is an integral part of the request for supplier proposals",
+    "scheme": "DECREE822",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF/ed20260607#n182"
+  },
+  "unacceptableCountryRegistration": {
+    "title_uk": "Абзац 10 пункту 87 постанови 1178",
+    "title_en": "Paragraph 10 of clause 87 of decree 1178",
+    "description_uk": "не зареєстрований (для юридичної особи)/не є громадянином (для фізичної особи) у прийнятній країні",
+    "description_en": "is not registered (for a legal entity) / is not a citizen (for an individual) in an acceptable country",
+    "scheme": "DECREE822",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n935"
+  },
+  "euSanctionsParticipant": {
+    "title_uk": "Абзац 11 пункту 87 постанови 1178",
+    "title_en": "Paragraph 11 of clause 87 of decree 1178",
+    "description_uk": "особисто або його кінцевий бенефіціарний власник, член або учасник (акціонер) є особою, до якої застосовано обмежувальні заходи у вигляді санкцій Європейського Союзу, та/або особою, що включена до санкційного списку Європейського Союзу",
+    "description_en": "personally or their ultimate beneficial owner, member, or participant (shareholder) is a person subjected to European Union sanctions and/or included in the European Union sanctions list",
+    "scheme": "DECREE822",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n935"
+  },
+  "noInfoProvided": {
+    "title_uk": "Абзац 12 пункту 87 постанови 1178",
+    "title_en": "Paragraph 12 of clause 87 of decree 1178",
+    "description_uk": "не надав інформацію, передбачену абзацами сьомим і восьмим цього пункту, або інформація, передбачена абзацом восьмим цього пункту, надана з порушенням вимог, визначених таким абзацом",
+    "description_en": "failed to provide the information stipulated by paragraphs seven and eight of this clause, or the information stipulated by paragraph eight of this clause was provided in violation of the requirements defined by such paragraph",
+    "scheme": "DECREE822",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF#n935"
+  }
+}
