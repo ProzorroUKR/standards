@@ -1,0 +1,102 @@
+{
+  "noFixDeficiencies24h": {
+    "title_uk": "Абзац 2 пункту 1 частини 1 статті 26 закону 808",
+    "title_en": "Paragraph 2 of clause 1 of part 1 of article 26 of law 808",
+    "description_uk": "не усунув недоліки у поданих ним документах протягом 24 годин з моменту його ознайомлення з такими недоліками в електронній системі закупівель",
+    "description_en": "did not eliminate deficiencies in the documents submitted by them within 24 hours from the moment they became aware of such deficiencies in the electronic procurement system",
+    "scheme": "LAW808",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/808-20#n370"
+  },
+  "qualificationCriteriaMismatch": {
+    "title_uk": "Абзац 3 пункту 1 частини 1 статті 26 закону 808",
+    "title_en": "Paragraph 3 of clause 1 of part 1 of article 26 of law 808",
+    "description_uk": "не відповідає кваліфікаційним (кваліфікаційному) критеріям, визначеним державним замовником відповідно до статті 22 цього Закону",
+    "description_en": "does not meet the qualification (qualification) criteria defined by the state customer in accordance with Article 22 of this Law",
+    "scheme": "LAW808",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/808-20#n370"
+  },
+  "noBidGuarantee": {
+    "title_uk": "Абзац 4 пункту 1 частини 1 статті 26 закону 808",
+    "title_en": "Paragraph 4 of clause 1 of part 1 of article 26 of law 808",
+    "description_uk": "не надав забезпечення цінової пропозиції (якщо надання забезпечення вимагалося державним замовником в оголошенні про проведення відбору)",
+    "description_en": "did not provide bid proposal guarantee (if the provision of guarantee was required by the state customer in the selection announcement)",
+    "scheme": "LAW808",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/808-20#n370"
+  },
+  "refusedContractMultipleTimes": {
+    "title_uk": "Абзац 5 пункту 1 частини 1 статті 26 закону 808",
+    "title_en": "Paragraph 5 of clause 1 of part 1 of article 26 of law 808",
+    "description_uk": "протягом одного року до дати оприлюднення оголошення про проведення спрощеної закупівлі більше двох разів не підписав або відмовився від підписання договору про закупівлю (у тому числі через неукладення договору учасником) із державним замовником, який проводить таку спрощену закупівлю",
+    "description_en": "within one year prior to the date of publication of the announcement of the simplified procurement, more than twice failed to sign or refused to sign the procurement contract (including due to the participant's failure to conclude the contract) with the state customer conducting such simplified procurement",
+    "scheme": "LAW808",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/808-20#n370"
+  },
+  "failedContractTermsMultipleTimes": {
+    "title_uk": "Абзац 6 пункту 1 частини 1 статті 26 закону 808",
+    "title_en": "Paragraph 6 of clause 1 of part 1 of article 26 of law 808",
+    "description_uk": "не виконав умови (умов) договору щодо якості та/або строку поставки товарів, виконання робіт, надання послуг - більше одного разу",
+    "description_en": "failed to fulfill the condition(s) of the contract regarding the quality and/or delivery time of goods, execution of works, provision of services - more than once",
+    "scheme": "LAW808",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/808-20#n370"
+  },
+  "corruptionRegisterSupplier": {
+    "title_uk": "Абзац 7 пункту 1 частини 1 статті 26 закону 808",
+    "title_en": "Paragraph 7 of clause 1 of part 1 of article 26 of law 808",
+    "description_uk": "відомості про юридичну особу учасника відбору внесено до Єдиного державного реєстру осіб, які вчинили корупційні або пов’язані з корупцією правопорушення, та/або до нього застосовано додатковий (нефінансовий) захід кримінально-правового характеру, передбачений пунктом 1 частини першої статті 96-10-1 Кримінального кодексу України",
+    "description_en": "information about the legal entity of the selection participant is entered in the Unified State Register of persons who committed corruption or corruption-related offenses, and/or an additional (non-financial) measure of a criminal law nature provided for in paragraph 1 of part one of Article 96-10-1 of the Criminal Code of Ukraine has been applied to it",
+    "scheme": "LAW808",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/808-20#n370"
+  },
+  "unfulfilledObligations": {
+    "title_uk": "Абзац 8 пункту 1 частини 1 статті 26 закону 808",
+    "title_en": "Paragraph 8 of clause 1 of part 1 of article 26 of law 808",
+    "description_uk": "учасник процедури закупівлі не виконав свої зобов’язання за раніше укладеним договором про закупівлю з цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків - протягом трьох років з дати дострокового розірвання такого договору",
+    "description_en": "the participant of the procurement procedure failed to fulfill their obligations under a previously concluded procurement contract with the same procuring entity, which led to its early termination, and sanctions in the form of fines and/or damages were applied - within three years from the date of early termination of such a contract",
+    "scheme": "LAW808",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/808-20#n377"
+  },
+  "refusedContractByAuctionPrice": {
+    "title_uk": "Абзац 2 пункту 2 частини 1 статті 26 закону 808",
+    "title_en": "Paragraph 2 of clause 2 of part 1 of article 26 of law 808",
+    "description_uk": "не підписав або відмовився від підписання договору про закупівлю за поданою ним ціною/приведеною ціною за результатами проведеного аукціону",
+    "description_en": "failed to sign or refused to sign the procurement contract at the price/reduced price submitted by them based on the results of the auction",
+    "scheme": "LAW808",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/808-20#n380"
+  },
+  "refusedContractByDeadline": {
+    "title_uk": "Абзац 3 пункту 2 частини 1 статті 26 закону 808",
+    "title_en": "Paragraph 3 of clause 2 of part 1 of article 26 of law 808",
+    "description_uk": "не підписав або відмовився від підписання договору про закупівлю у визначений державним замовником строк",
+    "description_en": "failed to sign or refused to sign the procurement contract within the period specified by the state customer",
+    "scheme": "LAW808",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/808-20#n380"
+  },
+  "noArticle17Docs": {
+    "title_uk": "Абзац 4 пункту 2 частини 1 статті 26 закону 808",
+    "title_en": "Paragraph 4 of clause 2 of part 1 of article 26 of law 808",
+    "description_uk": "не надав документів, що підтверджують відсутність підстав, передбачених статтею 17 Закону України \"Про публічні закупівлі\"",
+    "description_en": "did not provide documents confirming the absence of grounds stipulated by Article 17 of the Law of Ukraine \"On Public Procurement\"",
+    "scheme": "LAW808",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/808-20#n380"
+  }
+}
