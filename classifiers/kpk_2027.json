@@ -2382,6 +2382,23 @@
   {
     "idFkv": 372,
     "programType": 1,
+    "code": "1201540",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Підтримка суб’єктів господарювання",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3639,
+    "inputbase": "Закон"
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
     "code": "1201580",
     "level": 3,
     "isactive": 1,
@@ -8058,6 +8075,23 @@
     "inputbase": "Закон"
   },
   {
+    "idFkv": 358,
+    "programType": 2,
+    "code": "3107600",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3107000",
+    "actyvPr": 1,
+    "name": "Розвиток автомагістралей та реформа дорожнього сектору",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3640,
+    "inputbase": "Закон"
+  },
+  {
     "idFkv": 0,
     "programType": 0,
     "code": "3108000",
@@ -8157,23 +8191,6 @@
     "comment": null,
     "datefrom": "2023-01-01",
     "id": 1819,
-    "inputbase": "Закон"
-  },
-  {
-    "idFkv": 358,
-    "programType": 2,
-    "code": "3111600",
-    "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "3111000",
-    "actyvPr": 1,
-    "name": "Розвиток автомагістралей та реформа дорожнього сектору",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2019-01-01",
-    "id": 594,
     "inputbase": "Закон"
   },
   {
