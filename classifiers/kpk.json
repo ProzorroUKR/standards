@@ -10200,6 +10200,26 @@
   {
     "idFkv": 372,
     "programType": 1,
+    "code": "1201540",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 1,
+    "name": "Підтримка суб’єктів господарювання",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3639,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
     "code": "1201550",
     "level": 3,
     "isactive": 0,
@@ -33279,6 +33299,26 @@
     ]
   },
   {
+    "idFkv": 375,
+    "programType": 1,
+    "code": "2801800",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2801000",
+    "actyvPr": 1,
+    "name": "Реалізація публічних інвестиційних проектів з відновлення гідрологічного стану та реконструкції гідротехнічних споруд Придунайських озер",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3645,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
     "idFkv": 0,
     "programType": 0,
     "code": "2803000",
@@ -36678,6 +36718,26 @@
     ]
   },
   {
+    "idFkv": 360,
+    "programType": 1,
+    "code": "3101510",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 1,
+    "name": "Впровадження та координація заходів проекту «Рішення для відновлюваної енергетики (RES)»",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3643,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
     "idFkv": 445,
     "programType": 1,
     "code": "3101520",
@@ -37715,6 +37775,26 @@
     ]
   },
   {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "3101870",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 1,
+    "name": "Реалізація публічних інвестиційних проектів Міністерства з відновлення, інфраструктури та транспорту України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3646,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
     "idFkv": 0,
     "programType": 0,
     "code": "3102000",
@@ -38453,6 +38533,26 @@
     "inputbase": "Закон",
     "years": [
       2023
+    ]
+  },
+  {
+    "idFkv": 358,
+    "programType": 2,
+    "code": "3107600",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3107000",
+    "actyvPr": 1,
+    "name": "Розвиток автомагістралей та реформа дорожнього сектору",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3640,
+    "inputbase": "Закон",
+    "years": [
+      2027
     ]
   },
   {
@@ -39688,9 +39788,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "3111000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Розвиток автомагістралей та реформа дорожнього сектору",
-    "dateto": null,
+    "dateto": "2026-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2019-01-01",
@@ -39704,8 +39804,7 @@
       2023,
       2024,
       2025,
-      2026,
-      2027
+      2026
     ]
   },
   {
@@ -41013,6 +41112,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
+    "code": "3121500",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3121000",
+    "actyvPr": 1,
+    "name": "«Субвенція з державного бюджету місцевим бюджетам на реалізацію проектів в рамках проекту «Рішення для відновлюваної енергетики (RES)»",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3644,
+    "inputbase": "Закон",
+    "years": [
+      2027
     ]
   },
   {
