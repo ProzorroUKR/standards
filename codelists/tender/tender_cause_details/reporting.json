@@ -511,5 +511,14 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/1275-2022-%D0%BF/ed20260901#n18",
     "scheme": "DECREE1275",
     "archive": false
+  },
+  "urgentUnforeseeableNeed": {
+    "title_uk": "Абзац 1 підпункту 10 пункту 9",
+    "title_en": "Paragraph 1, subparagraph 10, clause 9",
+    "description_uk": "У разі, коли в державного замовника виникла нагальна потреба (існує об’єктивна, документально підтверджена необхідність у здійсненні закупівлі, зумовлена непередбачуваними для державного замовника обставинами, що не залежать від його рішень, дій чи бездіяльності, та унеможливлюють дотримання строків для проведення відкритих торгів або застосування електронного каталогу в разі закупівлі товару) здійснити закупівлю, крім підстав, вказаних в інших абзацах цього підпункту",
+    "description_en": "In the event that a government procuring entity faces an urgent need (there is an objective, documented necessity to make a purchase, caused by circumstances unforeseeable to the government procuring entity and beyond its control, whether due to its decisions, actions, or inaction, and which make it impossible to comply with the deadlines for conducting open tenders or using an electronic catalog in the case of goods procurement), to carry out the procurement, in addition to the grounds specified in the other paragraphs of this subparagraph",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1275-2022-%D0%BF/ed20260901#n18",
+    "scheme": "DECREE1275",
+    "archive": false
   }
 }
