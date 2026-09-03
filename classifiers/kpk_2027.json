@@ -6868,6 +6868,23 @@
     "inputbase": "Закон"
   },
   {
+    "idFkv": 375,
+    "programType": 1,
+    "code": "2801800",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2801000",
+    "actyvPr": 1,
+    "name": "Реалізація публічних інвестиційних проектів з відновлення гідрологічного стану та реконструкції гідротехнічних споруд Придунайських озер",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3645,
+    "inputbase": "Закон"
+  },
+  {
     "idFkv": 0,
     "programType": 0,
     "code": "2803000",
@@ -7633,6 +7650,23 @@
     "inputbase": "Закон"
   },
   {
+    "idFkv": 360,
+    "programType": 1,
+    "code": "3101510",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 1,
+    "name": "Впровадження та координація заходів проекту «Рішення для відновлюваної енергетики (RES)»",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3643,
+    "inputbase": "Закон"
+  },
+  {
     "idFkv": 383,
     "programType": 1,
     "code": "3101570",
@@ -7868,6 +7902,23 @@
     "comment": null,
     "datefrom": "2027-01-01",
     "id": 3052,
+    "inputbase": "Закон"
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "3101870",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 1,
+    "name": "Реалізація публічних інвестиційних проектів Міністерства з відновлення, інфраструктури та транспорту України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3646,
     "inputbase": "Закон"
   },
   {
@@ -8310,6 +8361,23 @@
     "comment": null,
     "datefrom": "2027-01-01",
     "id": 3606,
+    "inputbase": "Закон"
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
+    "code": "3121500",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3121000",
+    "actyvPr": 1,
+    "name": "«Субвенція з державного бюджету місцевим бюджетам на реалізацію проектів в рамках проекту «Рішення для відновлюваної енергетики (RES)»",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3644,
     "inputbase": "Закон"
   },
   {
