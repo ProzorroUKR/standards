@@ -223,5 +223,14 @@
     "uri": "https://www.kmu.gov.ua/npas/pro-vnesennia-zmin-do-postanov-kabinetu-ministriv-ukrainy-vid-12-zhovtnia-2022-r-1178-i-vid-t150726",
     "scheme": "DECREE1178",
     "archive": true
+  },
+  "urgentNeed": {
+    "title_uk": "Абзац 1 підпункту 3 пункту 13",
+    "title_en": "Paragraph 1, subparagraph 3, clause 13",
+    "description_uk": "Коли в замовника виникла нагальна потреба (існує об’єктивна, документально підтверджена необхідність у здійсненні закупівлі, зумовлена непередбачуваними для замовника обставинами, що не залежать від його рішень, дій чи бездіяльності, які унеможливлюють дотримання строків для проведення відкритих торгів або застосування електронного каталогу в разі закупівлі товару) здійснити закупівлю, крім підстав, вказаних в інших абзацах цього підпункту",
+    "description_en": "When the customer has an urgent need (there is an objective, documented need to make a purchase, caused by circumstances unforeseeable to the procuring entity and beyond its control, regardless of its decisions, actions, or inaction that make it impossible to comply with the deadlines for conducting open tenders or using an electronic catalog when purchasing goods), to make a purchase, except for the grounds specified in the other paragraphs of this subparagraph",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
+    "scheme": "DECREE1178",
+    "archive": false
   }
 }
