@@ -1,0 +1,30 @@
+{
+  "noDemand": {
+    "title_uk": "Відсутність подальшої потреби в закупівлі товару (товарів), робіт та/або послуги (послуг)",
+    "title_en": "There is no longer a need to procure the goods, works and/or services"
+  },
+  "unFixable": {
+    "title_uk": "Виявлення порушень законодавства у сфері закупівель, які неможливо усунути, з описом таких порушень (крім випадків, якщо такі порушення виникли внаслідок дій чи бездіяльності замовника, спрямованих на створення умов для вчинення порушень, які неможливо усунути)",
+    "title_en": "Violations of procurement legislation have been identified that cannot be remedied, together with a description of such violations (except where such violations have arisen as a result of acts or omissions of the procuring entity intended to create conditions for the commission of violations that cannot be remedied)"
+  },
+  "forceMajeure": {
+    "title_uk": "Здійснення закупівлі стало неможливим внаслідок дії обставин непереборної сили",
+    "title_en": "The procurement has become impossible due to force majeure circumstances"
+  },
+  "expensesCut": {
+    "title_uk": "Скорочення видатків на здійснення закупівлі товару (товарів), робіт та/або послуги (послуг)",
+    "title_en": "The expenditure allocated for the procurement of the goods, works and/or services has been reduced"
+  },
+  "noObjectiveness": {
+    "title_uk": "Допущення замовником порушення, що вплинуло на об’єктивність визначення переможця",
+    "title_en": "The procuring entity has committed a violation that affected the objectivity of winner determination"
+  },
+  "dateViolation": {
+    "title_uk": "Непідписання публічного договору у строк",
+    "title_en": "The public contract has not been signed within deadline"
+  },
+  "noLocalization": {
+    "title_uk": "Органом державного фінансового контролю встановлено, що в тендерній документації / оголошенні про закупівлю / запиті пропозицій учасників не визначено вимоги щодо відповідності предмета закупівлі встановленому ступеню локалізації виробництва для товарів, щодо яких застосовуються вимоги щодо ступеня локалізації виробництва",
+    "title_en": "The government financial oversight body establishes that the bidding documents / notice for procurement / price quotation under the DPS do not specify the requirement that the subject matter of procurement comply with the prescribed degree of production localisation for goods to which the production localisation requirements apply"
+  }
+}
