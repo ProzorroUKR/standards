@@ -38,8 +38,8 @@
   "defenceVehicles": {
     "title_uk": "Підпункт 5 пункту 9",
     "title_en": "Subparagraph 5 of paragraph 9",
-    "description_uk": "Для здійснення військовими частинами закупівлі таких транспортних засобів, що були в користуванні, за умови наявності їх штатно-табельної потреби: (мікроавтобусів та легкових автомобілей підвищеної прохідності, зокрема з типом кузова пікап; мотоциклів та мотовсюдиходів (квадроциклів, зокрема квадроциклів типу багі), в тому числі з електричними або гібридними силовими установками)",
-    "description_en": "For the purchase by military units of the following vehicles that were in use, provided that there is a staffing requirement for them: (minibuses and off-road passenger cars, in particular with a pickup body type; motorcycles and all-terrain vehicles (quadricycles, in particular buggy-type quadricycles), including those with electric or hybrid power plants)",
+    "description_uk": "Для здійснення військовими частинами закупівлі таких транспортних засобів, що були в користуванні, за умови наявності їх штатно-табельної потреби: мікроавтобусів та легкових автомобілей підвищеної прохідності, зокрема з типом кузова пікап; мотоциклів та мотовсюдиходів (квадроциклів, зокрема квадроциклів типу багі), в тому числі з електричними або гібридними силовими установками",
+    "description_en": "For the procurement by military units of the following used vehicles, provided that there is an established staffing and equipment requirement for such vehicles: minibuses and off-road passenger vehicles, including pickup trucks; motorcycles and all-terrain vehicles (quad bikes, including buggy-type quad bikes), including those equipped with electric or hybrid powertrains",
     "uri": "https://zakon.rada.gov.ua/laws/show/1275-2022-%D0%BF#n18",
     "scheme": "DECREE1275",
     "archive": false
