@@ -1,19 +1,19 @@
 {
   "noDemand": {
-    "title_uk": "Відсутність подальшої потреби в закупівлі товару (товарів), робіт та/або послуги (послуг)",
-    "title_en": "There is no longer a need to procure the goods, works and/or services"
+    "title_uk": "Відсутність подальшої потреби у закупівлі",
+    "title_en": "There is no longer any need for the procurement"
   },
   "unFixable": {
-    "title_uk": "Виявлення порушень законодавства у сфері закупівель, які неможливо усунути, з описом таких порушень (крім випадків, якщо такі порушення виникли внаслідок дій чи бездіяльності замовника, спрямованих на створення умов для вчинення порушень, які неможливо усунути)",
-    "title_en": "Violations of procurement legislation have been identified that cannot be remedied, together with a description of such violations (except where such violations have arisen as a result of acts or omissions of the procuring entity intended to create conditions for the commission of violations that cannot be remedied)"
+    "title_uk": "Виявлення порушень законодавства у сфері закупівель, які неможливо усунути, з описом таких порушень",
+    "title_en": "Violations of the public procurement legislation have been identified that cannot be remedied, together with a description of such violations"
   },
   "forceMajeure": {
     "title_uk": "Здійснення закупівлі стало неможливим внаслідок дії обставин непереборної сили",
     "title_en": "The procurement has become impossible due to force majeure circumstances"
   },
   "expensesCut": {
-    "title_uk": "Скорочення видатків на здійснення закупівлі товару (товарів), робіт та/або послуги (послуг)",
-    "title_en": "The expenditure allocated for the procurement of the goods, works and/or services has been reduced"
+    "title_uk": "Скорочення видатків на здійснення закупівлі",
+    "title_en": "The expenditure allocated for the procurement has been reduced"
   },
   "noObjectiveness": {
     "title_uk": "Допущення замовником порушення, що вплинуло на об’єктивність визначення переможця",
