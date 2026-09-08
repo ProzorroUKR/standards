@@ -131,7 +131,7 @@
     "title_en": "Technical, qualitative and quantitative characteristics of the subject matter of procurement",
     "description_uk": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг).",
     "description_en": "Technical specifications shall include a description of all characteristics of the goods, works or services to be procured that are necessary for the purposes of the procurement, including their technical, functional, quantitative and qualitative characteristics. The characteristics of the goods, works or services may include a description of a specific technological process, production technology or delivery method for the goods, the performance of the required works or the provision of the services.",
-    "source": "", <----- tenderer або candidate
+    "source": "",
     "classification": {
       "scheme": "LAW4888",
       "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
