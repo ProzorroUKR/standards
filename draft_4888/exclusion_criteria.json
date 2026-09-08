@@ -447,7 +447,7 @@
         "identifier": {
           "id": "4888-IX",
           "legalName_uk": "Закон України \"Про публічні закупівлі\"",
-          "legalName_en": "Law of Ukraine \"On Public Procurement\"", 
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
           "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n695"
         },
         "type": "NATIONAL_LEGISLATION",
@@ -458,7 +458,7 @@
         "identifier": {
           "id": "1644-VII",
           "legalName_uk": "Закон України \"Про санкції\"",
-          "legalName_en": "Law of Ukraine \"On Sanctions\"",          
+          "legalName_en": "Law of Ukraine \"On Sanctions\"",
           "uri": "https://zakon.rada.gov.ua/laws/show/1644-18"
         },
         "type": "NATIONAL_LEGISLATION"
