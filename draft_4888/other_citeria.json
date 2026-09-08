@@ -1,0 +1,487 @@
+[
+  {
+    "title_uk": "Створення передумов для сталого розвитку та модернізації вітчизняної промисловості",
+    "title_en": "Creating conditions for the sustainable development and modernisation of domestic industry",
+    "description_uk": "Товар включений до додаткового переліку, що затверджений Кабінетом Міністрів України, і має ступінь локалізації виробництва, який перевищує або дорівнює ступеню локалізації виробництва, встановленому на відповідний рік. Ці вимоги не застосовуються до закупівель, які підпадають під дію положень Закону України \"Про приєднання України до Угоди про державні закупівлі\", а також положень про державні закупівлі інших міжнародних договорів України, згода на обов’язковість яких надана Верховною Радою України.",
+    "description_en": "The goods are included in the additional list approved by the Cabinet of Ministers of Ukraine and have a degree of production localisation that is equal to or exceeds the degree of production localisation established for the relevant year. These requirements shall not apply to procurements falling within the scope of the Law of Ukraine \"On Ukraine's Accession to the Agreement on Government Procurement\", or the government procurement provisions of other international treaties of Ukraine approved by the Verkhovna Rada of Ukraine as binding.",
+    "source": "",
+    "classification": {
+      "scheme": "LAW4888",
+      "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.LOCAL_ORIGIN_LEVEL"
+    },
+    "relatesTo": "item",
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n2151"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "XIV.5.3"
+      },
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n2151"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "XIV.5.5"
+      },
+      {
+        "version": "",
+        "type": "NATIONAL_LEGISLATION",
+        "article": "",
+        "identifier": {
+          "id": "861-2022-п",
+          "legalName_uk": "Про затвердження порядків підтвердження ступеня локалізації виробництва товарів та проведення моніторингу дотримання вимог щодо ступеня локалізації виробництва предметів закупівлі, внесених до переліку товарів, що є предметом закупівлі, з підтвердженим ступенем локалізації виробництва",
+          "legalName_en": "On the approval of procedures for confirming the degree of localization of production of goods and monitoring compliance with the requirements regarding the degree of localization of production of procurement items included in the list of goods that are the subject of procurement with a confirmed degree of localization of production",
+          "uri": ""
+        }
+      }
+    ],
+    "requirementGroups": [
+      {
+        "description_uk": "За наявності складових вітчизняного виробництва у собівартості товару, підтверджується, що:",
+        "description_en": "Where the cost of the goods includes domestically produced components, it is confirmed that:",
+        "requirements": [
+          {
+            "title_uk": "Ступінь локалізації виробництва товару, що є предметом закупівлі, перевищує або дорівнює ступеню локалізації виробництва, встановленому на відповідний рік",
+            "title_en": "The degree of production localisation of the goods constituting the subject matter of procurement is equal to or exceeds the degree of production localisation established for the relevant year",
+            "dataType": "number",
+            "minValue": 35.0,
+            "unit": {
+              "name": "відсоток",
+              "code": "P1"
+            }
+          }
+        ]
+      },
+      {
+        "description_uk": "За відсутності складових вітчизняного виробництва у собівартості товару, підтверджується, що:",
+        "description_en": "Where domestically produced components are not included in the cost of the goods, it is confirmed that:",
+        "requirements": [
+          {
+            "title_uk": "Товар походить з однієї з країн, що підписала Угоду про державні закупівлі Світової Організації торгівлі (GPA) або іншої країни з якою Україна має міжнародні договори про державні закупівлі",
+            "title_en": "The goods originate in a country that is a Technical, qualitative and quantitative characteristics of the subject matter of procurement, or in another country with which Ukraine has concluded an international treaty containing provisions on government procurement",
+            "dataSchema": "ISO 3166-1 alpha-2",
+            "dataType": "string",
+            "expectedMinItems": 1,
+            "expectedValues": [
+              "AM",
+              "AU",
+              "CA",
+              "AT",
+              "BE",
+              "BG",
+              "HR",
+              "CY",
+              "EE",
+              "CZ",
+              "DK",
+              "FI",
+              "FR",
+              "GR",
+              "ES",
+              "NL",
+              "IE",
+              "LT",
+              "LU",
+              "LV",
+              "MT",
+              "DE",
+              "PL",
+              "PT",
+              "RO",
+              "SK",
+              "SI",
+              "SE",
+              "HU",
+              "IT",
+              "IL",
+              "MD",
+              "ME",
+              "HK",
+              "IS",
+              "JP",
+              "KR",
+              "LI",
+              "AW",
+              "NZ",
+              "MK",
+              "NO",
+              "SG",
+              "CH",
+              "TW",
+              "GB",
+              "US"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title_uk": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+    "title_en": "Technical, qualitative and quantitative characteristics of the subject matter of procurement",
+    "description_uk": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг).",
+    "description_en": "Technical specifications shall include a description of all characteristics of the goods, works or services to be procured that are necessary for the purposes of the procurement, including their technical, functional, quantitative and qualitative characteristics. The characteristics of the goods, works or services may include a description of a specific technological process, production technology or delivery method for the goods, the performance of the required works or the provision of the services.",
+    "source": "", <----- tenderer або candidate
+    "classification": {
+      "scheme": "LAW4888",
+      "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+    },
+    "relatesTo": "item",
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n852"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "24.2.3"
+      },
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n889"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "25"
+      },
+      {
+        "version": "",
+        "identifier": {
+          "id": "1135-2023-п",
+          "legalName_uk": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+          "legalName_en": "On making changes to the resolutions of the Cabinet of Ministers of Ukraine dated September 14, 2020 No. 822 and dated October 12, 2022 No. 1178",
+          "uri": ""
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": ""
+      }
+    ],
+    "requirementGroups": [
+      {
+        "description_uk": "Підтверджується, що:",
+        "description_en": "It is confirmed that:",
+        "requirements": [
+          {
+            "title": "",
+            "dataType": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title_uk": "Строк дії тендерної пропозиції",
+    "title_en": "Bid validity period",
+    "description_uk": "Строк, протягом якого тендерні пропозиції вважаються дійсними, але не менше 90 днів із дати кінцевого строку подання тендерних пропозицій.",
+    "description_en": "Bid validity term, during which the bids are deemed to be valid, but at least 90 days upon the bid submission deadline.",
+    "source": "tenderer",
+    "classification": {
+      "scheme": "LAW4888",
+      "id": "CRITERION.OTHER.BID.VALIDITY_PERIOD"
+    },
+    "relatesTo": "tender",
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n864"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "24.2.10"
+      }
+    ],
+    "requirementGroups": [
+      {
+        "description_uk": "Підтверджується, що:",
+        "description_en": "It is confirmed that:",
+        "requirements": [
+          {
+            "title_uk": "Строк дії тендерної пропозиції із дати кінцевого строку подання тендерних пропозицій",
+            "title_en": "Bid validity term, during which the bids are deemed to be valid, but at least 90 days upon the bid submission deadline",
+            "dataType": "integer",
+            "minValue": 90,
+            "unit": {
+              "code": "DAY",
+              "name": "день"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Мова (мови) тендерної пропозиції",
+    "title_en": "Bid language(s)",
+    "description_uk": "Під час проведення закупівлі всі документи, що готуються замовником, складаються українською мовою. За рішенням замовника одночасно всі документи можуть містити автентичний переклад на іншу мову. Визначальним є текст, викладений українською мовою. Тендерна пропозиція / заявка, інформація та усі документи, що входять до складу тендерної пропозиції / заявки та підготовлені безпосередньо суб’єктом господарювання / кандидатом / учасником процедури закупівлі, мають бути складені українською мовою або містити автентичний переклад на українську мову. Визначальним є текст, викладений українською мовою.",
+    "description_en": "During procurement, all documents prepared by the procuring entity shall be drawn up in the Ukrainian language. By decision of the procuring entity, all such documents may simultaneously include an authentic translation into another language. In the event of any discrepancy, the text in the Ukrainian language shall prevail. A bid/request to participate, the information contained therein, and all documents forming part of the bid/request to participate and prepared directly by the economic operator / candidate / bidder shall be drawn up in the Ukrainian language or be accompanied by an authentic translation into the Ukrainian language. In the event of any discrepancy, the text in the Ukrainian language shall prevail.",
+    "source": "",
+    "classification": {
+      "scheme": "LAW4888",
+      "id": "CRITERION.OTHER.BID.LANGUAGE"
+    },
+    "relatesTo": "tender",
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n580"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "15.9"
+      }
+    ],
+    "requirementGroups": [
+      {
+        "description_uk": "Підтверджується, що:",
+        "description_en": "It is confirmed that:",
+        "requirements": [
+          {
+            "title_uk": "Мова тендерної пропозиції",
+            "title_en": "Language of the bid",
+            "dataSchema": "ISO 639-3",
+            "dataType": "string",
+            "expectedMinItems": 1,
+            "expectedValues": [
+              "ukr",
+              "eng",
+              "fra",
+              "spa"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title_uk": "Забезпечення тендерних пропозицій",
+    "title_en": "Bid security",
+    "description_uk": "Забезпечення тендерної пропозиції / варіанта не повертається у разі: 1) відкликання тендерної пропозиції / варіанта суб’єктом господарювання після закінчення строку її / його подання, але до спливу строку, протягом якого тендерна пропозиція / варіант вважається дійсною / дійсним; 2) непідписання переможцем публічного договору; 3) ненадання переможцем (крім переговорної процедури без попередньої публікації) у строк, визначений частиною п’ятою статті 21 цього Закону, документів, що підтверджують відсутність підстав для відмови в участі у закупівлі, встановлених статтею 21 цього Закону; 4) ненадання переможцем (крім переговорної процедури без попередньої публікації) забезпечення виконання публічного договору після отримання повідомлення про намір укласти публічний договір, якщо надання такого забезпечення передбачено тендерною документацією.",
+    "description_en": "The bid security / variant security shall not be returned if: 1) the economic operator withdraws its bid / variant after expiry of the deadline for submission thereof but before the expiry of the period during which the bid / variant remains valid; 2) the winner fails to sign the public contract; 3) the winner (except where the negotiated procedure without prior publication is applied) fails to provide, within the time limit specified in Part 5 of Article 21 of this Law, the documents confirming the absence of the grounds for refusing its participation in procurement established by Article 21 of this Law; 4) the winner (except where the negotiated procedure without prior publication is applied) fails to provide the performance security after receiving the notice of intent to award a public contract, where the provision of such security is required by the bidding documents.",
+    "source": "tenderer",
+    "classification": {
+      "scheme": "LAW4888",
+      "id": "CRITERION.OTHER.BID.GUARANTEE"
+    },
+    "relatesTo": "lot",
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n865"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "24.2.14"
+      },
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n929"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "28.3"
+      }
+    ],
+    "requirementGroups": [
+      {
+        "description_uk": "Підтверджується, що:",
+        "description_en": "It is confirmed that:",
+        "requirements": [
+          {
+            "title_uk": "Розмір забезпечення тендерної пропозиції/пропозиції у грошовому виразі у % від очікуваної вартості закупівлі",
+            "title_en": "The amount of the bid security, expressed in monetary terms, as a percentage of the estimated value of the procurement",
+            "dataType": "number",
+            "minValue": 0.0,
+            "maxValue": 3.0,
+            "unit": {
+              "name": "відсоток",
+              "code": "P1"
+            },
+            "eligibleEvidences": [
+              {
+                "title_uk": "Гарантія забезпечення тендерної пропозиції/пропозиції",
+                "title_en": "Bid security guarantee",
+                "type": "document"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title_uk": "Забезпечення виконання публічного договору",
+    "title_en": "Contract security",
+    "description_uk": "Замовник повертає забезпечення виконання публічного договору: 1) після виконання переможцем публічного договору; 2) за рішенням суду про повернення забезпечення публічного договору у разі визнання результатів процедури закупівлі недійсними або публічного договору нікчемним; 3) у випадках, визначених статтею 58 цього Закону; 4) згідно з умовами, зазначеними в публічному договорі, але не пізніш як протягом п’яти робочих днів з дня настання зазначених обставин.",
+    "description_en": "The procuring entity shall return the performance security for the public contract: 1) after the winner has performed the public contract; 2) pursuant to a court decision ordering the return of the performance security for the public contract where the outcomes of the procurement procedure have been declared invalid or the public contract has been declared void; 3) in the cases provided for by Article 58 of this Law; 4) in accordance with the terms and conditions set out in the public contract, but no later than within five (5) business days from the date on which the relevant circumstances arise.",
+    "source": "winner",
+    "classification": {
+      "scheme": "LAW4888",
+      "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+    },
+    "relatesTo": "",
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n868"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "24.2.15"
+      },
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n967"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "30.2"
+      }
+    ],
+    "requirementGroups": [
+      {
+        "description_uk": "При наданні забезпечення у формі банківської гарантії підтверджується, що:",
+        "description_en": "Where the security is provided in the form of a guarantee issued by a bank, it is confirmed that:",
+        "requirements": [
+          {
+            "title_uk": "Сума забезпечення виконання публічного договору про закупівлю становить % від ціни цього публічного Договору",
+            "title_en": "The amount of the performance security for the public contract is % of the price of this public contract",
+            "dataType": "number",
+            "minValue": 0.0,
+            "maxValue": 5.0,
+            "unit": {
+              "name": "відсоток",
+              "code": "P1"
+            },
+            "eligibleEvidences": [
+              {
+                "title_uk": "Банківська гарантія забезпечення договору",
+                "title_en": "Bank guarantee for contract performance",
+                "type": "document"
+              }
+            ]
+          },
+          {
+            "title_uk": "Строк дії гарантії перевищує строк дії Договору про закупівлю на",
+            "title_en": "The validity period of the guarantee exceeds the term of the public contract by",
+            "dataType": "integer",
+            "minValue": 0,
+            "unit": {
+              "name": "день",
+              "code": "DAY"
+            }
+          }
+        ]
+      },
+      {
+        "description_uk": "При наданні забезпечення у іншій формі підтверджується, що:",
+        "description_en": "Where the security is provided in another form, it is confirmed that:",
+        "requirements": [
+          {
+            "title": "",
+            "dataType": "boolean",
+            "expectedValue": true,
+            "eligibleEvidences": [
+              {
+                "title": "",
+                "type": "document"
+              }
+            ]
+          },
+          {
+            "title_uk": "Сума забезпечення виконання публічного договору про закупівлю становить % від ціни цього публічного Договору",
+            "title_en": "The amount of the performance security for the public contract is % of the price of this public contract",
+            "dataType": "number",
+            "minValue": 0.0,
+            "maxValue": 5.0,
+            "unit": {
+              "name": "відсоток",
+              "code": "P1"
+            }
+          },
+          {
+            "title_uk": "Строк дії гарантії перевищує строк дії Договору про закупівлю на",
+            "title_en": "The validity period of the guarantee exceeds the term of the public contract by",
+            "dataType": "integer",
+            "minValue": 0,
+            "unit": {
+              "name": "день",
+              "code": "DAY"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title_uk": "Відповідність екологічним нормам",
+    "title_en": "Compliance with environmental standards",
+    "description_uk": "Замовник може вимагати від суб’єктів господарювання підтвердження того, що пропоновані ними товари, роботи та/або послуги за своїми екологічними чи іншими характеристиками відповідають вимогам, встановленим у тендерній документації. У разі встановлення екологічних чи інших характеристик товару, роботи та/або послуги замовник повинен у тендерній документації зазначити, які маркування, протоколи випробувань, декларації або сертифікати можуть підтвердити відповідність предмета закупівлі таким характеристикам. Маркування, протоколи випробувань та сертифікати повинні бути видані органами з оцінки відповідності, компетентність яких підтверджена шляхом акредитації або в інший спосіб, визначений законодавством.",
+    "description_en": "The procuring entity may require economic operators to provide evidence that the goods, works and/or services proposed by them comply, by virtue of their environmental or other characteristics, with the requirements established in the bidding documents. Where environmental or other characteristics of the goods, works and/or services are specified, the procuring entity shall indicate in the bidding documents which labels, test reports, declarations or certificates may be used to demonstrate the compliance of the subject matter of procurement with such characteristics. Labels, test reports and certificates shall be issued by conformity assessment bodies whose competence has been confirmed through accreditation or another method established by law.",
+    "source": "",
+    "classification": {
+      "scheme": "LAW4888",
+      "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.ENVIRONMENTAL_MANAGEMENT_MEASURES"
+    },
+    "relatesTo": "",
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n896"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "25.6"
+      }
+    ],
+    "requirementGroups": [
+      {
+        "description_uk": "Підтверджується, що:",
+        "description_en": "It is confirmed that:",
+        "requirements": [
+          {
+            "title": "",
+            "dataType": "boolean",
+            "expectedValue": true
+          }
+        ]
+      }
+    ]
+  }
+]
