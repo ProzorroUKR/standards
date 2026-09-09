@@ -1,0 +1,30 @@
+{
+  "noDemand": {
+    "title_uk": "Відсутність подальшої потреби у закупівлі",
+    "title_en": "There is no longer any need for the procurement"
+  },
+  "unFixable": {
+    "title_uk": "Виявлення порушень законодавства у сфері закупівель, які неможливо усунути, з описом таких порушень",
+    "title_en": "Violations of the public procurement legislation have been identified that cannot be remedied, together with a description of such violations"
+  },
+  "forceMajeure": {
+    "title_uk": "Здійснення закупівлі стало неможливим внаслідок дії обставин непереборної сили",
+    "title_en": "The procurement has become impossible due to force majeure circumstances"
+  },
+  "expensesCut": {
+    "title_uk": "Скорочення видатків на здійснення закупівлі",
+    "title_en": "The expenditure allocated for the procurement has been reduced"
+  },
+  "noObjectiveness": {
+    "title_uk": "Допущення замовником порушення, що вплинуло на об’єктивність визначення переможця",
+    "title_en": "The procuring entity has committed a violation that affected the objectivity of winner determination"
+  },
+  "dateViolation": {
+    "title_uk": "Непідписання публічного договору у строк",
+    "title_en": "The public contract has not been signed within deadline"
+  },
+  "noLocalization": {
+    "title_uk": "Органом державного фінансового контролю встановлено, що в тендерній документації / оголошенні про закупівлю / запиті пропозицій учасників не визначено вимоги щодо відповідності предмета закупівлі встановленому ступеню локалізації виробництва для товарів, щодо яких застосовуються вимоги щодо ступеня локалізації виробництва",
+    "title_en": "The government financial oversight body establishes that the bidding documents / notice for procurement / price quotation under the DPS do not specify the requirement that the subject matter of procurement comply with the prescribed degree of production localisation for goods to which the production localisation requirements apply"
+  }
+}
