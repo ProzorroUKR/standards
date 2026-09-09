@@ -1,0 +1,182 @@
+{
+  "noProvedExperience": {
+    "title_uk": "Пункт 1 частини 7 статті 21(3) закону 772",
+    "title_en": "Clause 1 of part 7 of article 21(3) of law 772",
+    "description_uk": "учасник не має підтвердженого досвіду здійснення діяльності, визначеної абзацом другим частини шостої цієї статті, протягом щонайменше трьох років, що передують року подання документів для участі у попередній кваліфікації",
+    "description_en": "the participant has no confirmed experience in carrying out the activities defined in the second paragraph of part six of this article for at least three years preceding the year of submission of documents for participation in pre-qualification",
+    "scheme": "LAW772",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+  },
+  "relatedToArrestedAssetOwner": {
+    "title_uk": "Пункт 2 частини 7 статті 21(3) закону 772",
+    "title_en": "Clause 2 of part 7 of article 21(3) of law 772",
+    "description_uk": "учасник є особою, пов’язаною з власником арештованого активу, підозрюваним, обвинуваченим у відповідному кримінальному провадженні, відповідачем у справі про визнання необґрунтованими активів та їх стягнення в дохід держави (пов’язаною особою)",
+    "description_en": "the participant is a person related to the owner of the seized asset, a suspect, an accused in the relevant criminal proceedings, a defendant in a case on recognizing assets as unjustified and recovering them into the state revenue (related person)",
+    "scheme": "LAW772",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+  },
+  "beneficiaryFromAggressorState": {
+    "title_uk": "Пункт 3 частини 7 статті 21(3) закону 772",
+    "title_en": "Clause 3 of part 7 of article 21(3) of law 772",
+    "description_uk": "учасник є кінцевим бенефіціарним власником та перебуває у складі засновників (учасників) або структурі власності юридичної особи фізичних або юридичних осіб, місцем проживання (розташування) або реєстрації яких є держава, визнана Верховною Радою України державою-агресором",
+    "description_en": "the participant is the ultimate beneficial owner and is part of the founders (participants) or ownership structure of a legal entity of physical or legal entities whose place of residence (location) or registration is a state recognized by the Verkhovna Rada of Ukraine as an aggressor state",
+    "scheme": "LAW772",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+  },
+  "registeredInAggressorState": {
+    "title_uk": "Пункт 4 частини 7 статті 21(3) закону 772",
+    "title_en": "Clause 4 of part 7 of article 21(3) of law 772",
+    "description_uk": "учасник має місце реєстрації чи місцезнаходження в державі, визнаній Верховною Радою України державою-агресором, та/або в державі (юрисдикції), що не виконує чи неналежним чином виконує рекомендації міжнародних, міжурядових організацій, задіяних у сфері боротьби з легалізацією (відмиванням) доходів, одержаних злочинним шляхом, фінансуванням тероризму чи фінансуванням розповсюдження зброї масового знищення",
+    "description_en": "the participant has a place of registration or location in a state recognized by the Verkhovna Rada of Ukraine as an aggressor state, and/or in a state (jurisdiction) that does not fulfill or improperly fulfills the recommendations of international, intergovernmental organizations involved in the fight against the legalization (laundering) of proceeds from crime, terrorist financing or the financing of the proliferation of weapons of mass destruction",
+    "scheme": "LAW772",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+  },
+  "shareInAggressorState": {
+    "title_uk": "Пункт 5 частини 7 статті 21(3) закону 772",
+    "title_en": "Clause 5 of part 7 of article 21(3) of law 772",
+    "description_uk": "учасник володіє прямо та/або опосередковано, самостійно чи спільно з іншими особами часткою в юридичній особі, яка зареєстрована чи є податковим резидентом або місцезнаходженням якої є держава, визнана Верховною Радою України державою-агресором, та/або має відокремлений підрозділ у державі, визнаній Верховною Радою України державою-агресором",
+    "description_en": "the participant owns directly and/or indirectly, alone or jointly with other persons, a share in a legal entity registered or a tax resident or located in a state recognized by the Verkhovna Rada of Ukraine as an aggressor state, and/or has a separate subdivision in a state recognized by the Verkhovna Rada of Ukraine as an aggressor state",
+    "scheme": "LAW772",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+  },
+  "ukraineSanctions": {
+    "title_uk": "Пункт 6 частини 7 статті 21(3) закону 772",
+    "title_en": "Clause 6 of part 7 of article 21(3) of law 772",
+    "description_uk": "учасник та/або кінцевий бенефіціарний власник учасника є особою, до якої застосовано санкції згідно із Законом України \"Про санкції\"",
+    "description_en": "the participant and/or the ultimate beneficial owner of the participant is a person subjected to sanctions according to the Law of Ukraine \"On Sanctions\"",
+    "scheme": "LAW772",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+  },
+  "internationalSanctions": {
+    "title_uk": "Пункт 7 частини 7 статті 21(3) закону 772",
+    "title_en": "Clause 7 of part 7 of article 21(3) of law 772",
+    "description_uk": "учасник є особою, до якої Україною, іноземними державами (крім держав, визнаних Верховною Радою України державами-агресорами), міждержавними об’єднаннями або міжнародними організаціями застосовані санкції",
+    "description_en": "the participant is a person subjected to sanctions by Ukraine, foreign states (except for states recognized by the Verkhovna Rada of Ukraine as aggressor states), interstate associations, or international organizations",
+    "scheme": "LAW772",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+  },
+  "terroristList": {
+    "title_uk": "Пункт 8 частини 7 статті 21(3) закону 772",
+    "title_en": "Clause 8 of part 7 of article 21(3) of law 772",
+    "description_uk": "учасник включений до переліку осіб, пов’язаних з провадженням терористичної діяльності",
+    "description_en": "the participant is included in the list of persons associated with carrying out terrorist activities",
+    "scheme": "LAW772",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+  },
+  "corruptionOffense": {
+    "title_uk": "Пункт 9 частини 7 статті 21(3) закону 772",
+    "title_en": "Clause 9 of part 7 of article 21(3) of law 772",
+    "description_uk": "службову (посадову) особу учасника було притягнуто згідно із законом до відповідальності за вчинення корупційного правопорушення або правопорушення, пов’язаного з корупцією, кримінального правопорушення, пов’язаного із легалізацією доходів, отриманих злочинним шляхом, та/або вчиненого з корисливих мотивів (крім випадків, якщо судимість за таке кримінальне правопорушення знято або погашено в установленому законом порядку)",
+    "description_en": "an official of the participant was brought to responsibility according to the law for committing a corruption offense or a corruption-related offense, a criminal offense related to the legalization of proceeds from crime, and/or committed for mercenary motives (except when the criminal record for such an offense is removed or expunged in accordance with the law)",
+    "scheme": "LAW772",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n915"
+  },
+  "anticompetitiveActions": {
+    "title_uk": "Пункт 10 частини 7 статті 21(3) закону 772",
+    "title_en": "Clause 10 of part 7 of article 21(3) of law 772",
+    "description_uk": "учасник протягом останніх трьох років притягався до відповідальності за порушення, передбачене пунктом 4 частини другої статті 6, пунктом 1 статті 50 Закону України \"Про захист економічної конкуренції\", у вигляді вчинення антиконкурентних узгоджених дій, що стосуються спотворення результатів торгів, аукціонів, конкурсів, тендерів",
+    "description_en": "within the last three years, the participant was brought to responsibility for a violation provided for in paragraph 4 of part two of Article 6, paragraph 1 of Article 50 of the Law of Ukraine \"On the Protection of Economic Competition\" in the form of committing anticompetitive concerted actions regarding the distortion of the results of bidding, auctions, competitions, tenders",
+    "scheme": "LAW772",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n915"
+  },
+  "taxDebts": {
+    "title_uk": "Пункт 11 частини 7 статті 21(3) закону 772",
+    "title_en": "Clause 11 of part 7 of article 21(3) of law 772",
+    "description_uk": "учасник має заборгованості із сплати податків і зборів (обов’язкових платежів), загальна сума якої дорівнює або перевищує 100 розмірів мінімальної місячної заробітної плати, встановленої законодавством України на день подання документів, або еквівалент цієї суми в іноземній валюті",
+    "description_en": "the participant has debts in the payment of taxes and fees (mandatory payments), the total amount of which equals or exceeds 100 minimum monthly wages established by the legislation of Ukraine on the day of submission of documents, or the equivalent of this amount in foreign currency",
+    "scheme": "LAW772",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n915"
+  },
+  "bankruptcy": {
+    "title_uk": "Пункт 12 частини 7 статті 21(3) закону 772",
+    "title_en": "Clause 12 of part 7 of article 21(3) of law 772",
+    "description_uk": "учасник визнаний у встановленому законом порядку банкрутом і стосовно нього відкрито ліквідаційну процедуру",
+    "description_en": "the participant has been declared bankrupt in the manner prescribed by law, and a liquidation procedure has been initiated against them",
+    "scheme": "LAW772",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n915"
+  },
+  "failureToSubmitDocs": {
+    "title_uk": "Абзац 3 частини 12 статті 21(3) закону 772",
+    "title_en": "Paragraph 3 of part 12 of article 21(3) of law 772",
+    "description_uk": "не подав необхідні документи для підтвердження відповідності кваліфікаційним вимогам у строк, передбачений абзацом першим цієї частини",
+    "description_en": "failed to submit the necessary documents to confirm compliance with qualification requirements within the period specified in the first paragraph of this part",
+    "scheme": "LAW772",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n930"
+  },
+  "doesNotMeetRequirements": {
+    "title_uk": "Абзац 4 частини 12 статті 21(3) закону 772",
+    "title_en": "Paragraph 4 of part 12 of article 21(3) of law 772",
+    "description_uk": "за результатами розгляду поданих документів для підтвердження відповідності кваліфікаційним вимогам визнаний таким, що не відповідає кваліфікаційним вимогам",
+    "description_en": "based on the results of the review of the submitted documents for confirming compliance with qualification requirements, is recognized as not meeting the qualification requirements",
+    "scheme": "LAW772",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n930"
+  },
+  "abnormallyLowPriceUnjustified": {
+    "title_uk": "Абзац 7 частини 18 статті 21(3) закону 772",
+    "title_en": "Paragraph 7 of part 18 of article 21(3) of law 772",
+    "description_uk": "не надано обґрунтування аномально низької пропозиції або надане обґрунтування неналежне",
+    "description_en": "justification for the abnormally low price was not provided or the provided justification is improper",
+    "scheme": "LAW772",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n959"
+  },
+  "relatedToArrestedAssetOwnerBid": {
+    "title_uk": "Абзац 8 частини 18 статті 21(3) закону 772",
+    "title_en": "Paragraph 8 of part 18 of article 21(3) of law 772",
+    "description_uk": "є особою, пов’язаною з власником арештованого активу, підозрюваним, обвинуваченим у відповідному кримінальному провадженні, відповідачем у справі про визнання необґрунтованими активів та їх стягнення в дохід держави (пов’язаною особою)",
+    "description_en": "is a person related to the owner of the seized asset, a suspect, an accused in the relevant criminal proceedings, a defendant in a case on recognizing assets as unjustified and recovering them into the state revenue (related person)",
+    "scheme": "LAW772",
+    "type": "supplier",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n959"
+  },
+  "writtenRefusalToSign": {
+    "title_uk": "Абзац 1 частини 20 статті 21(3) закону 772",
+    "title_en": "Paragraph 1 of part 20 of article 21(3) of law 772",
+    "description_uk": "надав письмову відмову від підписання договору",
+    "description_en": "provided a written refusal to sign the contract",
+    "scheme": "LAW772",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n968"
+  },
+  "noContractSign": {
+    "title_uk": "Абзац 2 частини 20 статті 21(3) закону 772",
+    "title_en": "Paragraph 2 of part 20 of article 21(3) of law 772",
+    "description_uk": "не підписав договір протягом 5 робочих днів після складення протоколу аукціону",
+    "description_en": "did not sign the contract within 5 working days after the auction protocol was drawn up",
+    "scheme": "LAW772",
+    "type": "winner",
+    "archive": false,
+    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n968"
+  }
+}
