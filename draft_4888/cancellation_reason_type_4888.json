@@ -1,30 +1,58 @@
 {
   "noDemand": {
-    "title_uk": "Відсутність подальшої потреби у закупівлі",
-    "title_en": "There is no longer any need for the procurement"
+    "title_uk": "Пункт 1 частини 1 Статті 35",
+    "title_en": "Clause 1 of part 1 of Article 35",
+    "description_uk": "Відсутність подальшої потреби у закупівлі",
+    "description_en": "There is no longer any need for the procurement",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#Text",
+    "archive": false
   },
   "unFixable": {
-    "title_uk": "Виявлення порушень законодавства у сфері закупівель, які неможливо усунути, з описом таких порушень",
-    "title_en": "Violations of the public procurement legislation have been identified that cannot be remedied, together with a description of such violations"
+    "title_uk": "Пункт 2 частини 1 Статті 35",
+    "title_en": "Clause 2 of part 1 of Article 35",
+    "description_uk": "Виявлення порушень законодавства у сфері закупівель, які неможливо усунути, з описом таких порушень",
+    "description_en": "Violations of the public procurement legislation have been identified that cannot be remedied, together with a description of such violations",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#Text",
+    "archive": false
   },
   "forceMajeure": {
-    "title_uk": "Здійснення закупівлі стало неможливим внаслідок дії обставин непереборної сили",
-    "title_en": "The procurement has become impossible due to force majeure circumstances"
+    "title_uk": "Пункт 4 частини 1 Статті 35",
+    "title_en": "Clause 4 of part 1 of Article 35",
+    "description_uk": "Здійснення закупівлі стало неможливим внаслідок дії обставин непереборної сили",
+    "description_en": "The procurement has become impossible due to force majeure circumstances",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#Text",
+    "archive": false
   },
   "expensesCut": {
-    "title_uk": "Скорочення видатків на здійснення закупівлі",
-    "title_en": "The expenditure allocated for the procurement has been reduced"
+    "title_uk": "Пункт 3 частини 1 Статті 35",
+    "title_en": "Clause 3 of part 1 of Article 35",
+    "description_uk": "Скорочення видатків на здійснення закупівлі",
+    "description_en": "The expenditure allocated for the procurement has been reduced",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#Text",
+    "archive": false
   },
   "noObjectiveness": {
-    "title_uk": "Допущення замовником порушення, що вплинуло на об’єктивність визначення переможця",
-    "title_en": "The procuring entity has committed a violation that affected the objectivity of winner determination"
+    "title_uk": "Пункт 1 частини 8 Статті 51",
+    "title_en": "Clause 1 of part 8 of Article 51",
+    "description_uk": "Допущення замовником порушення, що вплинуло на об’єктивність визначення переможця",
+    "description_en": "The procuring entity has committed a violation that affected the objectivity of winner determination",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#Text",
+    "archive": false
   },
   "dateViolation": {
-    "title_uk": "Непідписання публічного договору у строк",
-    "title_en": "The public contract has not been signed within deadline"
+    "title_uk": "Пункт 5 частини 8 Статті 51",
+    "title_en": "Clause 5 of part 8 of Article 51",
+    "description_uk": "Непідписання публічного договору у строк",
+    "description_en": "The public contract has not been signed within deadline",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#Text",
+    "archive": false
   },
   "noLocalization": {
-    "title_uk": "Органом державного фінансового контролю встановлено, що в тендерній документації / оголошенні про закупівлю / запиті пропозицій учасників не визначено вимоги щодо відповідності предмета закупівлі встановленому ступеню локалізації виробництва для товарів, щодо яких застосовуються вимоги щодо ступеня локалізації виробництва",
-    "title_en": "The government financial oversight body establishes that the bidding documents / notice for procurement / price quotation under the DPS do not specify the requirement that the subject matter of procurement comply with the prescribed degree of production localisation for goods to which the production localisation requirements apply"
+    "title_uk": "Абзац 7 пункту 8 частини 5 Розділу 14",
+    "title_en": "Paragraph 7 of clause 8 of part 5 of Section 14",
+    "description_uk": "Органом державного фінансового контролю встановлено, що в тендерній документації / оголошенні про закупівлю / запиті пропозицій учасників не визначено вимоги щодо відповідності предмета закупівлі встановленому ступеню локалізації виробництва для товарів, щодо яких застосовуються вимоги щодо ступеня локалізації виробництва",
+    "description_en": "The government financial oversight body establishes that the bidding documents / notice for procurement / price quotation do not specify the requirement that the subject matter of procurement comply with the prescribed degree of production localisation for goods to which the production localisation requirements apply",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#Text",
+    "archive": false
   }
 }
