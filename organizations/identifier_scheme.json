@@ -39,6 +39,14 @@
     },
     {
       "category": "AE",
+      "code": "AE-ADGM",
+      "description": "Search the ADGM Public Register to find registered entities and their associated details.",
+      "name": "Abu Dhabi Global Market: Public Register",
+      "public-database": true,
+      "url": "https://www.adgm.com/public-registers"
+    },
+    {
+      "category": "AE",
       "code": "AE-AFZ",
       "description": "Use Authority's website to find its address, email and call center contacts.",
       "name": "Ajman Free Zone Authority",
@@ -723,6 +731,14 @@
       "name": "Register of Enterprises of the Republic of Latvia",
       "public-database": true,
       "url": "http://www.ur.gov.lv/"
+    },
+    {
+      "category": "MC",
+      "code": "MC-COA",
+      "description": "A government’s budget (or ‘Chart of Accounts’) often refers to government agencies, departments and ministries with stable codes. These can be reliably used in open data publications as identifiers. This org-id.guide entry is generated and maintained by Gov Org ID Finder [1] from Development Initiatives. Where available, Gov Org ID Finder extracts and makes Chart of Accounts codes available for the convenience of users. The authoritative source remains the government’s budget or Chart of Accounts. [1] https://gov-id-finder.codeforiati.org/about",
+      "name": "Monaco Chart of Accounts",
+      "public-database": false,
+      "url": "https://gov-id-finder.codeforiati.org/countries/MC/"
     },
     {
       "category": "MD",
