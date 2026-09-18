@@ -36960,6 +36960,26 @@
     "programType": 1,
     "code": "3101510",
     "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 0,
+    "name": "Впровадження та координація заходів проекту \"Рішення для відновлюваної енергетики (RES)\"",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-05-13",
+    "id": 3761,
+    "inputbase": "Розпис",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 360,
+    "programType": 1,
+    "code": "3101510",
+    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "3101000",
