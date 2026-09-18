@@ -1,0 +1,211 @@
+[
+  {
+    "title_uk": "Наявність обладнання, матеріально-технічної бази та технологій",
+    "title_en": "Availability of the necessary equipment, material and technical facilities, and technologies",
+    "description_uk": "Наявність у суб’єкта господарювання обладнання, матеріально-технічної бази та технологій.  Учасник процедури закупівлі робіт або послуги (послуг), кандидат може для підтвердження своєї відповідності такому критерію залучити спроможності інших суб'єктів господарювання як субпідрядників/співвиконавців (крім закупівлі у спосіб, визначений пунктом 2 частини першої статті 16 Закону). Залучення спроможності інших суб’єктів господарювання має бути документально підтверджено учасником процедури закупівлі, кандидатом.",
+    "description_en": "The economic operator possesses the necessary equipment, material and technical facilities, and technologies. A bidder in a procurement procedure for works or services, or a candidate, may rely on the capacities of other economic operators acting as subcontractors/co-contractors to demonstrate compliance with this qualification criterion (except in the case of procurement conducted by the method specified in Clause 2 of Part 1 of Article 16 of this Law). Reliance on the capacities of other economic operators shall be documented by the bidder or candidate.",
+    "source": "",
+    "classification": {
+      "scheme": "LAW4888",
+      "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.EQUIPMENT"
+    },
+    "relatesTo": "",
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n671"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "20.2.1"
+      },
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n680"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "20.3"
+      }
+    ],
+    "requirementGroups": [
+      {
+        "description_uk": "Підтверджується, що:",
+        "description_en": "It is confirmed that:",
+        "requirements": [
+          {
+            "title": "",
+            "dataType": "boolean",
+            "expectedValue": true,
+            "eligibleEvidences": [
+              {
+                "title": "",
+                "type": "document"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title_uk": "Наявність працівників відповідної кваліфікації",
+    "title_en": "Availability of employees with the appropriate qualifications",
+    "description_uk": "Наявність в учасника процедури закупівлі працівників або інших залучених осіб (людських ресурсів) відповідної кваліфікації, які мають необхідні знання та досвід. Учасник процедури закупівлі, кандидат може для підтвердження своєї відповідності такому критерію залучити спроможності інших суб'єктів господарювання як субпідрядників/співвиконавців (крім закупівлі у спосіб, визначений пунктом 2 частини першої статті 16 цього Закону). Залучення спроможності інших суб’єктів господарювання має бути документально підтверджено учасником процедури закупівлі, кандидатом.",
+    "description_en": "The economic operator has employees or other engaged persons (human resources) possessing the appropriate qualifications and the necessary knowledge and experience. A bidder or a candidate  may rely on the capacities of other economic operators acting as subcontractors/co-contractors to demonstrate compliance with this qualification criterion (except in the case of procurement conducted by the method specified in Clause 2 of Part 1 of Article 16 of this Law). Reliance on the capacities of other economic operators shall be documented by the bidder or candidate.",
+    "source": "",
+    "classification": {
+      "scheme": "LAW4888",
+      "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.STAFF_FOR_CARRYING_SCOPE"
+    },
+    "relatesTo": "",
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n671"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "20.2.2"
+      },
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n680"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "20.3"
+      }
+    ],
+    "requirementGroups": [
+      {
+        "description_uk": "Підтверджується, що:",
+        "description_en": "It is confirmed that:",
+        "requirements": [
+          {
+            "title": "",
+            "dataType": "boolean",
+            "expectedValue": true,
+            "eligibleEvidences": [
+              {
+                "title": "",
+                "type": "document"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title_uk": "Наявність досвіду виконання аналогічного договору (договорів)",
+    "title_en": "Documented experience in performing similar contract(s)",
+    "description_uk": "Наявність у суб’єкта господарювання документально підтвердженого досвіду виконання аналогічного (аналогічних) за предметом закупівлі договору (договорів).",
+    "description_en": "The economic operator has documented experience in performing one or more contracts similar to the subject matter of procurement.",
+    "source": "",
+    "classification": {
+      "scheme": "LAW4888",
+      "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.REFERENCES.WORKS_PERFORMANCE"
+    },
+    "relatesTo": "",
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n671"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "20.2.3"
+      }
+    ],
+    "requirementGroups": [
+      {
+        "description_uk": "Підтверджується, що:",
+        "description_en": "It is confirmed that:",
+        "requirements": [
+          {
+            "title": "",
+            "dataType": "boolean",
+            "expectedValue": true,
+            "eligibleEvidences": [
+              {
+                "title": "",
+                "type": "document"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title_uk": "Наявність фінансової спроможності",
+    "title_en": "The financial capacity",
+    "description_uk": "Наявність фінансової спроможності, яка підтверджується фінансовою звітністю. У разі встановлення кваліфікаційного критерію фінансової спроможності виконати публічний договір замовник може вимагати підтвердження наявності в учасника, кандидата певного мінімального обсягу річного доходу (виручки). Не може вимагатися надання підтвердження обсягу річного доходу (виручки) у розмірі більшому ніж очікувана вартість предмета закупівлі (пропорційно очікуваній вартості частини предмета закупівлі (лота) у разі поділу предмета закупівлі на частини), якщо очікувана вартість предмета закупівлі не перевищує суму, зазначену у частині сьомій статті 3 Закону, та у розмірі в два рази більшому ніж очікувана вартість предмета закупівлі (пропорційно у розмірі в два рази більшому ніж очікувана вартість частини предмета закупівлі (лота) в разі поділу предмета закупівлі на частини), якщо очікувана вартість предмета закупівлі перевищує суму, зазначену у частині сьомій статті 3 Закону. Для підтвердження фінансової спроможності за рамковою угодою максимальний обсяг річного доходу (виручки) визначається з урахуванням очікуваної вартості договорів, що виконуватимуться одночасно, а якщо ця вартість невідома на момент встановлення кваліфікаційного критерію - з урахуванням очікуваної вартості всієї рамкової угоди.",
+    "description_en": "Financial capacity, as evidenced by financial statements. Where the qualification criterion concerning financial capacity to perform a public contract is established, the procuring entity may require confirmation that the bidder or candidate has a specified minimum annual turnover (revenue). The procuring entity shall not require confirmation of an annual turnover (revenue) exceeding the estimated value of the subject matter of procurement (proportionate to the estimated value of the relevant part of the subject matter of procurement (lot) where the subject matter of procurement is divided into lots) if the estimated value of the subject matter of procurement does not exceed the amount specified in Part 7 of Article 3 of this Law, or exceeding twice the estimated value of the subject matter of procurement (proportionate to twice the estimated value of the relevant part of the subject matter of procurement (lot) where the subject matter of procurement is divided into lots) if the estimated value of the subject matter of procurement exceeds the amount specified in Part 7 of Article 3 of this Law. For the purpose of demonstrating financial capacity under a framework agreement, the maximum annual turnover (revenue) requirement shall be determined taking into account the estimated value of the public contracts to be performed simultaneously. Where that value is not known at the time the qualification criterion is established, the requirement shall be determined taking into account the estimated value of the entire framework agreement.",
+    "source": "",
+    "classification": {
+      "scheme": "LAW4888",
+      "id": "CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING"
+    },
+    "relatesTo": "",
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n671"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "20.2.4"
+      },
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n675"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "20.3"
+      }
+    ],
+    "requirementGroups": [
+      {
+        "description_uk": "Підтверджується, що:",
+        "description_en": "It is confirmed that:",
+        "requirements": [
+          {
+            "title": "",
+            "dataType": "boolean",
+            "expectedValue": true,
+            "eligibleEvidences": [
+              {
+                "title": "",
+                "type": "document"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
