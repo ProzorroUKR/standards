@@ -520,5 +520,41 @@
     "uri": "https://zakon.rada.gov.ua/laws/show/1275-2022-%D0%BF/ed20260901#n18",
     "scheme": "DECREE1275",
     "archive": false
+  },
+  "naturalGasSpecialObligations": {
+    "title_uk": "Абзац 5 пункту 9",
+    "title_en": "Paragraph 5 of clause 9",
+    "description_uk": "Закупівля замовниками, що є споживачами відповідно до статті 12-1 Закону України \"Про ринок природного газу\", природного газу у суб’єкта ринку природного газу, на якого Кабінетом Міністрів України відповідно до Закону України \"Про ринок природного газу\" покладено спеціальні обов’язки для забезпечення загальносуспільних інтересів у процесі функціонування ринку природного газу, а також закупівля природного газу таким суб’єктом ринку для забезпечення виконання спеціальних обов’язків може здійснюватися без застосування процедур закупівель/спрощених закупівель, визначених Законом та цими особливостями",
+    "description_en": "The purchase by customers who are consumers, as defined in Article 12-1 of the Law of Ukraine \"On the Natural Gas Market\", of natural gas from a natural gas market entity upon which the Cabinet of Ministers of Ukraine, in accordance with the Law of Ukraine \"On the Natural Gas Market\", has imposed special obligations to ensure the public interest in the functioning of the natural gas market, as well as the purchase of natural gas by such a market participant to ensure the fulfillment of these special obligations, may be carried out without applying the procurement/simplified procurement procedures specified by the Law and these provisions",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "ukrzaliznytsiaRollingStock": {
+    "title_uk": "Абзац 6 пункту 9",
+    "title_en": "Paragraph 6 of clause 9",
+    "description_uk": "Закупівлі АТ \"Укрзалізниця\" до 24 березня 2027 р. залізничного тягового рухомого складу, в тому числі такого, що був у використанні (зокрема з комплектом запасних частин до нього), послуг з оренди такого рухомого складу, а також послуг, пов’язаних із придбанням, технічним обслуговуванням, транспортуванням, доставкою та митним оформленням такого рухомого складу, здійснюються без застосування процедур закупівель/спрощених закупівель, визначених Законом та цими особливостями",
+    "description_en": "Procurements by JSC \"Ukrzaliznytsia\" through March 24, 2027, of railway traction rolling stock, including used rolling stock (in particular, with a set of spare parts), services for the lease of such rolling stock, as well as services related to the acquisition, maintenance, transportation, delivery, and customs clearance of such rolling stock, shall be carried out without applying the procurement/simplified procurement procedures specified by the Law and these special provisions",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "restorationOfEnergyFacilities": {
+    "title_uk": "Підпункт 3 пункту 9²",
+    "title_en": "Subparagraph 3 of paragraph 9²",
+    "description_uk": "Здійснюється закупівля товарів, робіт та послуг, необхідних для відновлення, та/або реконструкції, та/або капітального ремонту об’єктів юридичних осіб електроенергетичного комплексу, зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації, з метою забезпечення надійного та безперебійного функціонування об’єднаної енергетичної системи",
+    "description_en": "Goods, works, and services necessary for the restoration, and/or reconstruction, and/or major repairs of facilities belonging to legal entities in the electric power sector—which were destroyed or damaged as a result of the Russian Federation’s armed aggression - are being procured to ensure the reliable and uninterrupted operation of the integrated power system",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "sportsEventsAndNationalTeams": {
+    "title_uk": "Пункт 9³",
+    "title_en": "Paragraph 9³",
+    "description_uk": "Закупівлі послуг, необхідних для проведення спортивних заходів, спортивних змагань, фізкультурно-оздоровчих заходів, фізкультурно-спортивної реабілітації, а також для забезпечення підготовки та участі національних збірних команд України з видів спорту у міжнародних заходах та змаганнях, що включені до Єдиного календарного плану фізкультурно-оздоровчих, спортивних заходів та спортивних змагань України на відповідний рік, здійснюються без застосування процедур закупівель/спрощених закупівель, визначених Законом та цими особливостями",
+    "description_en": "Procurement of services necessary for holding sporting events, athletic competitions, physical education and health promotion events, and physical education and sports rehabilitation, as well as to ensure the preparation and participation of Ukraine’s national sports teams in international events and competitions included in the Unified Calendar Plan of Physical Education, Health Promotion, and Sports Events and Competitions of Ukraine for the relevant year, shall be carried out without applying the procurement/simplified procurement procedures specified by the Law and these provisions",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
+    "scheme": "DECREE1178",
+    "archive": false
   }
 }
