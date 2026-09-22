@@ -43781,6 +43781,26 @@
     ]
   },
   {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "3501700",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3501000",
+    "actyvPr": 0,
+    "name": "Заходи із забезпечення готовності відновлювального резерву Міністерства фінансів України",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-09-15",
+    "id": 3762,
+    "inputbase": "Розпис",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 0,
     "programType": 0,
     "code": "3502000",
@@ -44122,6 +44142,26 @@
     "inputbase": "Розпис",
     "years": [
       2021
+    ]
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "3505700",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3505000",
+    "actyvPr": 0,
+    "name": "Забезпечення відновлювального резерву інформаційних (автоматизованих) систем",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-09-15",
+    "id": 3763,
+    "inputbase": "Розпис",
+    "years": [
+      2026
     ]
   },
   {
@@ -58670,6 +58710,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 358,
+    "programType": 1,
+    "code": "7781730",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "7781000",
+    "actyvPr": 0,
+    "name": "Здійснення заходів, пов’язаних із зміцненням обороноздатності держави",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-09-15",
+    "id": 3764,
+    "inputbase": "Розпис",
+    "years": [
+      2026
     ]
   },
   {

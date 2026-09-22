@@ -8908,6 +8908,23 @@
     "inputbase": "Закон"
   },
   {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "3501700",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3501000",
+    "actyvPr": 0,
+    "name": "Заходи із забезпечення готовності відновлювального резерву Міністерства фінансів України",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-09-15",
+    "id": 3762,
+    "inputbase": "Розпис"
+  },
+  {
     "idFkv": 0,
     "programType": 0,
     "code": "3504000",
@@ -9008,6 +9025,23 @@
     "datefrom": "2020-01-01",
     "id": 1205,
     "inputbase": "Закон"
+  },
+  {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "3505700",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3505000",
+    "actyvPr": 0,
+    "name": "Забезпечення відновлювального резерву інформаційних (автоматизованих) систем",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-09-15",
+    "id": 3763,
+    "inputbase": "Розпис"
   },
   {
     "idFkv": 0,
@@ -13376,6 +13410,23 @@
     "comment": null,
     "datefrom": "2026-06-18",
     "id": 3078,
+    "inputbase": "Розпис"
+  },
+  {
+    "idFkv": 358,
+    "programType": 1,
+    "code": "7781730",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "7781000",
+    "actyvPr": 0,
+    "name": "Здійснення заходів, пов’язаних із зміцненням обороноздатності держави",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-09-15",
+    "id": 3764,
     "inputbase": "Розпис"
   },
   {
