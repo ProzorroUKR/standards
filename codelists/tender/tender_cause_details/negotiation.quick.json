@@ -200,8 +200,8 @@
   "criticalInfrastructure": {
     "title_uk": "Підпункт 9 пункту 13",
     "title_en": "Subparagraph 9 of paragraph 13",
-    "description_uk": "Закупівлі товарів, робіт і послуг, необхідних для забезпечення захисту та/або відновлення, та/або реконструкції, та/або обслуговування, та/або розміщення, та/або будівництва об’єктів критичної інфраструктури, які зруйновані або пошкоджені внаслідок збройної агресії Російської Федерації проти України",
-    "description_en": "Procurement of goods, works and services necessary to ensure the protection and/or restoration, and/or reconstruction, and/or maintenance, and/or placement, and/or construction of critical infrastructure facilities that have been destroyed or damaged as a result of the armed aggression of the Russian Federation against Ukraine",
+    "description_uk": "Закупівлі товарів, робіт і послуг, необхідних для забезпечення захисту та/або відновлення, та/або реконструкції, та/або обслуговування, та/або розміщення, та/або будівництва об’єктів критичної інфраструктури, які були зруйновані або пошкоджені внаслідок збройної агресії Російської Федерації проти України, в тому числі перевезення, переміщення та зберігання обладнання, необхідного для відновлення зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації об’єктів",
+    "description_en": "Procurement of goods, works, and services necessary to ensure the protection and/or restoration, and/or reconstruction, and/or maintenance, and/or deployment, and/or construction of critical infrastructure facilities that were destroyed or damaged as a result of the Russian Federation’s armed aggression against Ukraine, including the transportation, relocation, and storage of equipment necessary for the restoration of facilities destroyed or damaged as a result of the Russian Federation’s armed aggression",
     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
     "scheme": "DECREE1178",
     "archive": false
