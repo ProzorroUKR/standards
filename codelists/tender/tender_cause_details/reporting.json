@@ -539,9 +539,18 @@
     "scheme": "DECREE1178",
     "archive": false
   },
-  "restorationOfEnergyFacilities": {
+  "veteransSportsEventsServices": {
     "title_uk": "Підпункт 3 пункту 9²",
     "title_en": "Subparagraph 3 of paragraph 9²",
+    "description_uk": "Здійснюється закупівля послуг, безпосередньо необхідних для організації та проведення на території України всеукраїнських та міжнародних спортивних заходів та спортивних змагань із спорту ветеранів війни, а також забезпечення участі офіційних збірних команд із числа ветеранів війни у міжнародних змаганнях із спорту ветеранів війни, якщо такі заходи та змагання включені до Єдиного календарного плану фізкультурно-оздоровчих, спортивних заходів та спортивних змагань України на відповідний рік",
+    "description_en": "Services are being procured that are directly necessary for organizing and conducting, within Ukraine, nationwide and international sporting events and competitions in sports for war veterans, as well as for ensuring the participation of official national teams composed of war veterans in international competitions in sports for war veterans, provided that such events and competitions are included in the Unified Calendar Plan of Physical Culture, Health, and Sports Events and Competitions of Ukraine for the relevant year",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "restorationOfEnergyFacilities": {
+    "title_uk": "Підпункт 4 пункту 9²",
+    "title_en": "Subparagraph 4 of paragraph 9²",
     "description_uk": "Здійснюється закупівля товарів, робіт та послуг, необхідних для відновлення, та/або реконструкції, та/або капітального ремонту об’єктів юридичних осіб електроенергетичного комплексу, зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації, з метою забезпечення надійного та безперебійного функціонування об’єднаної енергетичної системи",
     "description_en": "Goods, works, and services necessary for the restoration, and/or reconstruction, and/or major repairs of facilities belonging to legal entities in the electric power sector—which were destroyed or damaged as a result of the Russian Federation’s armed aggression - are being procured to ensure the reliable and uninterrupted operation of the integrated power system",
     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
