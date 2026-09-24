@@ -569,5 +569,31 @@
     },
     "name_en": "MAECI",
     "name_uk": "МЗС Італії"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Бельгія",
+      "locality": "Брюсель",
+      "postalCode": "1110",
+      "region": "Брюссельський столичний регіон",
+      "streetAddress": "Boulevard Léopold III"
+    },
+    "contactPoint": {
+      "email": "sps.admin@hg.nato.int",
+      "faxNumber": "",
+      "telephone": "+3227074111",
+      "url": "https://nato.int",
+      "name_en": "NATO SPS Programme Admin",
+      "name_uk": "Адміністратор Програми НАТО «Наука заради миру та безпеки"
+    },
+    "identifier": {
+      "id": "NATO-SPS-HQ",
+      "scheme": "NATO-ID",
+      "legalName_en": "North Atlantic Treaty Organization (NATO) Headquarters",
+      "legalName_uk": "Штаб-квартира Організації Північноатлантичного договору (НАТО)"
+    },
+    "name_en": "NATO",
+    "name_uk": "НАТО"
   }
 ]
