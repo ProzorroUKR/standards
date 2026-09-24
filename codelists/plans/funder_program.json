@@ -98,5 +98,15 @@
       "id": "130026032",
       "scheme": "FR-RCS"
     }
+  },
+  {
+    "id": "science-for-peace-and-security",
+    "name_uk": "Програма НАТО «Наука заради миру та безпеки» (SPS)",
+    "name_en": "NATO Science for Peace and Security (SPS) Programme",
+    "archive": false,
+    "funder": {
+      "id": "NATO-SPS-HQ",
+      "scheme": "NATO-ID"
+    }
   }
 ]
