@@ -1259,6 +1259,14 @@
       "name": "Register of Business Entities in Republika Srpska (APIF)",
       "public-database": true,
       "url": "https://www.apif.net/"
+    },
+    {
+      "category": "BE",
+      "code": "NATO-ID",
+      "description": "NATO Identification scheme.",
+      "name": "NATO Codification System (NCS)",
+      "public-database": false,
+      "url": "https://www.nato.int/"
     }
   ]
 }
