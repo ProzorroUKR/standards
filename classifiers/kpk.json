@@ -63445,6 +63445,26 @@
     ]
   },
   {
+    "idFkv": 324,
+    "programType": 1,
+    "code": "7911740",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "7911000",
+    "actyvPr": 0,
+    "name": "Здійснення заходів, пов’язаних із зміцненням обороноздатності держави",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-09-15",
+    "id": 3776,
+    "inputbase": "Розпис",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 385,
     "programType": 1,
     "code": "7911740",
