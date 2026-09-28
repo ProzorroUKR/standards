@@ -174,5 +174,13 @@
     "name_en": "Selection of a manager for a complex asset",
     "description_uk": "Процедура, яка проводиться для пошуку управителів складних активів",
     "name_uk": "Відбір управителя складного активу"
+  },
+  "simpleAsset.arma": {
+    "autoInitiated": false,
+    "procurementMethod": "selective",
+    "description_en": "Procedure conducted to find managers for simple assets",
+    "name_en": "Selection of a manager for a simple asset",
+    "description_uk": "Процедура, яка проводиться для пошуку управителів простих активів",
+    "name_uk": "Відбір управителя простого активу"
   }
 }
