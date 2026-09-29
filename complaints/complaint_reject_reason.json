@@ -36,7 +36,7 @@
   },
   "tenderOrLotCancelledBeforePayment": {
     "autoInitiated": true,
-    "title_uk": "Закупівлю\лот було відмінено до зарахування оплати",
+    "title_uk": "Закупівлю/лот було відмінено до зарахування оплати",
     "title_en": "The purchase/lot was canceled before payment was credited"
   }
 }
