@@ -155,8 +155,8 @@
   "naturalGasEquipmentRestoration": {
     "title_uk": "Підпункт 11 пункту 13",
     "title_en": "Subparagraph 11 of paragraph 13",
-    "description_uk": "Закупівлі суб’єктами ринку природного газу компресорних, газопоршневих та/або газотурбінних газоперекачувальних установок, у тому числі таких, що були у користуванні, а також послуг, необхідних для проведення їх оцінки. При цьому закупівля установок, що були у користуванні, проводиться за ціною, яка не перевищує їх вартість, визначену на підставі висновку експерта (експертного дослідження) або звіту про оцінку майна.  Вимоги цього підпункту застосовуються у разі здійснення закупівель для відновлення сталої роботи об’єктів, що були пошкоджені або зруйновані, та/або технологічних процесів, що були порушені внаслідок збройної агресії Російської Федерації проти України",
-    "description_en": "Purchases by natural gas market participants of compressor, gas piston, and/or gas turbine gas-handling units, including used units, as well as the services necessary for their evaluation. In this case, the procurement of used units shall be conducted at a price that does not exceed their value, as determined on the basis of an expert opinion (expert examination) or a property appraisal report.  The requirements of this subparagraph apply in the case of procurements made to restore the stable operation of facilities that were damaged or destroyed, and/or technological processes that were disrupted as a result of the Russian Federation’s armed aggression against Ukraine",
+    "description_uk": "Закупівлі суб’єктами ринку природного газу компресорних, газопоршневих та/або газотурбінних газоперекачувальних установок, у тому числі таких, що були у користуванні, а також послуг, необхідних для проведення їх оцінки",
+    "description_en": "Purchases by natural gas market participants of compressor, gas piston, and/or gas turbine gas transmission units - including used units - as well as the services necessary to evaluate them",
     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
     "scheme": "DECREE1178",
     "archive": false
