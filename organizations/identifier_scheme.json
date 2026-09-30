@@ -222,6 +222,14 @@
     },
     {
       "category": "BE",
+      "code": "BCE/KBO",
+      "description": "NATO Identification scheme.",
+      "name": "NATO Codification System (NCS)",
+      "public-database": false,
+      "url": "https://www.nato.int/"
+    },
+    {
+      "category": "BE",
       "code": "BE-GTCF",
       "description": "The Registry of the Francophone Brussels Commercial Court",
       "name": "Au Greffe du Tribunal de Commerce Francophone de Bruxelles",
