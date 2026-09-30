@@ -580,16 +580,16 @@
       "streetAddress": "Boulevard Léopold III"
     },
     "contactPoint": {
-      "email": "sps.admin@hg.nato.int",
+      "email": "moc@hq.nato.int",
       "faxNumber": "",
       "telephone": "+3227074111",
       "url": "https://nato.int",
-      "name_en": "NATO SPS Programme Admin",
-      "name_uk": "Адміністратор Програми НАТО «Наука заради миру та безпеки"
+      "name_en": "North Atlantic Treaty Organization Headquarters Switchboard",
+      "name_uk": "Комутатор Штаб-квартири Організації Північноатлантичного договору"
     },
     "identifier": {
-      "id": "NATO-SPS-HQ",
-      "scheme": "NATO-ID",
+      "id": "0923.971.421",
+      "scheme": "BCE/KBO",
       "legalName_en": "North Atlantic Treaty Organization (NATO) Headquarters",
       "legalName_uk": "Штаб-квартира Організації Північноатлантичного договору (НАТО)"
     },
