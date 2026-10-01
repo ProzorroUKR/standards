@@ -16,5 +16,11 @@
     "name_en": "Prequalification of Participants",
     "description_uk": "Відбір учасників, що використовується для формування прекваліфікованиї постачальників, серед яких проводяться закупівлі товарів, робіт і послуг Міжнародними фінансовими організаціями.",
     "name_uk": "Виявлення зацікавленості"
+  },
+  "assetRecoveryManagementAgency": {
+    "description_en": "Prequalification of Participants for determining the manager of simple asset.",
+    "name_en": "Qualifications for determining the manager",
+    "description_uk": "Попередня кваліфікація учасників для визначення управителя простого активу.",
+    "name_uk": "Кваліфікація для визначення управителя"
   }
 }
