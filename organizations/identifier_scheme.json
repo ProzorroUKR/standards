@@ -430,6 +430,22 @@
     },
     {
       "category": "CA",
+      "code": "CA_AB-ABT",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "Corporate Registry Office",
+      "public-database": false,
+      "url": "http://www.servicealberta.ca/Corporate_Registry.cfm"
+    },
+    {
+      "category": "CA",
+      "code": "CA_BC-BRC_CBR",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "British Columbia Corporate Registry",
+      "public-database": false,
+      "url": "http://www.bcregistryservices.gov.bc.ca/bcreg/corppg/index.page"
+    },
+    {
+      "category": "CA",
       "code": "CA-CC",
       "description": "Corporations Canada are the federal company register. CA-CC should be used for the Canada Corporation Number Companies in Canada register with their provincial authority, e.g. British Columbia. While there is currently no complete national database for companies in Canada, Corporations Canada are piloting a Business Search Registry, which allows for the search of multiple jurisdictions at once, but not all - https://www.ic.gc.ca/app/scr/ccbr/search-chercher?lang=eng Corporations Canada also provides a Federal Corporation search - https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA This entry was imported from the Open Corporates Jurisdiction List.",
       "name": "Corporations Canada",
@@ -454,35 +470,11 @@
     },
     {
       "category": "CA",
-      "code": "CA_AB-ABT",
-      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-      "name": "Corporate Registry Office",
-      "public-database": false,
-      "url": "http://www.servicealberta.ca/Corporate_Registry.cfm"
-    },
-    {
-      "category": "CA",
-      "code": "CA_BC-BRC_CBR",
-      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-      "name": "British Columbia Corporate Registry",
-      "public-database": false,
-      "url": "http://www.bcregistryservices.gov.bc.ca/bcreg/corppg/index.page"
-    },
-    {
-      "category": "CA",
       "code": "CA_MB-MTB",
       "description": "This entry was imported from the Open Corporates Jurisdiction List.",
       "name": "Manitoba Companies Office, Department of Entrepreneurship, Training and Trade",
       "public-database": false,
       "url": "https://direct.gov.mb.ca/mbohtml/html/internet/en/mb_online.html"
-    },
-    {
-      "category": "CA",
-      "code": "CA_NB-NWB_NOB",
-      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-      "name": "Corporate Registry",
-      "public-database": false,
-      "url": "https://www.pxw1.snb.ca/snb7001/e/2000/2500e.asp"
     },
     {
       "category": "CA",
@@ -494,6 +486,14 @@
     },
     {
       "category": "CA",
+      "code": "CA_NU-NNV",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "Nunavut Department of Justice - Corporate Registries",
+      "public-database": false,
+      "url": "http://nunavutlegalregistries.ca/cr_index_en.shtml"
+    },
+    {
+      "category": "CA",
       "code": "CA_NS-NVS_NVE",
       "description": "This entry was imported from the Open Corporates Jurisdiction List.",
       "name": "Nova Scotia Registry of Joint Stock Companies",
@@ -502,19 +502,19 @@
     },
     {
       "category": "CA",
+      "code": "CA_NB-NWB_NOB",
+      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+      "name": "Corporate Registry",
+      "public-database": false,
+      "url": "https://www.pxw1.snb.ca/snb7001/e/2000/2500e.asp"
+    },
+    {
+      "category": "CA",
       "code": "CA_NT-NWT_TNO",
       "description": "This entry was imported from the Open Corporates Jurisdiction List.",
       "name": "Canadian Provincial Corporate Registration - Northwest Territories",
       "public-database": false,
       "url": "https://www.justice.gov.nt.ca/en/divisions/legal-registries-division/corporate-registries/"
-    },
-    {
-      "category": "CA",
-      "code": "CA_NU-NNV",
-      "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-      "name": "Nunavut Department of Justice - Corporate Registries",
-      "public-database": false,
-      "url": "http://nunavutlegalregistries.ca/cr_index_en.shtml"
     },
     {
       "category": "CA",
@@ -566,6 +566,14 @@
     },
     {
       "category": "CH",
+      "code": "CH_BS-CR",
+      "description": "As statated on the Register website: 'The purpose of the commercial register is to record and disclose the business-relevant facts of the more than 17,200 companies, foundations and associations based in the canton of Basel-Stadt, thereby contributing to transparency and ensuring legal certainty in business transactions.'",
+      "name": "Commercial Register of the Canton of Basel-Stadt, Switzerland",
+      "public-database": true,
+      "url": "https://bs.chregister.ch/cr-portal/suche/suche.xhtml"
+    },
+    {
+      "category": "CH",
       "code": "CH-FDJP",
       "description": "The Swiss Commercial Register is administered by the cantons under the supervision of the Swiss Confederation. All the commercial register entries made by the cantonal register offices are published in the Swiss Official Gazette of Commerce (SOGC) after having been checked and approved by the Federal Commercial Registry Office. Since January 2011, all companies, foreign branches and associations / foundations registered in the various Swiss Commerce Registries are assigned a unique federal Company Identification Number, locally known as IDE (French), UID (German), IDI (Italian). Previously, identifiers were of the format CH-RRR.X.XXX.XXX-P, where RRR is the canton number, X.XXX.XXX is the company number, and P is a check-digit. Some older or inactive companies may still have identifiers of this form. [1]: https://opencorporates.com/registers/250",
       "name": "Commercial Registry, Federal Office of Justice (Switzerland)",
@@ -579,14 +587,6 @@
       "name": "Swiss Commercial Register (via Zefix)",
       "public-database": true,
       "url": "http://www.zefix.ch/"
-    },
-    {
-      "category": "CH",
-      "code": "CH_BS-CR",
-      "description": "As statated on the Register website: 'The purpose of the commercial register is to record and disclose the business-relevant facts of the more than 17,200 companies, foundations and associations based in the canton of Basel-Stadt, thereby contributing to transparency and ensuring legal certainty in business transactions.'",
-      "name": "Commercial Register of the Canton of Basel-Stadt, Switzerland",
-      "public-database": true,
-      "url": "https://bs.chregister.ch/cr-portal/suche/suche.xhtml"
     },
     {
       "category": "CI",
@@ -1142,19 +1142,19 @@
     },
     {
       "category": "HR",
-      "code": "HR-OIB",
-      "description": "The registry is maintained by the Ministry of Justice of the Republic of Croatia. Company can be searched by MBS, OIB number or legal name. Search results provide MBS and OIB numbers, registration court, company name, status, company name current status, and address. There is no English interface, search is free-of-charge.",
-      "name": "Personal Identification Number",
-      "public-database": true,
-      "url": "https://sudreg.pravosudje.hr/registar/f?p=150:3"
-    },
-    {
-      "category": "HR",
       "code": "XR-NUTS",
       "description": "The European Union's Nomenclature of Territorial Units for Statistics (NUTS) provides codes for territorial areas at a number of different levels. Where no primary identifiers for regional and local government entities are available, then NUTS level 2 and 3 codes, and Local Administrative Unit (LAU 1 and LAU 2 level) codes could be used as a proxy for the primary local government body responsible for that area. EuroStat currently maintain a cross-walk between different levels, codes and area names for each jurisdiction. To construct an identifier: For NUTS 2 and 3 codes, use the prefix (XR-NUTS-) and then the NUTS code provided. For LAU1 and 2 codes (Local authority/ward), use the prefix (XR-NUTS-), the country prefix and underscore (e.g. UK_) , and then the LAU_NAT_Code provided (e.g. E05004874) For example: XR-NUTS-UK_E07000105",
       "name": "NUTS - European Union Nomenclature of Territorial Units for Statistics",
       "public-database": false,
       "url": "http://ec.europa.eu/eurostat/web/nuts/local-administrative-units"
+    },
+    {
+      "category": "HR",
+      "code": "HR-OIB",
+      "description": "The registry is maintained by the Ministry of Justice of the Republic of Croatia. Company can be searched by MBS, OIB number or legal name. Search results provide MBS and OIB numbers, registration court, company name, status, company name current status, and address. There is no English interface, search is free-of-charge.",
+      "name": "Personal Identification Number",
+      "public-database": true,
+      "url": "https://sudreg.pravosudje.hr/registar/f?p=150:3"
     },
     {
       "category": "HU",
@@ -1550,17 +1550,17 @@
     },
     {
       "category": "LU",
-      "code": "LU-RCS",
-      "description": "The Luxembourg Trade and Companies Register (Registre de commerce et des sociétés – RCS) is a public register and can be freely accessed. It contains information about traders and companies which, by law, must be disclosed and published, alongside their RCS number. This information is published on the RESA publication platform (https://www.lbr.lu/mjrcs-resa/). The RCS is managed by the Luxembourg Business Registers (LBR) (https://www.lbr.lu/). The information that is published serves to identify the trader or company, and includes particulars such as a company's articles of association, its rules of procedure, the liability of its directors and officers, and the company accounts. The information that the trader/company will be required to disclose for publication depends on the legal form of the business, its size and its sector of activity. All companies that are newly incorporated in Luxembourg must be registered with the RCS, and their articles of association must be filed with the latter in full or in extract form depending of the legal form of the business. Subsequent amendments to published information must also be published. The LBR ensures interoperability between the Luxembourg RCS and the business registers of other EU member states through the Business Registers Interconnection System.",
-      "name": "Luxembourg Trade and Companies Register",
+      "code": "LUX",
+      "description": null,
+      "name": "LUXEMBOURG BUSINESS REGISTERS",
       "public-database": true,
       "url": "https://www.lbr.lu/"
     },
     {
       "category": "LU",
-      "code": "LUX",
-      "description": null,
-      "name": "LUXEMBOURG BUSINESS REGISTERS",
+      "code": "LU-RCS",
+      "description": "The Luxembourg Trade and Companies Register (Registre de commerce et des sociétés – RCS) is a public register and can be freely accessed. It contains information about traders and companies which, by law, must be disclosed and published, alongside their RCS number. This information is published on the RESA publication platform (https://www.lbr.lu/mjrcs-resa/). The RCS is managed by the Luxembourg Business Registers (LBR) (https://www.lbr.lu/). The information that is published serves to identify the trader or company, and includes particulars such as a company's articles of association, its rules of procedure, the liability of its directors and officers, and the company accounts. The information that the trader/company will be required to disclose for publication depends on the legal form of the business, its size and its sector of activity. All companies that are newly incorporated in Luxembourg must be registered with the RCS, and their articles of association must be filed with the latter in full or in extract form depending of the legal form of the business. Subsequent amendments to published information must also be published. The LBR ensures interoperability between the Luxembourg RCS and the business registers of other EU member states through the Business Registers Interconnection System.",
+      "name": "Luxembourg Trade and Companies Register",
       "public-database": true,
       "url": "https://www.lbr.lu/"
     },
@@ -2374,6 +2374,14 @@
     },
     {
       "category": "XI",
+      "code": "XR-EUCB",
+      "description": "The European Union Publications Office maintain a list of 'Corporate Bodies' covering offices and bodies of the European Union (labelled EU), as well as external bodies referenced regularly in European Systems (labelled INT). The list is more authoritative for EU Institutions, than for International institutions the EU works with. Note that not all of the bodies in the list are legal entities: some represent 'projects' as opposed to organizations that the European Union institutions have worked with. The list contains some meta-data on organisational hierarchy, and succession where one organization has replaced another.",
+      "name": "European Union Corporate Bodies authority list",
+      "public-database": true,
+      "url": "https://publications.europa.eu/en/web/eu-vocabularies/at-dataset/-/resource/dataset/corporate-body?target=About"
+    },
+    {
+      "category": "XI",
       "code": "XI-IATI",
       "description": "XI-IATI is a list of organisation identifiers that is maintained by the IATI Secretariat. Any publisher may apply to the IATI Technical Team for an identifier to be generated.",
       "name": "International Aid Transparency Initiative Organisation Identifier",
@@ -2419,14 +2427,6 @@
       "name": "Wikidata",
       "public-database": true,
       "url": "https://www.wikidata.org/"
-    },
-    {
-      "category": "XI",
-      "code": "XR-EUCB",
-      "description": "The European Union Publications Office maintain a list of 'Corporate Bodies' covering offices and bodies of the European Union (labelled EU), as well as external bodies referenced regularly in European Systems (labelled INT). The list is more authoritative for EU Institutions, than for International institutions the EU works with. Note that not all of the bodies in the list are legal entities: some represent 'projects' as opposed to organizations that the European Union institutions have worked with. The list contains some meta-data on organisational hierarchy, and succession where one organization has replaced another.",
-      "name": "European Union Corporate Bodies authority list",
-      "public-database": true,
-      "url": "https://publications.europa.eu/en/web/eu-vocabularies/at-dataset/-/resource/dataset/corporate-body?target=About"
     },
     {
       "category": "XM",
