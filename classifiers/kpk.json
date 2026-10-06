@@ -44966,6 +44966,26 @@
     ]
   },
   {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "3507700",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3507000",
+    "actyvPr": 0,
+    "name": "Створення відновлювального резерву інформаційно-комунікаційних систем ДПС",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-09-28",
+    "id": 3796,
+    "inputbase": "Розпис",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 360,
     "programType": 1,
     "code": "3507800",
