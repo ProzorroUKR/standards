@@ -2255,7 +2255,7 @@
     {
       "category": "UA",
       "code": "UA-FIN",
-      "description": "",
+      "description": null,
       "name": "State Register of Financial Institutions / Державний реєстр фінансових установ",
       "public-database": true,
       "url": "http://nfp.gov.ua/content/derzhavniy-reestr.html"
@@ -2263,7 +2263,7 @@
     {
       "category": "UA",
       "code": "UA-IPN",
-      "description": "",
+      "description": null,
       "name": "State Fiscal Service of Ukraine / Державна фіскальна служба України",
       "public-database": false,
       "url": "http://sfs.gov.ua/"
