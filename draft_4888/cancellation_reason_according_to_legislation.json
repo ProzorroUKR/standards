@@ -1,0 +1,30 @@
+{
+  "noDemand": {
+    "title_uk": "Відсутність подальшої потреби у закупівлі",
+    "title_en": "There is no longer any need for the procurement"
+  },
+  "unFixable": {
+    "title_uk": "Виявлення порушень законодавства у сфері закупівель, які неможливо усунути, з описом таких порушень",
+    "title_en": "Violations of the public procurement legislation have been identified that cannot be remedied, together with a description of such violations"
+  },
+  "forceMajeure": {
+    "title_uk": "Здійснення закупівлі стало неможливим внаслідок дії обставин непереборної сили",
+    "title_en": "The procurement has become impossible due to force majeure circumstances"
+  },
+  "expensesCut": {
+    "title_uk": "Скорочення видатків на здійснення закупівлі",
+    "title_en": "The expenditure allocated for the procurement has been reduced"
+  },
+  "noObjectiveness": {
+    "title_uk": "Допущення замовником порушення, що вплинуло на об’єктивність визначення переможця",
+    "title_en": "The procuring entity has committed a violation that affected the objectivity of winner determination"
+  },
+  "dateViolation": {
+    "title_uk": "Непідписання публічного договору у строк",
+    "title_en": "The public contract has not been signed within deadline"
+  },
+  "noLocalization": {
+    "title_uk": "Не визначено вимоги щодо ступеня локалізації виробництва товару",
+    "title_en": "Localization degree requirements for goods were not defined"
+  }
+}
