@@ -22,5 +22,11 @@
     "description_en": "",
     "title_uk": "Звітна документація про виконання договору",
     "description_uk": ""
+  },
+  "eligibilityDocuments": {
+    "title_en": "Eligibility documents",
+    "description_en": "",
+    "title_uk": "Документи, що підтверджують відповідність",
+    "description_uk": "В тому числі, відповідність вимогам ст. 17"
   }
 }
