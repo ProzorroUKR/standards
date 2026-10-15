@@ -154,8 +154,8 @@
     ]
   },
   "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_SUPPLIER": {
-    "title_uk": "Зв'язки учасника або походження товару з РФ, РБ чи Ірану",
-    "title_en": "Bidder ties to or goods originating in the RF, RB, or Iran",
+    "title_uk": "Зв'язок учасника або походження товару: РФ, РБ, Іран",
+    "title_en": "Bidder ties or origin of goods: RF, RB, Iran",
     "description_uk": "Учасник процедури закупівлі є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку у статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи в установленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в тендерній пропозиції товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім товарів походженням з Російської Федерації / Республіки Білорусь, необхідних для ремонту та обслуговування товарів, придбаних до 19 жовтня 2022 року)",
     "description_en": "The bidder is a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine); or is a legal entity established and registered under the legislation of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran; or is a legal entity established and registered under the legislation of Ukraine whose ultimate beneficial owner, member or participant (shareholder) holding ten (10) per cent or more of the share capital (hereinafter — the “assets”) is the Russian Federation / the Republic of Belarus / the Islamic Republic of Iran, a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine), or a legal entity established and registered under the legislation of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, except where such assets have been transferred for management to the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes in accordance with the procedure established by law; or proposes, in its bid, goods originating in the Russian Federation / the Republic of Belarus / the Islamic Republic of Iran (except for goods originating in the Russian Federation / the Republic of Belarus that are necessary for the repair and maintenance of goods purchased before 19 October 2022)",
     "type": "supplier",
@@ -176,8 +176,8 @@
     ]
   },
   "REJECTION.OTHER.REQUIREMENTS_VIOLATION": {
-    "title_uk": "Подання пропозиції з порушенням вимог",
-    "title_en": "Submission of bid in breach of requirements",
+    "title_uk": "Порушення правил подання тендерних пропозицій",
+    "title_en": "Violation of the bid submission rules",
     "description_uk": "Учасник процедури закупівлі подав тендерну пропозицію з порушенням вимог частини другої статті 29 цього Закону",
     "description_en": "The bidder has submitted the bid in breach of the requirements of Part 2 of Article 29 of this Law",
     "type": "supplier",
@@ -220,8 +220,8 @@
     ]
   },
   "REJECTION.OTHER.MINIMUM_REQUIREMENTS_MISMATCH_VARIANT": {
-    "title_uk": "Невідповідність мінімальним вимогам до тендерної пропозиції/варіанта",
-    "title_en": "Non-compliance with minimum requirements for a bid/variant",
+    "title_uk": "Невідповідність мінімальним вимогам до варіанта",
+    "title_en": "Non-compliance with minimum requirements for a variant",
     "description_uk": "Тендерна пропозиція / варіант не відповідає мінімальним вимогам, визначеним замовником у тендерній документації до варіанта",
     "description_en": "The bid/variant does not comply with the minimum requirements established by the procuring entity for a variant in the bidding documents",
     "type": "supplier",
@@ -330,8 +330,8 @@
     ]
   },
   "REJECTION.EXCLUSION.CONTRACT_EARLY_TERMINATION": {
-    "title_uk": "Дострокове розірвання попереднього публічного договору та застосування санкцій",
-    "title_en": "Early termination of a previous public contract and application of sanctions",
+    "title_uk": "Невиконання зобов’язань за попереднім договором",
+    "title_en": "Failure to perform obligations under a previous contract",
     "description_uk": "Учасник процедури закупівлі не виконав своїх зобов’язань за раніше укладеним публічним договором з тим самим замовником, що призвело до дострокового розірвання такого договору і застосування санкції у вигляді неустойки та/або відшкодування збитків. Зазначене рішення про відмову в участі може бути прийнято протягом трьох років з дня дострокового розірвання такого публічного договору та за наявності у замовника документального підтвердження обставин, передбачених цим абзацом (рішення суду або документ, що підтверджує повну або часткову оплату неустойки або відшкодування збитків)",
     "description_en": "The bidder has failed to perform its obligations under a previously concluded public contract with the same procuring entity, resulting in the early termination of that contract and the application of a sanction in the form of a contractual penalty and/or compensation for damages. Such decision refusing participation may be adopted within three (3) years from the date of the early termination of that public contract, provided that the procuring entity possesses documentary evidence of the circumstances referred to in this subclause (a court decision or a document confirming full or partial payment of the contractual penalty or compensation for damages)",
     "type": "supplier",
@@ -352,8 +352,8 @@
     ]
   },
   "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_SELECTION": {
-    "title_uk": "Зв'язки учасника або походження товару з РФ, РБ чи Ірану (відбір у ДСЗ)",
-    "title_en": "Bidder ties to or goods originating in the RF, RB, or Iran (DPS selection)",
+    "title_uk": "Зв'язок учасника або походження товару: РФ, РБ, Іран",
+    "title_en": "Bidder ties or origin of goods: RF, RB, Iran",
     "description_uk": "Учасник є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку у статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи у встановленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в тендерній пропозиції товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран",
     "description_en": "The bidder is a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine); a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran; a legal entity established and registered under the laws of Ukraine whose ultimate beneficial owner, member or participant (shareholder) holding ten (10) per cent or more of the share capital (hereinafter — the “assets”) is the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine), or a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, except where such assets have been transferred, in accordance with the legislation, to the management of the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes; or offers, in the bid, goods originating in the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran",
     "type": "supplier",
@@ -373,9 +373,9 @@
       }
     ]
   },
-  "REJECTION.OTHER.MULTIPLE_PROPOSALS_DPS": {
-    "title_uk": "Подання двох або більше пропозицій у межах конкурентного відбору в ДСЗ",
-    "title_en": "Submission of two or more bids within a DPS competitive selection",
+  "REJECTION.OTHER.MULTIPLE_PROPOSALS_CO": {
+    "title_uk": "Подання двох або більше пропозицій",
+    "title_en": "Submission of two or more bids",
     "description_uk": "Учасник подав дві або більше тендерних пропозицій в межах одного конкурентного відбору серед кандидатів, включених до динамічної системи закупівель за результатами першого етапу",
     "description_en": "The bidder has submitted two (2) or more bids within the same DPS competitive selection procedure",
     "type": "supplier",
@@ -396,8 +396,8 @@
     ]
   },
   "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_PQ": {
-    "title_uk": "Зв'язки учасника або походження товару з РФ, РБ чи Ірану (запит пропозицій)",
-    "title_en": "Bidder ties to or goods originating in the RF, RB, or Iran (price quotation)",
+    "title_uk": "Зв'язок учасника або походження товару: РФ, РБ, Іран",
+    "title_en": "Bidder ties or origin of goods: RF, RB, Iran",
     "description_uk": "Учасник є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку у статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи у встановленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в тендерній пропозиції товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран",
     "description_en": "The bidder is a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine); a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran; a legal entity established and registered under the laws of Ukraine whose ultimate beneficial owner, member or participant (shareholder) holding ten (10) per cent or more of the share capital (hereinafter — the “assets”) is the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine), or a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, except where such assets have been transferred, in accordance with the legislation, to the management of the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes; or offers, in the bid, goods originating in the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran",
     "type": "supplier",
@@ -418,8 +418,8 @@
     ]
   },
   "REJECTION.OTHER.MULTIPLE_PROPOSALS_PQ": {
-    "title_uk": "Подання двох або більше пропозицій у межах запиту пропозицій",
-    "title_en": "Submission of two or more bids within a price quotation",
+    "title_uk": "Подання двох або більше пропозицій",
+    "title_en": "Submission of two or more bids",
     "description_uk": "Учасник подав дві або більше пропозицій в межах одного запиту пропозицій учасників",
     "description_en": "The bidder has submitted two (2) or more bids within the same DPS price quotation",
     "type": "supplier",
@@ -506,8 +506,8 @@
     ]
   },
   "REJECTION.OTHER.MISSING_SUPPLY_CHAIN_INFO": {
-    "title_uk": "Відсутність інформації про суб’єктів у ланцюгу постачання",
-    "title_en": "Missing information on supply chain economic operators",
+    "title_uk": "Неповна інформація про ланцюг постачання",
+    "title_en": "Incomplete supply chain information",
     "description_uk": "Учасник / постачальник, який не є виробником товару, не надав інформації щодо всіх суб’єктів господарювання, що будуть залучені у ланцюгу постачання між виробником товару та учасником закупівлі",
     "description_en": "The bidder/supplier that is not the manufacturer of the goods has failed to provide information on all economic operators that will be involved in the supply chain between the manufacturer of the goods and the bidder",
     "type": "supplier",
@@ -638,8 +638,8 @@
     ]
   },
   "REJECTION.OTHER.FALSE_INFORMATION_ESSENTIAL": {
-    "title_uk": "Надання переможцем суттєвої недостовірної інформації",
-    "title_en": "Provision of material false information by the winner",
+    "title_uk": "Надання переможцем недостовірної інформації",
+    "title_en": "Provision of false information by the winner",
     "description_uk": "Переможець надав недостовірну інформацію, що є суттєвою при визначенні результатів процедури закупівлі, яку замовником виявлено згідно з абзацом другим частини п’ятнадцятої статті 32 цього Закону",
     "description_en": "The winner has provided false information that is material to determining the outcome of the procurement procedure and which has been identified by the procuring entity in accordance with the second paragraph of Part 15 of Article 32 of this Law",
     "type": "winner",
@@ -659,9 +659,9 @@
       }
     ]
   },
-  "REJECTION.OTHER.FAILURE_TO_SIGN_CONTRACT_DPS": {
-    "title_uk": "Непідписання договору переможцем відбору в ДСЗ",
-    "title_en": "Failure by the winner to sign the contract in DPS selection",
+  "REJECTION.OTHER.FAILURE_TO_SIGN_CONTRACT_CO": {
+    "title_uk": "Непідписання договору переможцем",
+    "title_en": "Failure by the winner to sign the contract",
     "description_uk": "Переможець не підписав договір на умовах, визначених замовником в оголошенні про проведення конкурентного відбору серед кандидатів, включених до динамічної системи закупівель за результатами першого етапу, та у строк, визначений частинами дванадцятою і тринадцятою статті 52 цього Закону",
     "description_en": "The winner has failed to sign the public contract on the terms specified by the procuring entity in the notice for DPS competitive selection and within the time limits laid down in Parts 12 and 13 of Article 52 of this Law",
     "type": "winner",
@@ -682,8 +682,8 @@
     ]
   },
   "REJECTION.OTHER.CONTRACT_GUARANTEE_MISSING": {
-    "title_uk": "Ненадання забезпечення виконання договору у відборі ДСЗ",
-    "title_en": "Failure to provide contract performance security in DPS selection",
+    "title_uk": "Ненадання забезпечення виконання договору",
+    "title_en": "Failure to provide contract performance security",
     "description_uk": "Переможець не надав забезпечення виконання договору у строк, визначений частиною дев’ятою статті 52 цього Закону",
     "description_en": "The winner has failed to provide performance security for the public contract within the time limit laid down in Part 9 of Article 52 of this Law",
     "type": "winner",
@@ -704,8 +704,8 @@
     ]
   },
   "REJECTION.OTHER.WRITTEN_REFUSAL_TO_SIGN_SELECTION": {
-    "title_uk": "Повідомлення від переможця про відмову від підписання договору (відбір у ДСЗ)",
-    "title_en": "Notification by the winner of refusal to sign the contract (DPS selection)",
+    "title_uk": "Повідомлення від переможця про відмову від підписання договору",
+    "title_en": "Notification by the winner of refusal to sign the contract",
     "description_uk": "Переможець повідомив замовника через електронну систему закупівель про відмову від підписання публічного договору шляхом направлення електронного документа в довільній формі з інформацією про таку відмову",
     "description_en": "The winner has notified the procuring entity through the electronic procurement system of its refusal to sign the public contract by submitting an electronic document in free form containing information on such refusal",
     "type": "winner",
@@ -726,8 +726,8 @@
     ]
   },
   "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_SELECTION": {
-    "title_uk": "Наявність підстав для відмови в участі щодо переможця у відборі ДСЗ (ст. 21)",
-    "title_en": "Grounds for refusing participation in respect of the winner in DPS selection (Art. 21)",
+    "title_uk": "Наявність підстав для відмови в участі щодо переможця",
+    "title_en": "Grounds for refusing participation in respect of the winner",
     "description_uk": "Щодо переможця наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
     "description_en": "The grounds for refusing participation specified in Article 21 of this Law exist in respect of the winner",
     "type": "winner",
@@ -748,8 +748,8 @@
     ]
   },
   "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_SELECTION_WINNER": {
-    "title_uk": "Зв'язки переможця або походження товару з РФ, РБ чи Ірану (відбір у ДСЗ)",
-    "title_en": "Winner ties to or goods originating in the RF, RB, or Iran (DPS selection)",
+    "title_uk": "Зв'язок переможця або походження товару: РФ, РБ, Іран",
+    "title_en": "Winner ties to or origin of goods: RF, RB, Iran",
     "description_uk": "Переможець є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи у встановленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в тендерній пропозиції товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран",
     "description_en": "The winner is a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine); a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran; a legal entity established and registered under the laws of Ukraine whose ultimate beneficial owner, member or participant (shareholder) holding ten (10) per cent or more of the share capital (hereinafter — the “assets”) is the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine), or a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, except where such assets have been transferred, in accordance with the legislation, to the management of the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes; or offers, in the bid, goods originating in the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran",
     "type": "winner",
@@ -769,9 +769,9 @@
       }
     ]
   },
-  "REJECTION.OTHER.QUALIFICATION_SELECTION_MISMATCH_DPS": {
-    "title_uk": "Невідповідність переможця вимогам кваліфікаційного відбору (відбір у ДСЗ)",
-    "title_en": "Winner non-compliance with prequalification requirements (DPS selection)",
+  "REJECTION.OTHER.QUALIFICATION_SELECTION_MISMATCH_CO": {
+    "title_uk": "Невідповідність переможця вимогам кваліфікаційного відбору",
+    "title_en": "Winner non-compliance with prequalification requirements",
     "description_uk": "Щодо переможця встановлено факт невідповідності вимогам, визначеним в оголошенні про проведення кваліфікаційного відбору кандидатів, або наявні підстави для відмови в участі у закупівлі відповідно до цього Закону",
     "description_en": "It has been established that the winner does not comply with the requirements set out in the notice for DPS prequalification, or the grounds for refusing participation under this Law exist",
     "type": "winner",
@@ -792,8 +792,8 @@
     ]
   },
   "REJECTION.OTHER.FAILURE_TO_SIGN_CONTRACT": {
-    "title_uk": "Непідписання договору переможцем запиту пропозицій",
-    "title_en": "Failure by the winner to sign the contract in price quotation",
+    "title_uk": "Непідписання договору переможцем",
+    "title_en": "Failure by the winner to sign the contract",
     "description_uk": "Переможець не підписав договір на умовах, визначених замовником у запиті пропозицій учасників серед кандидатів, включених до динамічної системи закупівель за результатами першого етапу, та у строк, визначений частинами дванадцятою і тринадцятою статті 52 цього Закону",
     "description_en": "The winner has failed to sign the public contract on the terms specified by the procuring entity in the request for DPS price quotations and within the time limits laid down in Parts 12 and 13 of Article 52 of this Law",
     "type": "winner",
@@ -808,14 +808,14 @@
           "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1753"
         },
         "type": "NATIONAL_LEGISLATION",
-        "article_uk": "Абзац 2 частини 10 статті 55",
-        "article_en": "Paragraph 2 of part 10 of article 55"
+        "article_uk": "Пункт 1 частини 10 статті 55",
+        "article_en": "Clause 1 of part 10 of article 55"
       }
     ]
   },
   "REJECTION.OTHER.CONTRACT_GUARANTEE_MISMATCH": {
-    "title_uk": "Ненадання забезпечення виконання договору у запиті пропозицій",
-    "title_en": "Failure to provide contract performance security in price quotation",
+    "title_uk": "Ненадання забезпечення виконання договору",
+    "title_en": "Failure to provide contract performance security",
     "description_uk": "Переможець не надав забезпечення виконання договору у строк, визначений частиною дев’ятою статті 52 цього Закону",
     "description_en": "The winner has failed to provide performance security for the public contract within the time limit laid down in Part 9 of Article 52 of this Law",
     "type": "winner",
@@ -830,14 +830,14 @@
           "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1753"
         },
         "type": "NATIONAL_LEGISLATION",
-        "article_uk": "Абзац 3 частини 10 статті 55",
-        "article_en": "Paragraph 3 of part 10 of article 55"
+        "article_uk": "Пункт 2 частини 10 статті 55",
+        "article_en": "Clause 2 of part 10 of article 55"
       }
     ]
   },
   "REJECTION.OTHER.WRITTEN_REFUSAL_TO_SIGN": {
-    "title_uk": "Повідомлення від переможця про відмову від підписання договору (запит пропозицій)",
-    "title_en": "Notification by the winner of refusal to sign the contract (price quotation)",
+    "title_uk": "Повідомлення від переможця про відмову від підписання договору",
+    "title_en": "Notification by the winner of refusal to sign the contract",
     "description_uk": "Переможець повідомив замовника через електронну систему закупівель про відмову від підписання публічного договору шляхом направлення електронного документа в довільній формі з інформацією про таку відмову",
     "description_en": "The winner has notified the procuring entity through the electronic procurement system of its refusal to sign the public contract by submitting an electronic document in free form containing information on such refusal",
     "type": "winner",
@@ -852,14 +852,14 @@
           "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1753"
         },
         "type": "NATIONAL_LEGISLATION",
-        "article_uk": "Абзац 4 частини 10 статті 55",
-        "article_en": "Paragraph 4 of part 10 of article 55"
+        "article_uk": "Пункт 3 частини 10 статті 55",
+        "article_en": "Clause 3 of part 10 of article 55"
       }
     ]
   },
   "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL": {
-    "title_uk": "Наявність підстав для відмови в участі щодо переможця у запиті пропозицій",
-    "title_en": "Grounds for refusing participation in respect of the winner in price quotation (Art. 21)",
+    "title_uk": "Наявність підстав для відмови в участі щодо переможця",
+    "title_en": "Grounds for refusing participation in respect of the winner",
     "description_uk": "Щодо переможця наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
     "description_en": "The grounds for refusing participation specified in Article 21 of this Law exist in respect of the winner",
     "type": "winner",
@@ -874,14 +874,14 @@
           "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1753"
         },
         "type": "NATIONAL_LEGISLATION",
-        "article_uk": "Абзац 5 частини 10 статті 55",
-        "article_en": "Paragraph 5 of part 10 of article 55"
+        "article_uk": "Пункт 4 частини 10 статті 55",
+        "article_en": "Clause 4 of part 10 of article 55"
       }
     ]
   },
   "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_PQ_WINNER": {
-    "title_uk": "Зв'язки переможця або походження товару з РФ, РБ чи Ірану (запит пропозицій)",
-    "title_en": "Winner ties to or goods originating in the RF, RB, or Iran (price quotation)",
+    "title_uk": "Зв'язок переможця або походження товару: РФ, РБ, Іран",
+    "title_en": "Winner ties to or origin of goods: RF, RB, Iran",
     "description_uk": "Переможець є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку у статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи у встановленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в пропозиції товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран",
     "description_en": "The winner is a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine); a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran; a legal entity established and registered under the laws of Ukraine whose ultimate beneficial owner, member or participant (shareholder) holding ten (10) per cent or more of the share capital (hereinafter — the “assets”) is the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine), or a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, except where such assets have been transferred, in accordance with the legislation, to the management of the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes; or offers, in the bid, goods originating in the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran",
     "type": "winner",
@@ -896,14 +896,14 @@
           "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1758"
         },
         "type": "NATIONAL_LEGISLATION",
-        "article_uk": "Абзац 6 частини 10 статті 55",
-        "article_en": "Paragraph 6 of part 10 of article 55"
+        "article_uk": "Пункт 5 частини 10 статті 55",
+        "article_en": "Clause 5 of part 10 of article 55"
       }
     ]
   },
   "REJECTION.OTHER.QUALIFICATION_SELECTION_MISMATCH": {
-    "title_uk": "Невідповідність переможця вимогам кваліфікаційного відбору (запит пропозицій)",
-    "title_en": "Winner non-compliance with prequalification requirements (price quotation)",
+    "title_uk": "Невідповідність переможця вимогам кваліфікаційного відбору",
+    "title_en": "Winner non-compliance with prequalification requirements",
     "description_uk": "Щодо переможця встановлено факт невідповідності вимогам, визначеним в оголошенні про проведення кваліфікаційного відбору кандидатів, або наявні підстави для відмови в участі у закупівлі відповідно до цього Закону",
     "description_en": "It has been established that the winner does not comply with the requirements set out in the notice for DPS prequalification, or the grounds for refusing participation under this Law exist",
     "type": "winner",
@@ -918,14 +918,14 @@
           "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1760"
         },
         "type": "NATIONAL_LEGISLATION",
-        "article_uk": "Абзац 7 частини 10 статті 55",
-        "article_en": "Paragraph 7 of part 10 of article 55"
+        "article_uk": "Пункт 6 частини 10 статті 55",
+        "article_en": "Clause 6 of part 10 of article 55"
       }
     ]
   },
-  "REJECTION.SELECTION.QUALIFICATION_CRITERIA_MISMATCH_CPN": {
-    "title_uk": "Невідповідність кандидата кваліфікаційним критеріям (ст. 40)",
-    "title_en": "Candidate non-compliance with qualification criteria (Art. 40)",
+  "REJECTION.SELECTION.QUALIFICATION_CRITERIA_MISMATCH_CN": {
+    "title_uk": "Невідповідність кандидата кваліфікаційним критеріям",
+    "title_en": "Candidate non-compliance with qualification criteria",
     "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
     "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
     "type": "candidate",
@@ -946,8 +946,8 @@
     ]
   },
   "REJECTION.SELECTION.QUALIFICATION_CRITERIA_MISMATCH_CD": {
-    "title_uk": "Невідповідність кандидата кваліфікаційним критеріям (ст. 42)",
-    "title_en": "Candidate non-compliance with qualification criteria (Art. 42)",
+    "title_uk": "Невідповідність кандидата кваліфікаційним критеріям",
+    "title_en": "Candidate non-compliance with qualification criteria",
     "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
     "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
     "type": "candidate",
@@ -967,9 +967,9 @@
       }
     ]
   },
-  "REJECTION.SELECTION.QUALIFICATION_CRITERIA_MISMATCH_PLP": {
-    "title_uk": "Невідповідність кандидата кваліфікаційним критеріям (ст. 45)",
-    "title_en": "Candidate non-compliance with qualification criteria (Art. 45)",
+  "REJECTION.SELECTION.QUALIFICATION_CRITERIA_MISMATCH_RT": {
+    "title_uk": "Невідповідність кандидата кваліфікаційним критеріям",
+    "title_en": "Candidate non-compliance with qualification criteria",
     "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
     "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
     "type": "candidate",
@@ -989,9 +989,9 @@
       }
     ]
   },
-  "REJECTION.SELECTION.QUALIFICATION_CRITERIA_MISMATCH_IPP": {
-    "title_uk": "Невідповідність кандидата кваліфікаційним критеріям (ст. 49)",
-    "title_en": "Candidate non-compliance with qualification criteria (Art. 49)",
+  "REJECTION.SELECTION.QUALIFICATION_CRITERIA_MISMATCH_IP": {
+    "title_uk": "Невідповідність кандидата кваліфікаційним критеріям",
+    "title_en": "Candidate non-compliance with qualification criteria",
     "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
     "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
     "type": "candidate",
@@ -1011,9 +1011,9 @@
       }
     ]
   },
-  "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_CPN": {
-    "title_uk": "Підстави для відмови кандидату в участі (ст. 21, ст. 40)",
-    "title_en": "Grounds for refusing candidate participation (Art. 21, Art. 40)",
+  "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_CN": {
+    "title_uk": "Підстави для відмови кандидату в участі",
+    "title_en": "Grounds for refusing candidate participation",
     "description_uk": "Наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
     "description_en": "The grounds for refusing participation in the procurement established by Article 21 of this Law exist",
     "type": "candidate",
@@ -1034,8 +1034,8 @@
     ]
   },
   "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_CD": {
-    "title_uk": "Підстави для відмови кандидату в участі (ст. 42)",
-    "title_en": "Grounds for refusing candidate participation (Art. 42)",
+    "title_uk": "Підстави для відмови кандидату в участі",
+    "title_en": "Grounds for refusing candidate participation",
     "description_uk": "Наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
     "description_en": "The grounds for refusing participation in the procurement established by Article 21 of this Law exist",
     "type": "candidate",
@@ -1055,9 +1055,9 @@
       }
     ]
   },
-  "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_PLP": {
-    "title_uk": "Підстави для відмови кандидату в участі (ст. 45)",
-    "title_en": "Grounds for refusing candidate participation (Art. 45)",
+  "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_RT": {
+    "title_uk": "Підстави для відмови кандидату в участі",
+    "title_en": "Grounds for refusing candidate participation",
     "description_uk": "Наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
     "description_en": "The grounds for refusing participation in the procurement established by Article 21 of this Law exist",
     "type": "candidate",
@@ -1077,9 +1077,9 @@
       }
     ]
   },
-  "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_IPP": {
-    "title_uk": "Підстави для відмови кандидату в участі (ст. 49)",
-    "title_en": "Grounds for refusing candidate participation (Art. 49)",
+  "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_IP": {
+    "title_uk": "Підстави для відмови кандидату в участі",
+    "title_en": "Grounds for refusing candidate participation",
     "description_uk": "Наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
     "description_en": "The grounds for refusing participation in the procurement established by Article 21 of this Law exist",
     "type": "candidate",
@@ -1100,8 +1100,8 @@
     ]
   },
   "REJECTION.SELECTION.CRITERIA_SELECTION_AND_EXCLUSION_MISMATCH": {
-    "title_uk": "Невідповідність кваліфікаційним критеріям та/або підстави для відмови (ч. 10 ст. 53)",
-    "title_en": "Non-compliance with qualification criteria and/or grounds for refusal (Art. 53, Part 10)",
+    "title_uk": "Невідповідність кваліфікаційним критеріям та/або підстави для відмови",
+    "title_en": "Non-compliance with qualification criteria and/or grounds for refusal",
     "description_uk": "Кандидат не відповідає кваліфікаційним (кваліфікаційному) критеріям (критерію), встановленим (встановленому) статтею 20 цього Закону, та/або наявні підстави для відмови в участі у закупівлі, встановлені частиною першою статті 21 цього Закону",
     "description_en": "The candidate does not satisfy the qualification criterion (criteria) established by Article 20 of this Law and/or the grounds for refusing participation established by Part 1 of Article 21 of this Law exist",
     "type": "candidate",
@@ -1122,8 +1122,8 @@
     ]
   },
   "REJECTION.OTHER.INVALID_CONFIDENTIAL_INFORMATION": {
-    "title_uk": "Неправомірне визначення інформації конфіденційною (ч. 6 ст. 53)",
-    "title_en": "Improper designation of information as confidential (Art. 53, Part 6)",
+    "title_uk": "Неправомірне визначення інформації конфіденційною",
+    "title_en": "Improper designation of information as confidential",
     "description_uk": "Кандидат визначив конфіденційною інформацію, що не може бути визначена конфіденційною відповідно до абзацу третього частини шостої цієї статті",
     "description_en": "The candidate has designated as confidential information that may not be designated as confidential in accordance with the third paragraph of Part 6 of this Article",
     "type": "candidate",
@@ -1144,8 +1144,8 @@
     ]
   },
   "REJECTION.OTHER.REQUIREMENTS_MISMATCH": {
-    "title_uk": "Невідповідність кандидата вимогам тендерної документації (ч. 10 ст. 53)",
-    "title_en": "Candidate non-compliance with bidding document requirements (Art. 53, Part 10)",
+    "title_uk": "Невідповідність кандидата вимогам тендерної документації",
+    "title_en": "Candidate non-compliance with bidding document requirements",
     "description_uk": "Кандидат не відповідає вимогам, визначеним тендерною документацією відповідно до абзацу першого частини третьої статті 24 цього Закону",
     "description_en": "The candidate does not comply with the requirements specified in the bidding documents in accordance with the first paragraph of Part 3 of Article 24 of this Law",
     "type": "candidate",
@@ -1166,8 +1166,8 @@
     ]
   },
   "REJECTION.OTHER.FALSE_INFORMATION_DPS_PREQUALIFICATION": {
-    "title_uk": "Недостовірна інформація в заявці на кваліфікаційний відбір до ДСЗ",
-    "title_en": "False information in the request for DPS prequalification",
+    "title_uk": "Недостовірна інформація в заявці",
+    "title_en": "False information in the request",
     "description_uk": "Кандидат зазначив у заявці для участі у кваліфікаційному відборі кандидатів до динамічної системи закупівель недостовірну інформацію, що є суттєвою для включення кандидата до динамічної системи закупівель, яку замовником / централізованою закупівельною організацією (якщо динамічна система закупівель створюється централізованою закупівельною організацією) виявлено у порядку, передбаченому частиною дев'ятою цієї статті",
     "description_en": "The candidate has included in its request to participate in the DPS prequalification false information material to the candidate's admission to the DPS, which has been identified by the procuring entity/centralised purchasing body (where the DPS is established by a centralised purchasing body) in accordance with the procedure laid down in Part 9 of this Article",
     "type": "candidate",
@@ -1188,8 +1188,8 @@
     ]
   },
   "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_CANDIDATE": {
-    "title_uk": "Зв'язки кандидата або походження товару з РФ, РБ чи Ірану",
-    "title_en": "Candidate ties to or goods originating in the RF, RB, or Iran",
+    "title_uk": "Зв'язок кандидата або походження товару: РФ, РБ, Іран",
+    "title_en": "Candidate ties to or origin of goods: RF, RB, Iran",
     "description_uk": "Кандидат є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи у встановленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в заявці для участі у кваліфікаційному відборі кандидатів до динамічної системи закупівель товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран",
     "description_en": "The candidate is a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine); a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran; a legal entity established and registered under the laws of Ukraine whose ultimate beneficial owner, member or participant (shareholder) holding ten (10) per cent or more of the share capital (hereinafter — the “assets”) is the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine), or a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, except where such assets have been transferred, in accordance with the legislation, to the management of the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes; or offers, in the request to participate in the DPS prequalification, goods originating in the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran",
     "type": "candidate",
@@ -1232,8 +1232,8 @@
     ]
   },
   "REJECTION.OTHER.LANGUAGE_MISMATCH_DPS_REQUEST": {
-    "title_uk": "Невідповідність мови заявки вимогам оголошення про відбір до ДСЗ",
-    "title_en": "Request language non-compliance with the DPS prequalification notice",
+    "title_uk": "Невідповідність мови заявки",
+    "title_en": "Request language non-compliance",
     "description_uk": "Заявка викладена іншою мовою (мовами), ніж мова (мови), що визначена (визначені) в оголошенні про проведення кваліфікаційного відбору кандидатів до динамічної системи закупівель",
     "description_en": "Request is drawn up in a language(s) other than the language(s) specified in the notice for DPS prequalification",
     "type": "candidate",
