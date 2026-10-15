@@ -1,572 +1,1256 @@
 {
   "REJECTION.EXCLUSION.REQUIREMENTS_MISMATCH": {
-    "title_uk": "Абзац 2 пункту 1 частини 1 статті 34",
-    "title_en": "Paragraph 2 of clause 1 of part 1 of article 34",
+    "title_uk": "Підстави для відмови в участі",
+    "title_en": "Grounds for refusing participation",
     "description_uk": "Учасник процедури закупівлі підпадає під підстави для відмови в участі у закупівлі, визначені частиною першою статті 21 цього Закону",
     "description_en": "The bidder is subject to one or more of the grounds for refusing participation in the procurement specified in Part 1 of Article 21 of this Law",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 2 пункту 1 частини 1 статті 34",
+        "article_en": "Paragraph 2 of clause 1 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.SELECTION.REQUIREMENTS_MISMATCH": {
-    "title_uk": "Абзац 3 пункту 1 частини 1 статті 34",
-    "title_en": "Paragraph 3 of clause 1 of part 1 of article 34",
+    "title_uk": "Невідповідність кваліфікаційним критеріям",
+    "title_en": "Non-compliance with qualification criteria",
     "description_uk": "Учасник процедури закупівлі не відповідає вимогам, встановленим частиною другою статті 20 цього Закону",
     "description_en": "The bidder does not satisfy the requirements established by Part 2 of Article 20 of this Law",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 3 пункту 1 частини 1 статті 34",
+        "article_en": "Paragraph 3 of clause 1 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.OTHER.FALSE_INFORMATION": {
-    "title_uk": "Абзац 4 пункту 1 частини 1 статті 34",
-    "title_en": "Paragraph 4 of clause 1 of part 1 of article 34",
+    "title_uk": "Недостовірна інформація в тендерній пропозиції/варіанті",
+    "title_en": "False information in the bid/variant",
     "description_uk": "Учасник процедури закупівлі зазначив у тендерній пропозиції / варіанті та/або в документах, поданих на виконання вимог частини дев’ятої статті 29 цього Закону, недостовірну інформацію, що є суттєвою при визначенні результатів конкурентної процедури закупівлі, яку замовником виявлено згідно з абзацом другим частини п’ятнадцятої статті 32 цього Закону",
     "description_en": "The bidder has included in its bid/variant and/or in the documents submitted pursuant to Part 9 of Article 29 of this Law false information that is material to determining the outcome of the competitive procurement procedure and which has been identified by the procuring entity in accordance with the second paragraph of Part 15 of Article 32 of this Law",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 4 пункту 1 частини 1 статті 34",
+        "article_en": "Paragraph 4 of clause 1 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.OTHER.MISSING_BID_GUARANTEE": {
-    "title_uk": "Абзац 5 пункту 1 частини 1 статті 34",
-    "title_en": "Paragraph 5 of clause 1 of part 1 of article 34",
+    "title_uk": "Відсутнє забезпечення тендерної пропозиції/варіанта",
+    "title_en": "Missing bid/variant security",
     "description_uk": "Учасник процедури закупівлі не надав забезпечення тендерної пропозиції / варіанта, якщо таке забезпечення вимагалося замовником",
     "description_en": "The bidder has failed to provide bid security / variant security, where such security was required by the procuring entity",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 5 пункту 1 частини 1 статті 34",
+        "article_en": "Paragraph 5 of clause 1 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.OTHER.24_HOURS": {
-    "title_uk": "Абзац 6 пункту 1 частини 1 статті 34",
-    "title_en": "Paragraph 6 of clause 1 of part 1 of article 34",
-    "description_uk": "Учасник процедури закупівлі не виправив виявлені замовником після розкриття тендерних пропозицій / варіантів невідповідності в інформації та/або в документах, поданих ним у складі своєї тендерної пропозиції / варіанта, та/або змінив предмет закупівлі під час виправлення виявлених замовником невідповідностей протягом 24 годин з моменту розміщення замовником в електронній системі закупівель повідомлення з вимогою про усунення таких невідповідностей ",
+    "title_uk": "Невиправлення невідповідностей протягом 24 годин або зміна предмета закупівлі",
+    "title_en": "Failure to remedy non-conformities within 24 hours or change of procurement subject",
+    "description_uk": "Учасник процедури закупівлі не виправив виявлені замовником після розкриття тендерних пропозицій / варіантів невідповідності в інформації та/або в документах, поданих ним у складі своєї тендерної пропозиції / варіанта, та/або змінив предмет закупівлі під час виправлення виявлених замовником невідповідностей протягом 24 годин з моменту розміщення замовником в електронній системі закупівель повідомлення з вимогою про усунення таких невідповідностей",
     "description_en": "The bidder has failed to remedy, within 24 hours from the time the procuring entity publishes in the electronic procurement system a notice requiring the identified non-conformities to be remedied, the non-conformities identified by the procuring entity in the information and/or documents submitted as part of its bid/variant after the opening of the bids/variants, and/or has changed the subject matter of procurement while remedying the non-conformities identified by the procuring entity",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 6 пункту 1 частини 1 статті 34",
+        "article_en": "Paragraph 6 of clause 1 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.OTHER.MISSING_ALP_JUSTIFICATION": {
-    "title_uk": "Абзац 7 пункту 1 частини 1 статті 34",
-    "title_en": "Paragraph 7 of clause 1 of part 1 of article 34",
+    "title_uk": "Ненадання обґрунтування аномально низької ціни",
+    "title_en": "Failure to provide justification for abnormally low price",
     "description_uk": "Учасник процедури закупівлі не надав обґрунтування аномально низької ціни тендерної пропозиції / варіанта протягом строку, визначеного частиною чотирнадцятою статті 32 цього Закону",
     "description_en": "The bidder has failed to provide justification for the abnormally low bid price of the bid/variant within the period specified in Part 14 of Article 32 of this Law",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1068"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 7 пункту 1 частини 1 статті 34",
+        "article_en": "Paragraph 7 of clause 1 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.OTHER.INVALID_CONFIDENTIAL_INFO": {
-    "title_uk": "Абзац 8 пункту 1 частини 1 статті 34",
-    "title_en": "Paragraph 8 of clause 1 of part 1 of article 34",
+    "title_uk": "Неправомірне визначення інформації конфіденційною",
+    "title_en": "Improper designation of information as confidential",
     "description_uk": "Учасник процедури закупівлі визначив конфіденційною інформацію, що не може бути визначена як конфіденційна відповідно до частини другої статті 31 цього Закону",
     "description_en": "The bidder has designated information as confidential in circumstances where it may not be so designated under Part 2 of Article 31 of this Law",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1074"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1074"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 8 пункту 1 частини 1 статті 34",
+        "article_en": "Paragraph 8 of clause 1 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_SUPPLIER": {
-    "title_uk": "Абзац 9 пункту 1 частини 1 статті 34",
-    "title_en": "Paragraph 9 of clause 1 of part 1 of article 34",
+    "title_uk": "Зв'язки учасника або походження товару з РФ, РБ чи Ірану",
+    "title_en": "Bidder ties to or goods originating in the RF, RB, or Iran",
     "description_uk": "Учасник процедури закупівлі є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку у статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи в установленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в тендерній пропозиції товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім товарів походженням з Російської Федерації / Республіки Білорусь, необхідних для ремонту та обслуговування товарів, придбаних до 19 жовтня 2022 року)",
     "description_en": "The bidder is a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine); or is a legal entity established and registered under the legislation of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran; or is a legal entity established and registered under the legislation of Ukraine whose ultimate beneficial owner, member or participant (shareholder) holding ten (10) per cent or more of the share capital (hereinafter — the “assets”) is the Russian Federation / the Republic of Belarus / the Islamic Republic of Iran, a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine), or a legal entity established and registered under the legislation of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, except where such assets have been transferred for management to the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes in accordance with the procedure established by law; or proposes, in its bid, goods originating in the Russian Federation / the Republic of Belarus / the Islamic Republic of Iran (except for goods originating in the Russian Federation / the Republic of Belarus that are necessary for the repair and maintenance of goods purchased before 19 October 2022)",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1076"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1076"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 9 пункту 1 частини 1 статті 34",
+        "article_en": "Paragraph 9 of clause 1 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.OTHER.REQUIREMENTS_VIOLATION": {
-    "title_uk": "Абзац 10 пункту 1 частини 1 статті 34",
-    "title_en": "Paragraph 10 of clause 1 of part 1 of article 34",
-    "description_uk": "Учасник процедури закупівлі  подав тендерну пропозицію з порушенням вимог частини другої статті 29 цього Закону",
+    "title_uk": "Подання пропозиції з порушенням вимог",
+    "title_en": "Submission of bid in breach of requirements",
+    "description_uk": "Учасник процедури закупівлі подав тендерну пропозицію з порушенням вимог частини другої статті 29 цього Закону",
     "description_en": "The bidder has submitted the bid in breach of the requirements of Part 2 of Article 29 of this Law",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1078"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1078"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 10 пункту 1 частини 1 статті 34",
+        "article_en": "Paragraph 10 of clause 1 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.OTHER.TECHNICAL_SPECIFICATION_MISMATCH": {
-    "title_uk": "Абзац 2 пункту 2 частини 1 статті 34",
-    "title_en": "Paragraph 2 of clause 2 of part 1 of article 34",
+    "title_uk": "Невідповідність технічній специфікації або вимогам до предмета закупівлі",
+    "title_en": "Non-compliance with technical specification or subject matter requirements",
     "description_uk": "Тендерна пропозиція / варіант не відповідає умовам технічної специфікації та/або іншим вимогам щодо предмета закупівлі тендерної документації, крім невідповідностей в інформації та/або в документах, що можуть бути усунені учасником процедури закупівлі відповідно до частини шістнадцятої статті 32 цього Закону",
     "description_en": "The bid/variant does not comply with the requirements of the technical specification and/or other requirements relating to the subject matter of procurement set out in the bidding documents, except for non-conformities in the information and/or documents that may be remedied by the bidder in accordance with Part 16 of Article 32 of this Law",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1080"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1080"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 2 пункту 2 частини 1 статті 34",
+        "article_en": "Paragraph 2 of clause 2 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.OTHER.MINIMUM_REQUIREMENTS_MISMATCH_VARIANT": {
-    "title_uk": "Абзац 3 пункту 2 частини 1 статті 34",
-    "title_en": "Paragraph 3 of clause 2 of part 1 of article 34",
+    "title_uk": "Невідповідність мінімальним вимогам до тендерної пропозиції/варіанта",
+    "title_en": "Non-compliance with minimum requirements for a bid/variant",
     "description_uk": "Тендерна пропозиція / варіант не відповідає мінімальним вимогам, визначеним замовником у тендерній документації до варіанта",
     "description_en": "The bid/variant does not comply with the minimum requirements established by the procuring entity for a variant in the bidding documents",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1080"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1080"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 3 пункту 2 частини 1 статті 34",
+        "article_en": "Paragraph 3 of clause 2 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.OTHER.BID_VALIDITY_PERIOD_EXPIRED": {
-    "title_uk": "Абзац 4 пункту 2 частини 1 статті 34",
-    "title_en": "Paragraph 4 of clause 2 of part 1 of article 34",
+    "title_uk": "Закінчення строку дії тендерної пропозиції/варіанта",
+    "title_en": "Expiration of the bid/variant validity period",
     "description_uk": "Тендерна пропозиція / варіант є такою/таким, строк дії якої/якого закінчився",
     "description_en": "The bid/variant has expired",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1080"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1080"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 4 пункту 2 частини 1 статті 34",
+        "article_en": "Paragraph 4 of clause 2 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.OTHER.TENDER_DOCUMENTATION_MISMATCH": {
-    "title_uk": "Абзац 5 пункту 2 частини 1 статті 34",
-    "title_en": "Paragraph 5 of clause 2 of part 1 of article 34",
+    "title_uk": "Невідповідність вимогам тендерної документації",
+    "title_en": "Non-compliance with bidding document requirements",
     "description_uk": "Тендерна пропозиція / варіант не відповідає вимогам, встановленим у тендерній документації відповідно до абзацу першого частини третьої статті 24 цього Закону, крім невідповідностей в інформації та/або в документах, що можуть бути усунені учасником процедури закупівлі відповідно до частини шістнадцятої статті 32 цього Закону",
     "description_en": "The bid/variant does not comply with the requirements established in the bidding documents in accordance with the first paragraph of Part 3 of Article 24 of this Law, except for non-conformities in the information and/or documents that may be remedied by the bidder in accordance with Part 16 of Article 32 of this Law",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1080"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1080"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 5 пункту 2 частини 1 статті 34",
+        "article_en": "Paragraph 5 of clause 2 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.OTHER.PRICE_EXCEEDS_EXPECTED_VALUE": {
-    "title_uk": "Абзац 6 пункту 2 частини 1 статті 34",
-    "title_en": "Paragraph 6 of clause 2 of part 1 of article 34",
+    "title_uk": "Перевищення очікуваної вартості або прийнятного відсотка перевищення",
+    "title_en": "Price exceeds estimated value or acceptable excess percentage",
     "description_uk": "Тендерна пропозиція / варіант є такою / таким, ціна якої / якого перевищує очікувану вартість предмета закупівлі, визначену замовником в оголошенні про проведення конкурентної процедури закупівлі, якщо замовник у тендерній документації не зазначив про прийняття до розгляду тендерної пропозиції / варіанта, ціна якої / якого є вищою за очікувану вартість предмета закупівлі, визначену замовником в оголошенні про проведення конкурентної процедури закупівлі, та/або не зазначив прийнятний відсоток перевищення, або відсоток перевищення є більшим, ніж зазначений замовником у тендерній документації",
     "description_en": "The bid/variant has a price exceeding the estimated value of the subject matter of procurement specified by the procuring entity in the notice for competitive procurement procedure, where the procuring entity has not stated in the bidding documents that a bid/variant with a price exceeding the estimated value of the subject matter of procurement specified in the notice for competitive procurement procedure will be accepted for consideration, and/or has not specified the acceptable percentage by which such value may be exceeded, or where the percentage of such excess is greater than that specified by the procuring entity in the bidding documents",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1080"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1080"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 6 пункту 2 частини 1 статті 34",
+        "article_en": "Paragraph 6 of clause 2 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.OTHER.IMPROPER_ALP_JUSTIFICATION": {
-    "title_uk": "Пункт 1 частини 2 статті 34",
-    "title_en": "Clause 1 of part 2 of article 34",
+    "title_uk": "Неналежне обґрунтування аномально низької ціни",
+    "title_en": "Inadequate justification for abnormally low price",
     "description_uk": "Учасник процедури закупівлі не надав належного обґрунтування аномально низької ціни або вартості відповідних товарів, робіт та/або послуг тендерної пропозиції",
     "description_en": "The bidder has failed to provide an adequate justification for the abnormally low bid price or the cost of the relevant goods, works and/or services included in the bid",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1090"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1090"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Пункт 1 частини 2 статті 34",
+        "article_en": "Clause 1 of part 2 of article 34"
+      }
+    ]
   },
   "REJECTION.EXCLUSION.CONTRACT_EARLY_TERMINATION": {
-    "title_uk": "Пункт 2 частини 2 статті 34",
-    "title_en": "Clause 2 of part 2 of article 34",
+    "title_uk": "Дострокове розірвання попереднього публічного договору та застосування санкцій",
+    "title_en": "Early termination of a previous public contract and application of sanctions",
     "description_uk": "Учасник процедури закупівлі не виконав своїх зобов’язань за раніше укладеним публічним договором з тим самим замовником, що призвело до дострокового розірвання такого договору і застосування санкції у вигляді неустойки та/або відшкодування збитків. Зазначене рішення про відмову в участі може бути прийнято протягом трьох років з дня дострокового розірвання такого публічного договору та за наявності у замовника документального підтвердження обставин, передбачених цим абзацом (рішення суду або документ, що підтверджує повну або часткову оплату неустойки або відшкодування збитків)",
     "description_en": "The bidder has failed to perform its obligations under a previously concluded public contract with the same procuring entity, resulting in the early termination of that contract and the application of a sanction in the form of a contractual penalty and/or compensation for damages. Such decision refusing participation may be adopted within three (3) years from the date of the early termination of that public contract, provided that the procuring entity possesses documentary evidence of the circumstances referred to in this subclause (a court decision or a document confirming full or partial payment of the contractual penalty or compensation for damages)",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1090"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1090"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Пункт 2 частини 2 статті 34",
+        "article_en": "Clause 2 of part 2 of article 34"
+      }
+    ]
   },
   "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_SELECTION": {
-    "title_uk": "Абзац 3 частини 9 Статті 54",
-    "title_en": "Paragraph 3 of part 9 of article 54",
+    "title_uk": "Зв'язки учасника або походження товару з РФ, РБ чи Ірану (відбір у ДСЗ)",
+    "title_en": "Bidder ties to or goods originating in the RF, RB, or Iran (DPS selection)",
     "description_uk": "Учасник є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку у статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи у встановленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в тендерній пропозиції товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран",
     "description_en": "The bidder is a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine); a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran; a legal entity established and registered under the laws of Ukraine whose ultimate beneficial owner, member or participant (shareholder) holding ten (10) per cent or more of the share capital (hereinafter — the “assets”) is the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine), or a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, except where such assets have been transferred, in accordance with the legislation, to the management of the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes; or offers, in the bid, goods originating in the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1684"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1684"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 3 частини 9 статті 54",
+        "article_en": "Paragraph 3 of part 9 of article 54"
+      }
+    ]
   },
   "REJECTION.OTHER.MULTIPLE_PROPOSALS_DPS": {
-    "title_uk": "Абзац 4 частини 9 Статті 54",
-    "title_en": "Paragraph 4 of part 9 of article 54",
+    "title_uk": "Подання двох або більше пропозицій у межах конкурентного відбору в ДСЗ",
+    "title_en": "Submission of two or more bids within a DPS competitive selection",
     "description_uk": "Учасник подав дві або більше тендерних пропозицій в межах одного конкурентного відбору серед кандидатів, включених до динамічної системи закупівель за результатами першого етапу",
     "description_en": "The bidder has submitted two (2) or more bids within the same DPS competitive selection procedure",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1686"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1686"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 4 частини 9 статті 54",
+        "article_en": "Paragraph 4 of part 9 of article 54"
+      }
+    ]
   },
   "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_PQ": {
-    "title_uk": "Абзац 5 частини 9 Статті 55",
-    "title_en": "Paragraph 5 of part 9 of article 55",
+    "title_uk": "Зв'язки учасника або походження товару з РФ, РБ чи Ірану (запит пропозицій)",
+    "title_en": "Bidder ties to or goods originating in the RF, RB, or Iran (price quotation)",
     "description_uk": "Учасник є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку у статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи у встановленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в тендерній пропозиції товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран",
     "description_en": "The bidder is a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine); a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran; a legal entity established and registered under the laws of Ukraine whose ultimate beneficial owner, member or participant (shareholder) holding ten (10) per cent or more of the share capital (hereinafter — the “assets”) is the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine), or a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, except where such assets have been transferred, in accordance with the legislation, to the management of the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes; or offers, in the bid, goods originating in the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1739"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1739"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 5 частини 9 статті 55",
+        "article_en": "Paragraph 5 of part 9 of article 55"
+      }
+    ]
   },
   "REJECTION.OTHER.MULTIPLE_PROPOSALS_PQ": {
-    "title_uk": "Абзац 6 частини 9 Статті 55",
-    "title_en": "Paragraph 6 of part 9 of article 55",
+    "title_uk": "Подання двох або більше пропозицій у межах запиту пропозицій",
+    "title_en": "Submission of two or more bids within a price quotation",
     "description_uk": "Учасник подав дві або більше пропозицій в межах одного запиту пропозицій учасників",
     "description_en": "The bidder has submitted two (2) or more bids within the same DPS price quotation",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1742"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1742"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 6 частини 9 статті 55",
+        "article_en": "Paragraph 6 of part 9 of article 55"
+      }
+    ]
   },
   "REJECTION.EXCLUSION.UNFULFILLED_PRIOR_OBLIGATIONS": {
-    "title_uk": "Абзац 7 частини 9 Статті 55",
-    "title_en": "Paragraph 7 of part 9 of article 55",
+    "title_uk": "Невиконання зобов’язань за попереднім договором",
+    "title_en": "Failure to perform obligations under a previous contract",
     "description_uk": "Учасник не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до дострокового розірвання такого договору, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дня дострокового розірвання такого договору, що підтверджується рішенням суду",
     "description_en": "The bidder has failed to perform its obligations under a previous contract concluded with the same procuring entity, which resulted in the early termination of that contract and the imposition of sanctions in the form of penalties and/or damages within three (3) years from the date of such early termination, as confirmed by a court decision",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1742"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1742"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 7 частини 9 статті 55",
+        "article_en": "Paragraph 7 of part 9 of article 55"
+      }
+    ]
   },
   "REJECTION.OTHER.LOCALIZATION_DEGREE_MISMATCH": {
-    "title_uk": "Абзац 2 підпункту 8 пункту 5 Розділу XIV",
-    "title_en": "Paragraph 2 of subclause 8 of clause 5 of Section XIV",
+    "title_uk": "Невідповідність ступеня локалізації виробництва товару",
+    "title_en": "Non-compliance with the degree of production localisation",
     "description_uk": "Ступінь локалізації виробництва товару, запропонованого учасником, не відповідає ступеню локалізації виробництва, встановленому цим пунктом",
     "description_en": "The degree of production localisation of the goods offered by the bidder does not comply with the degree of production localisation",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 2 підпункту 8 пункту 5 Розділу XIV",
+        "article_en": "Paragraph 2 of subclause 8 of clause 5 of Section XIV"
+      }
+    ]
   },
   "REJECTION.OTHER.MISSING_LOCALIZATION_INFO": {
-    "title_uk": "Абзац 3 підпункту 8 пункту 5 Розділу XIV",
-    "title_en": "Paragraph 3 of subclause 8 of clause 5 of Section XIV",
+    "title_uk": "Відсутність інформації щодо ступеня локалізації",
+    "title_en": "Missing information confirming production localisation",
     "description_uk": "Учасник / постачальник не надав інформації та підтвердних документів щодо ступеня локалізації виробництва",
     "description_en": "The bidder/supplier has failed to provide the information and supporting documents confirming the degree of production localisation",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 3 підпункту 8 пункту 5 Розділу XIV",
+        "article_en": "Paragraph 3 of subclause 8 of clause 5 of Section XIV"
+      }
+    ]
   },
   "REJECTION.OTHER.MISSING_SUPPLY_CHAIN_INFO": {
-    "title_uk": "Абзац 4 підпункту 8 пункту 5 Розділу XIV",
-    "title_en": "Paragraph 4 of subclause 8 of clause 5 of Section XIV",
+    "title_uk": "Відсутність інформації про суб’єктів у ланцюгу постачання",
+    "title_en": "Missing information on supply chain economic operators",
     "description_uk": "Учасник / постачальник, який не є виробником товару, не надав інформації щодо всіх суб’єктів господарювання, що будуть залучені у ланцюгу постачання між виробником товару та учасником закупівлі",
     "description_en": "The bidder/supplier that is not the manufacturer of the goods has failed to provide information on all economic operators that will be involved in the supply chain between the manufacturer of the goods and the bidder",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 4 підпункту 8 пункту 5 Розділу XIV",
+        "article_en": "Paragraph 4 of subclause 8 of clause 5 of Section XIV"
+      }
+    ]
   },
   "REJECTION.OTHER.MISSING_LOCALIZED_GOOD_INFO": {
-    "title_uk": "Абзац 5 підпункту 8 пункту 5 Розділу XIV",
-    "title_en": "Paragraph 5 of subclause 8 of clause 5 of Section XIV",
+    "title_uk": "Відсутність інформації про товар з переліку локалізованих товарів",
+    "title_en": "Missing information on goods from the List of Localised Goods",
     "description_uk": "У тендерній пропозиції / пропозиції / пропозиції учасника відсутня інформація про товар, включений до переліку локалізованих товарів",
     "description_en": "The proposal / bid / bid submitted in the competitive selection procedure does not contain information concerning the goods included in the List of Localised Goods",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 5 підпункту 8 пункту 5 Розділу XIV",
+        "article_en": "Paragraph 5 of subclause 8 of clause 5 of Section XIV"
+      }
+    ]
   },
   "REJECTION.OTHER.INVALID_MANUFACTURER_DOCS": {
-    "title_uk": "Абзац 6 підпункту 8 пункту 5 Розділу XIV",
-    "title_en": "Paragraph 6 of subclause 8 of clause 5 of Section XIV",
+    "title_uk": "Невідповідність виробника локалізованого товару",
+    "title_en": "Discrepancy of the manufacturer of localised product",
     "description_uk": "Товар, що є предметом закупівлі, включено до переліку локалізованих товарів на підставі заяви суб’єкта господарювання, іншого, ніж суб’єкт господарювання, який відповідно до тендерної пропозиції є виробником такого товару",
     "description_en": "The goods constituting the subject matter of procurement have been included in the List of Localised Goods on the basis of an application submitted by an economic operator other than the economic operator that, according to the tender bid, is the manufacturer of such goods",
-    "scheme": "LAW4888",
     "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n2027"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 6 підпункту 8 пункту 5 Розділу XIV",
+        "article_en": "Paragraph 6 of subclause 8 of clause 5 of Section XIV"
+      }
+    ]
   },
   "REJECTION.OTHER.REFUSAL_TO_SIGN_CONTRACT_WINNER": {
-    "title_uk": "Абзац 2 пункту 3 частини 1 статті 34",
-    "title_en": "Paragraph 2 of clause 3 of part 1 of article 34",
+    "title_uk": "Відмова від підписання або непідписання договору",
+    "title_en": "Refusal or failure to sign the contract",
     "description_uk": "Переможець повідомив замовника через електронну систему закупівель про відмову від підписання публічного договору шляхом спрямування електронного документа в довільній формі з інформацією про таку відмову або не підписав публічний договір відповідно до вимог тендерної документації у строк, визначений частиною шостою статті 36 цього Закону",
     "description_en": "The winner has notified the procuring entity, through the electronic procurement system, of its refusal to sign the public contract by submitting an electronic document in any form containing information on such refusal, or has failed to sign the public contract in accordance with the requirements of the bidding documents within the period specified in Part 6 of Article 36 of this Law",
-    "scheme": "LAW4888",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1085"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1085"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 2 пункту 3 частини 1 статті 34",
+        "article_en": "Paragraph 2 of clause 3 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.EXCLUSION.MISSING_ABSENCE_OF_GROUNDS_DOCS": {
-    "title_uk": "Абзац 3 пункту 3 частини 1 статті 34",
-    "title_en": "Paragraph 3 of clause 3 of part 1 of article 34",
+    "title_uk": "Ненадання переможцем документів про відсутність підстав для відмови",
+    "title_en": "Failure by the winner to provide documents confirming absence of grounds",
     "description_uk": "Переможець не надав документи, що підтверджують відсутність підстав, визначених пунктами 3, 5, 6, 12 і 13 частини першої та частиною другою статті 21 цього Закону",
     "description_en": "The winner has failed to provide the documents confirming the absence of the grounds specified in Clauses 3, 5, 6, 12 and 13 of Part 1 and Part 2 of Article 21 of this Law",
-    "scheme": "LAW4888",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1085"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1085"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 3 пункту 3 частини 1 статті 34",
+        "article_en": "Paragraph 3 of clause 3 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.OTHER.MISSING_CONTRACT_GUARANTEE": {
-    "title_uk": "Абзац 4 пункту 3 частини 1 статті 34",
-    "title_en": "Paragraph 4 of clause 3 of part 1 of article 34",
+    "title_uk": "Ненадання переможцем забезпечення виконання договору",
+    "title_en": "Failure by the winner to provide contract performance security",
     "description_uk": "Переможець не надав забезпечення виконання публічного договору, якщо таке забезпечення вимагалося замовником",
     "description_en": "The winner has failed to provide performance security for the public contract, where such security was required by the procuring entity",
-    "scheme": "LAW4888",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1085"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1085"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 4 пункту 3 частини 1 статті 34",
+        "article_en": "Paragraph 4 of clause 3 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.OTHER.FALSE_INFORMATION_ESSENTIAL": {
-    "title_uk": "Абзац 5 пункту 3 частини 1 статті 34",
-    "title_en": "Paragraph 5 of clause 3 of part 1 of article 34",
+    "title_uk": "Надання переможцем суттєвої недостовірної інформації",
+    "title_en": "Provision of material false information by the winner",
     "description_uk": "Переможець надав недостовірну інформацію, що є суттєвою при визначенні результатів процедури закупівлі, яку замовником виявлено згідно з абзацом другим частини п’ятнадцятої статті 32 цього Закону",
     "description_en": "The winner has provided false information that is material to determining the outcome of the procurement procedure and which has been identified by the procuring entity in accordance with the second paragraph of Part 15 of Article 32 of this Law",
-    "scheme": "LAW4888",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1085"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1085"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 5 пункту 3 частини 1 статті 34",
+        "article_en": "Paragraph 5 of clause 3 of part 1 of article 34"
+      }
+    ]
   },
   "REJECTION.OTHER.FAILURE_TO_SIGN_CONTRACT_DPS": {
-    "title_uk": "Абзац 6 частини 9 статті 54",
-    "title_en": "Paragraph 6 of part 9 of article 54",
+    "title_uk": "Непідписання договору переможцем відбору в ДСЗ",
+    "title_en": "Failure by the winner to sign the contract in DPS selection",
     "description_uk": "Переможець не підписав договір на умовах, визначених замовником в оголошенні про проведення конкурентного відбору серед кандидатів, включених до динамічної системи закупівель за результатами першого етапу, та у строк, визначений частинами дванадцятою і тринадцятою статті 52 цього Закону",
     "description_en": "The winner has failed to sign the public contract on the terms specified by the procuring entity in the notice for DPS competitive selection and within the time limits laid down in Parts 12 and 13 of Article 52 of this Law",
-    "scheme": "LAW4888",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 6 частини 9 статті 54",
+        "article_en": "Paragraph 6 of part 9 of article 54"
+      }
+    ]
   },
   "REJECTION.OTHER.CONTRACT_GUARANTEE_MISSING": {
-    "title_uk": "Абзац 7 частини 9 статті 54",
-    "title_en": "Paragraph 7 of part 9 of article 54",
+    "title_uk": "Ненадання забезпечення виконання договору у відборі ДСЗ",
+    "title_en": "Failure to provide contract performance security in DPS selection",
     "description_uk": "Переможець не надав забезпечення виконання договору у строк, визначений частиною дев’ятою статті 52 цього Закону",
     "description_en": "The winner has failed to provide performance security for the public contract within the time limit laid down in Part 9 of Article 52 of this Law",
-    "scheme": "LAW4888",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 7 частини 9 статті 54",
+        "article_en": "Paragraph 7 of part 9 of article 54"
+      }
+    ]
   },
   "REJECTION.OTHER.WRITTEN_REFUSAL_TO_SIGN_SELECTION": {
-    "title_uk": "Абзац 8 частини 9 статті 54",
-    "title_en": "Paragraph 8 of part 9 of article 54",
+    "title_uk": "Повідомлення від переможця про відмову від підписання договору (відбір у ДСЗ)",
+    "title_en": "Notification by the winner of refusal to sign the contract (DPS selection)",
     "description_uk": "Переможець повідомив замовника через електронну систему закупівель про відмову від підписання публічного договору шляхом направлення електронного документа в довільній формі з інформацією про таку відмову",
     "description_en": "The winner has notified the procuring entity through the electronic procurement system of its refusal to sign the public contract by submitting an electronic document in free form containing information on such refusal",
-    "scheme": "LAW4888",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 8 частини 9 статті 54",
+        "article_en": "Paragraph 8 of part 9 of article 54"
+      }
+    ]
   },
   "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_SELECTION": {
-    "title_uk": "Абзац 9 частини 9 статті 54",
-    "title_en": "Paragraph 9 of part 9 of article 54",
+    "title_uk": "Наявність підстав для відмови в участі щодо переможця у відборі ДСЗ (ст. 21)",
+    "title_en": "Grounds for refusing participation in respect of the winner in DPS selection (Art. 21)",
     "description_uk": "Щодо переможця наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
     "description_en": "The grounds for refusing participation specified in Article 21 of this Law exist in respect of the winner",
-    "scheme": "LAW4888",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 9 частини 9 статті 54",
+        "article_en": "Paragraph 9 of part 9 of article 54"
+      }
+    ]
   },
   "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_SELECTION_WINNER": {
-    "title_uk": "Абзац 10 частини 9 статті 54",
-    "title_en": "Paragraph 10 of part 9 of article 54",
+    "title_uk": "Зв'язки переможця або походження товару з РФ, РБ чи Ірану (відбір у ДСЗ)",
+    "title_en": "Winner ties to or goods originating in the RF, RB, or Iran (DPS selection)",
     "description_uk": "Переможець є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи у встановленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в тендерній пропозиції товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран",
     "description_en": "The winner is a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine); a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran; a legal entity established and registered under the laws of Ukraine whose ultimate beneficial owner, member or participant (shareholder) holding ten (10) per cent or more of the share capital (hereinafter — the “assets”) is the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine), or a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, except where such assets have been transferred, in accordance with the legislation, to the management of the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes; or offers, in the bid, goods originating in the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran",
-    "scheme": "LAW4888",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 10 частини 9 статті 54",
+        "article_en": "Paragraph 10 of part 9 of article 54"
+      }
+    ]
   },
   "REJECTION.OTHER.QUALIFICATION_SELECTION_MISMATCH_DPS": {
-    "title_uk": "Абзац 11 частини 9 статті 54",
-    "title_en": "Paragraph 11 of part 9 of article 54",
+    "title_uk": "Невідповідність переможця вимогам кваліфікаційного відбору (відбір у ДСЗ)",
+    "title_en": "Winner non-compliance with prequalification requirements (DPS selection)",
     "description_uk": "Щодо переможця встановлено факт невідповідності вимогам, визначеним в оголошенні про проведення кваліфікаційного відбору кандидатів, або наявні підстави для відмови в участі у закупівлі відповідно до цього Закону",
     "description_en": "It has been established that the winner does not comply with the requirements set out in the notice for DPS prequalification, or the grounds for refusing participation under this Law exist",
-    "scheme": "LAW4888",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1688"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 11 частини 9 статті 54",
+        "article_en": "Paragraph 11 of part 9 of article 54"
+      }
+    ]
   },
   "REJECTION.OTHER.FAILURE_TO_SIGN_CONTRACT": {
-    "title_uk": "Абзац 2 частини 10 статті 55",
-    "title_en": "Paragraph 2 of part 10 of article 55",
+    "title_uk": "Непідписання договору переможцем запиту пропозицій",
+    "title_en": "Failure by the winner to sign the contract in price quotation",
     "description_uk": "Переможець не підписав договір на умовах, визначених замовником у запиті пропозицій учасників серед кандидатів, включених до динамічної системи закупівель за результатами першого етапу, та у строк, визначений частинами дванадцятою і тринадцятою статті 52 цього Закону",
-    "description_en": "The bidder has failed to perform its obligations under a previous contract concluded with the same procuring entity, which resulted in the early termination of that contract and the imposition of sanctions in the form of penalties and/or damages within three (3) years from the date of such early termination, as confirmed by a court decision",
-    "scheme": "LAW4888",
+    "description_en": "The winner has failed to sign the public contract on the terms specified by the procuring entity in the request for DPS price quotations and within the time limits laid down in Parts 12 and 13 of Article 52 of this Law",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1753"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1753"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 2 частини 10 статті 55",
+        "article_en": "Paragraph 2 of part 10 of article 55"
+      }
+    ]
   },
   "REJECTION.OTHER.CONTRACT_GUARANTEE_MISMATCH": {
-    "title_uk": "Абзац 3 частини 10 статті 55",
-    "title_en": "Paragraph 3 of part 10 of article 55",
+    "title_uk": "Ненадання забезпечення виконання договору у запиті пропозицій",
+    "title_en": "Failure to provide contract performance security in price quotation",
     "description_uk": "Переможець не надав забезпечення виконання договору у строк, визначений частиною дев’ятою статті 52 цього Закону",
     "description_en": "The winner has failed to provide performance security for the public contract within the time limit laid down in Part 9 of Article 52 of this Law",
-    "scheme": "LAW4888",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1753"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1753"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 3 частини 10 статті 55",
+        "article_en": "Paragraph 3 of part 10 of article 55"
+      }
+    ]
   },
   "REJECTION.OTHER.WRITTEN_REFUSAL_TO_SIGN": {
-    "title_uk": "Абзац 4 частини 10 статті 55",
-    "title_en": "Paragraph 4 of part 10 of article 55",
+    "title_uk": "Повідомлення від переможця про відмову від підписання договору (запит пропозицій)",
+    "title_en": "Notification by the winner of refusal to sign the contract (price quotation)",
     "description_uk": "Переможець повідомив замовника через електронну систему закупівель про відмову від підписання публічного договору шляхом направлення електронного документа в довільній формі з інформацією про таку відмову",
     "description_en": "The winner has notified the procuring entity through the electronic procurement system of its refusal to sign the public contract by submitting an electronic document in free form containing information on such refusal",
-    "scheme": "LAW4888",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1753"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1753"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 4 частини 10 статті 55",
+        "article_en": "Paragraph 4 of part 10 of article 55"
+      }
+    ]
   },
   "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL": {
-    "title_uk": "Абзац 5 частини 10 статті 55",
-    "title_en": "Paragraph 5 of part 10 of article 55",
+    "title_uk": "Наявність підстав для відмови в участі щодо переможця у запиті пропозицій",
+    "title_en": "Grounds for refusing participation in respect of the winner in price quotation (Art. 21)",
     "description_uk": "Щодо переможця наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
     "description_en": "The grounds for refusing participation specified in Article 21 of this Law exist in respect of the winner",
-    "scheme": "LAW4888",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1753"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1753"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 5 частини 10 статті 55",
+        "article_en": "Paragraph 5 of part 10 of article 55"
+      }
+    ]
   },
   "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_PQ_WINNER": {
-    "title_uk": "Абзац 6 частини 10 статті 55",
-    "title_en": "Paragraph 6 of part 10 of article 55",
-    "description_uk": "Переможець є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юрЩодо переможця встановлено факт невідповідності вимогам, визначеним в оголошенні про проведення кваліфікаційного відбору кандидатів, або наявні підстави для відмови в участі у закупівлі відповідно до цього Законуидичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку у статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крЩодо переможця встановлено факт невідповідності вимогам, визначеним в оголошенні про проведення кваліфікаційного відбору кандидатів, або наявні підстави для відмови в участі у закупівлі відповідно до цього Законуім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи у встановленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в пропозиції товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран",
+    "title_uk": "Зв'язки переможця або походження товару з РФ, РБ чи Ірану (запит пропозицій)",
+    "title_en": "Winner ties to or goods originating in the RF, RB, or Iran (price quotation)",
+    "description_uk": "Переможець є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку у статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи у встановленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в пропозиції товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран",
     "description_en": "The winner is a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine); a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran; a legal entity established and registered under the laws of Ukraine whose ultimate beneficial owner, member or participant (shareholder) holding ten (10) per cent or more of the share capital (hereinafter — the “assets”) is the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine), or a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, except where such assets have been transferred, in accordance with the legislation, to the management of the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes; or offers, in the bid, goods originating in the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran",
-    "scheme": "LAW4888",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1758"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1758"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 6 частини 10 статті 55",
+        "article_en": "Paragraph 6 of part 10 of article 55"
+      }
+    ]
   },
   "REJECTION.OTHER.QUALIFICATION_SELECTION_MISMATCH": {
-    "title_uk": "Абзац 7 частини 10 статті 55",
-    "title_en": "Paragraph 7 of part 10 of article 55",
+    "title_uk": "Невідповідність переможця вимогам кваліфікаційного відбору (запит пропозицій)",
+    "title_en": "Winner non-compliance with prequalification requirements (price quotation)",
     "description_uk": "Щодо переможця встановлено факт невідповідності вимогам, визначеним в оголошенні про проведення кваліфікаційного відбору кандидатів, або наявні підстави для відмови в участі у закупівлі відповідно до цього Закону",
     "description_en": "It has been established that the winner does not comply with the requirements set out in the notice for DPS prequalification, or the grounds for refusing participation under this Law exist",
-    "scheme": "LAW4888",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1760"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1760"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 7 частини 10 статті 55",
+        "article_en": "Paragraph 7 of part 10 of article 55"
+      }
+    ]
   },
   "REJECTION.SELECTION.QUALIFICATION_CRITERIA_MISMATCH_CPN": {
-    "title_uk": "Абзац 3 частини 6 статті 40",
-    "title_en": "Paragraph 3 of part 6 of article 40",
+    "title_uk": "Невідповідність кандидата кваліфікаційним критеріям (ст. 40)",
+    "title_en": "Candidate non-compliance with qualification criteria (Art. 40)",
     "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
     "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
-    "scheme": "LAW4888",
     "type": "candidate",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1205"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1205"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 3 частини 6 статті 40",
+        "article_en": "Paragraph 3 of part 6 of article 40"
+      }
+    ]
   },
   "REJECTION.SELECTION.QUALIFICATION_CRITERIA_MISMATCH_CD": {
-    "title_uk": "Абзац 3 частини 6 статті 42",
-    "title_en": "Paragraph 3 of part 6 of article 42",
+    "title_uk": "Невідповідність кандидата кваліфікаційним критеріям (ст. 42)",
+    "title_en": "Candidate non-compliance with qualification criteria (Art. 42)",
     "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
     "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
-    "scheme": "LAW4888",
     "type": "candidate",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1297"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1297"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 3 частини 6 статті 42",
+        "article_en": "Paragraph 3 of part 6 of article 42"
+      }
+    ]
   },
   "REJECTION.SELECTION.QUALIFICATION_CRITERIA_MISMATCH_PLP": {
-    "title_uk": "Абзац 4 частини 5 статті 45",
-    "title_en": "Paragraph 4 of part 5 of article 45",
+    "title_uk": "Невідповідність кандидата кваліфікаційним критеріям (ст. 45)",
+    "title_en": "Candidate non-compliance with qualification criteria (Art. 45)",
     "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
     "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
-    "scheme": "LAW4888",
     "type": "candidate",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1380"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1380"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 4 частини 5 статті 45",
+        "article_en": "Paragraph 4 of part 5 of article 45"
+      }
+    ]
   },
   "REJECTION.SELECTION.QUALIFICATION_CRITERIA_MISMATCH_IPP": {
-    "title_uk": "Частина 5 статті 49",
-    "title_en": "Part 5 of article 49",
+    "title_uk": "Невідповідність кандидата кваліфікаційним критеріям (ст. 49)",
+    "title_en": "Candidate non-compliance with qualification criteria (Art. 49)",
     "description_uk": "Кандидат не відповідає встановленим кваліфікаційним критеріям, визначеним у тендерній документації",
     "description_en": "Candidate that does not satisfy the qualification criteria established in the bidding documents",
-    "scheme": "LAW4888",
     "type": "candidate",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1441"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1441"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Частина 5 статті 49",
+        "article_en": "Part 5 of article 49"
+      }
+    ]
   },
   "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_CPN": {
-    "title_uk": "Абзац 3 частини 6 статті 40",
-    "title_en": "Paragraph 3 of part 6 of article 40",
+    "title_uk": "Підстави для відмови кандидату в участі (ст. 21, ст. 40)",
+    "title_en": "Grounds for refusing candidate participation (Art. 21, Art. 40)",
     "description_uk": "Наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
     "description_en": "The grounds for refusing participation in the procurement established by Article 21 of this Law exist",
-    "scheme": "LAW4888",
     "type": "candidate",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1205"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1205"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 3 частини 6 статті 40",
+        "article_en": "Paragraph 3 of part 6 of article 40"
+      }
+    ]
   },
   "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_CD": {
-    "title_uk": "Абзац 3 частини 6 статті 42",
-    "title_en": "Paragraph 3 of part 6 of article 42",
+    "title_uk": "Підстави для відмови кандидату в участі (ст. 42)",
+    "title_en": "Grounds for refusing candidate participation (Art. 42)",
     "description_uk": "Наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
     "description_en": "The grounds for refusing participation in the procurement established by Article 21 of this Law exist",
-    "scheme": "LAW4888",
     "type": "candidate",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1297"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1297"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 3 частини 6 статті 42",
+        "article_en": "Paragraph 3 of part 6 of article 42"
+      }
+    ]
   },
   "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_PLP": {
-    "title_uk": "Абзац 4 частини 5 статті 45",
-    "title_en": "Paragraph 4 of part 5 of article 45",
+    "title_uk": "Підстави для відмови кандидату в участі (ст. 45)",
+    "title_en": "Grounds for refusing candidate participation (Art. 45)",
     "description_uk": "Наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
     "description_en": "The grounds for refusing participation in the procurement established by Article 21 of this Law exist",
-    "scheme": "LAW4888",
     "type": "candidate",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1380"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1380"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 4 частини 5 статті 45",
+        "article_en": "Paragraph 4 of part 5 of article 45"
+      }
+    ]
   },
   "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_ARTICLE_21_IPP": {
-    "title_uk": "Частина 5 статті 49",
-    "title_en": "Part 5 of article 49",
+    "title_uk": "Підстави для відмови кандидату в участі (ст. 49)",
+    "title_en": "Grounds for refusing candidate participation (Art. 49)",
     "description_uk": "Наявні підстави для відмови в участі у закупівлі, визначені статтею 21 цього Закону",
     "description_en": "The grounds for refusing participation in the procurement established by Article 21 of this Law exist",
-    "scheme": "LAW4888",
     "type": "candidate",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1441"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1441"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Частина 5 статті 49",
+        "article_en": "Part 5 of article 49"
+      }
+    ]
   },
   "REJECTION.SELECTION.CRITERIA_SELECTION_AND_EXCLUSION_MISMATCH": {
-    "title_uk": "Абзац 2 пункту 1 частини 10 статті 53",
-    "title_en": "Paragraph 2 of clause 1 of part 10 of article 53",
+    "title_uk": "Невідповідність кваліфікаційним критеріям та/або підстави для відмови (ч. 10 ст. 53)",
+    "title_en": "Non-compliance with qualification criteria and/or grounds for refusal (Art. 53, Part 10)",
     "description_uk": "Кандидат не відповідає кваліфікаційним (кваліфікаційному) критеріям (критерію), встановленим (встановленому) статтею 20 цього Закону, та/або наявні підстави для відмови в участі у закупівлі, встановлені частиною першою статті 21 цього Закону",
     "description_en": "The candidate does not satisfy the qualification criterion (criteria) established by Article 20 of this Law and/or the grounds for refusing participation established by Part 1 of Article 21 of this Law exist",
-    "scheme": "LAW4888",
     "type": "candidate",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1627"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1627"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 2 пункту 1 частини 10 статті 53",
+        "article_en": "Paragraph 2 of clause 1 of part 10 of article 53"
+      }
+    ]
   },
   "REJECTION.OTHER.INVALID_CONFIDENTIAL_INFORMATION": {
-    "title_uk": "Абзац 3 пункту 1 частини 10 статті 53",
-    "title_en": "Paragraph 3 of clause 1 of part 10 of article 53",
+    "title_uk": "Неправомірне визначення інформації конфіденційною (ч. 6 ст. 53)",
+    "title_en": "Improper designation of information as confidential (Art. 53, Part 6)",
     "description_uk": "Кандидат визначив конфіденційною інформацію, що не може бути визначена конфіденційною відповідно до абзацу третього частини шостої цієї статті",
     "description_en": "The candidate has designated as confidential information that may not be designated as confidential in accordance with the third paragraph of Part 6 of this Article",
-    "scheme": "LAW4888",
     "type": "candidate",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1627"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1627"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 3 пункту 1 частини 10 статті 53",
+        "article_en": "Paragraph 3 of clause 1 of part 10 of article 53"
+      }
+    ]
   },
   "REJECTION.OTHER.REQUIREMENTS_MISMATCH": {
-    "title_uk": "Абзац 4 пункту 1 частини 10 статті 53",
-    "title_en": "Paragraph 4 of clause 1 of part 10 of article 53",
+    "title_uk": "Невідповідність кандидата вимогам тендерної документації (ч. 10 ст. 53)",
+    "title_en": "Candidate non-compliance with bidding document requirements (Art. 53, Part 10)",
     "description_uk": "Кандидат не відповідає вимогам, визначеним тендерною документацією відповідно до абзацу першого частини третьої статті 24 цього Закону",
     "description_en": "The candidate does not comply with the requirements specified in the bidding documents in accordance with the first paragraph of Part 3 of Article 24 of this Law",
-    "scheme": "LAW4888",
     "type": "candidate",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1627"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1627"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 4 пункту 1 частини 10 статті 53",
+        "article_en": "Paragraph 4 of clause 1 of part 10 of article 53"
+      }
+    ]
   },
   "REJECTION.OTHER.FALSE_INFORMATION_DPS_PREQUALIFICATION": {
-    "title_uk": "Абзац 5 пункту 1 Частини 10 статті 53",
-    "title_en": "Paragraph 5 of clause 1 of part 10 of article 53",
+    "title_uk": "Недостовірна інформація в заявці на кваліфікаційний відбір до ДСЗ",
+    "title_en": "False information in the request for DPS prequalification",
     "description_uk": "Кандидат зазначив у заявці для участі у кваліфікаційному відборі кандидатів до динамічної системи закупівель недостовірну інформацію, що є суттєвою для включення кандидата до динамічної системи закупівель, яку замовником / централізованою закупівельною організацією (якщо динамічна система закупівель створюється централізованою закупівельною організацією) виявлено у порядку, передбаченому частиною дев'ятою цієї статті",
     "description_en": "The candidate has included in its request to participate in the DPS prequalification false information material to the candidate's admission to the DPS, which has been identified by the procuring entity/centralised purchasing body (where the DPS is established by a centralised purchasing body) in accordance with the procedure laid down in Part 9 of this Article",
-    "scheme": "LAW4888",
     "type": "candidate",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1627"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1627"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 5 пункту 1 частини 10 статті 53",
+        "article_en": "Paragraph 5 of clause 1 of part 10 of article 53"
+      }
+    ]
   },
   "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_CANDIDATE": {
-    "title_uk": "Абзац 6 пункту 1 частини 10 Статті 53",
-    "title_en": "Paragraph 6 of clause 1 of part 10 of article 53",
+    "title_uk": "Зв'язки кандидата або походження товару з РФ, РБ чи Ірану",
+    "title_en": "Candidate ties to or goods originating in the RF, RB, or Iran",
     "description_uk": "Кандидат є громадянином Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах); юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран; юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), яких є Російська Федерація / Республіка Білорусь / Ісламська Республіка Іран, громадянин Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран (крім громадян, які проживають в Україні на законних підставах) або юридична особа, утворена та зареєстрована відповідно до законодавства Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран, крім випадків, якщо активи у встановленому законодавством порядку передані в управління Національному агентству України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів; або пропонує в заявці для участі у кваліфікаційному відборі кандидатів до динамічної системи закупівель товар (товари) походженням з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран",
-    "description_en": "The candidate is a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine); a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran; a legal entity established and registered under the laws of Ukraine whose ultimate beneficial owner, member or participant (shareholder) holding ten (10) per cent or more of the share capital (hereinafter — the \"assets\") is the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine), or a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, except where such assets have been transferred, in accordance with the legislation, to the management of the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes; or offers, in the request to participate in the DPS prequalification, goods originating in the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran",
-    "scheme": "LAW4888",
+    "description_en": "The candidate is a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine); a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran; a legal entity established and registered under the laws of Ukraine whose ultimate beneficial owner, member or participant (shareholder) holding ten (10) per cent or more of the share capital (hereinafter — the “assets”) is the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, a citizen of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran (except for citizens lawfully residing in Ukraine), or a legal entity established and registered under the laws of the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran, except where such assets have been transferred, in accordance with the legislation, to the management of the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes; or offers, in the request to participate in the DPS prequalification, goods originating in the Russian Federation, the Republic of Belarus or the Islamic Republic of Iran",
     "type": "candidate",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1631"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1631"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 6 пункту 1 частини 10 статті 53",
+        "article_en": "Paragraph 6 of clause 1 of part 10 of article 53"
+      }
+    ]
   },
   "REJECTION.SELECTION.TECHNICAL_SPECIFICATION_MISMATCH_REQUEST": {
-    "title_uk": "Абзац 2 пункту 2 частини 10 Статті 53",
-    "title_en": "Paragraph 2 of clause 2 of part 10 of article 53",
+    "title_uk": "Невідповідність заявки технічній специфікації або вимогам до предмета закупівлі",
+    "title_en": "Request non-compliance with technical specification or subject matter requirements",
     "description_uk": "Заявка не відповідає вимогам технічної специфікації та/або іншим вимогам щодо предмета закупівлі, визначеним тендерною документацією, якщо такі вимоги було встановлено",
     "description_en": "Request does not comply with the requirements of the technical specification and/or other requirements relating to the subject matter of procurement specified in the bidding documents, where such requirements have been established",
-    "scheme": "LAW4888",
     "type": "candidate",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1634"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1634"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 2 пункту 2 частини 10 статті 53",
+        "article_en": "Paragraph 2 of clause 2 of part 10 of article 53"
+      }
+    ]
   },
   "REJECTION.OTHER.LANGUAGE_MISMATCH_DPS_REQUEST": {
-    "title_uk": "Абзац 3 пункту 2 частини 10 Статті 53",
-    "title_en": "Paragraph 3 of clause 2 of part 10 of article 53",
+    "title_uk": "Невідповідність мови заявки вимогам оголошення про відбір до ДСЗ",
+    "title_en": "Request language non-compliance with the DPS prequalification notice",
     "description_uk": "Заявка викладена іншою мовою (мовами), ніж мова (мови), що визначена (визначені) в оголошенні про проведення кваліфікаційного відбору кандидатів до динамічної системи закупівель",
     "description_en": "Request is drawn up in a language(s) other than the language(s) specified in the notice for DPS prequalification",
-    "scheme": "LAW4888",
     "type": "candidate",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1634"
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName_uk": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/en/4888-20?lang=uk#n1634"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 3 пункту 2 частини 10 статті 53",
+        "article_en": "Paragraph 3 of clause 2 of part 10 of article 53"
+      }
+    ]
   }
 }
