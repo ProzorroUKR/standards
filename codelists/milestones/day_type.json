@@ -1,14 +1,17 @@
 {
   "working": {
     "name_en": "working",
-    "name_uk": "робочі"
+    "name_uk": "робочі",
+    "archive": false
   },
   "banking": {
     "name_en": "banking",
-    "name_uk": "банківські"
+    "name_uk": "банківські",
+    "archive": true
   },
   "calendar": {
     "name_en": "calendar",
-    "name_uk": "календарні"
+    "name_uk": "календарні",
+    "archive": false
   }
 }
