@@ -28,7 +28,7 @@
       "REJECTION.OTHER.INVALID_MANUFACTURER_DOCS"
     ]
   },
-    "restrictedTendering": {
+  "restrictedTendering": {
     "codes": [
       "REJECTION.EXCLUSION.REQUIREMENTS_MISMATCH",
       "REJECTION.SELECTION.REQUIREMENTS_MISMATCH",
@@ -59,7 +59,7 @@
       "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_RT"
     ]
   },
-    "competitiveDialogue": {
+  "competitiveDialogue": {
     "codes": [
       "REJECTION.EXCLUSION.REQUIREMENTS_MISMATCH",
       "REJECTION.SELECTION.REQUIREMENTS_MISMATCH",
@@ -85,7 +85,7 @@
       "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_CD"
     ]
   },
-    "competitiveNegotiation": {
+  "competitiveNegotiation": {
     "codes": [
       "REJECTION.EXCLUSION.REQUIREMENTS_MISMATCH",
       "REJECTION.SELECTION.REQUIREMENTS_MISMATCH",
@@ -111,7 +111,7 @@
       "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_CN"
     ]
   },
-    "innovationPartnership": {
+  "innovationPartnership": {
     "codes": [
       "REJECTION.EXCLUSION.REQUIREMENTS_MISMATCH",
       "REJECTION.SELECTION.REQUIREMENTS_MISMATCH",
@@ -137,7 +137,7 @@
       "REJECTION.EXCLUSION.GROUNDS_FOR_REFUSAL_IP"
     ]
   },
-    "dynamicPurchasingSystem": {
+  "dynamicPurchasingSystem": {
     "codes": [
       "REJECTION.SELECTION.CRITERIA_MISMATCH",
       "REJECTION.OTHER.INVALID_CONFIDENTIAL_INFORMATION",
@@ -148,7 +148,7 @@
       "REJECTION.OTHER.LANGUAGE_MISMATCH_REQUEST"
     ]
   },
-    "electronicCatalogue": {
+  "electronicCatalogue": {
     "codes": [
       "REJECTION.SELECTION.CRITERIA_MISMATCH",
       "REJECTION.OTHER.INVALID_CONFIDENTIAL_INFORMATION",
@@ -159,7 +159,7 @@
       "REJECTION.OTHER.LANGUAGE_MISMATCH_REQUEST"
     ]
   },
-    "competitiveOrdering": {
+  "competitiveOrdering": {
     "codes": [
       "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_CO",
       "REJECTION.OTHER.MULTIPLE_PROPOSALS_CO",
@@ -176,7 +176,7 @@
       "REJECTION.OTHER.INVALID_MANUFACTURER_DOCS"
     ]
   },
-    "priceQuotation": {
+  "priceQuotation": {
     "codes": [
       "REJECTION.EXCLUSION.SANCTIONED_STATE_TIES_PQ",
       "REJECTION.OTHER.MULTIPLE_PROPOSALS_PQ",
