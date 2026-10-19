@@ -1,182 +1,623 @@
 {
-  "noProvedExperience": {
-    "title_uk": "Пункт 1 частини 7 статті 21(3) закону 772",
-    "title_en": "Clause 1 of part 7 of article 21(3) of law 772",
-    "description_uk": "учасник не має підтвердженого досвіду здійснення діяльності, визначеної абзацом другим частини шостої цієї статті, протягом щонайменше трьох років, що передують року подання документів для участі у попередній кваліфікації",
-    "description_en": "the participant has no confirmed experience in carrying out the activities defined in the second paragraph of part six of this article for at least three years preceding the year of submission of documents for participation in pre-qualification",
-    "scheme": "LAW772",
-    "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+  "REJECTION.ARMA.NO_PROVED_EXPERIENCE": {
+    "title_uk": "Відсутність підтвердженого досвіду діяльності",
+    "title_en": "Lack of confirmed experience in carrying out activities",
+    "description_uk": "Учасник не має підтвердженого досвіду здійснення діяльності, визначеної абзацом другим частини шостої цієї статті, протягом щонайменше трьох років, що передують року подання документів для участі у попередній кваліфікації",
+    "description_en": "The participant has no confirmed experience in carrying out the activities defined in the second paragraph of part six of this article for at least three years preceding the year of submission of documents for participation in pre-qualification",
+    "type": "candidate",
+    "legislation": [
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Пункт 1 частини 7 статті 21(3)",
+        "article_en": "Clause 1 of part 7 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n993"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 1 частини 5 статті 21(4)",
+        "article_en": "Paragraph 1 of part 5 of article 21(4)"
+      }
+    ]
   },
-  "relatedToArrestedAssetOwner": {
-    "title_uk": "Пункт 2 частини 7 статті 21(3) закону 772",
-    "title_en": "Clause 2 of part 7 of article 21(3) of law 772",
-    "description_uk": "учасник є особою, пов’язаною з власником арештованого активу, підозрюваним, обвинуваченим у відповідному кримінальному провадженні, відповідачем у справі про визнання необґрунтованими активів та їх стягнення в дохід держави (пов’язаною особою)",
-    "description_en": "the participant is a person related to the owner of the seized asset, a suspect, an accused in the relevant criminal proceedings, a defendant in a case on recognizing assets as unjustified and recovering them into the state revenue (related person)",
-    "scheme": "LAW772",
-    "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+  "REJECTION.ARMA.RELATED_TO_ARRESTED_ASSET_OWNER": {
+    "title_uk": "Пов’язаність із власником арештованого активу або фігурантом справи",
+    "title_en": "Related to the seized asset owner or case defendant",
+    "description_uk": "Учасник є особою, пов’язаною з власником арештованого активу, підозрюваним, обвинуваченим у відповідному кримінальному провадженні, відповідачем у справі про визнання необґрунтованими активів та їх стягнення в дохід держави (пов’язаною особою)",
+    "description_en": "The participant is a person related to the owner of the seized asset, a suspect, an accused in the relevant criminal proceedings, a defendant in a case on recognizing assets as unjustified and recovering them into the state revenue (related person)",
+    "type": "candidate",
+    "legislation": [
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Пункт 2 частини 7 статті 21(3)",
+        "article_en": "Clause 2 of part 7 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n959"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 8 частини 18 статті 21(3)",
+        "article_en": "Paragraph 8 of part 18 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n993"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 1 частини 5 статті 21(4)",
+        "article_en": "Paragraph 1 of part 5 of article 21(4)"
+      }
+    ]
   },
-  "beneficiaryFromAggressorState": {
-    "title_uk": "Пункт 3 частини 7 статті 21(3) закону 772",
-    "title_en": "Clause 3 of part 7 of article 21(3) of law 772",
-    "description_uk": "учасник є кінцевим бенефіціарним власником та перебуває у складі засновників (учасників) або структурі власності юридичної особи фізичних або юридичних осіб, місцем проживання (розташування) або реєстрації яких є держава, визнана Верховною Радою України державою-агресором",
-    "description_en": "the participant is the ultimate beneficial owner and is part of the founders (participants) or ownership structure of a legal entity of physical or legal entities whose place of residence (location) or registration is a state recognized by the Verkhovna Rada of Ukraine as an aggressor state",
-    "scheme": "LAW772",
-    "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+  "REJECTION.ARMA.BENEFICIARY_FROM_AGGRESSOR_STATE": {
+    "title_uk": "Кінцевий бенефіціар або засновник з держави-агресора",
+    "title_en": "Ultimate beneficial owner or founder from an aggressor state",
+    "description_uk": "Учасник є кінцевим бенефіціарним власником та перебуває у складі засновників (учасників) або структурі власності юридичної особи фізичних або юридичних осіб, місцем проживання (розташування) або реєстрації яких є держава, визнана Верховною Радою України державою-агресором",
+    "description_en": "The participant is the ultimate beneficial owner and is part of the founders (participants) or ownership structure of a legal entity of physical or legal entities whose place of residence (location) or registration is a state recognized by the Verkhovna Rada of Ukraine as an aggressor state",
+    "type": "candidate",
+    "legislation": [
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Пункт 3 частини 7 статті 21(3)",
+        "article_en": "Clause 3 of part 7 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n993"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 1 частини 5 статті 21(4)",
+        "article_en": "Paragraph 1 of part 5 of article 21(4)"
+      }
+    ]
   },
-  "registeredInAggressorState": {
-    "title_uk": "Пункт 4 частини 7 статті 21(3) закону 772",
-    "title_en": "Clause 4 of part 7 of article 21(3) of law 772",
-    "description_uk": "учасник має місце реєстрації чи місцезнаходження в державі, визнаній Верховною Радою України державою-агресором, та/або в державі (юрисдикції), що не виконує чи неналежним чином виконує рекомендації міжнародних, міжурядових організацій, задіяних у сфері боротьби з легалізацією (відмиванням) доходів, одержаних злочинним шляхом, фінансуванням тероризму чи фінансуванням розповсюдження зброї масового знищення",
-    "description_en": "the participant has a place of registration or location in a state recognized by the Verkhovna Rada of Ukraine as an aggressor state, and/or in a state (jurisdiction) that does not fulfill or improperly fulfills the recommendations of international, intergovernmental organizations involved in the fight against the legalization (laundering) of proceeds from crime, terrorist financing or the financing of the proliferation of weapons of mass destruction",
-    "scheme": "LAW772",
-    "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+  "REJECTION.ARMA.REGISTERED_IN_AGGRESSOR_STATE": {
+    "title_uk": "Реєстрація в державі-агресорі або юрисдикції з ризиками відмивання доходів",
+    "title_en": "Registration in an aggressor state or high-risk AML jurisdiction",
+    "description_uk": "Учасник має місце реєстрації чи місцезнаходження в державі, визнаній Верховною Радою України державою-агресором, та/або в державі (юрисдикції), що не виконує чи неналежним чином виконує рекомендації міжнародних, міжурядових організацій, задіяних у сфері боротьби з легалізацією (відмиванням) доходів, одержаних злочинним шляхом, фінансуванням тероризму чи фінансуванням розповсюдження зброї масового знищення",
+    "description_en": "The participant has a place of registration or location in a state recognized by the Verkhovna Rada of Ukraine as an aggressor state, and/or in a state (jurisdiction) that does not fulfill or improperly fulfills the recommendations of international, intergovernmental organizations involved in the fight against the legalization (laundering) of proceeds from crime, terrorist financing or the financing of the proliferation of weapons of mass destruction",
+    "type": "candidate",
+    "legislation": [
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Пункт 4 частини 7 статті 21(3)",
+        "article_en": "Clause 4 of part 7 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n993"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 1 частини 5 статті 21(4)",
+        "article_en": "Paragraph 1 of part 5 of article 21(4)"
+      }
+    ]
   },
-  "shareInAggressorState": {
-    "title_uk": "Пункт 5 частини 7 статті 21(3) закону 772",
-    "title_en": "Clause 5 of part 7 of article 21(3) of law 772",
-    "description_uk": "учасник володіє прямо та/або опосередковано, самостійно чи спільно з іншими особами часткою в юридичній особі, яка зареєстрована чи є податковим резидентом або місцезнаходженням якої є держава, визнана Верховною Радою України державою-агресором, та/або має відокремлений підрозділ у державі, визнаній Верховною Радою України державою-агресором",
-    "description_en": "the participant owns directly and/or indirectly, alone or jointly with other persons, a share in a legal entity registered or a tax resident or located in a state recognized by the Verkhovna Rada of Ukraine as an aggressor state, and/or has a separate subdivision in a state recognized by the Verkhovna Rada of Ukraine as an aggressor state",
-    "scheme": "LAW772",
-    "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+  "REJECTION.ARMA.SHARE_IN_AGGRESSOR_STATE": {
+    "title_uk": "Володіння часткою або підрозділом у державі-агресорі",
+    "title_en": "Ownership of a share or subdivision in an aggressor state",
+    "description_uk": "Учасник володіє прямо та/або опосередковано, самостійно чи спільно з іншими особами часткою в юридичній особі, яка зареєстрована чи є податковим резидентом або місцезнаходженням якої є держава, визнана Верховною Радою України державою-агресором, та/або має відокремлений підрозділ у державі, визнаній Верховною Радою України державою-агресором",
+    "description_en": "The participant owns directly and/or indirectly, alone or jointly with other persons, a share in a legal entity registered or a tax resident or located in a state recognized by the Verkhovna Rada of Ukraine as an aggressor state, and/or has a separate subdivision in a state recognized by the Verkhovna Rada of Ukraine as an aggressor state",
+    "type": "candidate",
+    "legislation": [
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Пункт 5 частини 7 статті 21(3)",
+        "article_en": "Clause 5 of part 7 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n993"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 1 частини 5 статті 21(4)",
+        "article_en": "Paragraph 1 of part 5 of article 21(4)"
+      }
+    ]
   },
-  "ukraineSanctions": {
-    "title_uk": "Пункт 6 частини 7 статті 21(3) закону 772",
-    "title_en": "Clause 6 of part 7 of article 21(3) of law 772",
-    "description_uk": "учасник та/або кінцевий бенефіціарний власник учасника є особою, до якої застосовано санкції згідно із Законом України \"Про санкції\"",
-    "description_en": "the participant and/or the ultimate beneficial owner of the participant is a person subjected to sanctions according to the Law of Ukraine \"On Sanctions\"",
-    "scheme": "LAW772",
-    "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+  "REJECTION.ARMA.UKRAINE_SANCTIONS": {
+    "title_uk": "Застосування санкцій згідно із Законом України \"Про санкції\"",
+    "title_en": "Subject to sanctions under the Law of Ukraine \"On Sanctions\"",
+    "description_uk": "Учасник та/або кінцевий бенефіціарний власник учасника є особою, до якої застосовано санкції згідно із Законом України \"Про санкції\"",
+    "description_en": "The participant and/or the ultimate beneficial owner of the participant is a person subjected to sanctions according to the Law of Ukraine \"On Sanctions\"",
+    "type": "candidate",
+    "legislation": [
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Пункт 6 частини 7 статті 21(3)",
+        "article_en": "Clause 6 of part 7 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n993"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 1 частини 5 статті 21(4)",
+        "article_en": "Paragraph 1 of part 5 of article 21(4)"
+      }
+    ]
   },
-  "internationalSanctions": {
-    "title_uk": "Пункт 7 частини 7 статті 21(3) закону 772",
-    "title_en": "Clause 7 of part 7 of article 21(3) of law 772",
-    "description_uk": "учасник є особою, до якої Україною, іноземними державами (крім держав, визнаних Верховною Радою України державами-агресорами), міждержавними об’єднаннями або міжнародними організаціями застосовані санкції",
-    "description_en": "the participant is a person subjected to sanctions by Ukraine, foreign states (except for states recognized by the Verkhovna Rada of Ukraine as aggressor states), interstate associations, or international organizations",
-    "scheme": "LAW772",
-    "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+  "REJECTION.ARMA.INTERNATIONAL_SANCTIONS": {
+    "title_uk": "Застосування українських або міжнародних санкцій",
+    "title_en": "Subject to Ukrainian or international sanctions",
+    "description_uk": "Учасник є особою, до якої Україною, іноземними державами (крім держав, визнаних Верховною Радою України державами-агресорами), міждержавними об’єднаннями або міжнародними організаціями застосовані санкції",
+    "description_en": "The participant is a person subjected to sanctions by Ukraine, foreign states (except for states recognized by the Verkhovna Rada of Ukraine as aggressor states), interstate associations, or international organizations",
+    "type": "candidate",
+    "legislation": [
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Пункт 7 частини 7 статті 21(3)",
+        "article_en": "Clause 7 of part 7 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n993"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 1 частини 5 статті 21(4)",
+        "article_en": "Paragraph 1 of part 5 of article 21(4)"
+      }
+    ]
   },
-  "terroristList": {
-    "title_uk": "Пункт 8 частини 7 статті 21(3) закону 772",
-    "title_en": "Clause 8 of part 7 of article 21(3) of law 772",
-    "description_uk": "учасник включений до переліку осіб, пов’язаних з провадженням терористичної діяльності",
-    "description_en": "the participant is included in the list of persons associated with carrying out terrorist activities",
-    "scheme": "LAW772",
-    "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+  "REJECTION.ARMA.TERRORIST_LIST": {
+    "title_uk": "Включення до переліку осіб, пов’язаних з терористичною діяльністю",
+    "title_en": "Inclusion in the list of persons associated with terrorist activities",
+    "description_uk": "Учасник включений до переліку осіб, пов’язаних з провадженням терористичної діяльності",
+    "description_en": "The participant is included in the list of persons associated with carrying out terrorist activities",
+    "type": "candidate",
+    "legislation": [
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n906"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Пункт 8 частини 7 статті 21(3)",
+        "article_en": "Clause 8 of part 7 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n993"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 1 частини 5 статті 21(4)",
+        "article_en": "Paragraph 1 of part 5 of article 21(4)"
+      }
+    ]
   },
-  "corruptionOffense": {
-    "title_uk": "Пункт 9 частини 7 статті 21(3) закону 772",
-    "title_en": "Clause 9 of part 7 of article 21(3) of law 772",
-    "description_uk": "службову (посадову) особу учасника було притягнуто згідно із законом до відповідальності за вчинення корупційного правопорушення або правопорушення, пов’язаного з корупцією, кримінального правопорушення, пов’язаного із легалізацією доходів, отриманих злочинним шляхом, та/або вчиненого з корисливих мотивів (крім випадків, якщо судимість за таке кримінальне правопорушення знято або погашено в установленому законом порядку)",
-    "description_en": "an official of the participant was brought to responsibility according to the law for committing a corruption offense or a corruption-related offense, a criminal offense related to the legalization of proceeds from crime, and/or committed for mercenary motives (except when the criminal record for such an offense is removed or expunged in accordance with the law)",
-    "scheme": "LAW772",
-    "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n915"
+  "REJECTION.ARMA.CORRUPTION_OFFENSE": {
+    "title_uk": "Притягнення посадової особи до відповідальності за корупційні або корисливі правопорушення",
+    "title_en": "Official brought to responsibility for corruption or mercenary offenses",
+    "description_uk": "Службову (посадову) особу учасника було притягнуто згідно із законом до відповідальності за вчинення корупційного правопорушення або правопорушення, пов’язаного з корупцією, кримінального правопорушення, пов’язаного із легалізацією доходів, отриманих злочинним шляхом, та/або вчиненого з корисливих мотивів (крім випадків, якщо судимість за таке кримінальне правопорушення знято або погашено в установленому законом порядку)",
+    "description_en": "An official of the participant was brought to responsibility according to the law for committing a corruption offense or a corruption-related offense, a criminal offense related to the legalization of proceeds from crime, and/or committed for mercenary motives (except when the criminal record for such an offense is removed or expunged in accordance with the law)",
+    "type": "candidate",
+    "legislation": [
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n915"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Пункт 9 частини 7 статті 21(3)",
+        "article_en": "Clause 9 of part 7 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n993"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 1 частини 5 статті 21(4)",
+        "article_en": "Paragraph 1 of part 5 of article 21(4)"
+      }
+    ]
   },
-  "anticompetitiveActions": {
-    "title_uk": "Пункт 10 частини 7 статті 21(3) закону 772",
-    "title_en": "Clause 10 of part 7 of article 21(3) of law 772",
-    "description_uk": "учасник протягом останніх трьох років притягався до відповідальності за порушення, передбачене пунктом 4 частини другої статті 6, пунктом 1 статті 50 Закону України \"Про захист економічної конкуренції\", у вигляді вчинення антиконкурентних узгоджених дій, що стосуються спотворення результатів торгів, аукціонів, конкурсів, тендерів",
-    "description_en": "within the last three years, the participant was brought to responsibility for a violation provided for in paragraph 4 of part two of Article 6, paragraph 1 of Article 50 of the Law of Ukraine \"On the Protection of Economic Competition\" in the form of committing anticompetitive concerted actions regarding the distortion of the results of bidding, auctions, competitions, tenders",
-    "scheme": "LAW772",
-    "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n915"
+  "REJECTION.ARMA.ANTICOMPETITIVE_ACTIONS": {
+    "title_uk": "Вчинення антиконкурентних узгоджених дій щодо спотворення результатів торгів",
+    "title_en": "Committing anticompetitive concerted actions distorting bidding results",
+    "description_uk": "Учасник протягом останніх трьох років притягався до відповідальності за порушення, передбачене пунктом 4 частини другої статті 6, пунктом 1 статті 50 Закону України \"Про захист економічної конкуренції\", у вигляді вчинення антиконкурентних узгоджених дій, що стосуються спотворення результатів торгів, аукціонів, конкурсів, тендерів",
+    "description_en": "Within the last three years, the participant was brought to responsibility for a violation provided for in paragraph 4 of part two of Article 6, paragraph 1 of Article 50 of the Law of Ukraine \"On the Protection of Economic Competition\" in the form of committing anticompetitive concerted actions regarding the distortion of the results of bidding, auctions, competitions, tenders",
+    "type": "candidate",
+    "legislation": [
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n915"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Пункт 10 частини 7 статті 21(3)",
+        "article_en": "Clause 10 of part 7 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n993"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 1 частини 5 статті 21(4)",
+        "article_en": "Paragraph 1 of part 5 of article 21(4)"
+      }
+    ]
   },
-  "taxDebts": {
-    "title_uk": "Пункт 11 частини 7 статті 21(3) закону 772",
-    "title_en": "Clause 11 of part 7 of article 21(3) of law 772",
-    "description_uk": "учасник має заборгованості із сплати податків і зборів (обов’язкових платежів), загальна сума якої дорівнює або перевищує 100 розмірів мінімальної місячної заробітної плати, встановленої законодавством України на день подання документів, або еквівалент цієї суми в іноземній валюті",
-    "description_en": "the participant has debts in the payment of taxes and fees (mandatory payments), the total amount of which equals or exceeds 100 minimum monthly wages established by the legislation of Ukraine on the day of submission of documents, or the equivalent of this amount in foreign currency",
-    "scheme": "LAW772",
-    "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n915"
+  "REJECTION.ARMA.TAX_DEBTS": {
+    "title_uk": "Наявність заборгованості зі сплати податків і зборів",
+    "title_en": "Presence of debts in the payment of taxes and fees",
+    "description_uk": "Учасник має заборгованість із сплати податків і зборів (обов’язкових платежів), загальна сума якої дорівнює або перевищує 100 розмірів мінімальної місячної заробітної плати, встановленої законодавством України на день подання документів, або еквівалент цієї суми в іноземній валюті",
+    "description_en": "The participant has debts in the payment of taxes and fees (mandatory payments), the total amount of which equals or exceeds 100 minimum monthly wages established by the legislation of Ukraine on the day of submission of documents, or the equivalent of this amount in foreign currency",
+    "type": "candidate",
+    "legislation": [
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n915"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Пункт 11 частини 7 статті 21(3)",
+        "article_en": "Clause 11 of part 7 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n993"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 1 частини 5 статті 21(4)",
+        "article_en": "Paragraph 1 of part 5 of article 21(4)"
+      }
+    ]
   },
-  "bankruptcy": {
-    "title_uk": "Пункт 12 частини 7 статті 21(3) закону 772",
-    "title_en": "Clause 12 of part 7 of article 21(3) of law 772",
-    "description_uk": "учасник визнаний у встановленому законом порядку банкрутом і стосовно нього відкрито ліквідаційну процедуру",
-    "description_en": "the participant has been declared bankrupt in the manner prescribed by law, and a liquidation procedure has been initiated against them",
-    "scheme": "LAW772",
-    "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n915"
+  "REJECTION.ARMA.BANKRUPTCY": {
+    "title_uk": "Визнання банкрутом та відкриття ліквідаційної процедури",
+    "title_en": "Declared bankrupt with initiated liquidation procedure",
+    "description_uk": "Учасник визнаний у встановленому законом порядку банкрутом і стосовно нього відкрито ліквідаційну процедуру",
+    "description_en": "The participant has been declared bankrupt in the manner prescribed by law, and a liquidation procedure has been initiated against them",
+    "type": "candidate",
+    "legislation": [
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n915"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Пункт 12 частини 7 статті 21(3)",
+        "article_en": "Clause 12 of part 7 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n993"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 1 частини 5 статті 21(4)",
+        "article_en": "Paragraph 1 of part 5 of article 21(4)"
+      }
+    ]
   },
-  "failureToSubmitDocs": {
-    "title_uk": "Абзац 3 частини 12 статті 21(3) закону 772",
-    "title_en": "Paragraph 3 of part 12 of article 21(3) of law 772",
-    "description_uk": "не подав необхідні документи для підтвердження відповідності кваліфікаційним вимогам у строк, передбачений абзацом першим цієї частини",
-    "description_en": "failed to submit the necessary documents to confirm compliance with qualification requirements within the period specified in the first paragraph of this part",
-    "scheme": "LAW772",
-    "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n930"
+  "REJECTION.ARMA.FAILURE_TO_SUBMIT_DOCS": {
+    "title_uk": "Неподання документів для підтвердження відповідності кваліфікаційним вимогам",
+    "title_en": "Failure to submit documents confirming compliance with qualification requirements",
+    "description_uk": "Учасник не подав необхідні документи для підтвердження відповідності кваліфікаційним вимогам",
+    "description_en": "The participant failed to submit the necessary documents to confirm compliance with qualification requirements",
+    "type": "candidate",
+    "legislation": [
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n930"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 3 частини 12 статті 21(3)",
+        "article_en": "Paragraph 3 of part 12 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n993"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 6 частини 5 статті 21(4)",
+        "article_en": "Paragraph 6 of part 5 of article 21(4)"
+      }
+    ]
   },
-  "doesNotMeetRequirements": {
-    "title_uk": "Абзац 4 частини 12 статті 21(3) закону 772",
-    "title_en": "Paragraph 4 of part 12 of article 21(3) of law 772",
-    "description_uk": "за результатами розгляду поданих документів для підтвердження відповідності кваліфікаційним вимогам визнаний таким, що не відповідає кваліфікаційним вимогам",
-    "description_en": "based on the results of the review of the submitted documents for confirming compliance with qualification requirements, is recognized as not meeting the qualification requirements",
-    "scheme": "LAW772",
-    "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n930"
+  "REJECTION.ARMA.DOES_NOT_MEET_REQUIREMENTS": {
+    "title_uk": "Невідповідність кваліфікаційним вимогам",
+    "title_en": "Non-compliance with qualification requirements",
+    "description_uk": "Учасник за результатами розгляду поданих документів для підтвердження відповідності кваліфікаційним вимогам визнаний таким, що не відповідає кваліфікаційним вимогам",
+    "description_en": "The participant, based on the results of the review of the submitted documents for confirming compliance with qualification requirements, is recognized as not meeting the qualification requirements",
+    "type": "candidate",
+    "legislation": [
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n930"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 4 частини 12 статті 21(3)",
+        "article_en": "Paragraph 4 of part 12 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n993"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 6 частини 5 статті 21(4)",
+        "article_en": "Paragraph 6 of part 5 of article 21(4)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n1010"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 3 частини 11 статті 21(4)",
+        "article_en": "Paragraph 3 of part 1 of article 21(4)"
+      }
+    ]
   },
-  "abnormallyLowPriceUnjustified": {
-    "title_uk": "Абзац 7 частини 18 статті 21(3) закону 772",
-    "title_en": "Paragraph 7 of part 18 of article 21(3) of law 772",
-    "description_uk": "не надано обґрунтування аномально низької пропозиції або надане обґрунтування неналежне",
-    "description_en": "justification for the abnormally low price was not provided or the provided justification is improper",
-    "scheme": "LAW772",
-    "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n959"
+  "REJECTION.ARMA.ABNORMALLY_LOW_PRICE_UNJUSTIFIED": {
+    "title_uk": "Відсутнє або неналежне обґрунтування аномально низької пропозиції",
+    "title_en": "Missing or improper justification for abnormally low price",
+    "description_uk": "Учасником не надано обґрунтування аномально низької пропозиції або надане обґрунтування неналежне",
+    "description_en": "The participant did not provide justification for the abnormally low price or the provided justification is improper",
+    "type": "candidate",
+    "legislation": [
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n959"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 7 частини 18 статті 21(3)",
+        "article_en": "Paragraph 7 of part 18 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n1022"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 3 частини 14 статті 21(4)",
+        "article_en": "Paragraph 3 of part 14 of article 21(4)"
+      }
+    ]
   },
-  "relatedToArrestedAssetOwnerBid": {
-    "title_uk": "Абзац 8 частини 18 статті 21(3) закону 772",
-    "title_en": "Paragraph 8 of part 18 of article 21(3) of law 772",
-    "description_uk": "є особою, пов’язаною з власником арештованого активу, підозрюваним, обвинуваченим у відповідному кримінальному провадженні, відповідачем у справі про визнання необґрунтованими активів та їх стягнення в дохід держави (пов’язаною особою)",
-    "description_en": "is a person related to the owner of the seized asset, a suspect, an accused in the relevant criminal proceedings, a defendant in a case on recognizing assets as unjustified and recovering them into the state revenue (related person)",
-    "scheme": "LAW772",
-    "type": "supplier",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n959"
-  },
-  "writtenRefusalToSign": {
-    "title_uk": "Абзац 1 частини 20 статті 21(3) закону 772",
-    "title_en": "Paragraph 1 of part 20 of article 21(3) of law 772",
-    "description_uk": "надав письмову відмову від підписання договору",
-    "description_en": "provided a written refusal to sign the contract",
-    "scheme": "LAW772",
+  "REJECTION.ARMA.WRITTEN_REFUSAL_TO_SIGN": {
+    "title_uk": "Відмова від підписання договору",
+    "title_en": "Refusal to sign the contract",
+    "description_uk": "Переможець надав письмову відмову від підписання договору",
+    "description_en": "The winner provided a written refusal to sign the contract",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n968"
+    "legislation": [
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n968"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 1 частини 20 статті 21(3)",
+        "article_en": "Paragraph 1 of part 20 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n1031"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 1 частини 16 статті 21(4)",
+        "article_en": "Paragraph 1 of part 16 of article 21(4)"
+      }
+    ]
   },
-  "noContractSign": {
-    "title_uk": "Абзац 2 частини 20 статті 21(3) закону 772",
-    "title_en": "Paragraph 2 of part 20 of article 21(3) of law 772",
-    "description_uk": "не підписав договір протягом 5 робочих днів після складення протоколу аукціону",
-    "description_en": "did not sign the contract within 5 working days after the auction protocol was drawn up",
-    "scheme": "LAW772",
+  "REJECTION.ARMA.NO_CONTRACT_SIGN": {
+    "title_uk": "Непідписання договору у встановлений строк",
+    "title_en": "Failure to sign the contract within the established period",
+    "description_uk": "Переможець не підписав договір протягом 5 робочих днів після складення протоколу аукціону",
+    "description_en": "The winner did not sign the contract within 5 working days after the auction protocol was drawn up",
     "type": "winner",
-    "archive": false,
-    "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n968"
+    "legislation": [
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n968"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 2 частини 20 статті 21(3)",
+        "article_en": "Paragraph 2 of part 20 of article 21(3)"
+      },
+      {
+        "version": "2026-01-31",
+        "scheme": "LAW772",
+        "identifier": {
+          "id": "772-VIII",
+          "legalName_uk": "Закон України \"Про Національне агентство України з питань виявлення, розшуку та управління активами, одержаними від корупційних та інших злочинів\"",
+          "legalName_en": "Law of Ukraine \"On the National Agency of Ukraine for Finding, Tracing and Management of Assets Derived from Corruption and Other Crimes\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/772-19#n1031"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article_uk": "Абзац 2 частини 16 статті 21(4)",
+        "article_en": "Paragraph 2 of part 16 of article 21(4)"
+      }
+    ]
   }
 }
