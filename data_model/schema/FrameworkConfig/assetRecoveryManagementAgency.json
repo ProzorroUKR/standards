@@ -1,0 +1,38 @@
+{
+  "type": "object",
+  "properties": {
+    "restrictedDerivatives": {
+      "type": "boolean",
+      "enum": [
+        false
+      ],
+      "default": false
+    },
+    "clarificationUntilDuration": {
+      "type": "integer",
+      "minimum": 5,
+      "maximum": 5,
+      "default": 5
+    },
+    "qualificationComplainDuration": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 0,
+      "default": 0
+    },
+    "hasItems": {
+      "type": "boolean",
+      "enum": [
+        false
+      ],
+      "default": false
+    }
+  },
+  "required": [
+    "restrictedDerivatives",
+    "clarificationUntilDuration",
+    "qualificationComplainDuration",
+    "hasItems"
+  ],
+  "additionalProperties": false
+}
