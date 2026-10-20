@@ -1,0 +1,141 @@
+{
+  "Пункт 1 частини 1 Статті 35": {
+    "code": "noDemand",
+    "procedures": [
+      "openTendering",
+      "restrictedTendering",
+      "competitiveDialogue",
+      "competitiveNegotiation",
+      "innovationPartnership"
+    ]
+  },
+  "Пункт 3 частини 8 Статті 51": {
+    "code": "noDemand",
+    "procedures": [
+      "negotiatedWithoutPriorNotice"
+    ]
+  },
+  "Пункт 1 частини 14 Статті 53": {
+    "code": "noDemand",
+    "procedures": [
+      "dynamicPurchasingSystem"
+    ]
+  },
+  "Пункт 1 частини 11 Статті 54": {
+    "code": "noDemand",
+    "procedures": [
+      "competitiveOrdering"
+    ]
+  },
+  "Пункт 1 частини 12 Статті 55": {
+    "code": "noDemand",
+    "procedures": [
+      "priceQuotation"
+    ]
+  },
+  "Пункт 2 частини 1 Статті 35": {
+    "code": "unFixable",
+    "procedures": [
+      "openTendering",
+      "restrictedTendering",
+      "competitiveDialogue",
+      "competitiveNegotiation",
+      "innovationPartnership"
+    ]
+  },
+  "Пункт 2 частини 8 Статті 51": {
+    "code": "unFixable",
+    "procedures": [
+      "negotiatedWithoutPriorNotice"
+    ]
+  },
+  "Пункт 4 частини 11 Статті 54": {
+    "code": "unFixable",
+    "procedures": [
+      "competitiveOrdering"
+    ]
+  },
+  "Пункт 4 частини 12 Статті 55": {
+    "code": "unFixable",
+    "procedures": [
+      "priceQuotation"
+    ]
+  },
+  "Пункт 3 частини 1 Статті 35": {
+    "code": "expensesCut",
+    "procedures": [
+      "openTendering",
+      "restrictedTendering",
+      "competitiveDialogue",
+      "competitiveNegotiation",
+      "innovationPartnership"
+    ]
+  },
+  "Пункт 4 частини 8 Статті 51": {
+    "code": "expensesCut",
+    "procedures": [
+      "negotiatedWithoutPriorNotice"
+    ]
+  },
+  "Пункт 2 частини 11 Статті 54": {
+    "code": "expensesCut",
+    "procedures": [
+      "competitiveOrdering"
+    ]
+  },
+  "Пункт 2 частини 12 Статті 55": {
+    "code": "expensesCut",
+    "procedures": [
+      "priceQuotation"
+    ]
+  },
+  "Пункт 4 частини 1 Статті 35": {
+    "code": "forceMajeure",
+    "procedures": [
+      "openTendering",
+      "restrictedTendering",
+      "competitiveDialogue",
+      "competitiveNegotiation",
+      "innovationPartnership"
+    ]
+  },
+  "Пункт 2 частини 14 Статті 53": {
+    "code": "forceMajeure",
+    "procedures": [
+      "dynamicPurchasingSystem"
+    ]
+  },
+  "Пункт 3 частини 11 Статті 54": {
+    "code": "forceMajeure",
+    "procedures": [
+      "competitiveOrdering"
+    ]
+  },
+  "Пункт 3 частини 12 Статті 55": {
+    "code": "forceMajeure",
+    "procedures": [
+      "priceQuotation"
+    ]
+  },
+  "Пункт 5 частини 8 Статті 51": {
+    "code": "dateViolation",
+    "procedures": [
+      "negotiatedWithoutPriorNotice"
+    ]
+  },
+  "Пункт 1 частини 8 Статті 51": {
+    "code": "noObjectiveness",
+    "procedures": [
+      "negotiatedWithoutPriorNotice"
+    ]
+  },
+  "Абзац 7 пункту 8 частини 5 Розділу XIV": {
+    "code": "noLocalization",
+    "procedures": [
+      "openTendering",
+      "restrictedTendering",
+      "competitiveOrdering",
+      "priceQuotation"
+    ]
+  }
+}
