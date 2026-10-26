@@ -28,5 +28,11 @@
     "description_en": "",
     "title_uk": "Документи, що підтверджують відповідність",
     "description_uk": "В тому числі, відповідність вимогам ст. 17"
+  },
+  "terminationReport": {
+    "title_en": "terminationReport",
+    "description_en": "",
+    "title_uk": "Звіт про виконання/розірвання договору про закупівлю",
+    "description_uk": ""
   }
 }
