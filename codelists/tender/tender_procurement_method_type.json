@@ -50,9 +50,9 @@
   "openTendering": {
     "autoInitiated": false,
     "procurementMethod": "open",
-    "description_en": "The open tendering procedure conducted under the Law of Ukraine No. 4888-IX. A single procedure covers both the national variant (UA) and the variant above the EU thresholds (EU, announced in English as well); the variant is set by the procurementMethodSubtype field of the tender.",
+    "description_en": "The open tendering procedure conducted under the Law of Ukraine No. 4888-IX. A single procedure covers both the national variant (UA) and the variant above the EU thresholds (EU, announced in English as well); the variant is set by the procurementAspects field of the tender.",
     "name_en": "Open Tendering",
-    "description_uk": "Процедура відкритих торгів, що проводиться відповідно до Закону України № 4888-IX. Одна процедура охоплює як національні торги (UA), так і торги вище європейських порогів (EU, з публікацією англійською мовою); різновид визначається полем procurementMethodSubtype тендера.",
+    "description_uk": "Процедура відкритих торгів, що проводиться відповідно до Закону України № 4888-IX. Одна процедура охоплює як національні торги (UA), так і торги вище європейських порогів (EU, з публікацією англійською мовою); різновид визначається полем procurementAspects тендера.",
     "name_uk": "Відкриті торги"
   },
   "negotiation": {
