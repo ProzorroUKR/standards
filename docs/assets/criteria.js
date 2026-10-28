@@ -109,6 +109,7 @@ async function displayRules() {
         'esco': await loadJSON('../criteria/rules/esco.json'),
         'negotiation': await loadJSON('../criteria/rules/negotiation.json'),
         'negotiation.quick': await loadJSON('../criteria/rules/negotiation.quick.json'),
+        'negotiatedWithoutPriorNotice': await loadJSON('../criteria/rules/negotiatedWithoutPriorNotice.json'),
         'priceQuotation': await loadJSON('../criteria/rules/priceQuotation.json'),
         'reporting': await loadJSON('../criteria/rules/reporting.json'),
         'simple.defense': await loadJSON('../criteria/rules/simple.defense.json')

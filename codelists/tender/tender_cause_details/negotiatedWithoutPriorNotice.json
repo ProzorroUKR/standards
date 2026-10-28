@@ -1,0 +1,170 @@
+{
+  "twiceUnsuccessful": {
+    "title_uk": "пункт 1 частини 1 Статті 51",
+    "title_en": "Clause 1, Part 1, Article 51",
+    "description_uk": "Відкриті торги або торги з обмеженою участю було відмінено, у тому числі частково (за лотом), через неподання жодної тендерної пропозиції",
+    "description_en": "Open bidding or bidding with limited participation was cancelled, including partially (by lot), due to failure to submit any tender offer",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
+    "scheme": "LAW4888",
+    "procurementAspects": [
+      "standard",
+      "quick"
+    ],
+    "archive": false
+  },
+  "artPurchase": {
+    "title_uk": "абзац 2 пункту 2 частини 1 Статті 51",
+    "title_en": "Paragraph 2, sub-clause 2, part 1, Article 51",
+    "description_uk": "Товар (товари), роботи та/або послуга (послуги) можуть бути виконані, поставлені та/або надані виключно певним суб’єктом господарювання за наявності однієї з таких підстав: предмет закупівлі полягає у створенні або придбанні витвору мистецтва або художнього виконання",
+    "description_en": "Goods, works and/or services can be performed, supplied and/or provided exclusively by a specific economic operator, where one of the following grounds exists: the subject of procurement is the creation or acquisition of a work of art or artistic performance",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
+    "scheme": "LAW4888",
+    "procurementAspects": [
+      "standard",
+      "quick"
+    ],
+    "archive": false
+  },
+  "technicalReasons": {
+    "title_uk": "абзац 3 пункту 2 частини 1 Статті 51",
+    "title_en": "Paragraph 3, sub-clause 2, part 1, Article 51",
+    "description_uk": "Товар (товари), роботи та/або послуга (послуги) можуть бути виконані, поставлені та/або надані виключно певним суб’єктом господарювання за наявності однієї з таких підстав: конкуренція відсутня з технічних причин, що має бути документально підтверджено замовником",
+    "description_en": "Goods, works and/or services can be performed, supplied and/or provided exclusively by a specific economic operator, where one of the following grounds exists: absence of competition for technical reasons, which must be documented by the procuring entity",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
+    "scheme": "LAW4888",
+    "procurementAspects": [
+      "standard",
+      "quick"
+    ],
+    "archive": false
+  },
+  "intProperty": {
+    "title_uk": "абзац 4 пункту 2 частини 1 Статті 51",
+    "title_en": "Paragraph 4, sub-clause 2, part 1, Article 51",
+    "description_uk": "Товар (товари), роботи та/або послуга (послуги) можуть бути виконані, поставлені та/або надані виключно певним суб’єктом господарювання за наявності однієї з таких підстав: предметом публічних закупівель є товар (товари), роботи та/або послуги (послуга), що містять об’єкти права інтелектуальної власності",
+    "description_en": "Goods, works and/or services can be performed, supplied and/or provided exclusively by a specific economic operator, where one of the following grounds exists: the subject of public procurement contains objects of intellectual property rights",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
+    "scheme": "LAW4888",
+    "procurementAspects": [
+      "standard",
+      "quick"
+    ],
+    "archive": false
+  },
+  "urgentNecessity": {
+    "title_uk": "пункт 3 частини 1 Статті 51",
+    "title_en": "Clause 3, Part 1, Article 51",
+    "description_uk": "Це критично необхідно, якщо з причин надзвичайної невідкладності, зумовленої непередбачуваними для замовника обставинами, строки для проведення відкритих торгів або торгів з обмеженою участю, або конкурентної процедури з переговорами не можуть бути дотримані.",
+    "description_en": "Critically necessary where, due to extreme urgency caused by circumstances unforeseeable by the procuring entity, the time limits for open bidding, bidding with limited participation, or a competitive procedure with negotiations cannot be met",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
+    "scheme": "LAW4888",
+    "procurementAspects": [
+      "quick"
+    ],
+    "archive": false
+  },
+  "researchAndDevelopment": {
+    "title_uk": "пункт 4 частини 1 Статті 51",
+    "title_en": "Clause 4, Part 1, Article 51",
+    "description_uk": "Товари, які є предметом закупівлі, виробляються виключно для цілей досліджень, експериментів, вивчення або розробок",
+    "description_en": "The goods being procured are produced exclusively for the purposes of research, experimentation, study or development",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
+    "scheme": "LAW4888",
+    "procurementAspects": [
+      "standard",
+      "quick"
+    ],
+    "archive": false
+  },
+  "additionalPurchase": {
+    "title_uk": "пункт 5 частини 1 Статті 51",
+    "title_en": "Clause 5, Part 1, Article 51",
+    "description_uk": "Після укладення публічного договору у замовника виникла необхідність у постачанні додаткового обсягу товару (товарів) того самого постачальника, що повинен частково замінити товар (товари) або доповнити наявний товар (товари), якщо в разі зміни постачальника замовник буде вимушений придбати товар (товари) з іншими технічними характеристиками, що призведе до виникнення несумісності, пов’язаної з експлуатацією і технічним обслуговуванням.",
+    "description_en": "After conclusion of a public contract, the procuring entity has a need to supply an additional volume of goods from the same supplier, which must partially replace or supplement the existing goods, where a change of supplier would force the procuring entity to acquire goods with different technical characteristics leading to incompatibility related to operation and maintenance",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
+    "scheme": "LAW4888",
+    "procurementAspects": [
+      "standard",
+      "quick"
+    ],
+    "archive": false
+  },
+  "gasExchangeTrading": {
+    "title_uk": "пункт 6 частини 1 Статті 51",
+    "title_en": "Clause 6, Part 1, Article 51",
+    "description_uk": "здійснення закупівлі природного газу суб’єктами ринку природного газу, визначеними Законом України \"Про ринок природного газу\", на товарних біржах, діяльність яких регулюється законом, що визначає правові умови створення та функціонування (діяльності) товарних бірж, та які відповідають вимогам Кодексу газотранспортної системи",
+    "description_en": "Procurement of natural gas by natural gas market entities, as defined by the Law of Ukraine \"On the Natural Gas Market\", on commodity exchanges regulated by the law governing the establishment and operation of commodity exchanges, which meet the requirements of the Gas Transmission System Code",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
+    "scheme": "LAW4888",
+    "procurementAspects": [
+      "standard",
+      "quick"
+    ],
+    "archive": false
+  },
+  "supplierUnderLiquidation": {
+    "title_uk": "пункт 7 частини 1 Статті 51",
+    "title_en": "Clause 7, Part 1, Article 51",
+    "description_uk": "закупівля товару (товарів) або послуги (послуг) здійснюється на особливо вигідних умовах, документально підтверджених замовником, зокрема за результатами аналізу ринку, у постачальника або надавача послуг, щодо якого розпочато ліквідацію, або у ліквідаторів у межах процедури банкрутства відповідно до угоди з кредиторами",
+    "description_en": "Procurement of goods or services is carried out on especially advantageous terms, documented by the procuring entity, in particular based on market analysis results, from a supplier or service provider undergoing liquidation, or from liquidators within bankruptcy procedure in accordance with an agreement with creditors",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
+    "scheme": "LAW4888",
+    "procurementAspects": [
+      "standard",
+      "quick"
+    ],
+    "archive": false
+  },
+  "contestWinner": {
+    "title_uk": "пункт 8 частини 1 Статті 51",
+    "title_en": "Clause 8, Part 1, Article 51",
+    "description_uk": "закупівля послуги (послуг) здійснюється за результатами конкурсу проектів, проведеного згідно із цим Законом, у переможця або одного з переможців конкурсу проектів згідно з умовами, передбаченими конкурсною документацією.",
+    "description_en": "Procurement of a service is carried out based on the results of a project competition held in accordance with this Law, from the winner or one of the winners of the project competition, in accordance with the conditions specified in the competition documentation",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
+    "scheme": "LAW4888",
+    "procurementAspects": [
+      "standard",
+      "quick"
+    ],
+    "archive": false
+  },
+  "additionalConstruction": {
+    "title_uk": "пункт 9 частини 1 Статті 51",
+    "title_en": "Clause 9, Part 1, Article 51",
+    "description_uk": "Після укладення публічного договору у замовника виникла необхідність у закупівлі нових робіт чи послуги (послуг), що полягають у повторюванні аналогічних робіт чи послуги (послуг), у того самого виконавця робіт / надавача послуги (послуг), за умови що такі роботи чи послуга (послуги) відповідають основному проекту, згідно з яким було укладено початковий публічний договір згідно з процедурою закупівлі, визначеною статтею 16 цього Закону.",
+    "description_en": "After conclusion of a public contract, the procuring entity has a need to procure new works or services consisting of the repetition of similar works or services from the same contractor/service provider, provided such works or services conform to the underlying project under which the initial public contract was concluded",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
+    "scheme": "LAW4888",
+    "procurementAspects": [
+      "standard",
+      "quick"
+    ],
+    "archive": false
+  },
+  "managedAccessMedicines": {
+    "title_uk": "пункт 10 частини 1 Статті 51",
+    "title_en": "Clause 10, Part 1, Article 51",
+    "description_uk": "якщо предметом закупівлі є оригінальні (інноваційні) лікарські засоби, що підлягають закупівлі за договорами керованого доступу, що укладаються відповідно до закону центральним органом виконавчої влади, що забезпечує формування та реалізує державну політику у сфері охорони здоров’я, або за його дорученням особою, уповноваженою на здійснення закупівель у сфері охорони здоров’я, з власником реєстраційного посвідчення на оригінальний (інноваційний) лікарський засіб або уповноваженим ним представником.",
+    "description_en": "Where the subject of procurement is an original (innovative) medicinal product subject to procurement under managed-access agreements concluded, in accordance with the law, by the central executive body responsible for health-care policy (or, on its instruction, a person authorised to conduct health-sector procurement) with the holder of the marketing authorisation for the original (innovative) medicinal product or its authorised representative",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
+    "scheme": "LAW4888",
+    "procurementAspects": [
+      "standard",
+      "quick"
+    ],
+    "archive": false
+  },
+  "timberExchangeTrading": {
+    "title_uk": "пункт 11 частини 1 Статті 51",
+    "title_en": "Clause 11, Part 1, Article 51",
+    "description_uk": "Здійснення закупівлі лісоматеріалів необроблених та/або деревини паливної замовниками на товарних біржах, діяльність яких регулюється законом, що визначає правові умови створення та функціонування (діяльності) товарних бірж, та які відповідають встановленим Національною комісією з цінних паперів та фондового ринку вимогам",
+    "description_en": "Procurement of unprocessed timber and/or fuel wood by procuring entities on commodity exchanges regulated by the law governing the establishment and operation of commodity exchanges, meeting the requirements established by the National Securities and Stock Market Commission",
+    "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
+    "scheme": "LAW4888",
+    "procurementAspects": [
+      "standard",
+      "quick"
+    ],
+    "archive": false
+  }
+}

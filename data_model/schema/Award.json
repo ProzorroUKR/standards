@@ -19,7 +19,8 @@
         "pending",
         "cancelled",
         "unsuccessful",
-        "active"
+        "active",
+        "considered"
       ]
     },
     "date": {
