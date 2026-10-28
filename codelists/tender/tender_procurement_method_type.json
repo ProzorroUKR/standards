@@ -35,9 +35,9 @@
     "autoInitiated": false,
     "procurementMethod": "open",
     "description_en": "The procurement procedure that regulates purchases which subject value exceeds the limits established by the Law (200,000 hryvnias for goods and services, or 1,500,000 hryvnias for works) but less than defined by EU Directive on Public Procurement EUR 133,000 for goods or services and EUR 5,150,00 for works.",
-    "name_en": "Local Open Procedure",
+    "name_en": "Open bidding with publication in Ukrainian",
     "description_uk": "Процедура, що регулює закупівлі, вартість яких вища за граничні суми, встановлені Законом (200,000 гривень для товарів і послуг або 1,500,000 гривень для робіт), але нижча за граничні суми, визначені Директивою ЄС про публічні закупівлі (еквівалент 133,000 євро для товарів і послуг або 5,150,000 євро для робіт).",
-    "name_uk": "Відкриті торги"
+    "name_uk": "Відкриті торги з публікацією українською мовою"
   },
   "aboveThresholdEU": {
     "autoInitiated": false,
