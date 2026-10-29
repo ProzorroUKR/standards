@@ -66,10 +66,27 @@
   "negotiatedWithoutPriorNotice": {
     "autoInitiated": false,
     "procurementMethod": "limited",
-    "description_en": "The procurement procedure under the Law \"On Public Procurement\" (No. 4888) that is used as an exception, if at least one of the reasons listed in Article 51 of the Law is documentary confirmed. The Procuring entity publishes a decision to sign a contract after conducting negotiations with one or more Participants. The complaint period is 10 days (5 days in urgent cases); the variant (standard or quick) is set by the procurementAspects field of the tender.",
+    "description_en": "The procurement procedure under the Law \"On Public Procurement\" (No. 4888) that is used as an exception, if at least one of the reasons listed in Article 51 of the Law is documentary confirmed. The Procuring entity publishes a decision to sign a contract after conducting negotiations with one or more Participants. The complaint period is 10 days (5 days in urgent cases); the variant (standard or accelerated) is set by the procedure.accelerated field of the tender.",
     "name_en": "Negotiated procedure without prior publication",
-    "description_uk": "Процедура відповідно до Закону \"Про публічні закупівлі\" (№ 4888), що використовується як виняток, лише при наявності та обґрунтуванні однієї з підстав, що встановлені статтею 51 Закону. Замовник публікує рішення про намір укласти договір після проведення переговорів з одним або кількома учасниками, яке може бути оскаржене протягом 10 днів (5 днів для скороченої процедури); різновид (стандартна або скорочена) визначається полем procurementAspects тендера.",
-    "name_uk": "Переговорна процедура без попередньої публікації"
+    "description_uk": "Процедура відповідно до Закону \"Про публічні закупівлі\" (№ 4888), що використовується як виняток, лише при наявності та обґрунтуванні однієї з підстав, що встановлені статтею 51 Закону. Замовник публікує рішення про намір укласти договір після проведення переговорів з одним або кількома учасниками, яке може бути оскаржене протягом 10 днів (5 днів для скороченої процедури); різновид (стандартна або скорочена) визначається полем procedure.accelerated тендера.",
+    "name_uk": "Переговорна процедура без попередньої публікації",
+    "procedureExtensionScheme": {
+      "type": "object",
+      "properties": {
+        "accelerated": {
+          "type": "boolean",
+          "description": "Indicates whether the procedure is accelerated.",
+          "enum": [
+            true,
+            false
+          ]
+        }
+      },
+      "required": [
+        "accelerated"
+      ],
+      "additionalProperties": false
+    }
   },
   "aboveThresholdUA.defense": {
     "autoInitiated": false,

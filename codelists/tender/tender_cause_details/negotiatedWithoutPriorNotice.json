@@ -6,10 +6,12 @@
     "description_en": "Open bidding or bidding with limited participation was cancelled, including partially (by lot), due to failure to submit any tender offer",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
     "scheme": "LAW4888",
-    "procurementAspects": [
-      "standard",
-      "quick"
-    ],
+    "procedure": {
+      "accelerated": [
+        false,
+        true
+      ]
+    },
     "archive": false
   },
   "artPurchase": {
@@ -19,10 +21,12 @@
     "description_en": "Goods, works and/or services can be performed, supplied and/or provided exclusively by a specific economic operator, where one of the following grounds exists: the subject of procurement is the creation or acquisition of a work of art or artistic performance",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
     "scheme": "LAW4888",
-    "procurementAspects": [
-      "standard",
-      "quick"
-    ],
+    "procedure": {
+      "accelerated": [
+        false,
+        true
+      ]
+    },
     "archive": false
   },
   "technicalReasons": {
@@ -32,10 +36,12 @@
     "description_en": "Goods, works and/or services can be performed, supplied and/or provided exclusively by a specific economic operator, where one of the following grounds exists: absence of competition for technical reasons, which must be documented by the procuring entity",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
     "scheme": "LAW4888",
-    "procurementAspects": [
-      "standard",
-      "quick"
-    ],
+    "procedure": {
+      "accelerated": [
+        false,
+        true
+      ]
+    },
     "archive": false
   },
   "intProperty": {
@@ -45,10 +51,12 @@
     "description_en": "Goods, works and/or services can be performed, supplied and/or provided exclusively by a specific economic operator, where one of the following grounds exists: the subject of public procurement contains objects of intellectual property rights",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
     "scheme": "LAW4888",
-    "procurementAspects": [
-      "standard",
-      "quick"
-    ],
+    "procedure": {
+      "accelerated": [
+        false,
+        true
+      ]
+    },
     "archive": false
   },
   "urgentNecessity": {
@@ -58,9 +66,11 @@
     "description_en": "Critically necessary where, due to extreme urgency caused by circumstances unforeseeable by the procuring entity, the time limits for open bidding, bidding with limited participation, or a competitive procedure with negotiations cannot be met",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
     "scheme": "LAW4888",
-    "procurementAspects": [
-      "quick"
-    ],
+    "procedure": {
+      "accelerated": [
+        true
+      ]
+    },
     "archive": false
   },
   "researchAndDevelopment": {
@@ -70,10 +80,12 @@
     "description_en": "The goods being procured are produced exclusively for the purposes of research, experimentation, study or development",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
     "scheme": "LAW4888",
-    "procurementAspects": [
-      "standard",
-      "quick"
-    ],
+    "procedure": {
+      "accelerated": [
+        false,
+        true
+      ]
+    },
     "archive": false
   },
   "additionalPurchase": {
@@ -83,10 +95,12 @@
     "description_en": "After conclusion of a public contract, the procuring entity has a need to supply an additional volume of goods from the same supplier, which must partially replace or supplement the existing goods, where a change of supplier would force the procuring entity to acquire goods with different technical characteristics leading to incompatibility related to operation and maintenance",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
     "scheme": "LAW4888",
-    "procurementAspects": [
-      "standard",
-      "quick"
-    ],
+    "procedure": {
+      "accelerated": [
+        false,
+        true
+      ]
+    },
     "archive": false
   },
   "gasExchangeTrading": {
@@ -96,10 +110,12 @@
     "description_en": "Procurement of natural gas by natural gas market entities, as defined by the Law of Ukraine \"On the Natural Gas Market\", on commodity exchanges regulated by the law governing the establishment and operation of commodity exchanges, which meet the requirements of the Gas Transmission System Code",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
     "scheme": "LAW4888",
-    "procurementAspects": [
-      "standard",
-      "quick"
-    ],
+    "procedure": {
+      "accelerated": [
+        false,
+        true
+      ]
+    },
     "archive": false
   },
   "supplierUnderLiquidation": {
@@ -109,10 +125,12 @@
     "description_en": "Procurement of goods or services is carried out on especially advantageous terms, documented by the procuring entity, in particular based on market analysis results, from a supplier or service provider undergoing liquidation, or from liquidators within bankruptcy procedure in accordance with an agreement with creditors",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
     "scheme": "LAW4888",
-    "procurementAspects": [
-      "standard",
-      "quick"
-    ],
+    "procedure": {
+      "accelerated": [
+        false,
+        true
+      ]
+    },
     "archive": false
   },
   "contestWinner": {
@@ -122,10 +140,12 @@
     "description_en": "Procurement of a service is carried out based on the results of a project competition held in accordance with this Law, from the winner or one of the winners of the project competition, in accordance with the conditions specified in the competition documentation",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
     "scheme": "LAW4888",
-    "procurementAspects": [
-      "standard",
-      "quick"
-    ],
+    "procedure": {
+      "accelerated": [
+        false,
+        true
+      ]
+    },
     "archive": false
   },
   "additionalConstruction": {
@@ -135,10 +155,12 @@
     "description_en": "After conclusion of a public contract, the procuring entity has a need to procure new works or services consisting of the repetition of similar works or services from the same contractor/service provider, provided such works or services conform to the underlying project under which the initial public contract was concluded",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
     "scheme": "LAW4888",
-    "procurementAspects": [
-      "standard",
-      "quick"
-    ],
+    "procedure": {
+      "accelerated": [
+        false,
+        true
+      ]
+    },
     "archive": false
   },
   "managedAccessMedicines": {
@@ -148,10 +170,12 @@
     "description_en": "Where the subject of procurement is an original (innovative) medicinal product subject to procurement under managed-access agreements concluded, in accordance with the law, by the central executive body responsible for health-care policy (or, on its instruction, a person authorised to conduct health-sector procurement) with the holder of the marketing authorisation for the original (innovative) medicinal product or its authorised representative",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
     "scheme": "LAW4888",
-    "procurementAspects": [
-      "standard",
-      "quick"
-    ],
+    "procedure": {
+      "accelerated": [
+        false,
+        true
+      ]
+    },
     "archive": false
   },
   "timberExchangeTrading": {
@@ -161,10 +185,12 @@
     "description_en": "Procurement of unprocessed timber and/or fuel wood by procuring entities on commodity exchanges regulated by the law governing the establishment and operation of commodity exchanges, meeting the requirements established by the National Securities and Stock Market Commission",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1057",
     "scheme": "LAW4888",
-    "procurementAspects": [
-      "standard",
-      "quick"
-    ],
+    "procedure": {
+      "accelerated": [
+        false,
+        true
+      ]
+    },
     "archive": false
   }
 }
