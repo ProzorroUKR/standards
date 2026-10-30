@@ -36651,6 +36651,26 @@
     ]
   },
   {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "3101250",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3101000",
+    "actyvPr": 0,
+    "name": "Реалізація проєктів (об’єктів, заходів) плану стійкості акціонерного товариства «Українська залізниця»",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-10-15",
+    "id": 3809,
+    "inputbase": "Розпис",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 355,
     "programType": 2,
     "code": "3101260",
