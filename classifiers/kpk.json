@@ -21610,6 +21610,26 @@
     ]
   },
   {
+    "idFkv": 360,
+    "programType": 1,
+    "code": "2308800",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "2308000",
+    "actyvPr": 0,
+    "name": "Реалізація публічного інвестиційного проекту «Модернізація інфраструктури центру обробки даних для підвищення рівня кібербезпеки Національної служби здоров’я України»",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-10-21",
+    "id": 3810,
+    "inputbase": "Розпис",
+    "years": [
+      2026
+    ]
+  },
+  {
     "idFkv": 0,
     "programType": 0,
     "code": "2310000",
@@ -47559,6 +47579,26 @@
     "comment": null,
     "datefrom": "2026-10-02",
     "id": 3789,
+    "inputbase": "Розпис",
+    "years": [
+      2026
+    ]
+  },
+  {
+    "idFkv": 310,
+    "programType": 1,
+    "code": "3609800",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3609000",
+    "actyvPr": 0,
+    "name": "Реалізація публічного інвестиційного проекту «Розвиток сховища архівних електронних документів»",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-10-21",
+    "id": 3811,
     "inputbase": "Розпис",
     "years": [
       2026
