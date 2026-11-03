@@ -141,5 +141,12 @@
     "general",
     "special",
     "defense"
+  ],
+  "negotiatedWithoutPriorNotice": [
+    "authority",
+    "social",
+    "general",
+    "special",
+    "defense"
   ]
 }
