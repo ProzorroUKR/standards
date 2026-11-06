@@ -558,8 +558,8 @@
     "archive": false
   },
   "sportsEventsAndNationalTeams": {
-    "title_uk": "Пункт 9³",
-    "title_en": "Paragraph 9³",
+    "title_uk": "Абзац 1 пункту 9³",
+    "title_en": "Paragraph 1 of clause 9³",
     "description_uk": "Закупівлі послуг, необхідних для проведення спортивних заходів, спортивних змагань, фізкультурно-оздоровчих заходів, фізкультурно-спортивної реабілітації, а також для забезпечення підготовки та участі національних збірних команд України з видів спорту у міжнародних заходах та змаганнях, що включені до Єдиного календарного плану фізкультурно-оздоровчих, спортивних заходів та спортивних змагань України на відповідний рік, здійснюються без застосування процедур закупівель/спрощених закупівель, визначених Законом та цими особливостями",
     "description_en": "Procurement of services necessary for holding sporting events, athletic competitions, physical education and health promotion events, and physical education and sports rehabilitation, as well as to ensure the preparation and participation of Ukraine’s national sports teams in international events and competitions included in the Unified Calendar Plan of Physical Education, Health Promotion, and Sports Events and Competitions of Ukraine for the relevant year, shall be carried out without applying the procurement/simplified procurement procedures specified by the Law and these provisions",
     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
@@ -598,6 +598,33 @@
     "title_en": "Paragraphs 2 and 3 of Part 1 of Article 41 of the Law (subparagraph 4 of paragraph 9²)",
     "description_uk": "Здійснюється закупівля товарів, робіт та послуг, необхідних для відновлення, та/або реконструкції, та/або капітального ремонту об’єктів юридичних осіб електроенергетичного комплексу, зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації, з метою забезпечення надійного та безперебійного функціонування об’єднаної енергетичної системи - крім договору про закупівлю, зазначеного в абзацах другому, третьому частини першої статті 41 Закону",
     "description_en": "Goods, works, and services necessary for the restoration, and/or reconstruction, and/or major repairs of facilities belonging to legal entities in the electric power sector that were destroyed or damaged as a result of the Russian Federation’s armed aggression are being procured, with the aim of ensuring the reliable and uninterrupted operation of the integrated power system - in addition to the procurement contract specified in the second and third paragraphs of Part 1 of Article 41 of the Law",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "artCompetitionContract": {
+    "title_uk": "Абзац 2 пункту 9³",
+    "title_en": "Paragraph 2 of clause 9³",
+    "description_uk": "Укладення договору про закупівлю до 31 грудня 2026 р. із переможцем мистецького конкурсу, проведеного відповідно до постанови Кабінету Міністрів України від 25 березня 2026 р. № 404 \"Деякі питання організації та проведення мистецьких конкурсів з відбору культурномистецьких проектів, спрямованих на реалізацію ініціативи Президента України із створення українського культурного продукту\" (Офіційний вісник України, 2026 р., № 32, ст. 2187), здійснюється без застосування процедур закупівель/спрощених закупівель, визначених Законом та цими особливостями",
+    "description_en": "Conclusion of a procurement contract by December 31, 2026, with the winner of the arts competition held in accordance with Resolution No. 404 of the Cabinet of Ministers of Ukraine dated March 25, 2026 \"Certain Issues Regarding the Organization and Conduct of Art Competitions for the Selection of Cultural and Artistic Projects Aimed at Implementing the President of Ukraine’s Initiative to Create a Ukrainian Cultural Product\" (Official Gazette of Ukraine, 2026, No. 32, Art. 2187), shall be carried out without applying the procurement/simplified procurement procedures defined by the Law and these specific provisions",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "combinedWaterCrossingsProject": {
+    "title_uk": "Підпункт 5 пункту 9²",
+    "title_en": "Subparagraph 5 of paragraph 9²",
+    "description_uk": "Здійснюється закупівля товарів, робіт та послуг, необхідних для нового будівництва комбінованих водних переправ та під’їзних шляхів до них у межах реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 15 жовтня 2026 р. № 1295 \"Про реалізацію експериментального проекту нового будівництва комбінованих водних переправ та під’їзних шляхів до них\"",
+    "description_en": "The procurement of goods, works, and services necessary for the new construction of combined water crossings and access roads to them is being carried out as part of a pilot project in accordance with Resolution No. 1295 of the Cabinet of Ministers of Ukraine dated October 15, 2026 \"On the Implementation of a Pilot Project for the New Construction of Combined Water Crossings and Access Roads to Them\"",
+    "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
+    "scheme": "DECREE1178",
+    "archive": false
+  },
+  "combinedCrossingsContract": {
+    "title_uk": "Абзац 2, 3 частини 1 статті 41 Закону (підпункт 5 пункту 9²)",
+    "title_en": "Paragraphs 2 and 3 of Part 1 of Article 41 of the Law (subparagraph 5 of paragraph 9²)",
+    "description_uk": "Здійснюється закупівля товарів, робіт та послуг, необхідних для нового будівництва комбінованих водних переправ та під’їзних шляхів до них у межах реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 15 жовтня 2026 р. № 1295 \"Про реалізацію експериментального проекту нового будівництва комбінованих водних переправ та під’їзних шляхів до них - крім договору про закупівлю, зазначеного в абзацах другому, третьому частини першої статті 41 Закону\"",
+    "description_en": "The procurement of goods, works, and services necessary for the new construction of combined water crossings and access roads to them is being carried out as part of a pilot project in accordance with Resolution No. 1295 of the Cabinet of Ministers of Ukraine dated October 15, 2026 \"On the Implementation of a Pilot Project for the New Construction of Combined Water Crossings and Access Roads to Them - in addition to the procurement contract specified in the second and third paragraphs of Part 1 of Article 41 of the Law\"",
     "uri": "https://zakon.rada.gov.ua/laws/show/1178-2022-%D0%BF/ed20260901#n426",
     "scheme": "DECREE1178",
     "archive": false
