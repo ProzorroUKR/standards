@@ -37,7 +37,7 @@
     "description_en": "The procurement procedure that regulates purchases which subject value exceeds the limits established by the Law (200,000 hryvnias for goods and services, or 1,500,000 hryvnias for works) but less than defined by EU Directive on Public Procurement EUR 133,000 for goods or services and EUR 5,150,00 for works.",
     "name_en": "Local Open Procedure",
     "description_uk": "Процедура, що регулює закупівлі, вартість яких вища за граничні суми, встановлені Законом (200,000 гривень для товарів і послуг або 1,500,000 гривень для робіт), але нижча за граничні суми, визначені Директивою ЄС про публічні закупівлі (еквівалент 133,000 євро для товарів і послуг або 5,150,000 євро для робіт).",
-    "name_uk": "Відкриті торги"
+    "name_uk": "Відкриті торги з публікацією українською мовою"
   },
   "aboveThresholdEU": {
     "autoInitiated": false,
@@ -46,6 +46,31 @@
     "name_en": "Open Procedure",
     "description_uk": "Процедура, що регулює закупівлі, які підпадають під сферу дії Директиви ЄС про публічні закупівлі (більше еквіваленту 133,000 євро для товарів і послуг або 5,150,000 євро для робіт). Оголошення таких процедур дублюється англійською мовою.",
     "name_uk": "Відкриті торги з публікацією англійською мовою"
+  },
+  "openTendering": {
+    "autoInitiated": false,
+    "procurementMethod": "open",
+    "description_en": "The open tendering procedure conducted under the Law of Ukraine No. 4888-IX. A single procedure covers both the national variant (UA) and the variant above the EU thresholds (EU, announced in English as well); the variant is set by the procedure.euPublished field of the tender.",
+    "name_en": "Open Tendering",
+    "description_uk": "Процедура відкритих торгів, що проводиться відповідно до Закону України № 4888-IX. Одна процедура охоплює як національні торги (UA), так і торги вище європейських порогів (EU, з публікацією англійською мовою); різновид визначається полем procedure.euPublished тендера.",
+    "name_uk": "Відкриті торги",
+    "procedureExtensionScheme": {
+      "type": "object",
+      "properties": {
+        "euPublished": {
+          "type": "boolean",
+          "description": "Indicates whether the procedure was published in the EU.",
+          "enum": [
+            true,
+            false
+          ]
+        }
+      },
+      "required": [
+        "euPublished"
+      ],
+      "additionalProperties": false
+    }
   },
   "negotiation": {
     "autoInitiated": false,

@@ -1,0 +1,192 @@
+{
+  "type": "object",
+  "properties": {
+    "hasAuction": {
+      "type": "boolean",
+      "enum": [
+        true,
+        false
+      ],
+      "default": true
+    },
+    "hasAwardingOrder": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
+    },
+    "hasValueRestriction": {
+      "type": "boolean",
+      "enum": [
+        true,
+        false
+      ],
+      "default": true
+    },
+    "valueCurrencyEquality": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
+    },
+    "hasPrequalification": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
+    },
+    "minBidsNumber": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 1,
+      "default": 1
+    },
+    "hasPreSelectionAgreement": {
+      "type": "boolean",
+      "enum": [
+        false
+      ],
+      "default": false
+    },
+    "hasTenderComplaints": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
+    },
+    "hasAwardComplaints": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
+    },
+    "hasCancellationComplaints": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
+    },
+    "hasValueEstimation": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
+    },
+    "hasQualificationComplaints": {
+      "type": "boolean",
+      "enum": [
+        true
+      ],
+      "default": true
+    },
+    "tenderComplainRegulation": {
+      "type": "integer",
+      "minimum": 4,
+      "maximum": 4,
+      "default": 4
+    },
+    "qualificationComplainDuration": {
+      "type": "integer",
+      "minimum": 10,
+      "maximum": 10,
+      "default": 10
+    },
+    "awardComplainDuration": {
+      "type": "integer",
+      "minimum": 10,
+      "maximum": 10,
+      "default": 10
+    },
+    "cancellationComplainDuration": {
+      "type": "integer",
+      "minimum": 10,
+      "maximum": 10,
+      "default": 10
+    },
+    "clarificationUntilDuration": {
+      "type": "integer",
+      "minimum": 3,
+      "maximum": 3,
+      "default": 3
+    },
+    "qualificationDuration": {
+      "type": "integer",
+      "minimum": 20,
+      "maximum": 20,
+      "default": 20
+    },
+    "minTenderingDuration": {
+      "type": "integer",
+      "minimum": 30,
+      "maximum": 30,
+      "default": 30
+    },
+    "hasEnquiries": {
+      "type": "boolean",
+      "enum": [
+        false
+      ],
+      "default": false
+    },
+    "minEnquiriesDuration": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 0,
+      "default": 0
+    },
+    "enquiryPeriodRegulation": {
+      "type": "integer",
+      "minimum": 6,
+      "maximum": 6,
+      "default": 6
+    },
+    "restricted": {
+      "type": "boolean",
+      "enum": [
+        false
+      ],
+      "default": false
+    },
+    "hasMultiSourcing": {
+      "type": "boolean",
+      "enum": [
+        false
+      ],
+      "default": false
+    }
+  },
+  "required": [
+    "hasAuction",
+    "hasAwardingOrder",
+    "hasValueRestriction",
+    "valueCurrencyEquality",
+    "hasPrequalification",
+    "minBidsNumber",
+    "hasPreSelectionAgreement",
+    "hasTenderComplaints",
+    "hasAwardComplaints",
+    "hasCancellationComplaints",
+    "hasValueEstimation",
+    "hasQualificationComplaints",
+    "tenderComplainRegulation",
+    "qualificationComplainDuration",
+    "awardComplainDuration",
+    "cancellationComplainDuration",
+    "clarificationUntilDuration",
+    "qualificationDuration",
+    "minTenderingDuration",
+    "hasEnquiries",
+    "minEnquiriesDuration",
+    "enquiryPeriodRegulation",
+    "restricted",
+    "hasMultiSourcing"
+  ],
+  "additionalProperties": false
+}
