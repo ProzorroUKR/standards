@@ -2328,6 +2328,26 @@
     ]
   },
   {
+    "idFkv": 375,
+    "programType": 1,
+    "code": "0415030",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "0415000",
+    "actyvPr": 1,
+    "name": "Державна підтримка заходів, спрямованих на зменшення обсягів викидів (збільшення абсорбції) парникових газів, у тому числі на утеплення приміщень закладів соціального забезпечення, розвиток міжнародного співробітництва з питань зміни клімату",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3819,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
     "idFkv": 346,
     "programType": 1,
     "code": "0415700",
@@ -3096,6 +3116,26 @@
     "inputbase": "Закон",
     "years": [
       2027
+    ]
+  },
+  {
+    "idFkv": 546,
+    "programType": 1,
+    "code": "0418500",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "0418000",
+    "actyvPr": 0,
+    "name": "Придбання обладнання за рахунок гранту JICA для акціонерного товариства «Національна суспільна телерадіокомпанія України»",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-09-09",
+    "id": 3812,
+    "inputbase": "Розпис",
+    "years": [
+      2026
     ]
   },
   {
@@ -10046,27 +10086,6 @@
     "programType": 1,
     "code": "1201440",
     "level": 3,
-    "isactive": 1,
-    "outputbase": null,
-    "parentCode": "1201000",
-    "actyvPr": 1,
-    "name": "Державна підтримка заходів, спрямованих на зменшення обсягів викидів (збільшення абсорбції) парникових газів, у тому числі на утеплення приміщень закладів соціального забезпечення, розвиток міжнародного співробітництва з питань зміни клімату",
-    "dateto": null,
-    "details": 1,
-    "comment": null,
-    "datefrom": "2026-01-01",
-    "id": 2566,
-    "inputbase": "Закон",
-    "years": [
-      2026,
-      2027
-    ]
-  },
-  {
-    "idFkv": 375,
-    "programType": 1,
-    "code": "1201440",
-    "level": 3,
     "isactive": 0,
     "outputbase": null,
     "parentCode": "1201000",
@@ -10100,6 +10119,26 @@
     "inputbase": "Закон",
     "years": [
       2020
+    ]
+  },
+  {
+    "idFkv": 375,
+    "programType": 1,
+    "code": "1201440",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "1201000",
+    "actyvPr": 0,
+    "name": "Державна підтримка заходів, спрямованих на зменшення обсягів викидів (збільшення абсорбції) парникових газів, у тому числі на утеплення приміщень закладів соціального забезпечення, розвиток міжнародного співробітництва з питань зміни клімату",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-01-01",
+    "id": 2566,
+    "inputbase": "Закон",
+    "years": [
+      2026
     ]
   },
   {
@@ -16190,6 +16229,66 @@
   {
     "idFkv": 0,
     "programType": 0,
+    "code": "2110000",
+    "level": 1,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": null,
+    "actyvPr": 1,
+    "name": "Міністерство оборони України (загальнодержавні видатки та кредитування)",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3827,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "2111000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2110000",
+    "actyvPr": 1,
+    "name": "Міністерство оборони України (загальнодержавні видатки та кредитування)",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3828,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
+    "code": "2111050",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2111000",
+    "actyvPr": 1,
+    "name": "Субвенція з державного бюджету місцевим бюджетам на розвиток матеріально-технічної бази центрів підготовки громадян до національного спротиву",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3829,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
     "code": "2200000",
     "level": 1,
     "isactive": 1,
@@ -17691,6 +17790,26 @@
     ]
   },
   {
+    "idFkv": 438,
+    "programType": 1,
+    "code": "2201430",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2201000",
+    "actyvPr": 1,
+    "name": "Підвищення престижності праці у сфері освіти",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3838,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
     "idFkv": 445,
     "programType": 2,
     "code": "2201460",
@@ -18232,6 +18351,26 @@
     "comment": null,
     "datefrom": "2027-01-01",
     "id": 3724,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
+    "idFkv": 543,
+    "programType": 1,
+    "code": "2201870",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2201000",
+    "actyvPr": 1,
+    "name": "Реалізація програми публічних інвестицій \"Створення дослідницьких кампусів досконалості в закладах вищої освіти (CampeX)\"",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3839,
     "inputbase": "Закон",
     "years": [
       2027
@@ -23358,9 +23497,9 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2401000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Реструктуризація вугільної галузі",
-    "dateto": null,
+    "dateto": "2026-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2019-01-01",
@@ -23374,8 +23513,7 @@
       2023,
       2024,
       2025,
-      2026,
-      2027
+      2026
     ]
   },
   {
@@ -28122,16 +28260,35 @@
     "isactive": 1,
     "outputbase": null,
     "parentCode": "2511000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Субвенція з державного бюджету місцевим бюджетам на реалізацію програми публічних інвестицій із забезпечення житлом дитячих будинків сімейного типу",
-    "dateto": null,
+    "dateto": "2026-12-31",
     "details": 1,
     "comment": null,
     "datefrom": "2026-01-01",
     "id": 2612,
     "inputbase": "Закон",
     "years": [
-      2026,
+      2026
+    ]
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
+    "code": "2511800",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2511000",
+    "actyvPr": 1,
+    "name": "Субвенція з державного бюджету місцевим бюджетам на реалізацію програм публічних інвестицій із забезпечення житлом дитячих будинків сімейного типу та створення умов для надання соціальної послуги \"Сімейна домівка\"",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3815,
+    "inputbase": "Закон",
+    "years": [
       2027
     ]
   },
@@ -32142,6 +32299,26 @@
     "inputbase": "Закон",
     "years": [
       2020
+    ]
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
+    "code": "2761260",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "2761000",
+    "actyvPr": 1,
+    "name": "Субвенція з державного бюджету обласному бюджету Закарпатської області на проєктування та реалізацію заходів з електропостачання (збільшення потужностей до 100 МВт) житлово-побутових комплексів для ВПО, навчальних закладів та виробничих об’єктів у населених пунктах Перечин, Кам’яниця, Сімер Ужгородського району",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3826,
+    "inputbase": "Закон",
+    "years": [
+      2027
     ]
   },
   {
@@ -40618,6 +40795,26 @@
     ]
   },
   {
+    "idFkv": 372,
+    "programType": 1,
+    "code": "3111440",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3111000",
+    "actyvPr": 1,
+    "name": "Забезпечення обов’язкового проведення процедур закупівель централізованою закупівельною організацією у сфері управління Державного агентства відновлення та розвитку інфраструктури України",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3844,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
     "idFkv": 358,
     "programType": 1,
     "code": "3111450",
@@ -43166,13 +43363,33 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "3401000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Здійснення заходів державної молодіжної політики та утвердження української національної та громадянської ідентичності, державної підтримки пластового, скаутського руху",
-    "dateto": null,
+    "dateto": "2027-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2027-01-01",
     "id": 3580,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
+    "idFkv": 443,
+    "programType": 1,
+    "code": "3401070",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3401000",
+    "actyvPr": 1,
+    "name": "Здійснення заходів державної молодіжної політики та утвердження української національної та громадянської ідентичності, державної підтримки молодіжної організації \"Пласт – Національна скаутська організація України» (представника пластового руху в Україні), скаутського руху\"",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3817,
     "inputbase": "Закон",
     "years": [
       2027
@@ -43539,6 +43756,26 @@
     "comment": null,
     "datefrom": "2027-01-01",
     "id": 3274,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
+    "idFkv": 406,
+    "programType": 1,
+    "code": "3401820",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3401000",
+    "actyvPr": 1,
+    "name": "Реалізація публічних інвестиційних проектів у сфері фізичної культури і спорту",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3813,
     "inputbase": "Закон",
     "years": [
       2027
@@ -45822,13 +46059,33 @@
     "isactive": 0,
     "outputbase": null,
     "parentCode": "3511000",
-    "actyvPr": 1,
+    "actyvPr": 0,
     "name": "Додаткова дотація з державного бюджету місцевим бюджетам на забезпечення життєдіяльності прифронтових або тимчасово окупованих територій України",
-    "dateto": null,
+    "dateto": "2027-01-01",
     "details": 1,
     "comment": null,
     "datefrom": "2027-01-01",
     "id": 3668,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
+    "code": "3511280",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3511000",
+    "actyvPr": 1,
+    "name": "Додаткова дотація з державного бюджету місцевим бюджетам на забезпечення життєдіяльності прифронтових, тимчасово окупованих територій та територіальних громад, які зазнали негативного у зв’язку зі збройною агресією",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3846,
     "inputbase": "Закон",
     "years": [
       2027
@@ -48979,6 +49236,46 @@
     ]
   },
   {
+    "idFkv": 530,
+    "programType": 1,
+    "code": "3801820",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3801000",
+    "actyvPr": 1,
+    "name": "Реалізація програми публічних інвестицій на консервацію об'єктів культурної спадщини",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3832,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
+    "idFkv": 530,
+    "programType": 1,
+    "code": "3801830",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3801000",
+    "actyvPr": 1,
+    "name": "Реалізація програми публічних інвестицій для створення безпечного середовища для збереження культурних цінностей",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3833,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
     "idFkv": 408,
     "programType": 1,
     "code": "3801840",
@@ -50072,6 +50369,26 @@
   {
     "idFkv": 0,
     "programType": 0,
+    "code": "3810000",
+    "level": 1,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": null,
+    "actyvPr": 1,
+    "name": "Міністерство культури України (загальнодержавні видатки та кредитування)",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3834,
+    "inputbase": "Закон",
+    "years": [
+      2027
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
     "code": "3811000",
     "level": 2,
     "isactive": 0,
@@ -50128,6 +50445,26 @@
     "inputbase": "Розпис",
     "years": [
       2025
+    ]
+  },
+  {
+    "idFkv": 0,
+    "programType": 0,
+    "code": "3811000",
+    "level": 2,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3810000",
+    "actyvPr": 1,
+    "name": "Міністерство культури України (загальнодержавні видатки та кредитування)",
+    "dateto": null,
+    "details": 0,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3835,
+    "inputbase": "Закон",
+    "years": [
+      2027
     ]
   },
   {
@@ -50250,6 +50587,46 @@
     "years": [
       2021,
       2022
+    ]
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
+    "code": "3811800",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3811000",
+    "actyvPr": 1,
+    "name": "Субвенція з державного бюджету місцевим бюджетам на реалізацію програми публічних інвестицій для створення безпечного середовища для збереження культурних цінностей",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3836,
+    "inputbase": "Розпис",
+    "years": [
+      2027
+    ]
+  },
+  {
+    "idFkv": 317,
+    "programType": 1,
+    "code": "3811810",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "3811000",
+    "actyvPr": 1,
+    "name": "Субвенція з державного бюджету місцевим бюджетам на реалізацію публічних інвестиційних проектів для відновлення та збереження культурної спадщини Одеського регіону",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3837,
+    "inputbase": "Закон",
+    "years": [
+      2027
     ]
   },
   {
@@ -51522,7 +51899,7 @@
     ]
   },
   {
-    "idFkv": 317,
+    "idFkv": 359,
     "programType": 1,
     "code": "5561700",
     "level": 3,
@@ -56365,6 +56742,26 @@
     "years": [
       2025,
       2026,
+      2027
+    ]
+  },
+  {
+    "idFkv": 343,
+    "programType": 1,
+    "code": "6611110",
+    "level": 3,
+    "isactive": 0,
+    "outputbase": null,
+    "parentCode": "6611000",
+    "actyvPr": 1,
+    "name": "Реструктуризація вугільної галузі",
+    "dateto": null,
+    "details": 1,
+    "comment": null,
+    "datefrom": "2027-01-01",
+    "id": 3821,
+    "inputbase": "Закон",
+    "years": [
       2027
     ]
   },
