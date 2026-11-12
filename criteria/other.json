@@ -317,7 +317,7 @@
       "scheme": "LAW922",
       "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
     },
-    "relatesTo": "",
+    "relatesTo": "lot",
     "legislation": [
       {
         "version": "2025-10-31",
