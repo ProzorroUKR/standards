@@ -439,7 +439,7 @@
       },
       {
         "description": "При перерахуванні коштів на рахунок замовника підтверджується, що:",
-        "description_en": "Depositing funds into the procuring entity's account",
+        "description_en": "By depositing funds into the procuring entity's account, it is confirmed that:",
         "requirements": [
           {
             "title": "Рахунок Замовника (IBAN) для зарахування коштів забезпечення",
