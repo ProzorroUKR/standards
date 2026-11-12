@@ -1,0 +1,89 @@
+[
+  {
+    "title": "Мова (мови) тендерної пропозиції",
+    "title_en": "Bid language(s)",
+    "description": "Під час проведення закупівлі всі документи, що готуються замовником, складаються українською мовою. За рішенням замовника одночасно всі документи можуть містити автентичний переклад на іншу мову. Визначальним є текст, викладений українською мовою. Тендерна пропозиція / заявка, інформація та усі документи, що входять до складу тендерної пропозиції / заявки та підготовлені безпосередньо суб’єктом господарювання / кандидатом / учасником процедури закупівлі, мають бути складені українською мовою або містити автентичний переклад на українську мову. Визначальним є текст, викладений українською мовою.",
+    "description_en": "During procurement, all documents prepared by the procuring entity shall be drawn up in the Ukrainian language. By decision of the procuring entity, all such documents may simultaneously include an authentic translation into another language. In the event of any discrepancy, the text in the Ukrainian language shall prevail. A bid/request to participate, the information contained therein, and all documents forming part of the bid/request to participate and prepared directly by the economic operator / candidate / bidder shall be drawn up in the Ukrainian language or be accompanied by an authentic translation into the Ukrainian language. In the event of any discrepancy, the text in the Ukrainian language shall prevail.",
+    "source": "candidate",
+    "classification": {
+      "scheme": "LAW4888",
+      "id": "CRITERION.OTHER.BID.LANGUAGE"
+    },
+    "relatesTo": "framework",
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n580"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Частина 9 статті 15",
+        "article_en": "Part 9 of article 15"
+      }
+    ],
+    "requirementGroups": [
+      {
+        "description": "Підтверджується, що:",
+        "description_en": "It is confirmed that:",
+        "requirements": [
+          {
+            "title": "Мова тендерної пропозиції",
+            "title_en": "Language of the bid",
+            "dataSchema": "ISO 639-3",
+            "dataType": "string",
+            "expectedMinItems": 1,
+            "expectedValues": [
+              "ukr",
+              "eng",
+              "fra",
+              "spa"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Відповідність екологічним нормам",
+    "title_en": "Compliance with environmental standards",
+    "description": "Замовник може вимагати від суб’єктів господарювання підтвердження того, що пропоновані ними товари, роботи та/або послуги за своїми екологічними чи іншими характеристиками відповідають вимогам, встановленим у тендерній документації. У разі встановлення екологічних чи інших характеристик товару, роботи та/або послуги замовник повинен у тендерній документації зазначити, які маркування, протоколи випробувань, декларації або сертифікати можуть підтвердити відповідність предмета закупівлі таким характеристикам. Маркування, протоколи випробувань та сертифікати повинні бути видані органами з оцінки відповідності, компетентність яких підтверджена шляхом акредитації або в інший спосіб, визначений законодавством.",
+    "description_en": "The procuring entity may require economic operators to provide evidence that the goods, works and/or services proposed by them comply, by virtue of their environmental or other characteristics, with the requirements established in the bidding documents. Where environmental or other characteristics of the goods, works and/or services are specified, the procuring entity shall indicate in the bidding documents which labels, test reports, declarations or certificates may be used to demonstrate the compliance of the subject matter of procurement with such characteristics. Labels, test reports and certificates shall be issued by conformity assessment bodies whose competence has been confirmed through accreditation or another method established by law.",
+    "source": "candidate",
+    "classification": {
+      "scheme": "LAW4888",
+      "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.ENVIRONMENTAL_MANAGEMENT_MEASURES"
+    },
+    "relatesTo": "framework",
+    "legislation": [
+      {
+        "version": "2026-05-27",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n896"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Частина 6 статті 25",
+        "article_en": "Part 6 of article 25"
+      }
+    ],
+    "requirementGroups": [
+      {
+        "description": "Підтверджується, що:",
+        "description_en": "It is confirmed that:",
+        "requirements": [
+          {
+            "title": "",
+            "title_en": "",
+            "dataType": "boolean",
+            "expectedValue": true
+          }
+        ]
+      }
+    ]
+  }
+]
