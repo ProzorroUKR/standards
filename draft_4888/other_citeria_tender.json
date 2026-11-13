@@ -4,17 +4,12 @@
     "title_en": "Creating conditions for the sustainable development and modernisation of domestic industry",
     "description": "Товар включений до додаткового переліку, що затверджений Кабінетом Міністрів України, і має ступінь локалізації виробництва, який перевищує або дорівнює ступеню локалізації виробництва, встановленому на відповідний рік. Ці вимоги не застосовуються до закупівель, які підпадають під дію положень Закону України \"Про приєднання України до Угоди про державні закупівлі\", а також положень про державні закупівлі інших міжнародних договорів України, згода на обов’язковість яких надана Верховною Радою України.",
     "description_en": "The goods are included in the additional list approved by the Cabinet of Ministers of Ukraine and have a degree of production localisation that is equal to or exceeds the degree of production localisation established for the relevant year. These requirements shall not apply to procurements falling within the scope of the Law of Ukraine \"On Ukraine's Accession to the Agreement on Government Procurement\", or the government procurement provisions of other international treaties of Ukraine approved by the Verkhovna Rada of Ukraine as binding.",
-    "sourceList": [
-      "tenderer",
-      "procuringEntity"
-    ],
+    "source": "",
     "classification": {
       "scheme": "LAW4888",
       "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.LOCAL_ORIGIN_LEVEL"
     },
-    "relatesToList": [
-      "item"
-    ],
+    "relatesTo": "item",
     "legislation": [
       {
         "version": "2026-05-27",
@@ -25,7 +20,8 @@
           "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n2151"
         },
         "type": "NATIONAL_LEGISLATION",
-        "article": "XIV.5.3"
+        "article": "Абзац 3 пункту 5 Розділу XIV",
+        "article_en": "Paragraph 3 of clause 5 of Section XIV"
       },
       {
         "version": "2026-05-27",
@@ -36,18 +32,18 @@
           "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n2151"
         },
         "type": "NATIONAL_LEGISLATION",
-        "article": "XIV.5.5"
+        "article": "Абзац 5 пункту 5 Розділу XIV",
+        "article_en": "Paragraph 5 of clause 5 of Section XIV"
       },
       {
-        "version": "",
-        "type": "NATIONAL_LEGISLATION",
-        "article": "",
+        "version": "2026-11-06",
         "identifier": {
-          "id": "861-2022-п",
-          "legalName": "Про затвердження порядків підтвердження ступеня локалізації виробництва товарів та проведення моніторингу дотримання вимог щодо ступеня локалізації виробництва предметів закупівлі, внесених до переліку товарів, що є предметом закупівлі, з підтвердженим ступенем локалізації виробництва",
-          "legalName_en": "On the approval of procedures for confirming the degree of localization of production of goods and monitoring compliance with the requirements regarding the degree of localization of production of procurement items included in the list of goods that are the subject of procurement with a confirmed degree of localization of production",
-          "uri": ""
-        }
+          "id": "1389",
+          "legalName": "Деякі питання забезпечення локалізації виробництва товарів у публічних закупівлях",
+          "legalName_en": "Some issues of ensuring the localization of production of goods in public procurement",
+          "uri": "https://www.kmu.gov.ua/npas/deiaki-pytannia-zabezpechennia-lokalizatsii-vyrobnytstva-tovariv-u-publichnykh-zakupivliakh-1389-061126"
+        },
+        "type": "NATIONAL_LEGISLATION"
       }
     ],
     "requirementGroups": [
@@ -137,18 +133,12 @@
     "title_en": "Technical, qualitative and quantitative characteristics of the subject matter of procurement",
     "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг).",
     "description_en": "Technical specifications shall include a description of all characteristics of the goods, works or services to be procured that are necessary for the purposes of the procurement, including their technical, functional, quantitative and qualitative characteristics. The characteristics of the goods, works or services may include a description of a specific technological process, production technology or delivery method for the goods, the performance of the required works or the provision of the services.",
-    "sourceList": [
-      "tenderer",
-      "candidate"
-    ],
+    "source": "tenderer",
     "classification": {
       "scheme": "LAW4888",
       "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
     },
-    "relatesToList": [
-      "item",
-      "framework"
-    ],
+    "relatesTo": "item",
     "legislation": [
       {
         "version": "2026-05-27",
@@ -159,7 +149,8 @@
           "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n852"
         },
         "type": "NATIONAL_LEGISLATION",
-        "article": "24.2.3"
+        "article": "Пункт 3 частини 2 статті 24",
+        "article_en": "Clause 3 of part 2 of article 24"
       },
       {
         "version": "2026-05-27",
@@ -170,10 +161,11 @@
           "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n889"
         },
         "type": "NATIONAL_LEGISLATION",
-        "article": "25"
+        "article": "Стаття 25",
+        "article_en": "Article 25"
       },
       {
-        "version": "",
+        "version": "постанова по маркету",
         "identifier": {
           "id": "",
           "legalName": "",
@@ -181,7 +173,8 @@
           "uri": ""
         },
         "type": "NATIONAL_LEGISLATION",
-        "article": ""
+        "article": "",
+        "article_en": ""
       }
     ],
     "requirementGroups": [
@@ -203,16 +196,12 @@
     "title_en": "Bid validity period",
     "description": "Строк, протягом якого тендерні пропозиції вважаються дійсними, але не менше 90 днів із дати кінцевого строку подання тендерних пропозицій.",
     "description_en": "Bid validity term, during which the bids are deemed to be valid, but at least 90 days upon the bid submission deadline.",
-    "sourceList": [
-      "tenderer"
-    ],
+    "source": "tenderer",
     "classification": {
       "scheme": "LAW4888",
       "id": "CRITERION.OTHER.BID.VALIDITY_PERIOD"
     },
-    "relatesToList": [
-      "tender"
-    ],
+    "relatesTo": "tender",
     "legislation": [
       {
         "version": "2026-05-27",
@@ -223,7 +212,8 @@
           "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n864"
         },
         "type": "NATIONAL_LEGISLATION",
-        "article": "24.2.10"
+        "article": "Пункт 10 частини 2 статті 24",
+        "article_en": "Clause 10 of part 2 of article 24"
       }
     ],
     "requirementGroups": [
@@ -251,18 +241,12 @@
     "title_en": "Bid language(s)",
     "description": "Під час проведення закупівлі всі документи, що готуються замовником, складаються українською мовою. За рішенням замовника одночасно всі документи можуть містити автентичний переклад на іншу мову. Визначальним є текст, викладений українською мовою. Тендерна пропозиція / заявка, інформація та усі документи, що входять до складу тендерної пропозиції / заявки та підготовлені безпосередньо суб’єктом господарювання / кандидатом / учасником процедури закупівлі, мають бути складені українською мовою або містити автентичний переклад на українську мову. Визначальним є текст, викладений українською мовою.",
     "description_en": "During procurement, all documents prepared by the procuring entity shall be drawn up in the Ukrainian language. By decision of the procuring entity, all such documents may simultaneously include an authentic translation into another language. In the event of any discrepancy, the text in the Ukrainian language shall prevail. A bid/request to participate, the information contained therein, and all documents forming part of the bid/request to participate and prepared directly by the economic operator / candidate / bidder shall be drawn up in the Ukrainian language or be accompanied by an authentic translation into the Ukrainian language. In the event of any discrepancy, the text in the Ukrainian language shall prevail.",
-    "sourceList": [
-      "tenderer",
-      "candidate"
-    ],
+    "source": "tenderer",
     "classification": {
       "scheme": "LAW4888",
       "id": "CRITERION.OTHER.BID.LANGUAGE"
     },
-    "relatesToList": [
-      "tender",
-      "framework"
-    ],
+    "relatesTo": "tender",
     "legislation": [
       {
         "version": "2026-05-27",
@@ -273,7 +257,8 @@
           "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n580"
         },
         "type": "NATIONAL_LEGISLATION",
-        "article": "15.9"
+        "article": "Частина 9 статті 15",
+        "article_en": "Part 9 of article 15"
       }
     ],
     "requirementGroups": [
@@ -303,16 +288,12 @@
     "title_en": "Bid security",
     "description": "Забезпечення тендерної пропозиції / варіанта не повертається у разі: 1) відкликання тендерної пропозиції / варіанта суб’єктом господарювання після закінчення строку її / його подання, але до спливу строку, протягом якого тендерна пропозиція / варіант вважається дійсною / дійсним; 2) непідписання переможцем публічного договору; 3) ненадання переможцем (крім переговорної процедури без попередньої публікації) у строк, визначений частиною п’ятою статті 21 цього Закону, документів, що підтверджують відсутність підстав для відмови в участі у закупівлі, встановлених статтею 21 цього Закону; 4) ненадання переможцем (крім переговорної процедури без попередньої публікації) забезпечення виконання публічного договору після отримання повідомлення про намір укласти публічний договір, якщо надання такого забезпечення передбачено тендерною документацією.",
     "description_en": "The bid security / variant security shall not be returned if: 1) the economic operator withdraws its bid / variant after expiry of the deadline for submission thereof but before the expiry of the period during which the bid / variant remains valid; 2) the winner fails to sign the public contract; 3) the winner (except where the negotiated procedure without prior publication is applied) fails to provide, within the time limit specified in Part 5 of Article 21 of this Law, the documents confirming the absence of the grounds for refusing its participation in procurement established by Article 21 of this Law; 4) the winner (except where the negotiated procedure without prior publication is applied) fails to provide the performance security after receiving the notice of intent to award a public contract, where the provision of such security is required by the bidding documents.",
-    "sourceList": [
-      "tenderer"
-    ],
+    "source": "tenderer",
     "classification": {
       "scheme": "LAW4888",
       "id": "CRITERION.OTHER.BID.GUARANTEE"
     },
-    "relatesToList": [
-      "lot"
-    ],
+    "relatesTo": "lot",
     "legislation": [
       {
         "version": "2026-05-27",
@@ -323,7 +304,8 @@
           "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n865"
         },
         "type": "NATIONAL_LEGISLATION",
-        "article": "24.2.14"
+        "article": "Пункт 14 частини 2 статті 24",
+        "article_en": "Clause 14 of part 2 of article 24"
       },
       {
         "version": "2026-05-27",
@@ -334,7 +316,8 @@
           "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n929"
         },
         "type": "NATIONAL_LEGISLATION",
-        "article": "28.3"
+        "article": "Частина 3 статті 28",
+        "article_en": "Part 3 of article 28"
       }
     ],
     "requirementGroups": [
@@ -370,17 +353,12 @@
     "title_en": "Contract security",
     "description": "Переможець надає забезпечення виконання публічного договору не пізніше дати його укладення. Формою такого забезпечення може бути гарантія, що видається банком, іншою фінансовою установою, яка має право надавати фінансову послугу з надання гарантій, укладений договір страхування із страховиком або кошти надані на рахунок замовника. Розмір забезпечення визначає замовник, якщо внесення такого забезпечення передбачено тендерною документацією / оголошенням про проведення конкурентного відбору / запитом пропозицій учасників серед кандидатів, включених до динамічної системи закупівель за результатами першого етапу (до 10 % вартості договору). Замовник повертає забезпечення виконання публічного договору у випадках, визначених Частиною 2 Статті 30 Закону України \"Про публічні закупівлі\".",
     "description_en": "The winner shall provide the public contract performance security no later than the date of its conclusion. The form of such security may be a guarantee issued by a bank or another financial institution entitled to provide financial services for issuing guarantees, an executed insurance contract with an insurer, or funds deposited into the procuring entity's account. The amount of the security shall be determined by the procuring entity if the provision of such security is stipulated in the tender documentation / announcement of competitive selection / request for proposals from participants among the candidates included in the dynamic purchasing system following the results of the first stage (up to 10% of the contract value). The procuring entity shall return the public contract performance security in the cases specified in Part 2 of Article 30 of the Law of Ukraine \"On Public Procurement\".",
-    "sourceList": [
-      "winner"
-    ],
+    "source": "winner",
     "classification": {
       "scheme": "LAW4888",
       "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
     },
-    "relatesToList": [
-      "tender",
-      "lot "
-    ],
+    "relatesTo": "lot",
     "legislation": [
       {
         "version": "2026-05-27",
@@ -391,7 +369,8 @@
           "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n868"
         },
         "type": "NATIONAL_LEGISLATION",
-        "article": "24.2.15"
+        "article": "Пункт 15 частини 2 статті 24",
+        "article_en": "Clause 15 of part 2 of article 24"
       },
       {
         "version": "2026-05-27",
@@ -402,7 +381,8 @@
           "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n967"
         },
         "type": "NATIONAL_LEGISLATION",
-        "article": "30"
+        "article": "Стаття 30",
+        "article_en": "Article 30"
       }
     ],
     "requirementGroups": [
@@ -458,8 +438,8 @@
         ]
       },
       {
-        "description": "Перерахування коштів на рахунок замовника",
-        "description_en": "Depositing funds into the procuring entity's account",
+        "description": "При перерахуванні коштів на рахунок замовника підтверджується, що:",
+        "description_en": "By depositing funds into the procuring entity's account, it is confirmed that:",
         "requirements": [
           {
             "title": "Рахунок Замовника (IBAN) для зарахування коштів забезпечення",
@@ -496,19 +476,12 @@
     "title_en": "Compliance with environmental standards",
     "description": "Замовник може вимагати від суб’єктів господарювання підтвердження того, що пропоновані ними товари, роботи та/або послуги за своїми екологічними чи іншими характеристиками відповідають вимогам, встановленим у тендерній документації. У разі встановлення екологічних чи інших характеристик товару, роботи та/або послуги замовник повинен у тендерній документації зазначити, які маркування, протоколи випробувань, декларації або сертифікати можуть підтвердити відповідність предмета закупівлі таким характеристикам. Маркування, протоколи випробувань та сертифікати повинні бути видані органами з оцінки відповідності, компетентність яких підтверджена шляхом акредитації або в інший спосіб, визначений законодавством.",
     "description_en": "The procuring entity may require economic operators to provide evidence that the goods, works and/or services proposed by them comply, by virtue of their environmental or other characteristics, with the requirements established in the bidding documents. Where environmental or other characteristics of the goods, works and/or services are specified, the procuring entity shall indicate in the bidding documents which labels, test reports, declarations or certificates may be used to demonstrate the compliance of the subject matter of procurement with such characteristics. Labels, test reports and certificates shall be issued by conformity assessment bodies whose competence has been confirmed through accreditation or another method established by law.",
-    "sourceList": [
-      "tenderer",
-      "candidate"
-    ],
+    "source": "tenderer",
     "classification": {
       "scheme": "LAW4888",
       "id": "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.ENVIRONMENTAL_MANAGEMENT_MEASURES"
     },
-    "relatesToList": [
-      "tender",
-      "lot ",
-      "framework"
-    ],
+    "relatesTo": "lot",
     "legislation": [
       {
         "version": "2026-05-27",
@@ -519,7 +492,8 @@
           "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n896"
         },
         "type": "NATIONAL_LEGISLATION",
-        "article": "25.6"
+        "article": "Частина 6 статті 25",
+        "article_en": "Part 6 of article 25"
       }
     ],
     "requirementGroups": [
