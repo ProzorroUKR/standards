@@ -445,6 +445,8 @@
             "title": "Рахунок Замовника (IBAN) для зарахування коштів забезпечення",
             "title_en": "Procuring entity's account (IBAN) for the security deposit",
             "dataType": "string",
+            "expectedMinItems": 1,
+            "expectedMaxItems": 1,
             "eligibleEvidences": [
               {
                 "title": "Платіжний документ, що підтверджує перерахування коштів забезпечення",
