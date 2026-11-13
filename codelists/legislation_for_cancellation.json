@@ -1,0 +1,55 @@
+{
+  "noDemand": {
+    "openTendering": "Пункт 1 частини 1 Статті 35",
+    "restrictedTendering": "Пункт 1 частини 1 Статті 35",
+    "competitiveDialogue": "Пункт 1 частини 1 Статті 35",
+    "competitiveNegotiation": "Пункт 1 частини 1 Статті 35",
+    "innovationPartnership": "Пункт 1 частини 1 Статті 35",
+    "negotiatedWithoutPriorNotice": "Пункт 3 частини 8 Статті 51",
+    "dynamicPurchasingSystem": "Пункт 1 частини 14 Статті 53",
+    "competitiveOrdering": "Пункт 1 частини 11 Статті 54",
+    "priceQuotation": "Пункт 1 частини 12 Статті 55"
+  },
+  "unFixable": {
+    "openTendering": "Пункт 2 частини 1 Статті 35",
+    "restrictedTendering": "Пункт 2 частини 1 Статті 35",
+    "competitiveDialogue": "Пункт 2 частини 1 Статті 35",
+    "competitiveNegotiation": "Пункт 2 частини 1 Статті 35",
+    "innovationPartnership": "Пункт 2 частини 1 Статті 35",
+    "negotiatedWithoutPriorNotice": "Пункт 2 частини 8 Статті 51",
+    "competitiveOrdering": "Пункт 4 частини 11 Статті 54",
+    "priceQuotation": "Пункт 4 частини 12 Статті 55"
+  },
+  "forceMajeure": {
+    "openTendering": "Пункт 4 частини 1 Статті 35",
+    "restrictedTendering": "Пункт 4 частини 1 Статті 35",
+    "competitiveDialogue": "Пункт 4 частини 1 Статті 35",
+    "competitiveNegotiation": "Пункт 4 частини 1 Статті 35",
+    "innovationPartnership": "Пункт 4 частини 1 Статті 35",
+    "dynamicPurchasingSystem": "Пункт 2 частини 14 Статті 53",
+    "competitiveOrdering": "Пункт 3 частини 11 Статті 54",
+    "priceQuotation": "Пункт 3 частини 12 Статті 55"
+  },
+  "expensesCut": {
+    "openTendering": "Пункт 3 частини 1 Статті 35",
+    "restrictedTendering": "Пункт 3 частини 1 Статті 35",
+    "competitiveDialogue": "Пункт 3 частини 1 Статті 35",
+    "competitiveNegotiation": "Пункт 3 частини 1 Статті 35",
+    "innovationPartnership": "Пункт 3 частини 1 Статті 35",
+    "negotiatedWithoutPriorNotice": "Пункт 4 частини 8 Статті 51",
+    "competitiveOrdering": "Пункт 2 частини 11 Статті 54",
+    "priceQuotation": "Пункт 2 частини 12 Статті 55"
+  },
+  "noObjectiveness": {
+    "negotiatedWithoutPriorNotice": "Пункт 1 частини 8 Статті 51"
+  },
+  "dateViolation": {
+    "negotiatedWithoutPriorNotice": "Пункт 5 частини 8 Статті 51"
+  },
+  "noLocalization": {
+    "openTendering": "Абзац 7 пункту 8 частини 5 Розділу XIV",
+    "restrictedTendering": "Абзац 7 пункту 8 частини 5 Розділу XIV",
+    "competitiveOrdering": "Абзац 7 пункту 8 частини 5 Розділу XIV",
+    "priceQuotation": "Абзац 7 пункту 8 частини 5 Розділу XIV"
+  }
+}
