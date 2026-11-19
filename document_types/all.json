@@ -255,6 +255,15 @@
     "archived": false,
     "systemGenerated": false
   },
+  "terminationReport": {
+    "name": "Звіт про виконання договору",
+    "name_en": "Termination report",
+    "documentOf": [
+      "contract"
+    ],
+    "archived": false,
+    "systemGenerated": true
+  },
   "evaluationReports": {
     "name": "Протокол розгляду тендерних пропозицій",
     "name_en": "Evaluation report",
