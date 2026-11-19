@@ -1,0 +1,375 @@
+{
+  "biddingDocuments": {
+    "name": "Загальна тендерна документація",
+    "name_en": "Bidding documents",
+    "documentOf": [
+      "tender"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "billOfQuantity": {
+    "name": "Кошторис",
+    "name_en": "Bill of quantity",
+    "documentOf": [
+      "tender",
+      "bid"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "clarifications": {
+    "name": "Пояснення до питань, заданих учасниками",
+    "name_en": "Clarifications to bidders questions",
+    "documentOf": [
+      "tender"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "contractProforma": {
+    "name": "Проєкт договору",
+    "name_en": "Draft contract",
+    "documentOf": [
+      "tender"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "eligibilityCriteria": {
+    "name": "Кваліфікаційні критерії",
+    "name_en": "Qualification criteria",
+    "documentOf": [
+      "tender"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "evaluationCriteria": {
+    "name": "Критерії оцінки",
+    "name_en": "Evaluation criteria",
+    "documentOf": [
+      "tender"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "technicalSpecifications": {
+    "name": "Технічні специфікації",
+    "name_en": "Technical specifications",
+    "documentOf": [
+      "tender",
+      "bid"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "eligibilityDocuments": {
+    "name": "Документи, що підтверджують відповідність",
+    "name_en": "Eligibility documents",
+    "documentOf": [
+      "tender",
+      "bid",
+      "contract"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "qualificationDocuments": {
+    "name": "Підтвердження кваліфікації",
+    "name_en": "Qualification documents",
+    "documentOf": [
+      "bid"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "commercialProposal": {
+    "name": "Цінова пропозиція",
+    "name_en": "Commercial proposal",
+    "documentOf": [
+      "bid"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "proposal": {
+    "name": "Пропозиція учасника",
+    "name_en": "Bid",
+    "documentOf": [
+      "bid"
+    ],
+    "archived": false,
+    "systemGenerated": true
+  },
+  "evidence": {
+    "name": "Обґрунтування аномально низької ціни",
+    "name_en": "Evidence documents",
+    "documentOf": [
+      "bid"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "deviationReport": {
+    "name": "Повідомлення про невідповідність",
+    "name_en": "Deviation report",
+    "documentOf": [
+      "award"
+    ],
+    "archived": false,
+    "systemGenerated": true
+  },
+  "extensionReport": {
+    "name": "Продовження строку розгляду пропозиції",
+    "name_en": "Extension report",
+    "documentOf": [
+      "award"
+    ],
+    "archived": false,
+    "systemGenerated": true
+  },
+  "winningBid": {
+    "name": "Протокол розгляду пропозиції",
+    "name_en": "Bid evaluation report",
+    "documentOf": [
+      "award"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "complaints": {
+    "name": "Документи оскарження",
+    "name_en": "Complaint documents",
+    "documentOf": [
+      "award"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "register": {
+    "name": "Довідка з НАЗК",
+    "name_en": "NACP certificate",
+    "documentOf": [
+      "award"
+    ],
+    "archived": false,
+    "systemGenerated": true
+  },
+  "registerUSR": {
+    "name": "Витяг з ЄДР",
+    "name_en": "Unified State Register extract",
+    "documentOf": [
+      "award"
+    ],
+    "archived": false,
+    "systemGenerated": true
+  },
+  "registerExtract": {
+    "name": "Витяг з ЄДР",
+    "name_en": "Unified State Register extract",
+    "documentOf": [
+      "award"
+    ],
+    "archived": false,
+    "systemGenerated": true
+  },
+  "registerFiscal": {
+    "name": "Довідка з ДФС",
+    "name_en": "State Tax Service certificate",
+    "documentOf": [
+      "award"
+    ],
+    "archived": false,
+    "systemGenerated": true
+  },
+  "contractSigned": {
+    "name": "Підписаний договір",
+    "name_en": "Signed contract",
+    "documentOf": [
+      "contract"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "contractAnnexe": {
+    "name": "Додатки до договору",
+    "name_en": "Annexes to the contract",
+    "documentOf": [
+      "contract"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "contractSchedule": {
+    "name": "Терміни виконання та етапи поставки",
+    "name_en": "Schedules and milestones",
+    "documentOf": [
+      "contract"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "progressReport": {
+    "name": "Звітна документація про виконання договору",
+    "name_en": "Reporting documentation on contract performance",
+    "documentOf": [
+      "contract"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "contractNotice": {
+    "name": "Електронний договір",
+    "name_en": "Electronic contract",
+    "documentOf": [
+      "contract"
+    ],
+    "archived": false,
+    "systemGenerated": true
+  },
+  "contractSignature": {
+    "name": "Підпис договору або додатків до нього",
+    "name_en": "Signature of the contract or its annexes",
+    "documentOf": [
+      "contract"
+    ],
+    "archived": false,
+    "systemGenerated": true
+  },
+  "subContract": {
+    "name": "Договір субпідряду",
+    "name_en": "Subcontract",
+    "documentOf": [
+      "contract"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "contractArrangements": {
+    "name": "Заходи для припинення договору",
+    "name_en": "Arrangements for ending contract",
+    "documentOf": [
+      "contract"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "terminationReport": {
+    "name": "Звіт про виконання договору",
+    "name_en": "Termination report",
+    "documentOf": [
+      "contract"
+    ],
+    "archived": false,
+    "systemGenerated": true
+  },
+  "evaluationReports": {
+    "name": "Протокол розгляду тендерних пропозицій",
+    "name_en": "Evaluation report",
+    "documentOf": [
+      "tender"
+    ],
+    "archived": false,
+    "systemGenerated": true
+  },
+  "cancellationReport": {
+    "name": "Протокол скасування закупівлі/лота",
+    "name_en": "Cancellation report",
+    "documentOf": [
+      "cancellation"
+    ],
+    "archived": false,
+    "systemGenerated": true
+  },
+  "notice": {
+    "name": "Електронне оголошення",
+    "name_en": "Electronic notice",
+    "documentOf": [
+      "tender"
+    ],
+    "archived": false,
+    "systemGenerated": true
+  },
+  "acceptanceReport": {
+    "name": "Протокол погодження",
+    "name_en": "Acceptance protocol",
+    "documentOf": [
+      "tender"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "debarments": {
+    "name": "Протокол недопущення",
+    "name_en": "Debarments",
+    "documentOf": [
+      "tender"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "bidders": {
+    "name": "Інформація про учасників торгів",
+    "name_en": "Information on bidders",
+    "documentOf": [
+      "tender"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "conflictOfInterest": {
+    "name": "Інформація про конфлікт інтересів",
+    "name_en": "Conflict of interest",
+    "documentOf": [
+      "tender"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "awardNotice": {
+    "name": "Рішення щодо учасника",
+    "name_en": "Award decision",
+    "documentOf": [
+      "award"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "contractGuarantees": {
+    "name": "Забезпечення виконання договору",
+    "name_en": "Guarantees",
+    "documentOf": [
+      "contract"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "tenderNotice": {
+    "name": "Форма оголошення закупівлі",
+    "name_en": "Tender notice",
+    "documentOf": [
+      "tender"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "shortlistedFirms": {
+    "name": "Список учасників",
+    "name_en": "Shortlisted firms",
+    "documentOf": [
+      "tender"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  },
+  "riskProvisions": {
+    "name": "Положення щодо ризиків",
+    "name_en": "Risk provisions",
+    "documentOf": [
+      "tender"
+    ],
+    "archived": false,
+    "systemGenerated": false
+  }
+}
