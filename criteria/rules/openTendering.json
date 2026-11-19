@@ -1,12 +1,7 @@
 [
   {
     "criteria": {
-      "CRITERION.EXCLUSION.CONVICTIONS.PARTICIPATION_IN_CRIMINAL_ORGANISATION": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.CONVICTIONS.FRAUD": {
+      "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.MISINTERPRETATION": {
         "rules": [
           "required"
         ]
@@ -16,163 +11,22 @@
           "required"
         ]
       },
-      "CRITERION.EXCLUSION.CONVICTIONS.CHILD_LABOUR-HUMAN_TRAFFICKING": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.CONTRIBUTIONS.PAYMENT_OF_TAXES": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.BUSINESS.BANKRUPTCY": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.MISCONDUCT.MARKET_DISTORTION": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.MISINTERPRETATION": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.NATIONAL.OTHER": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.OTHER.BID.LANGUAGE": {
-        "rules": [
-          "required"
-        ]
-      }
-    },
-    "period": {
-      "start_date": "RELEASE_ECRITERIA_ARTICLE_17",
-      "end_date": "CRITERIA_ARTICLE_16_REQUIRED"
-    }
-  },
-  {
-    "criteria": {
-      "CRITERION.EXCLUSION.CONVICTIONS.PARTICIPATION_IN_CRIMINAL_ORGANISATION": {
-        "rules": [
-          "required"
-        ]
-      },
       "CRITERION.EXCLUSION.CONVICTIONS.FRAUD": {
         "rules": [
           "required"
         ]
       },
-      "CRITERION.EXCLUSION.CONVICTIONS.CORRUPTION": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.CONVICTIONS.CHILD_LABOUR-HUMAN_TRAFFICKING": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.CONTRIBUTIONS.PAYMENT_OF_TAXES": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.BUSINESS.BANKRUPTCY": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.MISCONDUCT.MARKET_DISTORTION": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.MISINTERPRETATION": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.NATIONAL.OTHER": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.OTHER.BID.LANGUAGE": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.EQUIPMENT": {
-        "rules": [
-          "required_article_16"
-        ]
-      },
-      "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.STAFF_FOR_CARRYING_SCOPE": {
-        "rules": [
-          "required_article_16"
-        ]
-      },
-      "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.REFERENCES.WORKS_PERFORMANCE": {
-        "rules": [
-          "required_article_16"
-        ]
-      },
-      "CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING": {
-        "rules": [
-          "required_article_16"
-        ]
-      }
-    },
-    "period": {
-      "start_date": "CRITERIA_ARTICLE_16_REQUIRED",
-      "end_date": "NEW_ARTICLE_17_CRITERIA_REQUIRED"
-    }
-  },
-  {
-    "criteria": {
       "CRITERION.EXCLUSION.CONVICTIONS.PARTICIPATION_IN_CRIMINAL_ORGANISATION": {
         "rules": [
           "required"
         ]
       },
-      "CRITERION.EXCLUSION.CONVICTIONS.FRAUD": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.CONVICTIONS.CORRUPTION": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.CONVICTIONS.CHILD_LABOUR-HUMAN_TRAFFICKING": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.CONTRIBUTIONS.PAYMENT_OF_TAXES": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.BUSINESS.BANKRUPTCY": {
-        "rules": [
-          "required"
-        ]
-      },
       "CRITERION.EXCLUSION.MISCONDUCT.MARKET_DISTORTION": {
         "rules": [
           "required"
         ]
       },
-      "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.MISINTERPRETATION": {
+      "CRITERION.EXCLUSION.BUSINESS.BANKRUPTCY": {
         "rules": [
           "required"
         ]
@@ -187,59 +41,6 @@
           "required"
         ]
       },
-      "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.OTHER.BID.LANGUAGE": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.EQUIPMENT": {
-        "rules": [
-          "required_article_16"
-        ]
-      },
-      "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.STAFF_FOR_CARRYING_SCOPE": {
-        "rules": [
-          "required_article_16"
-        ]
-      },
-      "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.REFERENCES.WORKS_PERFORMANCE": {
-        "rules": [
-          "required_article_16"
-        ]
-      },
-      "CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING": {
-        "rules": [
-          "required_article_16"
-        ]
-      }
-    },
-    "period": {
-      "start_date": "NEW_ARTICLE_17_CRITERIA_REQUIRED",
-      "end_date": "NEW_REQUIREMENTS_RULES_FROM"
-    }
-  },
-  {
-    "criteria": {
-      "CRITERION.EXCLUSION.CONVICTIONS.PARTICIPATION_IN_CRIMINAL_ORGANISATION": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.CONVICTIONS.FRAUD": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.CONVICTIONS.CORRUPTION": {
-        "rules": [
-          "required"
-        ]
-      },
       "CRITERION.EXCLUSION.CONVICTIONS.CHILD_LABOUR-HUMAN_TRAFFICKING": {
         "rules": [
           "required"
@@ -250,27 +51,12 @@
           "required"
         ]
       },
-      "CRITERION.EXCLUSION.BUSINESS.BANKRUPTCY": {
+      "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.PROCEDURE_PREPARATION": {
         "rules": [
           "required"
         ]
       },
-      "CRITERION.EXCLUSION.MISCONDUCT.MARKET_DISTORTION": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.MISINTERPRETATION": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.NATIONAL.OTHER": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES": {
+      "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.PROCEDURE_PARTICIPATION": {
         "rules": [
           "required"
         ]
@@ -278,31 +64,6 @@
       "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION": {
         "rules": [
           "required"
-        ]
-      },
-      "CRITERION.OTHER.BID.LANGUAGE": {
-        "rules": [
-          "required"
-        ]
-      },
-      "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.EQUIPMENT": {
-        "rules": [
-          "required_article_16"
-        ]
-      },
-      "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.STAFF_FOR_CARRYING_SCOPE": {
-        "rules": [
-          "required_article_16"
-        ]
-      },
-      "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.REFERENCES.WORKS_PERFORMANCE": {
-        "rules": [
-          "required_article_16"
-        ]
-      },
-      "CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING": {
-        "rules": [
-          "required_article_16"
         ]
       },
       "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.MANAGEMENT.SUBCONTRACTING_PROPORTION": {
@@ -311,14 +72,27 @@
           "required_services"
         ]
       },
-      "CRITERION.OTHER.BID.VALIDITY_PERIOD": {
+      "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.EQUIPMENT": {
         "rules": [
-          "required"
+          "required_article_20"
+        ]
+      },
+      "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.TECHNICAL.STAFF_FOR_CARRYING_SCOPE": {
+        "rules": [
+          "required_article_20"
+        ]
+      },
+      "CRITERION.SELECTION.TECHNICAL_PROFESSIONAL_ABILITY.REFERENCES.WORKS_PERFORMANCE": {
+        "rules": [
+          "required_article_20"
+        ]
+      },
+      "CRITERION.SELECTION.ECONOMIC_FINANCIAL_STANDING": {
+        "rules": [
+          "required_article_20"
         ]
       }
     },
-    "period": {
-      "start_date": "NEW_REQUIREMENTS_RULES_FROM"
-    }
+    "period": {}
   }
 ]
