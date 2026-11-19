@@ -8840,6 +8840,23 @@
     "inputbase": "Розпис"
   },
   {
+    "idFkv": 358,
+    "programType": 1,
+    "code": "3111790",
+    "level": 3,
+    "isactive": 1,
+    "outputbase": null,
+    "parentCode": "3111000",
+    "actyvPr": 0,
+    "name": "Здійснення заходів, пов’язаних із зміцненням обороноздатності держави",
+    "dateto": "2026-12-31",
+    "details": 1,
+    "comment": null,
+    "datefrom": "2026-11-18",
+    "id": 3877,
+    "inputbase": "Розпис"
+  },
+  {
     "idFkv": 0,
     "programType": 0,
     "code": "3120000",
