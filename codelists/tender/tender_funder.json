@@ -595,5 +595,31 @@
     },
     "name_en": "NATO",
     "name_uk": "НАТО"
+  },
+  {
+    "additionalIdentifiers": [],
+    "address": {
+      "countryName": "Сполучене Королівство Великої Британії та Північної Ірландії",
+      "locality": "Лондон",
+      "postalCode": "E14 4BG",
+      "region": "Лондон",
+      "streetAddress": "5, Bank Street"
+    },
+    "contactPoint": {
+      "email": "moldakhn@ebrd.com",
+      "faxNumber": "",
+      "telephone": "+999999999999",
+      "url": "https://www.ebrd.com/home.html",
+      "name_en": "Nourilya Moldakhmatova",
+      "name_uk": "Нуріля Молдахматова"
+    },
+    "identifier": {
+      "id": "46015",
+      "scheme": "XM-DAC",
+      "legalName_en": "European Bank for Reconstruction and Development",
+      "legalName_uk": "Європейський банк реконструкції та розвитку"
+    },
+    "name_en": "EBRD",
+    "name_uk": "ЄБРР"
   }
 ]
