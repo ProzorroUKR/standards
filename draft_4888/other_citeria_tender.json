@@ -406,8 +406,6 @@
               {
                 "title": "Документ, що підтверджує надання забезпечення (гарантія, договір страхування тощо)",
                 "title_en": "Security provision document (guarantee, insurance contract, etc.)",
-                "description": "",
-                "description_en": "",
                 "type": "document"
               }
             ]
@@ -451,8 +449,6 @@
               {
                 "title": "Платіжний документ, що підтверджує перерахування коштів забезпечення",
                 "title_en": "Proof of payment for the security deposit",
-                "description": "",
-                "description_en": "",
                 "type": "document"
               }
             ]
