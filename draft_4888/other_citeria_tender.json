@@ -17,7 +17,7 @@
           "id": "4888-IX",
           "legalName": "Закон України \"Про публічні закупівлі\"",
           "legalName_en": "Law of Ukraine \"On Public Procurement\"",
-          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n2151"
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1882"
         },
         "type": "NATIONAL_LEGISLATION",
         "article": "Абзац 3 пункту 5 Розділу XIV",
@@ -29,7 +29,7 @@
           "id": "4888-IX",
           "legalName": "Закон України \"Про публічні закупівлі\"",
           "legalName_en": "Law of Ukraine \"On Public Procurement\"",
-          "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n2151"
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#n1882"
         },
         "type": "NATIONAL_LEGISLATION",
         "article": "Абзац 5 пункту 5 Розділу XIV",
@@ -70,7 +70,7 @@
         "requirements": [
           {
             "title": "Товар походить з однієї з країн, що підписала Угоду про державні закупівлі Світової Організації торгівлі (GPA) або іншої країни з якою Україна має міжнародні договори про державні закупівлі",
-            "title_en": "The goods originate in a country that is a Technical, qualitative and quantitative characteristics of the subject matter of procurement, or in another country with which Ukraine has concluded an international treaty containing provisions on government procurement",
+            "title_en": "The goods originate in a country that is a Party to the Agreement on Government Procurement (GPA), or in another country with which Ukraine has concluded an international treaty containing provisions on government procurement",
             "dataSchema": "ISO 3166-1 alpha-2",
             "dataType": "string",
             "expectedMinItems": 1,
@@ -406,8 +406,6 @@
               {
                 "title": "Документ, що підтверджує надання забезпечення (гарантія, договір страхування тощо)",
                 "title_en": "Security provision document (guarantee, insurance contract, etc.)",
-                "description": "",
-                "description_en": "",
                 "type": "document"
               }
             ]
@@ -451,8 +449,6 @@
               {
                 "title": "Платіжний документ, що підтверджує перерахування коштів забезпечення",
                 "title_en": "Proof of payment for the security deposit",
-                "description": "",
-                "description_en": "",
                 "type": "document"
               }
             ]
