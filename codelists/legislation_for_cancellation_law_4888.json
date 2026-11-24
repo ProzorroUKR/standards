@@ -1,0 +1,395 @@
+{
+  "noDemand": [
+    {
+      "procedures": [
+        "openTendering",
+        "restrictedTendering",
+        "competitiveDialogue",
+        "competitiveNegotiation",
+        "innovationPartnership"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 1 частини 1 статті 35",
+        "article_en": "Clause 1 part 1 article 35"
+      }
+    },
+    {
+      "procedures": [
+        "negotiatedWithoutPriorNotice"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 3 частини 8 статті 51",
+        "article_en": "Clause 3 part 8 article 51"
+      }
+    },
+    {
+      "procedures": [
+        "dynamicPurchasingSystem"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 1 частини 14 статті 53",
+        "article_en": "Clause 1 part 14 article 53"
+      }
+    },
+    {
+      "procedures": [
+        "competitiveOrdering"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 1 частини 11 статті 54",
+        "article_en": "Clause 1 part 11 article 54"
+      }
+    },
+    {
+      "procedures": [
+        "priceQuotation"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 1 частини 12 статті 55",
+        "article_en": "Clause 1 part 12 article 55"
+      }
+    }
+  ],
+  "unFixable": [
+    {
+      "procedures": [
+        "openTendering",
+        "restrictedTendering",
+        "competitiveDialogue",
+        "competitiveNegotiation",
+        "innovationPartnership"
+      ],
+      "legislation": {
+      "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 2 частини 1 статті 35",
+        "article_en": "Clause 2 part 1 article 35"
+      }
+    },
+    {
+      "procedures": [
+        "negotiatedWithoutPriorNotice"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 2 частини 8 статті 51",
+        "article_en": "Clause 2 part 8 article 51"
+      }
+    },
+    {
+      "procedures": [
+        "competitiveOrdering"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 4 частини 11 статті 54",
+        "article_en": "Clause 4 part 11 article 54"
+      }
+    },
+    {
+      "procedures": [
+        "priceQuotation"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 4 частини 12 статті 55",
+        "article_en": "Clause 4 part 12 article 55"
+      }
+    }
+  ],
+  "forceMajeure": [
+    {
+      "procedures": [
+        "openTendering",
+        "restrictedTendering",
+        "competitiveDialogue",
+        "competitiveNegotiation",
+        "innovationPartnership"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 4 частини 1 статті 35",
+        "article_en": "Clause 4 part 1 article 35"
+      }
+    },
+    {
+      "procedures": [
+        "dynamicPurchasingSystem"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 2 частини 14 статті 53",
+        "article_en": "Clause 2 part 14 article 53"
+      }
+    },
+    {
+      "procedures": [
+        "competitiveOrdering"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 3 частини 11 статті 54",
+        "article_en": "Clause 3 part 11 article 54"
+      }
+    },
+    {
+      "procedures": [
+        "priceQuotation"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 3 частини 12 статті 55",
+        "article_en": "Clause 3 part 12 article 55"
+      }
+    }
+  ],
+  "expensesCut": [
+    {
+      "procedures": [
+        "openTendering",
+        "restrictedTendering",
+        "competitiveDialogue",
+        "competitiveNegotiation",
+        "innovationPartnership"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 3 частини 1 статті 35",
+        "article_en": "Clause 3 part 1 article 35"
+      }
+    },
+    {
+      "procedures": [
+        "negotiatedWithoutPriorNotice"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 4 частини 8 статті 51",
+        "article_en": "Clause 4 part 8 article 51"
+      }
+    },
+    {
+      "procedures": [
+        "competitiveOrdering"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 2 частини 11 статті 54",
+        "article_en": "Clause 2 part 11 article 54"
+      }
+    },
+    {
+      "procedures": [
+        "priceQuotation"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 2 частини 12 статті 55",
+        "article_en": "Clause 2 part 12 article 55"
+      }
+    }
+  ],
+  "noObjectiveness": [
+    {
+      "procedures": [
+        "negotiatedWithoutPriorNotice"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 1 частини 8 статті 51",
+        "article_en": "Clause 1 part 8 article 51"
+      }
+    }
+  ],
+  "dateViolation": [
+    {
+      "procedures": [
+        "negotiatedWithoutPriorNotice"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Пункт 5 частини 8 статті 51",
+        "article_en": "Clause 5 part 8 article 51"
+      }
+    }
+  ],
+  "noLocalization": [
+    {
+      "procedures": [
+        "openTendering",
+        "restrictedTendering",
+        "competitiveOrdering",
+        "priceQuotation"
+      ],
+      "legislation": {
+        "version": "2026-05-27",
+        "scheme": "LAW4888",
+        "identifier": {
+          "id": "4888-IX",
+          "legalName": "Закон України \"Про публічні закупівлі\"",
+          "legalName_en": "Law of Ukraine \"On Public Procurement\"",
+          "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+        },
+        "type": "NATIONAL_LEGISLATION",
+        "article": "Абзац 7 пункту 8 частини 5 розділу XIV",
+        "article_en": "Paragraph 7 clause 8 part 5 section XIV"
+      }
+    }
+  ]
+}
