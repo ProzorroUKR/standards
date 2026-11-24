@@ -1,83 +1,155 @@
 {
   "indicatorsPriceChange": {
+    "description": "Зміна ціни публічного договору або ціни за одиницю товару / послуги внаслідок зміни таких показників: індексу цін, встановленого згідно із законодавством органами державної статистики; або курсу іноземної валюти; або біржових котирувань чи показників міжнародних цінових агентств, перелік яких визначається Кабінетом Міністрів України, регульованих цін (тарифів) і нормативів; або середньозважених цін на електроенергію на ринку \"на добу наперед\"; або ставок податків і зборів та/або умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування - пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування; або індикативів та умов, передбачених у типовому публічному договорі конкретного предмета закупівлі, затвердженого Кабінетом Міністрів України",
     "description_en": "Amendment of the price of the public contract or of the unit price of the goods/services as a result of changes in the following indicators: the price index established in accordance with the legislation by the state statistical authorities; or the foreign exchange rate; or exchange quotations or the indicators of international price reporting agencies, the list of which shall be determined by the Cabinet of Ministers of Ukraine; regulated prices (tariffs) and standards; or weighted average electricity prices on the day-ahead market; or tax and duty rates and/or the conditions for granting tax relief, proportionate to changes in such rates and/or tax relief; as well as changes in the taxation system, proportionate to the change in the tax burden resulting from such change in the taxation system; or benchmark indicators and conditions provided for in the standard public contract for the particular subject matter of procurement approved by the Cabinet of Ministers of Ukraine",
-    "title_en": "Item a, Clause 1, Part 5, Article 56",
-    "description_uk": "Зміна ціни публічного договору або ціни за одиницю товару / послуги внаслідок зміни таких показників: індексу цін, встановленого згідно із законодавством органами державної статистики; або курсу іноземної валюти; або біржових котирувань чи показників міжнародних цінових агентств, перелік яких визначається Кабінетом Міністрів України, регульованих цін (тарифів) і нормативів; або середньозважених цін на електроенергію на ринку \"на добу наперед\"; або ставок податків і зборів та/або умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування - пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування; або індикативів та умов, передбачених у типовому публічному договорі конкретного предмета закупівлі, затвердженого Кабінетом Міністрів України",
-    "title_uk": "Підпункт «а» пункту 1 частини 5 статті 56",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#Text",
-    "scheme": "LAW4888",
-    "archive": false
+    "legislation": {
+      "scheme": "LAW4888",
+      "identifier": {
+        "id": "4888-IX",
+        "legalName": "Закон України «Про публічні закупівлі»",
+        "legalName_en": "Law of Ukraine “On Public Procurement”",
+        "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+      },
+      "type": "NATIONAL_LEGISLATION",
+      "article": "Підпункт «а» пункту 1 частини 5 статті 56",
+      "article_en": "Item a, Clause 1, Part 5, Article 56"
+    }
   },
   "volumeCuts": {
+    "description": "Зменшення обсягів закупівлі з пропорційним зменшенням ціни публічного договору або вартості рамкової угоди, зокрема з урахуванням фактичного обсягу видатків замовника, або після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
     "description_en": "Reduction of the procurement volume, with a corresponding reduction in the price of the public contract or the value of the framework agreement, including in the light of the procuring entity's actual expenditure, or following the expert examination and approval of the design documentation in accordance with the procedure laid down by law",
-    "title_en": "Paragraph 2, Item b, Clause 1, Part 5, Article 56",
-    "description_uk": "Зменшення обсягів закупівлі з пропорційним зменшенням ціни публічного договору або вартості рамкової угоди, зокрема з урахуванням фактичного обсягу видатків замовника, або після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
-    "title_uk": "Абзац другий підпункту «б» пункту 1 частини 5 статті 56",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#Text",
-    "scheme": "LAW4888",
-    "archive": false
+    "legislation": {
+      "scheme": "LAW4888",
+      "identifier": {
+        "id": "4888-IX",
+        "legalName": "Закон України «Про публічні закупівлі»",
+        "legalName_en": "Law of Ukraine “On Public Procurement”",
+        "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+      },
+      "type": "NATIONAL_LEGISLATION",
+      "article": "Абзац другий підпункту «б» пункту 1 частини 5 статті 56",
+      "article_en": "Paragraph 2, Item b, Clause 1, Part 5, Article 56"
+    }
   },
   "fiscalYearExtension": {
+    "description": "Продовження строку дії публічного договору та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг на строк, достатній для проведення процедури закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків ціни початкового публічного договору на момент його підписання, укладеного в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
     "description_en": "Extension of the term of the public contract and/or the period for performance of the obligations relating to the delivery of the goods, execution of the works or provision of the services for a period sufficient to conduct a procurement procedure at the beginning of the following year, in an amount not exceeding twenty (20) per cent of the price of the original public contract as at the date of its signature, concluded in the previous year, provided that expenditure for that purpose has been approved in accordance with the established procedure",
-    "title_en": "Paragraph 3, Item b, Clause 1, Part 5, Article 56",
-    "description_uk": "Продовження строку дії публічного договору та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг на строк, достатній для проведення процедури закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків ціни початкового публічного договору на момент його підписання, укладеного в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
-    "title_uk": "Абзац третій підпункту «б» пункту 1 частини 5 статті 56",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#Text",
-    "scheme": "LAW4888",
-    "archive": false
+    "legislation": {
+      "scheme": "LAW4888",
+      "identifier": {
+        "id": "4888-IX",
+        "legalName": "Закон України «Про публічні закупівлі»",
+        "legalName_en": "Law of Ukraine “On Public Procurement”",
+        "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+      },
+      "type": "NATIONAL_LEGISLATION",
+      "article": "Абзац третій підпункту «б» пункту 1 частини 5 статті 56",
+      "article_en": "Paragraph 3, Item b, Clause 1, Part 5, Article 56"
+    }
   },
   "durationExtension": {
+    "description": "Продовження строку дії рамкової угоди (за умови що загальний строк дії рамкової угоди внаслідок всіх внесених до неї змін не перевищує чотирьох років) та/або публічного договору та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови що такі зміни не призведуть до збільшення ціни публічного договору або вартості рамкової угоди",
     "description_en": "Extension of the term of the framework agreement (provided that, as a result of all amendments made to it, the total duration of the framework agreement does not exceed four (4) years) and/or the term of the public contract and/or the period for performance of the obligations relating to the delivery of the goods, execution of the works or provision of the services, where objectively justified circumstances, documented accordingly, have arisen and necessitated such extension, including force majeure or delays in the procuring entity's financing, provided that such amendments do not result in an increase in the price of the public contract or the value of the framework agreement",
-    "title_en": "Paragraph 4, Item b, Clause 1, Part 5, Article 56",
-    "description_uk": "Продовження строку дії рамкової угоди (за умови що загальний строк дії рамкової угоди внаслідок всіх внесених до неї змін не перевищує чотирьох років) та/або публічного договору та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови що такі зміни не призведуть до збільшення ціни публічного договору або вартості рамкової угоди",
-    "title_uk": "Абзац четвертий підпункту «б» пункту 1 частини 5 статті 56",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#Text",
-    "scheme": "LAW4888",
-    "archive": false
+    "legislation": {
+      "scheme": "LAW4888",
+      "identifier": {
+        "id": "4888-IX",
+        "legalName": "Закон України «Про публічні закупівлі»",
+        "legalName_en": "Law of Ukraine “On Public Procurement”",
+        "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+      },
+      "type": "NATIONAL_LEGISLATION",
+      "article": "Абзац четвертий підпункту «б» пункту 1 частини 5 статті 56",
+      "article_en": "Paragraph 4, Item b, Clause 1, Part 5, Article 56"
+    }
   },
   "additionalPurchase": {
+    "description": "У разі виникнення необхідності закупівлі додаткової кількості того самого товару (товарів), додаткового обсягу робіт чи послуги (послуг) у того самого суб’єкта господарювання (постачальника товару (товарів) / виконавця робіт / надавача послуг), якщо таку кількість / обсяг не було включено до предмета закупівлі за публічним договором та при цьому: а) суб’єкта господарювання (постачальника товару (товарів) / виконавця робіт / надавача послуги (послуг) неможливо змінити з економічних або технічних причин, таких як вимоги щодо взаємозамінності чи сумісності з наявним обладнанням, послугами або установками, придбаними відповідно до укладеного публічного договору; та б) зміна суб’єкта господарювання спричинить суттєві незручності або значне дублювання витрат для замовника. Протягом строку дії публічного договору збільшення ціни публічного договору внаслідок внесення змін відповідно до цього пункту не може перевищувати 50 відсотків ціни початкового публічного договору, визначеної на момент його підписання",
     "description_en": "Where it becomes necessary to procure an additional quantity of the same goods, an additional volume of works, or additional services from the same economic operator (supplier of the goods / contractor / service provider), provided that such quantity/volume was not included in the subject matter of procurement under the public contract, and provided that: a) the economic operator (supplier of the goods / contractor / service provider) cannot be replaced for economic or technical reasons, such as requirements relating to interchangeability or compatibility with existing equipment, services or installations procured under the concluded public contract; and b) replacing the economic operator would cause substantial inconvenience or significant duplication of costs for the procuring entity. During the term of the public contract, any increase in the price of the public contract resulting from amendments made pursuant to this Clause shall not exceed fifty (50) per cent of the price of the original public contract as determined at the time of its signing",
-    "title_en": "Clause 2, Part 5, Article 56",
-    "description_uk": "У разі виникнення необхідності закупівлі додаткової кількості того самого товару (товарів), додаткового обсягу робіт чи послуги (послуг) у того самого суб’єкта господарювання (постачальника товару (товарів) / виконавця робіт / надавача послуг), якщо таку кількість / обсяг не було включено до предмета закупівлі за публічним договором та при цьому: а) суб’єкта господарювання (постачальника товару (товарів) / виконавця робіт / надавача послуги (послуг) неможливо змінити з економічних або технічних причин, таких як вимоги щодо взаємозамінності чи сумісності з наявним обладнанням, послугами або установками, придбаними відповідно до укладеного публічного договору; та б) зміна суб’єкта господарювання спричинить суттєві незручності або значне дублювання витрат для замовника. Протягом строку дії публічного договору збільшення ціни публічного договору внаслідок внесення змін відповідно до цього пункту не може перевищувати 50 відсотків ціни початкового публічного договору, визначеної на момент його підписання",
-    "title_uk": "Пункт 2 частини 5 статті 56",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#Text",
-    "scheme": "LAW4888",
-    "archive": false
+    "legislation": {
+      "scheme": "LAW4888",
+      "identifier": {
+        "id": "4888-IX",
+        "legalName": "Закон України «Про публічні закупівлі»",
+        "legalName_en": "Law of Ukraine “On Public Procurement”",
+        "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+      },
+      "type": "NATIONAL_LEGISLATION",
+      "article": "Пункт 2 частини 5 статті 56",
+      "article_en": "Clause 2, Part 5, Article 56"
+    }
   },
   "unforeseenCircumstances": {
+    "description": "У разі відповідності сукупно всім таким умовам: а) потреба у змінах зумовлена документально підтвердженими обставинами, які було неможливо передбачити під час добросовісного виконання публічного договору та які не є наслідком дій, рішень чи бездіяльності сторін публічного договору; б) внесення змін не змінює виду договірного зобов’язання та змісту договору (крім умов, виконання яких є неможливим через обставини, передбачені підпунктом \"а\" цього пункту); в) збільшення ціни публічного договору внаслідок будь-якої зміни або сукупності змін до нього не перевищує 50 відсотків ціни такого публічного договору, визначеної на момент його укладення; збільшення вартості рамкової угоди внаслідок будь-якої зміни або сукупності змін до неї не перевищує 50 відсотків її початкової вартості на момент укладення",
     "description_en": "Where all of the following conditions are met: a) the need for the amendments arises from objectively justified circumstances, documented accordingly, which could not have been foreseen in the course of the diligent performance of the public contract, and which are not the result of the actions, decisions or omissions of the parties to the public contract; b) the amendments do not alter the nature of the contractual obligation or the content of the public contract (except for those terms and conditions the performance of which has become impossible due to the circumstances referred to in item “a” of this Clause); c) any increase in the price of the public contract resulting from any individual amendment or the cumulative effect of several amendments does not exceed fifty (50) per cent of the price of that public contract as determined at the time of its conclusion; any increase in the value of the framework agreement resulting from any individual amendment or the cumulative effect of several amendments does not exceed fifty (50) per cent of its original value as determined at the time of its conclusion",
-    "title_en": "Clause 3, Part 5, Article 56",
-    "description_uk": "У разі відповідності сукупно всім таким умовам: а) потреба у змінах зумовлена документально підтвердженими обставинами, які було неможливо передбачити під час добросовісного виконання публічного договору та які не є наслідком дій, рішень чи бездіяльності сторін публічного договору; б) внесення змін не змінює виду договірного зобов’язання та змісту договору (крім умов, виконання яких є неможливим через обставини, передбачені підпунктом \"а\" цього пункту); в) збільшення ціни публічного договору внаслідок будь-якої зміни або сукупності змін до нього не перевищує 50 відсотків ціни такого публічного договору, визначеної на момент його укладення; збільшення вартості рамкової угоди внаслідок будь-якої зміни або сукупності змін до неї не перевищує 50 відсотків її початкової вартості на момент укладення",
-    "title_uk": "Пункт 3 частини 5 статті 56",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#Text",
-    "scheme": "LAW4888",
-    "archive": false
+    "legislation": {
+      "scheme": "LAW4888",
+      "identifier": {
+        "id": "4888-IX",
+        "legalName": "Закон України «Про публічні закупівлі»",
+        "legalName_en": "Law of Ukraine “On Public Procurement”",
+        "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+      },
+      "type": "NATIONAL_LEGISLATION",
+      "article": "Пункт 3 частини 5 статті 56",
+      "article_en": "Clause 3, Part 5, Article 56"
+    }
   },
   "legalSuccession": {
+    "description": "У разі зміни суб’єкта господарювання (постачальника товару (товарів) / виконавця робіт / надавача послуги (послуг), з яким замовник уклав публічний договір, внаслідок правонаступництва (переходу прав та обов’язків до іншого суб’єкта господарювання), за умови що така зміна не призведе до зміни інших умов такого публічного договору та не має на меті ухилення від виконання положень цього Закону та умов публічного договору",
     "description_en": "Where the economic operator (supplier of the goods / contractor / service provider) with whom the procuring entity concluded the public contract is replaced as a result of legal succession (transfer of rights and obligations to another economic operator), provided that such replacement does not result in amendments to any other terms and conditions of the public contract and is not intended to circumvent the provisions of this Law or the terms and conditions of the public contract",
-    "title_en": "Clause 4, Part 5, Article 56",
-    "description_uk": "У разі зміни суб’єкта господарювання (постачальника товару (товарів) / виконавця робіт / надавача послуги (послуг), з яким замовник уклав публічний договір, внаслідок правонаступництва (переходу прав та обов’язків до іншого суб’єкта господарювання), за умови що така зміна не призведе до зміни інших умов такого публічного договору та не має на меті ухилення від виконання положень цього Закону та умов публічного договору",
-    "title_uk": "Пункт 4 частини 5 статті 56",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#Text",
-    "scheme": "LAW4888",
-    "archive": false
+    "legislation": {
+      "scheme": "LAW4888",
+      "identifier": {
+        "id": "4888-IX",
+        "legalName": "Закон України «Про публічні закупівлі»",
+        "legalName_en": "Law of Ukraine “On Public Procurement”",
+        "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+      },
+      "type": "NATIONAL_LEGISLATION",
+      "article": "Пункт 4 частини 5 статті 56",
+      "article_en": "Clause 4, Part 5, Article 56"
+    }
   },
   "deMinimisPriceChange": {
+    "description": "У разі виникнення документально підтвердженої необхідності зміни ціни публічного договору / вартості рамкової угоди, за умови що вартість такої зміни є меншою за обидва такі значення: сума, еквівалентна 140 тисячам євро, у разі закупівлі товарів або послуг та сума, еквівалентна 5404 тисячам євро, у разі закупівлі робіт; 10 відсотків ціни початкового публічного договору на момент його укладення. Вартість зміни ціни публічного договору або вартості рамкової угоди дорівнює різниці між зміненою ціною (вартістю) і початковою ціною (вартістю), визначеної на момент укладення публічного договору / рамкової угоди. У разі внесення кількох послідовних змін вартість зміни ціни публічного договору або вартості рамкової угоди дорівнює чистій сукупній вартості всіх послідовних змін. Зміни, передбачені цим пунктом, не можуть містити положень, що змінюють вид договірного зобов’язання і предмет публічного договору або рамкової угоди, погіршують якість товару (товарів), робіт, послуги (послуг), зменшують кількість товару (товарів), обсяг послуги (послуг), робіт. Зміни, передбачені цим пунктом, можуть бути внесені виключно за наявності документального підтвердження обставин, що підтверджують необхідність зміни ціни публічного договору у відповідному розмірі",
     "description_en": "Where there is a documented need to amend the price of the public contract/value of the framework agreement, provided that the value of such amendment is lower than both of the following thresholds: the amount equivalent to EUR 140,000, in the case of the procurement of goods or services, and the amount equivalent to EUR 5,404,000, in the case of the procurement of works; ten (10) per cent of the price of the original public contract as determined at the time of its conclusion. The value of the amendment to the price of the public contract or to the value of the framework agreement shall be equal to the difference between the amended price (value) and the original price (value) as determined at the time of conclusion of the public contract/framework agreement. Where several consecutive amendments are made, the value of the amendment to the price of the public contract or to the value of the framework agreement shall be equal to the net cumulative value of all such consecutive amendments. The amendments provided for in this Clause shall not contain provisions that alter the nature of the contractual obligation or the subject matter of the public contract or the framework agreement, reduce the quality of the goods, works or services, or reduce the quantity of the goods or the volume of the services or works. Such amendments may be made only where there is documentary evidence that confirm the circumstances justifying the amendment to the price of the public contract in the relevant amount",
-    "title_en": "Clause 5, Part 5, Article 56",
-    "description_uk": "У разі виникнення документально підтвердженої необхідності зміни ціни публічного договору / вартості рамкової угоди, за умови що вартість такої зміни є меншою за обидва такі значення: сума, еквівалентна 140 тисячам євро, у разі закупівлі товарів або послуг та сума, еквівалентна 5404 тисячам євро, у разі закупівлі робіт; 10 відсотків ціни початкового публічного договору на момент його укладення. Вартість зміни ціни публічного договору або вартості рамкової угоди дорівнює різниці між зміненою ціною (вартістю) і початковою ціною (вартістю), визначеної на момент укладення публічного договору / рамкової угоди. У разі внесення кількох послідовних змін вартість зміни ціни публічного договору або вартості рамкової угоди дорівнює чистій сукупній вартості всіх послідовних змін. Зміни, передбачені цим пунктом, не можуть містити положень, що змінюють вид договірного зобов’язання і предмет публічного договору або рамкової угоди, погіршують якість товару (товарів), робіт, послуги (послуг), зменшують кількість товару (товарів), обсяг послуги (послуг), робіт. Зміни, передбачені цим пунктом, можуть бути внесені виключно за наявності документального підтвердження обставин, що підтверджують необхідність зміни ціни публічного договору у відповідному розмірі",
-    "title_uk": "Пункт 5 частини 5 статті 56",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#Text",
-    "scheme": "LAW4888",
-    "archive": false
+    "legislation": {
+      "scheme": "LAW4888",
+      "identifier": {
+        "id": "4888-IX",
+        "legalName": "Закон України «Про публічні закупівлі»",
+        "legalName_en": "Law of Ukraine “On Public Procurement”",
+        "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+      },
+      "type": "NATIONAL_LEGISLATION",
+      "article": "Пункт 5 частини 5 статті 56",
+      "article_en": "Clause 5, Part 5, Article 56"
+    }
   },
   "nonMaterialChange": {
+    "description": "Необхідність внесення інших змін до публічного договору, які не є суттєвими у значенні, наведеному в частині шостій цієї статті",
     "description_en": "Where it is necessary to make other amendments to the public contract that are not material within the meaning of Part 6 of this Article",
-    "title_en": "Clause 6, Part 5, Article 56",
-    "description_uk": "Необхідність внесення інших змін до публічного договору, які не є суттєвими у значенні, наведеному в частині шостій цієї статті",
-    "title_uk": "Пункт 6 частини 5 статті 56",
     "uri": "https://zakon.rada.gov.ua/laws/show/4888-20#Text",
-    "scheme": "LAW4888",
-    "archive": false
+    "legislation": {
+      "scheme": "LAW4888",
+      "identifier": {
+        "id": "4888-IX",
+        "legalName": "Закон України «Про публічні закупівлі»",
+        "legalName_en": "Law of Ukraine “On Public Procurement”",
+        "uri": "https://zakon.rada.gov.ua/laws/show/4888-20"
+      },
+      "type": "NATIONAL_LEGISLATION",
+      "article": "Пункт 6 частини 5 статті 56",
+      "article_en": "Clause 6, Part 5, Article 56"
+    }
   }
 }
