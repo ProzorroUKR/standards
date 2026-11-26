@@ -1,5 +1,5 @@
 {
-  "indicatorsPriceChange": {
+  "itemPriceChange": {
     "description": "Зміна ціни публічного договору або ціни за одиницю товару / послуги внаслідок зміни таких показників: індексу цін, встановленого згідно із законодавством органами державної статистики; або курсу іноземної валюти; або біржових котирувань чи показників міжнародних цінових агентств, перелік яких визначається Кабінетом Міністрів України, регульованих цін (тарифів) і нормативів; або середньозважених цін на електроенергію на ринку \"на добу наперед\"; або ставок податків і зборів та/або умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування - пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування; або індикативів та умов, передбачених у типовому публічному договорі конкретного предмета закупівлі, затвердженого Кабінетом Міністрів України",
     "description_en": "Amendment of the price of the public contract or of the unit price of the goods/services as a result of changes in the following indicators: the price index established in accordance with the legislation by the state statistical authorities; or the foreign exchange rate; or exchange quotations or the indicators of international price reporting agencies, the list of which shall be determined by the Cabinet of Ministers of Ukraine; regulated prices (tariffs) and standards; or weighted average electricity prices on the day-ahead market; or tax and duty rates and/or the conditions for granting tax relief, proportionate to changes in such rates and/or tax relief; as well as changes in the taxation system, proportionate to the change in the tax burden resulting from such change in the taxation system; or benchmark indicators and conditions provided for in the standard public contract for the particular subject matter of procurement approved by the Cabinet of Ministers of Ukraine",
     "legislation": {
@@ -95,7 +95,7 @@
       "article_en": "Clause 3, Part 5, Article 56"
     }
   },
-  "legalSuccession": {
+  "supplierSuccession": {
     "description": "У разі зміни суб’єкта господарювання (постачальника товару (товарів) / виконавця робіт / надавача послуги (послуг), з яким замовник уклав публічний договір, внаслідок правонаступництва (переходу прав та обов’язків до іншого суб’єкта господарювання), за умови що така зміна не призведе до зміни інших умов такого публічного договору та не має на меті ухилення від виконання положень цього Закону та умов публічного договору",
     "description_en": "Where the economic operator (supplier of the goods / contractor / service provider) with whom the procuring entity concluded the public contract is replaced as a result of legal succession (transfer of rights and obligations to another economic operator), provided that such replacement does not result in amendments to any other terms and conditions of the public contract and is not intended to circumvent the provisions of this Law or the terms and conditions of the public contract",
     "legislation": {
@@ -111,7 +111,7 @@
       "article_en": "Clause 4, Part 5, Article 56"
     }
   },
-  "deMinimisPriceChange": {
+  "minorPriceChange": {
     "description": "У разі виникнення документально підтвердженої необхідності зміни ціни публічного договору / вартості рамкової угоди, за умови що вартість такої зміни є меншою за обидва такі значення: сума, еквівалентна 140 тисячам євро, у разі закупівлі товарів або послуг та сума, еквівалентна 5404 тисячам євро, у разі закупівлі робіт; 10 відсотків ціни початкового публічного договору на момент його укладення. Вартість зміни ціни публічного договору або вартості рамкової угоди дорівнює різниці між зміненою ціною (вартістю) і початковою ціною (вартістю), визначеної на момент укладення публічного договору / рамкової угоди. У разі внесення кількох послідовних змін вартість зміни ціни публічного договору або вартості рамкової угоди дорівнює чистій сукупній вартості всіх послідовних змін. Зміни, передбачені цим пунктом, не можуть містити положень, що змінюють вид договірного зобов’язання і предмет публічного договору або рамкової угоди, погіршують якість товару (товарів), робіт, послуги (послуг), зменшують кількість товару (товарів), обсяг послуги (послуг), робіт. Зміни, передбачені цим пунктом, можуть бути внесені виключно за наявності документального підтвердження обставин, що підтверджують необхідність зміни ціни публічного договору у відповідному розмірі",
     "description_en": "Where there is a documented need to amend the price of the public contract/value of the framework agreement, provided that the value of such amendment is lower than both of the following thresholds: the amount equivalent to EUR 140,000, in the case of the procurement of goods or services, and the amount equivalent to EUR 5,404,000, in the case of the procurement of works; ten (10) per cent of the price of the original public contract as determined at the time of its conclusion. The value of the amendment to the price of the public contract or to the value of the framework agreement shall be equal to the difference between the amended price (value) and the original price (value) as determined at the time of conclusion of the public contract/framework agreement. Where several consecutive amendments are made, the value of the amendment to the price of the public contract or to the value of the framework agreement shall be equal to the net cumulative value of all such consecutive amendments. The amendments provided for in this Clause shall not contain provisions that alter the nature of the contractual obligation or the subject matter of the public contract or the framework agreement, reduce the quality of the goods, works or services, or reduce the quantity of the goods or the volume of the services or works. Such amendments may be made only where there is documentary evidence that confirm the circumstances justifying the amendment to the price of the public contract in the relevant amount",
     "legislation": {
@@ -127,7 +127,7 @@
       "article_en": "Clause 5, Part 5, Article 56"
     }
   },
-  "nonMaterialChange": {
+  "nonSubstantialChange": {
     "description": "Необхідність внесення інших змін до публічного договору, які не є суттєвими у значенні, наведеному в частині шостій цієї статті",
     "description_en": "Where it is necessary to make other amendments to the public contract that are not material within the meaning of Part 6 of this Article",
     "legislation": {
