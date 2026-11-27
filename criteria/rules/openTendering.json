@@ -91,6 +91,16 @@
         "rules": [
           "required_article_20"
         ]
+      },
+      "CRITERION.OTHER.BID.VALIDITY_PERIOD": {
+        "rules": [
+          "required"
+        ]
+      },
+      "CRITERION.OTHER.BID.LANGUAGE": {
+        "rules": [
+          "required"
+        ]
       }
     },
     "period": {}
